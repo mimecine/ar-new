@@ -22,7 +22,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Publish Date", name: "pubDate", widget: "datetime" }
-      - { label: "Featured Image", name: "heroImg", widget: "image" }
+      - { label: "Featured Image", name: "heroImage", widget: "image", media_folder: "./"}
       - { label: "Body", name: "body", widget: "markdown" }
   - label: "Settings"
     name: "settings"
