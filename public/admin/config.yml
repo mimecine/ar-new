@@ -24,6 +24,86 @@ collections:
       - { label: "Publish Date", name: "pubDate", widget: "datetime" }
       - { label: "Featured Image", name: "heroImage", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
+
+  - label: "Artists"
+    label_singular: "Artist"
+    name: "artists"
+    folder: "src/content/artists"
+    create: true
+    editor:
+      preview: false
+    identifier_field: "last_name"
+    fields:
+      - { label: "Last Name", name: "last_name", widget: "string" }
+      - { label: "First Name", name: "first_name", widget: "string" }
+      - { label: "Biography", name: "body", widget: "markdown" }
+      - label: "Works"
+        name: "works"
+        widget: "list"
+        required: false
+        summary: "{{fields.image}}"
+        fields: 
+          - { label: Image, name: image, widget: image }
+          - { label: Title, name: title, widget: string }
+          - { label: "Catalog Number", name: id, widget: string }
+          - { label: "Description", name: "description", widget: "markdown" }
+  - label: "Shows"
+    label_singular: "Show"
+    name: "shows"
+    folder: "src/content/shows"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Start", name: "start", widget: "datetime" }
+      - { label: "End", name: "end", widget: "datetime" }
+      - label: "Artists"
+        name: "artists"
+        widget: "relation"
+        collection: "artists"
+        multiple: true
+        search_fields: ["last_name", "first_name"]
+        value_field: "last_name"
+        display_fields: ["first_name", "last_name"]
+      - label: "Venue"
+        name: "venue"
+        widget: "relation"
+        collection: "venues"
+        search_fields: ["title", "town"]
+        value_field: "title"
+        display_fields: ["title", "town"]
+      - { label: "About", name: "body", widget: "markdown", required: false }
+      - label: "Photos"
+        label_singular: "Photo"
+        name: "photos"
+        widget: "list"
+        required: false
+        summary: "{{fields.image}}"
+        field: { label: Image, name: image, widget: image }
+
+  - label: "Venues"
+    label_singular: "Venue"
+    name: "venues"
+    folder: "src/content/venues"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Venue", name: "title", widget: "string" }
+      - { label: "Town", name: "town", widget: "string" }
+      - { label: "About", name: "body", widget: "markdown", required: false }
+
+  - label: "Works"
+    label_singular: "Work"
+    name: "works"
+    folder: "src/content/works"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+
   - label: "Settings"
     name: "settings"
     editor:
