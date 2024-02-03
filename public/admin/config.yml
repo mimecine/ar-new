@@ -6,7 +6,7 @@ backend:
   # name: github
   # repo: surjithctly/neat-starter
 media_folder: "src/media"
-public_folder: "/media"
+# public_folder: "/media"
 
 # Please run "npx netlify-cms-proxy-server" for local backend
 local_backend: true
@@ -22,7 +22,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Publish Date", name: "pubDate", widget: "datetime" }
-      - { label: "Featured Image", name: "heroImg", widget: "image", media_folder: "media" }
+      - { label: "Featured Image", name: "heroImg", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: "Settings"
     name: "settings"
