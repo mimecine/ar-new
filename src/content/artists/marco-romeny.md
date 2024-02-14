@@ -1,6 +1,5 @@
 ---
-last_name: Romeny
-first_name: Marco
+name: Marco Romeny
 works:
   - image: /src/media/doomguy_crop.gif
     title: Doomguy

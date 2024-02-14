@@ -1,0 +1,25 @@
+---
+import { getCollection } from "astro:content";
+import { Image } from "astro:assets";
+import FormattedDate from "../../components/FormattedDate.astro";
+
+const artists = (await getCollection("artists")).sort(
+  (a, b) => {}
+);
+---
+
+<main>
+  <section>
+    <ul>
+      {
+        artists.map((artist) => (
+          <li>
+            <a href={`/artists/${artist.slug}/`}>
+              <h4 class="title">{artist.data.name}</h4>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+</main>

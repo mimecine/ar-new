@@ -1,0 +1,34 @@
+---
+import { getCollection } from "astro:content";
+import { Image } from "astro:assets";
+import FormattedDate from "../../components/FormattedDate.astro";
+
+const shows = (await getCollection("shows")).sort(
+  (a, b) => a.data.start.valueOf() - b.data.end.valueOf()
+);
+---
+
+<main>
+  <section>
+    <ul>
+      {
+        shows.map((show) => (
+          <li>
+            <a href={`/rooms/${show.slug}/`}>
+              <Image
+                width={720}
+                height={360}
+                src={show.data.photos[0]}
+                alt=""
+              />
+              <h4 class="title">{show.data.title}</h4>
+              <p class="date">
+                <FormattedDate date={show.data.start} />
+              </p>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+</main>
