@@ -97,7 +97,7 @@ collections:
     files:
       - label: "Links"
         name: "links"
-        file: "src/_data/links.json"
+        file: "src/_data/links.yml"
         fields:
           - label: Nav Items
             name: links
@@ -109,7 +109,7 @@ collections:
               - { label: Description, name: desc, widget: string }
       - label: "Meta Settings"
         name: "settings"
-        file: "src/_data/settings.json"
+        file: "src/_data/settings.yml"
         fields:
           - { label: Name, name: name, widget: string }
           - { label: Author, name: author, widget: string }
