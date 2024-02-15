@@ -1,7 +1,7 @@
 ---
 title: The seminal show
-start: 2024-02-15
-end: 2025-12-31T22:17:00.000Z
+start: 2024-02-01
+end: 2024-03-31
 artists:
   - marco-romeny
 venue: Barbican Centre

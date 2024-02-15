@@ -1,10 +1,6 @@
 backend:
-  # Use netlify identity as backend
   name: git-gateway
   branch: master
-  ### enable below lines for github integration ###
-  # name: github
-  # repo: surjithctly/neat-starter
 media_folder: "src/media"
 # public_folder: "/media"
 
@@ -24,6 +20,7 @@ collections:
     fields:
       - { label: "Name", name: "name", widget: "string" }
       - { label: "Biography", name: "body", widget: "markdown" }
+      - { label: "Summary", name: "summary", widget: "markdown", required: false }
       - label: "Works"
         name: "works"
         widget: "list"
@@ -32,8 +29,11 @@ collections:
         fields: 
           - { label: Image, name: image, widget: image }
           - { label: Title, name: title, widget: string }
+          - { label: Group, name: group, widget: string }
           - { label: "Catalog Number", name: id, widget: string }
           - { label: "Description", name: "description", widget: "markdown" }
+          - { label: "Copyright", name: "copyright", widget: "text" }
+          
   - label: "Rooms"
     label_singular: "Room"
     name: "rooms"
@@ -66,7 +66,8 @@ collections:
         name: "photos"
         widget: "list"
         required: false
-        field: { label: Image, name: image, widget: image }
+        fields: 
+        - { label: Image, name: image, widget: image }
 
   - label: "Venues"
     label_singular: "Venue"
@@ -79,16 +80,6 @@ collections:
       - { label: "Venue", name: "title", widget: "string" }
       - { label: "Town", name: "town", widget: "string" }
       - { label: "About", name: "body", widget: "markdown", required: false }
-
-  - label: "Works"
-    label_singular: "Work"
-    name: "works"
-    folder: "src/content/works"
-    create: true
-    editor:
-      preview: false
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
 
   - label: "Settings"
     name: "settings"
@@ -106,7 +97,7 @@ collections:
             fields:
               - { label: Title, name: title, widget: string }
               - { label: URL, name: url, widget: string }
-              - { label: Description, name: desc, widget: string }
+              - { label: Description, name: desc, widget: string, required: false }
       - label: "Meta Settings"
         name: "settings"
         file: "src/_data/settings.yml"

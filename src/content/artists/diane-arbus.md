@@ -5,6 +5,8 @@ works:
     title: Twins
     id: DA0001
     description: Two twins
+    group: Photos
+    copyright: Diane Arbus
 ---
 Diane Arbus (1923-71) is among the most revered photographers in the history of the medium. A pioneer of the social documentary form that blurred the line between art and reportage, her profoundly original works record the astonishing variety of attitudes, emotions and appearances to be found amongst the people around us. Her portraits of children, circus performers, nudists, families, famous people, transvestites down-and-outs and couples are united by their sometimes shocking directness. This frank, unflinching approach reflects Arbus' method, which relied upon a sense of trust between the artist and sitter.
 
