@@ -25,7 +25,6 @@ const all_films = await getCollection("films");
 const films = all_films.filter((film) =>
   film.data.artists.includes(artist.slug)
 );
-console.log(rooms);
 const all_venues = await getCollection("venues");
 ---
 
