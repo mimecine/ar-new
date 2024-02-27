@@ -1,6 +1,9 @@
 ---
 url: https://www.tate.org.uk/visit/tate-modern/display/artist-rooms-art-and-text
 title: Art and Text, London
+start: 2024-02-27
+end: 2024-02-27
+hidden: true
 artists:
   - mario-merz
   - lawrence-weiner
@@ -21,7 +24,7 @@ images:
   - ../../media/Mario-Merz-Che-Fare-1968-73-.jpeg
 startdate: 2020-01-01
 enddate: 2028-01-01
-
+priority: 0
 ---
 
 People have used language as an expressive art form for millennia, from oral tradition and the spoken word, to illuminated manuscripts and printed publications. This room brings together works produced in the last 50 years in Europe and the USA. They demonstrate different ways of engaging with text and its role as a form of communication.

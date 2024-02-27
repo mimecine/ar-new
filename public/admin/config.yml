@@ -57,8 +57,8 @@ collections:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Start", name: "start", widget: "datetime", date_format: 'dd.MM.yyyy', time_format: false, format: 'yyyy-MM-dd'}
-      - { label: "End", name: "end", widget: "datetime", date_format: 'dd.MM.yyyy', time_format: false, format: 'yyyy-MM-dd', required: false}
+      - { label: "Start", name: "startdate", widget: "datetime", date_format: 'dd.MM.yyyy', time_format: false, format: 'yyyy-MM-dd'}
+      - { label: "End", name: "enddate", widget: "datetime", date_format: 'dd.MM.yyyy', time_format: false, format: 'yyyy-MM-dd', required: false, default: 2030-01-01 }
       - { label: "Priority", name: "priority", widget: "number", required: false, default: 0 }
       - { label: "Hidden", name: "hidden", widget: "boolean", required: false }
       - label: "Artists"
