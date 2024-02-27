@@ -1,0 +1,34 @@
+---
+import { type CollectionEntry, getCollection, getEntryBySlug } from "astro:content";
+import { Image } from "astro:assets";
+import Main from "../../layouts/Main.astro";
+
+export async function getStaticPaths() {
+  const films = await getCollection("films");
+  return films.map((film) => ({
+    params: { slug: film.slug },
+    props: film,
+  }));
+}
+type Props = CollectionEntry<"films">;
+
+const film = Astro.props;
+const { Content } = await film.render();
+
+const artists = await getCollection("artists");
+
+
+
+---
+<Main title={`Artist Rooms - ${film.data.title}`}>
+<main>
+  <section class="grid w-full place-items-center">
+    <div class="w-full h-full">
+      <iframe id="ytplayer" type="text/html" class="w-full aspect-video" loading="lazy"
+      src={film.data.url}></iframe>
+                    {film.data.artists && film.data.artists.map(artist => <a class="artist" href={`/artists/${artist}`}>{artists.find(a => a.slug == artist)?.data.title}</a>)}
+      <Content />
+    </div>
+  </section>
+</main>
+</Main>

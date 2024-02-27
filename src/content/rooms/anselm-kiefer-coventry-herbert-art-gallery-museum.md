@@ -1,0 +1,26 @@
+---
+url: http://www.theherbert.org/
+title: Anselm Kiefer, Coventry
+artists:
+  - anselm-kiefer
+venue: herbert-art-gallery-museum
+images:
+  - ../../media/Kiefer-AR-Cov-30.jpg
+  - ../../media/Kiefer-AR-Cov-01.jpg
+  - ../../media/Kiefer-AR-Cov-07.jpg
+  - ../../media/Kiefer-AR-Cov-22.jpg
+  - ../../media/Kiefer-AR-Cov-27.jpg
+  - ../../media/Kiefer-AR-Cov-30.jpg
+  - ../../media/Kiefer-AR-Cov-01.jpg
+  - ../../media/Kiefer-AR-Cov-07.jpg
+  - ../../media/Kiefer-AR-Cov-22.jpg
+  - ../../media/Kiefer-AR-Cov-27.jpg
+  - ../../media/Kiefer-AR-Cov-30.jpg
+startdate: 2018-10-19
+enddate: 2019-01-27
+
+---
+
+Explore the work of German artist Anselm Kiefer in Coventry.
+
+This is the Herbert’s first collaboration with ARTIST ROOMS, ahead of Coventry's year-long celebration as UK City of Culture in 2021. One of Germany’s most significant post-war artists, Anselm Kiefer (b. 1945) explores themes of national identity and collective memory in his work, often addressing the legacy of Germany after the Second World War. This exhibition features works spanning 40 years of the artist’s career, characterised by an unflinching willingness to confront taboo and controversial issues from recent history.

@@ -1,29 +1,38 @@
 ---
 import { getCollection } from "astro:content";
 import { Image } from "astro:assets";
-import FormattedDate from "../../components/FormattedDate.astro";
-
-const shows = (await getCollection("shows")).sort(
-  (a, b) => a.data.start.valueOf() - b.data.end.valueOf()
-);
+import Main from '../../layouts/Main.astro';
+import  FormattedDate  from "../../components/FormattedDate.astro";
+const rooms = (await getCollection("rooms"))
+const continuos = new Date(2100, 1, 1);
+rooms.sort((a, b) => {
+    a.data.priority = a.data.priority || 0;
+    b.data.priority = b.data.priority || 0;
+    if(b.data.priority || a.data.priority) console.log(b.data.priority, a.data.priority, a.data.title, b.data.title);
+    let priority = (b.data.priority||0) + (a.data.priority||0);
+    let date = (b.data.enddate||continuos) - (a.data.enddate||continuos)
+    if(priority) console.log(priority, date, a.data.title, b.data.title);
+    return  date;
+    });
 ---
-
+<Main title="Artist Rooms - The Rooms">
 <main>
   <section>
-    <ul>
+    <ul class="flex flex-wrap">
       {
-        shows.map((show) => (
-          <li>
-            <a href={`/rooms/${show.slug}/`}>
-              <Image
-                width={720}
-                height={360}
-                src={show.data.photos[0]}
-                alt=""
-              />
-              <h4 class="title">{show.data.title}</h4>
+        rooms.filter(room => !room.hidden).map((room) => (
+          <li class="room w-full md:w-1/2 lg:w-1/3 xl:w-1/4 xxl:w-1/5 p-4">
+            <a href={`/rooms/${room.slug}/`}>
+              {room.data.images?.length && <Image
+                width={500}
+                src={room.data.images[0]}
+                alt={room.data.title}
+                class="max-w-full h-64 w-auto object-cover"
+              />}
+              <h4 class="title">{room.data.title}</h4>
+              <p class="town">{room.data.town}</p>
               <p class="date">
-                <FormattedDate date={show.data.start} />
+                <FormattedDate date={room.data.startdate}/> {room.data.enddate && (<> - <FormattedDate date={room.data.enddate}/></>)}
               </p>
             </a>
           </li>
@@ -32,3 +41,4 @@ const shows = (await getCollection("shows")).sort(
     </ul>
   </section>
 </main>
+</Main>

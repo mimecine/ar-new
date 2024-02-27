@@ -1,16 +1,58 @@
-// import { defineCollection, z } from 'astro:content';
+import { defineCollection, z } from 'astro:content';
 
-// const blog = defineCollection({
-// 	type: 'content',
-// 	// Type-check frontmatter using a schema
-// 	schema: ({image}) => z.object({
-// 		title: z.string(),
-// 		description: z.string(),
-// 		// Transform string to Date object
-// 		pubDate: z.coerce.date(),
-// 		updatedDate: z.coerce.date().optional(),
-// 		heroImage: image().optional(),
-// 	}),
-// });
+const artists = defineCollection({
+    type: 'content',
+    // Type-check frontmatter using a schema
+    schema: ({image}) => z.object({
+        title: z.string(),
+        url: z.string().optional(),
+        featuredImage: image().optional(),
+        resources: z.array(z.string()).optional(),
+        works: z.array(z.object({
+            title: z.string().optional(),
+            info: z.string().optional(),
+            credit: z.string().optional(),
+            src: image(),
+        })).optional(),
+    }),
+})
 
-// export const collections = { blog };
+const rooms = defineCollection({
+    type: 'content',
+    // Type-check frontmatter using a schema
+    schema: ({image}) => z.object({
+        title: z.string(),
+        url: z.string().optional(),
+        venue: z.string().optional(),
+        artists: z.array(z.string()).optional(),
+        priority: z.number().optional(),
+        hidden: z.boolean().optional(),
+        images: z.array(image()).optional(),
+        startdate: z.coerce.date().optional(),
+        enddate: z.coerce.date().optional(),
+    }),
+})
+
+const venues = defineCollection({
+    type: 'content',
+    // Type-check frontmatter using a schema
+    schema: ({image}) => z.object({
+        title: z.string(),
+        town: z.string().optional(),
+        address: z.string().optional(),
+        map: z.string().optional(),
+        url: z.string().optional(),
+        about: z.string().optional(),
+    }),
+})
+const films = defineCollection({
+    type: 'content',
+    // Type-check frontmatter using a schema
+    schema: ({image}) => z.object({
+        title: z.string(),
+        url: z.string().optional(),
+        artists: z.array(z.string()).optional(),
+    }),
+})
+
+export const collections = { artists, rooms, venues, films };

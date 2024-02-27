@@ -1,0 +1,14 @@
+---
+title: Bowes Museum
+town: County Durham
+address: |-
+  Newgate
+  Barnard Castle
+  County Durham
+  DL12 8NP
+  United Kingdom
+map: https://www.google.com/maps/place/The+Bowes+Museum/@54.5421469,-1.9153547,17z/data=!3m1!4b1!4m2!3m1!1s0x487c24d2c65ff4a9:0xcdaa66b92bb7dceb
+url: http://www.thebowesmuseum.org.uk/
+
+---
+

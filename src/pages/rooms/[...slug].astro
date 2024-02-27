@@ -1,5 +1,9 @@
 ---
 import { type CollectionEntry, getCollection } from "astro:content";
+import { Image } from "astro:assets";
+import Main from "../../layouts/Main.astro";
+import FormattedDate from "../../components/FormattedDate.astro";
+
 
 export async function getStaticPaths() {
   const rooms = await getCollection("rooms");
@@ -12,11 +16,33 @@ type Props = CollectionEntry<"rooms">;
 
 const room = Astro.props;
 const { Content } = await room.render();
----
 
+const artists = await getCollection("artists");
+---
+<Main title={`Artist Rooms - ${room.data.title}`}>
 <main>
   <section>
-    <h1>{room.data.title}</h1>
-    <Content />
+    <ul class="flex flex-wrap justify-between">
+    {room.data.images.map(
+      (image) => (
+        <li class="xw-full xmd:w-1/3 xlg:w-1/5 p-4 pl-0">
+          <Image width={500} src={image} alt={room.data.title} class="max-w-full h-full md:h-64 w-auto object-cover"/>
+        </li>
+      )
+    )}
+    </ul>
+    <h2><FormattedDate date={room.data.startdate}/> - <FormattedDate date={room.data.enddate}/></h2>
+    <div  class="max-w-4xl" >
+      <Content/>
+    </div>
+    <div>
+      <h2>Read more about the artist{room.data.artists.length>1 && 's'}:</h2>
+      {room.data.artists.map((artist,a,i) => (
+        <>
+          <a href={`/artists/${artist}`}>{artists.find(a => a.slug == artist)?.data.title}</a>{i.length-1>a && <span>, </span>}
+        </>
+      ))}
+    </div>
   </section>
 </main>
+</Main>

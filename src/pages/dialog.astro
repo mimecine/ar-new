@@ -1,0 +1,54 @@
+---
+import { getCollection, getEntryBySlug } from "astro:content";
+import { Image } from "astro:assets";
+import FormattedDate from "../../components/FormattedDate.astro";
+import Main from "../layouts/Main.astro";
+
+import settings from "../_data/index_settings.json" with { type: "json" };
+import FormattedDate from "../components/FormattedDate.astro";
+import { setSyntheticTrailingComments } from "typescript";
+
+const rooms = [];
+const artists = [];
+const films = [];
+
+for (const slug of settings.rooms) {
+  const room = await getEntryBySlug("rooms", slug);
+  rooms.push(room);
+}
+for (const slug of settings.artists) {
+  const artist = await getEntryBySlug("artists", slug);
+  artists.push(artist);
+}
+for (const slug of settings.films) {
+  const film = await getEntryBySlug("films", slug);
+  films.push(film);
+}
+---
+
+<Main title="Artist Rooms - About">
+  <main>
+    <section class="max-w-4xl">
+        <button class="btn btn-primary" onclick="document.querySelector('#dialog').showModal(); this.blur();">Open Dialog</button>
+        <dialog
+        xx-show="dialog_open"
+        x-ref="dialog"
+        xx-transition
+        id="dialog"
+        class="absolute inset-0 z-10 overflow-y-auto backdrop:bg-black backdrop:opacity-70 backdrop-brightness-90 backdrop-filter backdrop-blur-sm"
+      >
+        <div
+          class="flex items-center justify-center min-h-4/5 px-4 pt-4 pb-20 text-center bg-gray-700 sm:block sm:p-0"
+        >
+          <div class="inset-0 transition-opacity bg-black opacity-75">
+            <iframe
+              x-ref="video"
+              id="ytplayer-iframe"
+              class="bg-black min-h-24 min-w-36"
+              src=""></iframe>
+          </div>
+        </div>
+      </dialog>
+    </section>
+  </main>
+</Main>

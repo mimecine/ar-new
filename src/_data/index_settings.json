@@ -1,0 +1,19 @@
+{
+  "rooms": [
+    "ian-hamilton-finlay-london-tate-modern"
+  ],
+  "artists": [
+    "agnes-martin",
+    "anselm-kiefer",
+    "bill-viola"
+  ],
+  "films": [
+    "artist-rooms-alex-katz"
+  ],
+  "sections": [
+    {
+      "title": "Testing a section",
+      "text": "Blallallalala\n"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+---
+import { ViewTransitions } from "astro:transitions";
+import BaseHead from "../components/BaseHead.astro";
+import Footer from "../components/Footer.astro";
+import HeaderLink from "../components/HeaderLink.astro";
+import { Icon } from 'astro-icon/components';
+
+//import settings from "../_data/index_settings.json" with { type: "json" };
+const { title } = Astro.props;
+---
+
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <BaseHead title={title} />
+    <ViewTransitions />
+  </head>
+  <body class="h-lvh w-lvw grid grid-rows-[1fr,auto]">
+    <nav class="flex items-center justify-between fixed px-2 h-18 lg:h-36  lg:px-4 py-2 lg:pt-4 lg:pb-2 border-b-2 border-gray-950 bg-[gray] w-full">
+      <div class="flex items-center">
+        <a href="/" class="home border-b-0 pr-4">
+          <img src={"/logo.svg"} alt="Artist Rooms" class="h-10 lg:h-14 w-auto" />
+        </a>
+        <h1 class="text-[2rem] lg:text-[3rem]">{title.replace(/Artist Rooms|-/g, "")}</h1>
+      </div>
+      <div class="flex flex-col lg:flex-row print:hidden items-end gap-4">
+        <HeaderLink href="/rooms" class="!hidden lg:!inline-block">Rooms</HeaderLink>
+        <HeaderLink href="/artists" class="!hidden lg:!inline-block">Artists</HeaderLink>
+        <HeaderLink href="/films" class="!hidden lg:!inline-block">Films</HeaderLink>
+        <HeaderLink href="/venues" class="!hidden lg:!inline-block">Venues</HeaderLink>
+        <HeaderLink href="/about" class="!hidden lg:!inline-block">About</HeaderLink>
+        <div x-data="{ open: false }" class="*:bg-[gray]">
+          <h1 x-on:click="open = ! open" class="block lg:hidden text-[1.5rem]"><Icon name="material-symbols-light:menu" class="size-12 lg:size-24" />
+          </h1>
+          <div x-show="open" x-transition class="lg:hidden absolute top-[4.5rem] right-0 border-2 border-t-0 border-r-0 border-gray-950 flex flex-col items-end *:p-1 ">
+            <HeaderLink href="/rooms">Rooms</HeaderLink>
+            <HeaderLink href="/artists">Artists</HeaderLink>
+            <HeaderLink href="/films">Films</HeaderLink>
+            <HeaderLink href="/venues">Venues</HeaderLink>
+            <HeaderLink href="/about">About</HeaderLink>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <!-- <h1>{title}</h1> -->
+    <article class="p-2 pt-16 lg:p-4 lg:pt-[8rem]">
+      <slot />
+      <!-- your content is injected here -->
+    </article>
+    <Footer />
+  </body>
+</html>

@@ -1,0 +1,439 @@
+[{
+  "artists": [
+    {
+      "artist": "Carl Andre",
+      "films": []
+    },
+    {
+      "artist": "Diane Arbus",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/CZwEMz3y8mo",
+          "title": "Diane Arbus talk @ National Museum, Cardiff"
+        }
+      ]
+    },
+    {
+      "artist": "Phyllida Barlow",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/QideXdYkT_s",
+          "title": "Phyllida Barlow: Tate Britain Commission"
+        }
+      ]
+    },
+    {
+      "artist": "Georg Baselitz",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/V7m-tMX_Zfs",
+          "title": "Café Des Artistes no. 8: Georg Baselitz at New Walk Art Museum & Gallery"
+        },
+        {
+          "url": "https://www.youtube.com/embed/xJ13--1X_zY",
+          "title": "ARTIST ROOMS: Georg Baselitz - New Walk Museum & Art Gallery, Leicester"
+        }
+      ]
+    },
+    {
+      "artist": "Joseph Beuys",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/e7pIGGcIoLk",
+          "title": "Who is Joseph Beuys?"
+        }
+      ]
+    },
+    {
+      "artist": "Louise Bourgeois",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/s4A-FP8D2UY",
+          "title": "Behind the scenes of ARTIST ROOMS: Louise Bourgeois "
+        },
+        {
+          "url": "https://www.youtube.com/embed/qy7xJhImnLw",
+          "title": "Louise Bourgeois - Tate Shots"
+        }
+      ]
+    },
+    {
+      "artist": "Vija Celmins",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/SsbkzSrCdIg",
+          "title": "Tate Shots: Vija Celmins"
+        },
+        {
+          "url": "https://www.youtube.com/embed/iqOrMob6V3I",
+          "title": "ARTIST ROOMS: Vija Celmins"
+        },
+        {
+          "url": "https://www.youtube.com/embed/Q5Ef2rw5Fzo",
+          "title": "Café des Artistes no. 6: Vija Celmins"
+        }
+      ]
+    },
+    {
+      "artist": "Martin Creed",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/uPuYEaEhV_E",
+          "title": "Tate Shots: Martin Creed at Tate St Ives"
+        },
+        {
+          "url": "https://www.youtube.com/embed/yyIw6tTH09Q",
+          "title": "Clips No. 2: Martin Creed"
+        }
+      ]
+    },
+    {
+      "artist": "Dan Flavin",
+      "films": []
+    },
+    {
+      "artist": "Ellen Gallagher",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/QLgV-opF478",
+          "title": "ARTIST ROOMS: Ellen Gallagher"
+        },
+        {
+          "url": "https://www.youtube.com/embed/T4iizpGEV3Y",
+          "title": "Tate Shots: Bonnie Greer on Ellen Gallagher"
+        }
+      ]
+    },
+    {
+      "artist": "Gilbert & George",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/7TTn9mUXnf0",
+          "title": "ARTIST ROOMS: Gilbert & George"
+        }
+      ]
+    },
+    {
+      "artist": "Douglas Gordon",
+      "films": []
+    },
+    {
+      "artist": "Johan Grimonprez",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/Bzzkn_Pnc7E",
+          "title": "Café des Artistes no.3: Johan Grimonprez"
+        }
+      ]
+    },
+    {
+      "artist": "Richard Hamilton",
+      "films": []
+    },
+    {
+      "artist": "Ian Hamilton Finlay",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/sOdPo9y5GeE",
+          "title": "ARTIST ROOMS: Ian Hamilton Finlay"
+        },
+        {
+          "url": "https://www.youtube.com/embed/yXxcSDGsTVo",
+          "title": "Ian Hamilton Finlay -  Installation of works"
+        },
+        {
+          "url": "https://www.youtube.com/embed/dVPJzR8NX18",
+          "title": "Café des Artistes no. 1: Ian Hamilton Finlay"
+        }
+      ]
+    },
+    {
+      "artist": "Damien Hirst",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/PBdRJ-Q8yOA",
+          "title": "ARTIST ROOMS: Damien Hirst"
+        }
+      ]
+    },
+    {
+      "artist": "Jenny Holzer",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/eoTsH2tI9W8",
+          "title": "ARTIST ROOMS: Jenny Holzer"
+        }
+      ]
+    },
+    {
+      "artist": "Alex Katz",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/QPxwn5QzPLc",
+          "title": "ARTIST ROOMS: Alex Katz"
+        }
+      ]
+    },
+    {
+      "artist": "Anselm Kiefer",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/1UlDBf_Bgbs",
+          "title": "ARTIST ROOMS: Anselm Kiefer"
+        },
+        {
+          "url": "https://www.youtube.com/embed/9Cf1lmJuBeA",
+          "title": "Café des Artistes no. 5: Anselm Kiefer"
+        },
+        {
+          "url": "https://www.youtube.com/embed/hQzz3H0bBhM",
+          "title": "Anselm Kiefer at Tullie House"
+        }
+      ]
+    },
+    {
+      "artist": "Jeff Koons",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/xelTMPSFOA0",
+          "title": "ARTIST ROOMS: Jeff Koons"
+        }
+      ]
+    },
+    {
+      "artist": "Jannis Kounellis",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/6gVS8wSfbLU",
+          "title": "Jannis Kounellis at Tramways"
+        }
+      ]
+    },
+    {
+      "artist": "Sol LeWitt",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/k262fR_9mfE",
+          "title": "ARTIST ROOMS: Sol LeWitt Wall Drawing #1136 installation"
+        },
+        {
+          "url": "https://www.youtube.com/embed/qIHi8FOtW0Q",
+          "title": "Tate Shots: Sol LeWItt"
+        }
+      ]
+    },
+    {
+      "artist": "Roy Lichtenstein",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/B4tXslRHxQ0",
+          "title": "Reflecting on Roy Lichtenstein"
+        },
+        {
+          "url": "https://www.youtube.com/embed/aNca-uYSsPE",
+          "title": "Café des Artistes no. 12: Roy Lichtenstein"
+        },
+        {
+          "url": "https://www.youtube.com/embed/GzpGYCz6iMM",
+          "title": "ArtForum Mural Time Lapse"
+        }
+      ]
+    },
+    {
+      "artist": "Richard Long",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/XPHL4JjKXyg",
+          "title": "Richard Long at Abbot Hall"
+        },
+        {
+          "url": "https://www.youtube.com/embed/rR6xTfyoNNs",
+          "title": "Café des Artistes no. 2: Richard Long"
+        }
+      ]
+    },
+    {
+      "artist": "Robert Mapplethorpe",
+      "films": []
+    },
+    {
+      "artist": "Agnes Martin",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/YLZRs5tnlU0",
+          "title": "Café des Artistes no. 9: Agnes Martin"
+        }
+      ]
+    },
+    {
+      "artist": "Don McCullin",
+      "films": [
+        {
+          "url": "https://player.vimeo.com/video/115165445",
+          "title": "Northern Lights Ambassadors' Artist Rooms Don McCullin Project"
+        },
+        {
+          "url": "https://www.youtube.com/embed/wfqN8Q27dQM",
+          "title": "TateShots: Don McCullin"
+        }
+      ]
+    },
+    {
+      "artist": "Mario Merz",
+      "films": []
+    },
+    {
+      "artist": "Ron Mueck",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/BMzqeSYISkU",
+          "title": "ARTIST ROOMS: Ron Mueck"
+        },
+        {
+          "url": "https://www.youtube.com/embed/BMzqeSYISkU",
+          "title": "Ron Mueck: ARTIST ROOMS - In conversation with Anthony d'Offay and Charlie Clarke"
+        }
+      ]
+    },
+    {
+      "artist": "Bruce Nauman",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/qrHJ4YpH8ro",
+          "title": "Bruce Nauman at Harris Museum and Art Gallery"
+        },
+        {
+          "url": "https://www.youtube.com/embed/g1_hi_JwJOo",
+          "title": "Café des Artistes no. 7: Bruce Nauman"
+        },
+        {
+          "url": "https://www.youtube.com/embed/Qp1NaYRlf-k",
+          "title": "Bruce Nauman - ARTIST ROOMS on Tour at York St Mary's"
+        },
+        {
+          "url": "https://www.youtube.com/embed/0JsqVlo5Me0",
+          "title": "Bruce Nauman - TateShots"
+        }
+      ]
+    },
+    {
+      "artist": "Charles Ray",
+      "films": []
+    },
+    {
+      "artist": "Gerhard Richter",
+      "films": []
+    },
+    {
+      "artist": "Ed Ruscha",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/IDVfdvDnpDU",
+          "title": "Ed Ruscha at Wolverhampton Art Gallery"
+        },
+        {
+          "url": "https://www.youtube.com/embed/HoNePbo9DD0",
+          "title": "Tate Shots: Ed Ruscha"
+        },
+        {
+          "url": "https://www.youtube.com/embed/lv0K4uuBWi8",
+          "title": "ARTIST ROOMS: Ed Ruscha"
+        },
+        {
+          "url": "https://www.youtube.com/embed/L1JlkjhLhy8",
+          "title": "Clips No. 3: Ed Ruscha"
+        }
+      ]
+    },
+    {
+      "artist": "Robert Ryman",
+      "films": []
+    },
+    {
+      "artist": "August Sander",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/AozRY5s3FNY",
+          "title": "ARTIST ROOMS: August Sander. Interview with Hugo Worthy, Curator at New Walk Museum & Art Gallery"
+        },
+        {
+          "url": "https://www.youtube.com/embed/NZKt1IFTa3s",
+          "title": "ARTIST ROOMS: August Sander. Interview with Sarah Levitt, Head of Leicester Arts & Museums Service."
+        }
+      ]
+    },
+    {
+      "artist": "Robert Therrien",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/Gm4CS1k2fsc",
+          "title": "ARTIST ROOMS: Robert Therrien"
+        }
+      ]
+    },
+    {
+      "artist": "Cy Twombly",
+      "films": []
+    },
+    {
+      "artist": "Bill Viola",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/TuD4JVFXXq8",
+          "title": "Tate Shots: Bill Viola"
+        }
+      ]
+    },
+    {
+      "artist": "Andy Warhol",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/fIMJYyYTSqA",
+          "title": "Tate Shots: Andy Warhol"
+        },
+        {
+          "url": "https://www.youtube.com/embed/bfXLqyvzorE",
+          "title": "ARTIST ROOMS: Andy Warhol"
+        },
+        {
+          "url": "https://www.youtube.com/embed/pkdGh0h6A8I",
+          "title": "Café des Artistes no. 4: Andy Warhol"
+        },
+        {
+          "url": "https://www.youtube.com/embed/-_hz_1oCHE0",
+          "title": "Clips No. 1: Andy Warhol"
+        }
+      ]
+    },
+    {
+      "artist": "Lawrence Weiner",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/7pwxkmu2NEY",
+          "title": "Tate Shots: Lawrence Weiner"
+        },
+        {
+          "url": "https://www.youtube.com/embed/WUbAerMohks",
+          "title": "ARTIST ROOMS Lawrence Weiner - Woodhorn Museum"
+        }
+      ]
+    },
+    {
+      "artist": "Francesca Woodman",
+      "films": [
+        {
+          "url": "https://www.youtube.com/embed/18tBayxAeJw",
+          "title": "ARTIST ROOMS: Francesca Woodman"
+        },
+        {
+          "url": "https://player.vimeo.com/video/117192141",
+          "title": "Performing Arts Students respond to Francesca Woodman"
+        },
+        {
+          "url": "https://www.youtube.com/embed/ellso6OjyU0",
+          "title": "Café des Artistes No.10: Francesca Woodman"
+        }
+      ]
+    }
+  ]
+}]

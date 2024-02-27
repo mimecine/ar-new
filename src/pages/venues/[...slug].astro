@@ -1,0 +1,32 @@
+---
+import { type CollectionEntry, getCollection } from "astro:content";
+import { Image } from "astro:assets";
+import Main from "../../layouts/Main.astro";
+
+export async function getStaticPaths() {
+  const venues = await getCollection("venues");
+  return venues.map((venue) => ({
+    params: { slug: venue.slug },
+    props: venue,
+  }));
+}
+type Props = CollectionEntry<"venues">;
+
+const venue = Astro.props;
+const { Content } = await venue.render();
+
+const artists = await getCollection("artists");
+
+
+
+---
+<Main title={`Artist Rooms - ${venue.data.title}`}>
+<main>
+  <section class="grid w-full place-items-center">
+    <div class="">
+      <h2>{venue.data.title}{venue.data.town && `, ${venue.data.town}`}</h2>
+      <Content />
+    </div>
+  </section>
+</main>
+</Main>

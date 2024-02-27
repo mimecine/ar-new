@@ -1,21 +1,25 @@
 ---
 import { getCollection } from "astro:content";
 import { Image } from "astro:assets";
+import Main from '../../layouts/Main.astro';
+
 import FormattedDate from "../../components/FormattedDate.astro";
 
-const artists = (await getCollection("artists")).sort(
-  (a, b) => {}
+const artists = await getCollection("artists")
+artists.sort(
+  (a, b) => { return a.data.title.localeCompare(b.data.title); }
 );
 ---
-
+<Main title="Artist Rooms - The Artists">
 <main>
   <section>
-    <ul>
+    <ul class="flex flex-wrap">
       {
         artists.map((artist) => (
-          <li>
+          <li class="artist w-full md:w-1/3 lg:w-1/5 p-4">
             <a href={`/artists/${artist.slug}/`}>
-              <h4 class="title">{artist.data.name}</h4>
+              <Image height={500} src={artist.data.featuredImage} alt={artist.data.title} class="max-w-full h-64 w-auto object-cover"/>
+              <h4 class="title">{artist.data.title}</h4>
             </a>
           </li>
         ))
@@ -23,3 +27,4 @@ const artists = (await getCollection("artists")).sort(
     </ul>
   </section>
 </main>
+</Main>

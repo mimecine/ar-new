@@ -1,6 +1,7 @@
 ---
 import { type CollectionEntry, getCollection } from "astro:content";
 import { Image } from "astro:assets";
+import Main from "../../layouts/Main.astro";
 
 export async function getStaticPaths() {
   const artists = await getCollection("artists");
@@ -18,47 +19,81 @@ const all_rooms = await getCollection("rooms");
 const rooms = all_rooms.filter((room) =>
   room.data.artists.includes(artist.slug)
 );
+const all_films = await getCollection("films");
+const films = all_films.filter((film) =>
+  film.data.artists.includes(artist.slug)
+);
 console.log(rooms);
 const all_venues = await getCollection("venues");
 ---
 
-<main>
-  <section>
-    <h1 class="title">{artist.data.name}</h1>
-    <div>
-      <h2>About</h2>
-      <Content />
-    </div>
-    <div>
-      <h2>Works</h2>
-      {
-        artist.data.works.map((work) => (
-          <>
-            <div>
-              <h3>{work.title}</h3>
-              <Image
-                width={500}
-                height={500}
-                src={work.image}
-                alt={work.title}
-              />
-              <div>{work.description}</div>
-            </div>
-          </>
-        ))
-      }
-    </div>
-    <div>
-      <h2>rooms</h2>
-      {
-        rooms.map((room) => (
-          <>
-            <h3>
-              <a href={`/rooms/${room.slug}`}>{room.data.title}</a>
-            </h3>
-          </>
-        ))
-      }
-    </div>
-  </section>
-</main>
+<Main title={`Artist Rooms - ${artist.data.title}`}>
+  <main>
+    <section>
+      <div class="flex flex-wrap">
+        <div class="md:w-1/2">
+          <Content />
+        </div>
+        <div class="md:w-1/2">
+          <Image
+            width={800}
+            src={artist.data.featuredImage}
+            alt={artist.data.title}
+            class="px-8 max-w-full w-auto object-cover"
+          />
+        </div>
+      </div>
+
+      <div>
+        <h2>Works</h2>
+        <ul class="flex flex-wrap gap-6 justify-evenly">
+          {
+            artist.data.works.map((work) => (
+              <li class="artist w-full md:w-1/3 lg:w-1/4 xl:w-1/5 xxl:w-1/6 p-4">
+                <div class="h-full p-2" >
+                  <div class="w-full bg-gray-200 h-64 flex justify-center items-center">
+                    <Image
+                      width={500}
+                      src={work.src}
+                      alt={work.title}
+                      class="max-w-full h-full w-auto object-contain p-2"
+                    />
+                  </div>
+                  <div class="h-full">
+                  <h5>{work.title}</h5>
+                  <div class="hidden">{work.info}</div>
+                  <div class="text-xs hidden">{work.credit}</div>
+                </div>
+                </div>
+              </li>
+            ))
+          }
+        </ul>
+        <div>
+          <h2>Rooms</h2>
+          {
+            rooms.map((room) => (
+              <>
+                <h3>
+                  <a href={`/rooms/${room.slug}`}>{room.data.title}</a>
+                </h3>
+              </>
+            ))
+          }
+        </div>
+        <div>
+          <h2>Films</h2>
+          {
+            films.map((film) => (
+              <>
+                <h3>
+                  <a href={`/films/${film.slug}`}>{film.data.title}</a>
+                </h3>
+              </>
+            ))
+          }
+        </div>
+      </div>
+    </section>
+  </main>
+</Main>

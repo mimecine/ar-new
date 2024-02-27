@@ -1,0 +1,23 @@
+---
+url: http://www.tate.org.uk/visit/tate-st-ives
+title: "Dan Flavin: Images Moving Out Onto Space, St Ives"
+artists:
+  - dan-flavin
+  - images-moving-out-onto-space
+venue: tate-st-ives
+images:
+  - ../../media/Dan-Flavin-08.jpg
+  - ../../media/Dan-Flavin-03.jpg
+  - ../../media/Dan-Flavin-05.jpg
+  - ../../media/Dan-Flavin-08.jpg
+  - ../../media/Dan-Flavin-03.jpg
+  - ../../media/Dan-Flavin-05.jpg
+  - ../../media/Dan-Flavin-08.jpg
+startdate: 2015-05-23
+enddate: 2015-09-27
+
+---
+
+For summer 2015 Tate St Ives will continue its biennial series of one-room displays by a mix of contemporary and historic artists.
+
+Part of this will include an ARTIST ROOMS display of the work of Dan Flavin. Summer 2015 will feature artists who respond to the architecture of Tate St Ives, as well as to the histories, geography and location of St Ives and will address a number of inter-related themes around materiality and minimalism, and colour and bodies in space.
