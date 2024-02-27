@@ -6,8 +6,10 @@ import FormattedDate from "../../components/FormattedDate.astro";
 
 
 export async function getStaticPaths() {
-  const rooms = await getCollection("rooms");
-  return rooms.map((room) => ({
+  let rooms = await getCollection("rooms");
+  return rooms
+  .filter((room) => room.data.hidden!==true)
+  .map((room) => ({
     params: { slug: room.slug },
     props: room,
   }));

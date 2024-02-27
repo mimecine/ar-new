@@ -23,7 +23,7 @@ const artists = await getCollection("artists");
                   <!--  </a> --> 
                   <span class="text-xs print:hidden"><a href={`https://google.com/maps/search/?api=1&query=${venue.data.title}, ${venue.data.town}`} target="_map">[map]</a></span></h4>
                 {rooms.filter(room => {
-                  return room.data.venue == venue.slug && !room.hidden
+                  return room.data.venue == venue.slug && !room.data.hidden
                 })
                 .map(room => (
                   <a class="room" href={`/rooms/${room.slug}`}>

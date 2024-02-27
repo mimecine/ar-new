@@ -1,6 +1,0 @@
----
-title: Caithness Horizons
-town: ""
-
----
-

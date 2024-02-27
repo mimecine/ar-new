@@ -1,6 +1,0 @@
----
-title: Towner
-town: Eastbourne
-
----
-

@@ -55,4 +55,15 @@ const films = defineCollection({
     }),
 })
 
-export const collections = { artists, rooms, venues, films };
+const pages = defineCollection({
+    type: 'content',
+    // Type-check frontmatter using a schema
+    schema: ({image}) => z.object({
+        title: z.string(),
+        hidden: z.boolean().optional(),
+        artists: z.array(z.string()).optional(),
+        rooms: z.array(z.string()).optional(),
+    }),
+})
+
+export const collections = { artists, rooms, venues, films, pages };

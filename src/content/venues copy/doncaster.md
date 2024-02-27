@@ -1,8 +1,0 @@
----
-title: Doncaster
-town: ""
-map: https://www.google.co.uk/maps/place/The+Point,+home+of+darts+(Doncaster+Community+Arts)/@53.5215732,-1.1295474,17z/data=!3m1!4b1!4m5!3m4!1s0x48790dd6bdc114cb:0x998a0bbc768bbbdf!8m2!3d53.5215732!4d-1.1273587
-url: https://www.thepoint.org.uk/
-
----
-

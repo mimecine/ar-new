@@ -4,8 +4,10 @@ import { Image } from "astro:assets";
 import Main from "../../layouts/Main.astro";
 
 export async function getStaticPaths() {
-  const artists = await getCollection("artists");
-  return artists.map((artist) => ({
+  let artists = await getCollection("artists");
+  return artists
+  .filter((artist) => artist.data.hidden!==true)
+  .map((artist) => ({
     params: { slug: artist.slug },
     props: artist,
   }));

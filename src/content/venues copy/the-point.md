@@ -1,6 +1,0 @@
----
-title: The Point
-town: ""
-
----
-

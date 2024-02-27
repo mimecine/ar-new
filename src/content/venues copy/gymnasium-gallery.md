@@ -1,6 +1,0 @@
----
-title: Gymnasium Gallery
-town: ""
-
----
-

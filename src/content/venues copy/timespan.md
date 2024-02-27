@@ -1,6 +1,0 @@
----
-title: Timespan
-town: Helmsdale
-
----
-

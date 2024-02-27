@@ -3,15 +3,15 @@ import { getCollection } from "astro:content";
 import { Image } from "astro:assets";
 import Main from '../../layouts/Main.astro';
 import  FormattedDate  from "../../components/FormattedDate.astro";
-const rooms = (await getCollection("rooms"))
+let rooms = (await getCollection("rooms"));
 const continuos = new Date(2100, 1, 1);
-rooms.sort((a, b) => {
+rooms = rooms.filter((room) =>!room.data.hidden).sort((a, b) => {
     a.data.priority = a.data.priority || 0;
     b.data.priority = b.data.priority || 0;
-    if(b.data.priority || a.data.priority) console.log(b.data.priority, a.data.priority, a.data.title, b.data.title);
+    //if(b.data.priority || a.data.priority) console.log(b.data.priority, a.data.priority, a.data.title, b.data.title);
     let priority = (b.data.priority||0) + (a.data.priority||0);
     let date = (b.data.enddate||continuos) - (a.data.enddate||continuos)
-    if(priority) console.log(priority, date, a.data.title, b.data.title);
+    //if(priority) console.log(priority, date, a.data.title, b.data.title);
     return  date;
     });
 ---

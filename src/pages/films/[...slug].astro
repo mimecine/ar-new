@@ -4,8 +4,10 @@ import { Image } from "astro:assets";
 import Main from "../../layouts/Main.astro";
 
 export async function getStaticPaths() {
-  const films = await getCollection("films");
-  return films.map((film) => ({
+  let films = await getCollection("films");
+  return films
+    .filter((film) => film.data.hidden!==true)
+    .map((film) => ({
     params: { slug: film.slug },
     props: film,
   }));

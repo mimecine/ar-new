@@ -7,8 +7,8 @@ import Main from "../../layouts/Main.astro";
 
 import FormattedDate from "../../components/FormattedDate.astro";
 
-const films = await getCollection("films");
-films.sort((a, b) => {
+let films = await getCollection("films");
+films = films.filter((film) => film.data.hidden!==true).sort((a, b) => {
   return a.data.title.localeCompare(b.data.title);
 });
 
@@ -29,7 +29,7 @@ const artists = await getCollection("artists");
               x-on:click="() => {src = $el.querySelector('iframe').src; dialog_open = true; $refs.dialog.showModal();}"
             >
               <iframe
-                id={`ytplayer-${film.slug}`}
+                id={`film-${film.slug}`}
                 type="text/html"
                 loading="lazy"
                 class="xmax-h-64 w-auto aspect-video pointer-events-none bg-black"
@@ -55,7 +55,7 @@ const artists = await getCollection("artists");
         xx-show="dialog_open"
         x-ref="dialog"
         xx-transition
-        id="ytplayer-dialog"
+        id="film-dialog"
         class="w-lvw h-lvh xinset-0 xz-10 bg-transparent backdrop:bg-black backdrop:opacity-80"
       >
         <button x-on:click="() => {dialog_open = false; $refs.dialog.close(); $refs.video.src=''}" class="absolute top-0 right-0 focus-visible:outline-none text-white">
@@ -66,7 +66,7 @@ const artists = await getCollection("artists");
         >
           <iframe
             x-ref="video"
-            id="ytplayer-iframe"
+            id="film-iframe"
             class="w-full max-h-full aspect-video object-contain bg-gray bg-no-repeat bg-center bg-[url('/SvgSpinners180RingWithBg.svg')]"
             :src="src"></iframe>
         </div>

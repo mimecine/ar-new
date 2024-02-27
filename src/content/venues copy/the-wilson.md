@@ -1,6 +1,0 @@
----
-title: The Wilson
-town: ""
-
----
-

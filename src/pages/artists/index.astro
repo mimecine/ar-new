@@ -5,8 +5,10 @@ import Main from '../../layouts/Main.astro';
 
 import FormattedDate from "../../components/FormattedDate.astro";
 
-const artists = await getCollection("artists")
-artists.sort(
+let artists = await getCollection("artists");
+artists = artists
+.filter( (artist) => !artist.data.hidden )
+.sort(
   (a, b) => { return a.data.title.localeCompare(b.data.title); }
 );
 ---

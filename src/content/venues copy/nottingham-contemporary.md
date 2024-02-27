@@ -1,6 +1,0 @@
----
-title: Nottingham Contemporary
-town: ""
-
----
-

@@ -1,6 +1,0 @@
----
-title: mac Birmingham
-town: ""
-
----
-
