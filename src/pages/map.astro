@@ -23,7 +23,7 @@ const artists = await getCollection("artists");
     crossorigin=""
   ></script>
     <script>
-      window.addEventListener('DOMContentLoaded',async ()=>{
+      var loadedHandler = async ()=>{
         const venues = await (await fetch('/venues.json')).json();
         
         var map = L.map("map").setView([51.505, -0.09], 13);
@@ -58,8 +58,12 @@ const artists = await getCollection("artists");
         })
 
         map.fitBounds(bounds);
+        console.log('fitted bounds')
 
-      })
+      }
+
+      window.addEventListener('DOMContentLoaded',loadedHandler)
+      document.addEventListener('astro:page-load', loadedHandler)
     </script>
     <style>
         .leaflet-popup-content {

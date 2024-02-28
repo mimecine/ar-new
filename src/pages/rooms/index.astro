@@ -6,13 +6,11 @@ import  FormattedDate  from "../../components/FormattedDate.astro";
 let rooms = (await getCollection("rooms"));
 const continuos = new Date(2100, 1, 1);
 rooms = rooms.filter((room) =>!room.data.hidden).sort((a, b) => {
-    a.data.priority = a.data.priority || 0;
-    b.data.priority = b.data.priority || 0;
-    //if(b.data.priority || a.data.priority) console.log(b.data.priority, a.data.priority, a.data.title, b.data.title);
-    let priority = (b.data.priority||0) + (a.data.priority||0);
     let date = (b.data.enddate||continuos) - (a.data.enddate||continuos)
-    //if(priority) console.log(priority, date, a.data.title, b.data.title);
     return  date;
+    })
+    .sort((a, b) => {
+      return a.data.priority > b.data.priority ? -1 : 1;
     });
 ---
 <Main title="Artist Rooms - The Rooms">
@@ -29,9 +27,9 @@ rooms = rooms.filter((room) =>!room.data.hidden).sort((a, b) => {
                 alt={room.data.title}
                 class="max-w-full h-64 w-auto object-cover"
               />}
-              <h4 class="title">{room.data.title}</h4>
-              <p class="town">{room.data.town}</p>
-              <p class="date">
+              <h4 class="title text-pretty text-2xl w-3/4">{room.data.title}</h4>
+              <!--  <p class="town">{room.data.town}</p> -->
+              <p class="date text-lg">
                 <FormattedDate date={room.data.startdate}/> {room.data.enddate && (<> - <FormattedDate date={room.data.enddate}/></>)}
               </p>
             </a>
