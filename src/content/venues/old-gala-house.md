@@ -7,6 +7,8 @@ address: |-
   TD1 3JS
   United Kingdom
 map: http://maps.google.com/maps?q=Old%20Gala%20House%2C%20Scott%20Crescent%2C%20Galashiels%2C%20GB%2C%20TD1%203JS
+lat: "55.6138381"
+lon: "-2.8089368"
 
 ---
 

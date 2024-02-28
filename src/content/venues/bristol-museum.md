@@ -8,6 +8,8 @@ address: |-
   United Kingdom
 map: https://goo.gl/maps/ra1Ce
 url: http://www.bristol.gov.uk/
+lat: "51.45036305"
+lon: "-2.6005109540315727"
 
 ---
 

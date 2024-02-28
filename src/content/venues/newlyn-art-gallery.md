@@ -8,6 +8,8 @@ address: |-
   United Kingdom
 map: https://www.google.com/maps/place/The+Exchange/@50.118259,-5.536229,17z/data=!3m1!4b1!4m2!3m1!1s0x486ac46154d0bd53:0x1f52b753636c4798
 url: http://newlynartgallery.co.uk/
+lat: "50.107819"
+lon: "-5.5487059"
 
 ---
 

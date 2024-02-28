@@ -8,6 +8,8 @@ address: |-
   United Kingdom
 map: http://maps.google.com/maps?q=mac%2C%20Cannon%20Hill%20Road%2C%20Birmingham%2C%20GB%2C%20B12%209QH
 url: http://www.macarts.co.uk/
+lat: "52.452701"
+lon: "-1.9039667"
 
 ---
 

@@ -10,6 +10,8 @@ address: |-
   United Kingdom
 map: https://goo.gl/maps/hi58W
 url: https://www.aberystwythartscentre.co.uk/
+lat: "52.41585485"
+lon: "-4.062840536117321"
 
 ---
 

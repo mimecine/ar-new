@@ -8,6 +8,8 @@ address: |-
   United Kingdom
 map: http://maps.google.com/maps?q=Tramway%2C%2025%20Albert%20Drive%2C%20Glasgow%2C%20GB%2C%20G41%202PE
 url: http://www.tramway.org/
+lat: "55.8406831"
+lon: "-4.267306206813944"
 
 ---
 

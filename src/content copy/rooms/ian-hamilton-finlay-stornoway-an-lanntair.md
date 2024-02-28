@@ -1,0 +1,22 @@
+---
+url: http://www.lanntair.com/content/blogcategory/0/72/
+title: Ian Hamilton Finlay, Stornoway
+artists:
+  - ian-hamilton-finlay
+venue: an-lanntair
+images:
+  - ../../media/IMG-1827-lr.jpg
+  - ../../media/0047-sailing-dinghy.jpg
+  - ../../media/0112-sailing-dinghy.jpg
+  - ../../media/0133-sailing-dinghy.jpg
+  - ../../media/IMG-1827-lr.jpg
+  - ../../media/0047-sailing-dinghy.jpg
+  - ../../media/0112-sailing-dinghy.jpg
+  - ../../media/0133-sailing-dinghy.jpg
+  - ../../media/IMG-1827-lr.jpg
+startdate: 2010-08-30
+enddate: 2010-11-01
+
+---
+
+Ian Hamilton Finlay combines his love of the sea with his love of literature and the potency of words. In the 1960s he was widely known as one of Britain's foremost concrete poets, but went on to extend his ideas beyond the printed page to become objects in the world. His work, often collaborative and in a wide variety of materials including stone carvings, constructions and neon lighting, is a unique blend of art and poetry. Sailing Dinghy encapsulates the artist's passion for ships and the sea, the boat was used by Ian Hamilton Finlay himself and is accompanied by a poem which evokes its movement. Much of his early poetry concerns sailing and fishing boats.

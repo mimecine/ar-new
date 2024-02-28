@@ -43,6 +43,8 @@ const venues = defineCollection({
         map: z.string().optional(),
         url: z.string().optional(),
         about: z.string().optional(),
+        lat: z.string().optional(),
+        lon: z.string().optional(),
     }),
 })
 const films = defineCollection({

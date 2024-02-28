@@ -17,6 +17,15 @@ const { title } = Astro.props;
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <BaseHead title={title} />
     <ViewTransitions />
+
+    <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""
+  />
+  
+
   </head>
   <body class="h-lvh w-lvw grid grid-rows-[1fr,auto] bg-[--main-background]">
     <nav class="flex items-center justify-between fixed px-2 h-14 lg:h-28 lg:px-4 py-2 lg:pt-4 lg:pb-2 border-b border-gray-500 bg-[--main-background] w-full">
@@ -31,10 +40,11 @@ const { title } = Astro.props;
         <HeaderLink href="/artists" class="!hidden lg:!inline-block">Artists</HeaderLink>
         <HeaderLink href="/films" class="!hidden lg:!inline-block">Films</HeaderLink>
         <HeaderLink href="/venues" class="!hidden lg:!inline-block">Venues</HeaderLink>
+        <HeaderLink href="/map" class="!hidden lg:!inline-block">Map</HeaderLink>
         <HeaderLink href="/page/about" class="!hidden lg:!inline-block">About</HeaderLink>
         <!-- <Search id="search" className="pagefind-ui" uiOptions={{ showImages: true }} /> -->
 
-        <div x-data="{ open: false }" class="*:bg-[gray]">
+        <div x-data="{ open: false }" class="*:bg-[--main-background] *:z-[500000] z-[500000]">
           <h1 x-on:click="open = ! open" class="block lg:hidden text-[1.5rem]"><Icon name="material-symbols-light:menu" class="size-12 lg:size-24" />
           </h1>
           <div x-show="open" x-transition class="lg:hidden absolute top-[4.5rem] right-0 border border-t-0 border-r-0 border-gray-500 flex flex-col items-end *:p-1 ">
@@ -42,6 +52,7 @@ const { title } = Astro.props;
             <HeaderLink href="/artists">Artists</HeaderLink>
             <HeaderLink href="/films">Films</HeaderLink>
             <HeaderLink href="/venues">Venues</HeaderLink>
+            <HeaderLink href="/map">Map</HeaderLink>
             <HeaderLink href="/about">About</HeaderLink>
           </div>
         </div>

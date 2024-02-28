@@ -1,0 +1,9 @@
+---
+title: Leamington Spa Art Gallery and Museum
+town: Leamington
+address: Leamington Spa Art Gallery and Museum
+map: https://www.google.com/maps/place/Leamington+Spa+Art+Gallery+%26+Museum/@52.287076,-1.5345854,15z/data=!4m2!3m1!1s0x0:0xbed5b82d4f3b0d8f?sa=X&ved=2ahUKEwiB3Zukvrv2AhWLi1wKHUuwCDwQ_BJ6BAgzEAU
+url: https://www.warwickdc.gov.uk/
+
+---
+

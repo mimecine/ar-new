@@ -8,6 +8,8 @@ address: |-
   United Kingdom
 map: http://maps.google.com/maps?q=Tate%20Britain%2C%20Millbank%2C%20London%2C%20GB%2C%20SW1P%204RG
 url: http://www.tate.org.uk/
+lat: "51.4911182"
+lon: "-0.12781878350367853"
 
 ---
 

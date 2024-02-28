@@ -1,12 +1,69 @@
 ---
 import Main from "../layouts/Main.astro";
 // edit map: https://umap.openstreetmap.fr/en/map/anonymous-edit/1030519:C1Kw6cUMqXnU6KZloIwgBKMk87isAZ9LdWPvlmxYaoA
+// https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png
+
+import { getCollection } from "astro:content";
+import { Image } from "astro:assets";
+
+const venues = await getCollection("venues")
+const rooms = await getCollection("rooms")
+venues.sort(
+  (a, b) => { return a.data.title.localeCompare(b.data.title); }
+);
+
+const artists = await getCollection("artists");
 ---
 
 <Main title="The Map">
-    <main class="h-full">
-        <section class="h-full">
-            <iframe src="https://umap.openstreetmap.fr/en/map/artist-rooms_1030519" class="w-full h-full"></iframe>
-        </section>
-    </main>
+    <div id="map" class="size-full border border-gray-700"></div>
+    <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""
+  ></script>
+    <script>
+      window.addEventListener('DOMContentLoaded',async ()=>{
+        const venues = await (await fetch('/venues.json')).json();
+        
+        var map = L.map("map").setView([51.505, -0.09], 13);
+        var bounds = L.latLngBounds() // Instantiate LatLngBounds object
+
+        var myIcon = L.icon({
+            iconUrl: '/map-point.svg',
+            iconSize: [20, 20],
+            iconAnchor: [10, 10],
+            popupAnchor: [0,0],
+        });
+
+        L.tileLayer("https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png", {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OSM</a>',
+        }).addTo(map);
+
+        venues.map( (venue) => {
+            if( venue.data.lat && venue.data.lon){
+                var lat_lon = [venue.data.lat, venue.data.lon];
+                var marker = L.marker(lat_lon, {icon: myIcon}).addTo(map);
+                var room_string = venue.data.rooms.map((room)=>{
+                    return `<a href="/rooms/${room.slug}" class="text-black font-[--font-family]" style="font-family:var(--font-family); color: black !important;">${room.title}</a>`
+                }).join('; ')
+                marker.bindPopup(`
+                    <h3 class="text-black font-[--font-family]" style="font-family:var(--font-family)">${venue.data.title}</h3>
+                    <p class="!text-xs font-italic">${venue.data.address}</p>
+                    <p class="!text-lg">${room_string}</p>
+                    `)//.openPopup();
+                bounds.extend(lat_lon);
+            }
+        })
+
+        map.fitBounds(bounds);
+
+      })
+    </script>
+    <style>
+        .leaflet-popup-content {
+            font-family: serif !important;
+        }
+    </style>
 </Main>
