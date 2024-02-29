@@ -8,6 +8,7 @@ const artists = defineCollection({
         url: z.string().optional(),
         featuredImage: image().optional(),
         resources: z.array(z.string()).optional(),
+        hidden: z.boolean().optional(),
         works: z.array(z.object({
             title: z.string().optional(),
             info: z.string().optional(),
@@ -45,6 +46,7 @@ const venues = defineCollection({
         about: z.string().optional(),
         lat: z.string().optional(),
         lon: z.string().optional(),
+        hidden: z.boolean().optional(),
     }),
 })
 const films = defineCollection({
@@ -54,6 +56,7 @@ const films = defineCollection({
         title: z.string(),
         url: z.string().optional(),
         artists: z.array(z.string()).optional(),
+        hidden: z.boolean().optional(),
     }),
 })
 

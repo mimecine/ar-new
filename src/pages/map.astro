@@ -29,12 +29,25 @@ const artists = await getCollection("artists");
         var map = L.map("map").setView([51.505, -0.09], 13);
         var bounds = L.latLngBounds() // Instantiate LatLngBounds object
 
-        var myIcon = L.icon({
+        var lgIcon = L.icon({
             iconUrl: '/map-point.svg',
             iconSize: [20, 20],
             iconAnchor: [10, 10],
             popupAnchor: [0,0],
         });
+        var mdIcon = L.icon({
+            iconUrl: '/map-point.svg',
+            iconSize: [10, 10],
+            iconAnchor: [5, 5],
+            popupAnchor: [0,0],
+        });
+        var smIcon = L.icon({
+            iconUrl: '/map-point.svg',
+            iconSize: [5, 5],
+            iconAnchor: [3, 2.5],
+            popupAnchor: [0,0],
+        });
+
 
         L.tileLayer("https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png", {
             maxZoom: 19,
@@ -44,7 +57,7 @@ const artists = await getCollection("artists");
         venues.map( (venue) => {
             if( venue.data.lat && venue.data.lon){
                 var lat_lon = [venue.data.lat, venue.data.lon];
-                var marker = L.marker(lat_lon, {icon: myIcon}).addTo(map);
+                var marker = L.marker(lat_lon, {icon: mdIcon}).addTo(map);
                 var room_string = venue.data.rooms.map((room)=>{
                     return `<a href="/rooms/${room.slug}" class="text-black font-[--font-family]" style="font-family:var(--font-family); color: black !important;">${room.title}</a>`
                 }).join('; ')
@@ -58,14 +71,28 @@ const artists = await getCollection("artists");
         })
 
         map.fitBounds(bounds);
-        console.log('fitted bounds')
-
       }
 
       window.addEventListener('DOMContentLoaded',loadedHandler)
       document.addEventListener('astro:page-load', loadedHandler)
     </script>
-    <style>
+    <style is:inline>
+.leaflet-popup-content-wrapper {
+	box-shadow: none !important;
+	border: 1px solid black !important;
+}
+.leaflet-popup-content-wrapper {
+	border-radius: 0 !important;
+}
+
+.leaflet-popup-tip {
+	border-bottom: 1px solid black;
+	border-right: 1px solid black;
+}
+
+.leaflet-bottom {
+	z-index: 1;
+}
         .leaflet-popup-content {
             font-family: serif !important;
         }

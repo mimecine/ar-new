@@ -187,20 +187,3 @@ hr {
 	white-space: nowrap;
 }
 
-
-.leaflet-popup-content-wrapper {
-	box-shadow: none !important;
-	border: 1px solid black !important;
-}
-.leaflet-popup-content-wrapper {
-	border-radius: 0 !important;
-}
-
-.leaflet-popup-tip {
-	border-bottom: 1px solid black;
-	border-right: 1px solid black;
-}
-
-.leaflet-bottom {
-	z-index: 1;
-}

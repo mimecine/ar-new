@@ -3,37 +3,28 @@ import { getCollection } from "astro:content";
 import { Image } from "astro:assets";
 import Main from '../../layouts/Main.astro';
 import  FormattedDate  from "../../components/FormattedDate.astro";
+import Thumbnail from "../../components/Thumbnail.astro";
 let rooms = (await getCollection("rooms"));
 const continuos = new Date(2100, 1, 1);
-rooms = rooms.filter((room) =>!room.data.hidden).sort((a, b) => {
+rooms = rooms
+  .filter((room) =>!room.data.hidden)
+  .sort((a, b) => {
     let date = (b.data.enddate||continuos) - (a.data.enddate||continuos)
     return  date;
-    })
-    .sort((a, b) => {
-      return a.data.priority > b.data.priority ? -1 : 1;
-    });
+   })
+   .sort((a, b) => {
+     return a.data.priority > b.data.priority ? -1 : 1;
+   });
 ---
-<Main title="Artist Rooms - The Rooms">
+<Main title="The Rooms">
 <main>
   <section>
-    <ul class="flex flex-wrap">
+    <ul class="flex flex-wrap gap-3 justify-evenly">
       {
-        rooms.filter(room => !room.hidden).map((room) => (
-          <li class="room w-full md:w-1/2 lg:w-1/3 xl:w-1/4 xxl:w-1/5 p-4">
-            <a href={`/rooms/${room.slug}/`}>
-              {room.data.images?.length && <Image
-                width={500}
-                src={room.data.images[0]}
-                alt={room.data.title}
-                class="max-w-full h-64 w-auto object-cover"
-              />}
-              <h4 class="title text-pretty text-2xl w-3/4">{room.data.title}</h4>
-              <!--  <p class="town">{room.data.town}</p> -->
-              <p class="date text-lg">
-                <FormattedDate date={room.data.startdate}/> {room.data.enddate && (<> - <FormattedDate date={room.data.enddate}/></>)}
-              </p>
-            </a>
-          </li>
+        rooms.filter(room => !room.data.hidden && room.data.images).map((room) => (
+          <Thumbnail src={room.data.images[0]} alt={room.data.title} title={room.data.title}>
+          <p class="text-sm my-[-0.5rem] italic"><FormattedDate date={room.data.startdate} /> - {room.data.enddate && <FormattedDate date={room.data.enddate} /> || `ONGOING`}</p>  
+          </Thumbnail> 
         ))
       }
     </ul>

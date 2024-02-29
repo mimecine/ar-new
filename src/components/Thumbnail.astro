@@ -1,0 +1,26 @@
+---
+import { Image } from 'astro:assets';
+import type { HTMLAttributes } from 'astro/types';
+
+type Props = HTMLAttributes<'img'>;
+
+const { src, alt, title, class: className, ...props } = Astro.props;
+
+---
+<li class="artist w-full md:w-1/3 lg:w-1/4 xl:w-1/5 xxl:w-1/6 p-4">
+    <div class="h-full p-2" >
+      <div class="w-full bg-gray-200 h-64 flex justify-center items-center">
+        <Image
+          width={500}
+          src={src}
+          alt={alt}
+          class="max-w-full h-full w-auto object-contain p-2"
+          {...props}
+        />
+      </div>
+      <div class="h-full">
+      {title && <h5>{title}</h5>}
+      <slot />
+    </div>
+    </div>
+  </li>

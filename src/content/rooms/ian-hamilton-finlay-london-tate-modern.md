@@ -4,6 +4,7 @@ title: Ian Hamilton Finlay, London
 artists:
   - ian-hamilton-finlay
 venue: tate-modern
+priority: 10
 images:
   - ../../media/Ian-Hamilton-Finlay-IDYLLS-END-IN-THUNDERSTORMS-1986.-ARTIST-ROOMS-Tate-and-National-Galleries-of-Scotland.-Estate-of-Ian-Hamilton-Finlay.jpg
 startdate: 2023-02-27

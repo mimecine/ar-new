@@ -2,6 +2,7 @@
 import { type CollectionEntry, getCollection } from "astro:content";
 import { Image } from "astro:assets";
 import Main from "../../layouts/Main.astro";
+import Thumbnail from "../../components/Thumbnail.astro";
 
 export async function getStaticPaths() {
   let artists = await getCollection("artists");
@@ -28,7 +29,7 @@ const films = all_films.filter((film) =>
 const all_venues = await getCollection("venues");
 ---
 
-<Main title={`Artist Rooms - ${artist.data.title}`}>
+<Main title={`${artist.data.title}`}>
   <main>
     <section>
       <div class="flex flex-wrap">
@@ -46,27 +47,10 @@ const all_venues = await getCollection("venues");
       </div>
 
       <div>
-        <h2>Works</h2>
-        <ul class="flex flex-wrap gap-6 justify-evenly">
+        <ul class="flex flex-wrap gap-3 justify-evenly">
           {
             artist.data.works.map((work) => (
-              <li class="artist w-full md:w-1/3 lg:w-1/4 xl:w-1/5 xxl:w-1/6 p-4">
-                <div class="h-full p-2" >
-                  <div class="w-full bg-gray-200 h-64 flex justify-center items-center">
-                    <Image
-                      width={500}
-                      src={work.src}
-                      alt={work.title}
-                      class="max-w-full h-full w-auto object-contain p-2"
-                    />
-                  </div>
-                  <div class="h-full">
-                  <h5>{work.title}</h5>
-                  <div class="hidden">{work.info}</div>
-                  <div class="text-xs hidden">{work.credit}</div>
-                </div>
-                </div>
-              </li>
+              <Thumbnail src={work.src} alt={work.title} title={work.title} />
             ))
           }
         </ul>

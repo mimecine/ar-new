@@ -5,7 +5,7 @@ start: 2024-02-27
 end: 2024-02-27
 hidden: false
 startdate: 2020-01-01
-enddate: 2028-01-01
+# enddate: 2028-01-01
 priority: 0
 artists:
   - mario-merz

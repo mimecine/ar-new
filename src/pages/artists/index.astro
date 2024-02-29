@@ -2,7 +2,7 @@
 import { getCollection } from "astro:content";
 import { Image } from "astro:assets";
 import Main from '../../layouts/Main.astro';
-
+import Thumbnail from "../../components/Thumbnail.astro";
 import FormattedDate from "../../components/FormattedDate.astro";
 
 let artists = await getCollection("artists");
@@ -12,18 +12,13 @@ artists = artists
   (a, b) => { return a.data.title.localeCompare(b.data.title); }
 );
 ---
-<Main title="Artist Rooms - The Artists">
+<Main title="The Artists">
 <main>
   <section>
-    <ul class="flex flex-wrap">
+    <ul class="flex flex-wrap gap-3 justify-evenly">
       {
         artists.map((artist) => (
-          <li class="artist w-full md:w-1/3 lg:w-1/5 p-4">
-            <a href={`/artists/${artist.slug}/`}>
-              <Image height={500} src={artist.data.featuredImage} alt={artist.data.title} class="max-w-full h-64 w-auto object-cover"/>
-              <h4 class="title">{artist.data.title}</h4>
-            </a>
-          </li>
+        <Thumbnail src={artist.data.featuredImage} alt={artist.data.title} title={artist.data.title} />
         ))
       }
     </ul>

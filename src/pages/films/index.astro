@@ -8,7 +8,9 @@ import Main from "../../layouts/Main.astro";
 import FormattedDate from "../../components/FormattedDate.astro";
 
 let films = await getCollection("films");
-films = films.filter((film) => film.data.hidden!==true).sort((a, b) => {
+films = films
+  .filter((film) => film.data.hidden!==true)
+  .sort((a, b) => {
   return a.data.title.localeCompare(b.data.title);
 });
 
@@ -35,7 +37,7 @@ const artists = await getCollection("artists");
                 class="xmax-h-64 w-auto aspect-video pointer-events-none bg-black"
                 src={film.data.url}
               />
-              <h5 class="title">
+              <h4 class="title text-xl md:text-2xl">
                 <xa href={`/films/${film.slug}`}>
                   {film.data.title.replace(/ARTIST ROOMS:?/, "")}
                 </xa>
@@ -44,7 +46,7 @@ const artists = await getCollection("artists");
               {film.data.artists &&
                 film.data.artists.map((artist) => (
                   <a class="artist" href={`/artists/${artist}`}>
-                    {artists.find((a) => a.slug == artist)?.data.title}
+                    {artists.find((a) => a.slug == artist && !a.data.hidden)?.data.title}
                   </a>
                 ))}
             </li>
