@@ -36,6 +36,8 @@ const artists = await getCollection("artists");
                 loading="lazy"
                 class="xmax-h-64 w-auto aspect-video pointer-events-none bg-black"
                 src={film.data.url}
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                allowfullscreen 
               />
               <h4 class="title text-xl md:text-2xl">
                 <xa href={`/films/${film.slug}`}>
@@ -72,6 +74,8 @@ const artists = await getCollection("artists");
             x-ref="video"
             id="film-iframe"
             class="w-full max-h-full aspect-video object-contain bg-gray bg-no-repeat bg-center bg-[url('/SvgSpinners180RingWithBg.svg')]"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                allowfullscreen 
             :src="src"></iframe>
         </div>
       </dialog>
