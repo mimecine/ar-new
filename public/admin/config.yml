@@ -152,39 +152,6 @@ collections:
         value_field: "{{slug}}"
         display_fields: ["title"]
         required: false
-
-
-  # - label: "JSON"
-  #   name: "rooms_json"
-  #   editor:
-  #     preview: false
-  #   files:
-  #     - label: "Rooms Data"
-  #       name: "rooms"
-  #       file: "scripts/rooms.json"
-  #       fields:
-  #       - label: "Rooms"
-  #         name: "rooms"
-  #         widget: "list"
-  #         collapsed: true
-  #         sortable_fields:
-  #           fields: ['venue', 'title']
-  #           default:
-  #             field: venue
-  #             direction: Descending
-  #         summary: "{{fields.title}} ||| {{fields.venue}}"
-  #         fields:
-  #           - { label: "Title", name: "title", widget: "string" }
-  #           - { label: Venue, name: "venue", widget: "string" }
-  #           - { label: Address, name: address, widget: text, required: false }
-  #           - { label: Url, name: url, widget: string, required: false }
-  #           - { label: Map, name: map, widget: string, required: false }
-  #           - { label: Start, name: startdate, widget: hidden, date_format: 'dd.MM.yyyy', time_format: false}
-  #           - { label: End, name: enddate, widget: hidden, date_format: 'dd.MM.yyyy', time_format: false}
-  #           - { label: Body, name: body, widget: hidden, required: false }
-  #           - { label: Artists, name: artists, widget: hidden, required: false, multiple: true }
-  #           - { label: Images, name: images, widget: hidden, required: false, multiple: true }
-            
           
 
   - label: "Site Settings"
@@ -196,58 +163,47 @@ collections:
       name: "index_settings"
       file: "src/_data/index_settings.json"
       fields:
-        - label: "Images"
-          label_singular: "Image"
-          name: "works"
-          widget: "list"
-          required: false
-          summary: "{{fields.image}}"
-          fields: 
-            - { label: Image, name: src, widget: image }
-            - { label: "Description", name: "info", widget: "text", required: false }
-            - { label: "Copyright", name: "credit", widget: "text", required: false }
-        - label: "Featured Rooms"
-          name: "rooms"
-          widget: "relation"
-          collection: "rooms"
-          multiple: true
-          search_fields: ["title","town"]
-          value_field: "{{slug}}"
-          display_fields: ["title","town"]
-          required: false
-        - label: "Featured Artists"
-          name: "artists"
-          widget: "relation"
-          collection: "artists"
-          multiple: true
-          search_fields: ["title"]
-          value_field: "{{slug}}"
-          display_fields: ["title"]
-          required: false
-        - label: "Featured Films"
-          name: "films"
-          widget: "relation"
-          collection: "films"
-          multiple: true
-          search_fields: ["title"]
-          value_field: "{{slug}}"
-          display_fields: ["title"]
-          required: false
-        - label: "Sections"
-          label_singular: "Section"
-          name: "sections"
-          widget: "list"
-          summary: "{{fields.title}}"
-          required: false
-          fields: 
-            - { label: Title, name: title, widget: string, required: false }
-            - { label: Text, name: text, widget: markdown, required: false }
+      - label: Intro
+        name: intro
+        widget: markdown
+        required: false
+      - label: "Featured Rooms"
+        name: "rooms"
+        widget: "relation"
+        collection: "rooms"
+        search_fields: ["title","town"]
+        value_field: "{{slug}}"
+        display_fields: ["title","town"]
+        multiple: true
+        required: false
+      - label: "Featured Artists"
+        name: "artists"
+        widget: "relation"
+        collection: "artists"
+        multiple: true
+        search_fields: ["title"]
+        value_field: "{{slug}}"
+        display_fields: ["title"]
+        required: false
+      - label: "Featured Films"
+        name: "films"
+        widget: "relation"
+        collection: "films"
+        multiple: true
+        search_fields: ["title"]
+        value_field: "{{slug}}"
+        display_fields: ["title"]
+        required: false
+      - label: Outro
+        name: outro
+        widget: markdown
+        required: false
 
     - label: "Rooms Page Settings"
       name: "rooms_settings"
       file: "src/_data/rooms_settings.json"
       fields:
-        - label: "Featured Rooms"
+        - label: "Featured Rooms - Not Implemented"
           name: "rooms"
           widget: "relation"
           collection: "rooms"
@@ -260,7 +216,7 @@ collections:
       name: "artists_settings"
       file: "src/_data/artists_settings.json"
       fields:
-        - label: "Featured Artists"
+        - label: "Featured Artists - Not Implemented"
           name: "artists"
           widget: "relation"
           collection: "artists"
@@ -273,7 +229,7 @@ collections:
       name: "films_settings"
       file: "src/_data/films_settings.json"
       fields:
-        - label: "Featured Films"
+        - label: "Featured Films - Not Implemented"
           name: "films"
           widget: "relation"
           collection: "films"
@@ -286,7 +242,7 @@ collections:
       name: "links"
       file: "src/_data/links.yml"
       fields:
-        - label: "Nav Items"
+        - label: "Nav Items - Not Implemented"
           name: links
           widget: list
           collapsed: false

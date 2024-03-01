@@ -18,7 +18,7 @@ artists = artists
     <ul class="flex flex-wrap gap-3 justify-evenly">
       {
         artists.map((artist) => (
-        <Thumbnail src={artist.data.featuredImage} alt={artist.data.title} title={artist.data.title} />
+        <Thumbnail src={artist.data.featuredImage} alt={artist.data.title} title={artist.data.title} href={`/artists/${artist.slug}`}/>
         ))
       }
     </ul>

@@ -59,7 +59,7 @@ const artists = await getCollection("artists");
                 var lat_lon = [venue.data.lat, venue.data.lon];
                 var marker = L.marker(lat_lon, {icon: mdIcon}).addTo(map);
                 var room_string = venue.data.rooms.map((room)=>{
-                    return `<a href="/rooms/${room.slug}" class="text-black font-[--font-family]" style="font-family:var(--font-family); color: black !important;">${room.title}</a>`
+                    return `<a href="/rooms/${room.slug}" class="text-black font-[--font-family]" style="font-family:var(--font-family); color: black !important;">${room.title.replace(/,[^,]+$/,'')}</a>`
                 }).join('; ')
                 marker.bindPopup(`
                     <h3 class="text-black font-[--font-family]" style="font-family:var(--font-family)">${venue.data.title}</h3>

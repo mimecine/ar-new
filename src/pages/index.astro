@@ -1,12 +1,14 @@
 ---
 import { getCollection, getEntryBySlug } from "astro:content";
 import { Image } from "astro:assets";
-import FormattedDate from "../../components/FormattedDate.astro";
 import Main from "../layouts/Main.astro";
+import { extract } from "@extractus/oembed-extractor";
 
 import settings from "../_data/index_settings.json" with { type: "json" };
+import { marked } from "marked";
+
 import FormattedDate from "../components/FormattedDate.astro";
-import { setSyntheticTrailingComments } from "typescript";
+import Thumbnail from "../components/Thumbnail.astro";
 
 const rooms = [];
 const artists = [];
@@ -22,95 +24,82 @@ for (const slug of settings.artists) {
 }
 for (const slug of settings.films) {
   const film = await getEntryBySlug("films", slug);
+  const id = film.data.url.split("/").pop();
+  const res = await extract(`https://www.youtube.com/watch?v=${id}`);
+  film.data.thumbnail_url = res.thumbnail_url;
+  film.data.thumbnail_width = res.thumbnail_width;
+  film.data.thumbnail_height = res.thumbnail_height;
   films.push(film);
 }
 ---
 
 <Main title="Artist Rooms">
   <main>
+    {
+      settings.intro && (
+        <section class="intro">
+          <div set:html={marked.parse(settings.intro)} />
+        </section>
+      )
+    }
     <section>
-      <h3>Featured Rooms</h3>
-      <ul class="flex flex-wrap gap-4">
+      <ul class="flex flex-wrap gap-3 justify-around">
         {
           rooms.map((room) => (
-            <li class="room">
-              <a href={`/rooms/${room.slug}/`}>
-                {room.data.images?.length && (
-                  <Image
-                    width={500}
-                    src={room.data.images[0]}
-                    alt={room.data.title}
-                    class="h-64 w-auto object-contain"
-                  />
-                )}
-                <h4 class="title">{room.data.title}</h4>
-                <p class="date text-sm">
-                  <FormattedDate date={room.data.startdate} />{" "}
-                  {room.data.enddate && (
-                    <>
-                      {" "}
-                      - <FormattedDate date={room.data.enddate} />
-                    </>
-                  )}
-                </p>
-              </a>
-            </li>
+            <Thumbnail
+              src={room.data.images[0]}
+              alt={room.data.title}
+              title={`VISIT: ${room.data.title}`}
+              href={`/rooms/${room.slug}`}
+            >
+              <p class="text-sm my-[-0.5rem] italic">
+                <FormattedDate date={room.data.startdate} /> -{" "}
+                {(room.data.enddate && (
+                  <FormattedDate date={room.data.enddate} />
+                )) ||
+                  `ONGOING`}
+              </p>
+            </Thumbnail>
           ))
         }
       </ul>
     </section>
     <section>
-      <h3>Featured Artists</h3>
-      <ul class="flex flex-wrap gap-4">
+      <ul class="flex flex-wrap gap-3 justify-evenly">
         {
           artists.map((artist) => (
-            <li class="artist">
-              <a href={`/artists/${artist.slug}/`}>
-                {artist.data.featuredImage && (
-                  <Image
-                    width={500}
-                    src={artist.data.featuredImage}
-                    alt={artist.data.title}
-                    class="h-64 w-auto object-contain"
-                  />
-                )}
-                <h4 class="title">{artist.data.title}</h4>
-              </a>
-            </li>
+            <Thumbnail
+              src={artist.data.featuredImage}
+              alt={artist.data.title}
+              title={`READ: ${artist.data.title}`}
+              href={`/artists/${artist.slug}`}
+            />
           ))
         }
       </ul>
     </section>
     <section>
-      <h3>Featured Films</h3>
-      <ul class="flex flex-wrap gap-4">
+      <ul class="flex flex-wrap gap-3 justify-around">
         {
           films.map((film) => (
-            <li class="film">
-              <a href={`/films/${film.slug}`}><iframe
-                id="ytplayer"
-                type="text/html"
-                width="640"
-                height="360"
-                class="w-full h-auto md:h-64 md:w-auto aspect-video object-contain pointer-events-none"
-                loading="lazy"
-                src={film.data.url}
-                frameborder="0"
-              /></a>
-              <h4>{film.data.title}</h4>
-            </li>
+            <Thumbnail
+              src={film.data.thumbnail_url}
+              width={film.data.thumbnail_width}
+              height={film.data.thumbnail_height}
+              alt={film.data.title}
+              title={`SEE: ${film.data.title}`}
+              href={`/films/${film.slug}`}
+            />
           ))
         }
       </ul>
     </section>
-
     {
-      settings.sections.map((section) => (
-        <section>
-          <h3>{section.title}</h3>
-          <div>{section.text}</div>
+      settings.outro && (
+        <section class="outro">
+          <div set:html={marked.parse(settings.outro)} />
         </section>
-      ))
+      )
     }
   </main>
 </Main>
