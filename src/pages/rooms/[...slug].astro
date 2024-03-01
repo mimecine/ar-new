@@ -33,9 +33,7 @@ const artists = await getCollection("artists");
         }
       </ul>
       <h2>
-        <FormattedDate date={room.data.startdate} /> - <FormattedDate
-          date={room.data.enddate}
-        />
+        <FormattedDate date={room.data.startdate} /> - {room.data.enddate && <FormattedDate date={room.data.enddate} /> || `ONGOING`}
       </h2>
       <div class="max-w-4xl">
         <Content />
