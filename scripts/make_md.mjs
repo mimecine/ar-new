@@ -5,6 +5,34 @@ import yaml from "yaml";
 import artists from "./artists.json" with { type: "json" };
 import rooms from "./rooms.json" with { type: "json" };
 import films from "./films.json" with { type: "json" };
+import dotenv from "dotenv";
+import { Client }  from "@googlemaps/google-maps-services-js";
+
+dotenv.config();
+const client = new Client({}); // Create your client
+
+async function getCoordinates(place) {
+  try {
+    const response = await client.geocode({
+      params: {
+        address: place,
+        key: process.env.GOOGLE_API_KEY 
+      }
+    });
+
+    if (response.data.status === 'OK') {
+      const location = response.data.results[0].geometry.location;
+      return response.data.results[0];
+    } else {
+      console.error("Geocoding failed:", response.data.status);
+    }
+  } catch (error) {
+    console.error("Error:", error);
+  }
+}
+
+
+
 
 
 async function makeArtistMD(){
@@ -64,6 +92,20 @@ async function makeRoomsMD(){
                         delete a.url;
                     }
                 }
+
+
+                try {
+                    const R = await getCoordinates(
+                        `${_v.title} ${_v.address} UK`
+                    );
+                    _v.geo = JSON.stringify({type:'Point',coordinates: [ R.geometry.location.lng, R.geometry.location.lat]});
+                    _v.address = R.formatted_address; 
+                    _v.plus_code = R.plus_code?.global_code;  
+                    console.log(_v.address, _v.geo) 
+                } catch (e) {
+                    console.log("Geocoding didn't succeed: ", a.venue, e)
+                }
+
                 let venue_path = `./src/content/venues/${a.venue}.md`;
                 try {
                     fs.writeFileSync(

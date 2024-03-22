@@ -1,14 +1,10 @@
 ---
 title: Sheffield Graves
 town: Sheffield
-address: |-
-  Surrey Street
-  Sheffield
-  S1 1XZ
-  United Kingdom
+address: Surrey St, Sheffield City Centre, Sheffield S1 1XZ, UK
 map: http://maps.google.com/maps?q=Museums%20Sheffield%3A%20Graves%20Gallery%2C%20Surrey%20Street%2C%20Sheffield%2C%20GB%2C%20S1%201XZ
-lat: "53.326118300000005"
-lon: "-1.466237983523046"
+geo: '{"type":"Point","coordinates":[-1.466868,53.3801192]}'
+plus_code: 9C5W9GJM+27
 
 ---
 

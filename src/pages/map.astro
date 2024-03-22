@@ -55,9 +55,11 @@ const artists = await getCollection("artists");
         }).addTo(map);
 
         venues.map( (venue) => {
-            if( venue.data.lat && venue.data.lon){
-                var lat_lon = [venue.data.lat, venue.data.lon];
-                var marker = L.marker(lat_lon, {icon: mdIcon}).addTo(map);
+            console.log(`Adding ${venue.data.title}`, venue.data.geo)
+            if( venue.data.geo){
+                let geo = JSON.parse(venue.data.geo)
+                let lon_lat = geo.coordinates.reverse()
+                var marker = L.marker(lon_lat, {icon: mdIcon}).addTo(map);
                 var room_string = venue.data.rooms.map((room)=>{
                     return `<a href="/rooms/${room.slug}" class="text-black font-[--font-family]" style="font-family:var(--font-family); color: black !important;">${room.title.replace(/,[^,]+$/,'')}</a>`
                 }).join('; ')
@@ -66,7 +68,7 @@ const artists = await getCollection("artists");
                     <p class="!text-xs font-italic">${venue.data.address}</p>
                     <p class="!text-lg">${room_string}</p>
                     `)//.openPopup();
-                bounds.extend(lat_lon);
+                bounds.extend(lon_lat);
             }
         })
 

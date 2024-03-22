@@ -99,7 +99,11 @@ collections:
       - { label: "Hide", name: "hidden", widget: "boolean", default: false }
       - { label: "Town", name: "town", widget: "string" }
       - { label: "Address", name: "address", widget: "string", required: false }
-      - { label: "Map", name: "map", widget: "string", required: false }
+      - { label: "Map Link", name: "map", widget: "string", required: false }
+      - { label: "Map", name: "geo", widget: "map", required: false }
+      - { label: "Pluscode", name: "plus_code", widget: "string", required: false }
+      # - { label: "Latitude", name: "lat", widget: "number", required: false }
+      # - { label: "Longitude", name: "lon", widget: "number", required: false }      
       - { label: "About", name: "body", widget: "markdown", required: false }
   
   - label: "Films"

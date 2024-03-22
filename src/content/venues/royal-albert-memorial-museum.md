@@ -1,16 +1,11 @@
 ---
 title: Royal Albert Memorial Museum
 town: Exeter
-address: |-
-  Queen Street
-  Exeter
-  Devon
-  EX4 3RX
-  United Kingdom
+address: Royal Albert memorial Museum Art & Gallery, Queen St, Exeter EX4 3RX, UK
 map: http://maps.google.com/maps?q=Royal%20Albert%20Memorial%20Museum%20&Art_Gallery%2C_Queen_Street%2C_Exeter%2C_Devon%2C_GB%2C_EX4_3RX=
 url: http://www.rammuseum.org.uk/
-lat: "50.7252296"
-lon: "-3.5320841137517647"
+geo: '{"type":"Point","coordinates":[-3.5322095,50.7250283]}'
+plus_code: 9C2RPFG9+24
 
 ---
 

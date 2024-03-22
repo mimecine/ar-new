@@ -1,17 +1,11 @@
 ---
 title: Caithness Horizons
 town: Thurso
-address: |-
-  Old Town Hall
-  High Street
-  Thurso
-  Caithness
-  KW14 8AJ
-  United Kingdom
+address: High St, Thurso KW14 8AJ, UK
 map: http://maps.google.com/maps?q=Caithness%20Horizons%2C%20High%20Street%2C%20Old%20Town%20Hall%2C%20Thurso%2C%20Caithness%2C%20GB%2C%20KW14%208AJ
 url: http://caithnesshorizons.wordpress.com/
-lat: "58.5956535"
-lon: "-3.5182413"
+geo: '{"type":"Point","coordinates":[-3.5183384,58.59560510000001]}'
+plus_code: 9CCRHFWJ+6M
 
 ---
 

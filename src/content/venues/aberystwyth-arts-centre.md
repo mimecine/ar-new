@@ -1,17 +1,11 @@
 ---
 title: Aberystwyth Arts Centre
 town: Aberystwyth
-address: |-
-  Aberystwyth University
-  Penglais Campus
-  Aberystwyth
-  Dyfed
-  SY23 3DE
-  United Kingdom
+address: Aberystwyth University, Penglais Campus, Aberystwyth SY23 3DE, UK
 map: https://goo.gl/maps/hi58W
 url: https://www.aberystwythartscentre.co.uk/
-lat: "52.41585485"
-lon: "-4.062840536117321"
+geo: '{"type":"Point","coordinates":[-4.0627778,52.4158333]}'
+plus_code: 9C4QCW8P+8V
 
 ---
 

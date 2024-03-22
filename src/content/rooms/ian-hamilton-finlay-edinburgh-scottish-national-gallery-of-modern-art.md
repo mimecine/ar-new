@@ -14,7 +14,6 @@ images:
   - ../../media/100328GMA50-049.jpg
 startdate: 2010-03-27
 enddate: 2010-06-04
-priority: 20
 
 ---
 

@@ -1,16 +1,11 @@
 ---
 title: Wolverhampton Art Gallery
 town: Wolverhampton
-address: |-
-  Lichfield Street
-  Wolverhampton
-  West Midlands
-  WV1 1DU
-  United Kingdom
-map: http://maps.google.com/maps?q=Lichfield%20Street%20Wolverhampton%20West%20Midlands%20WV1%201DU%20United%20Kingdom
+address: Lichfield St, Wolverhampton WV1 1DU, UK
+map: http://maps.google.com/maps?q=Wolverhampton%20Art%20Gallery%2C%20Lichfield%20Street%2C%20Wolverhampton%2C%20West%20Midlands%2C%20GB%2C%20WV1%201DU
 url: http://www.wolverhamptonart.org.uk/
-lat: "52.58685095"
-lon: "-2.1269656907897434"
+geo: '{"type":"Point","coordinates":[-2.126991,52.58676699999999]}'
+plus_code: 9C4VHVPF+P6
 
 ---
 

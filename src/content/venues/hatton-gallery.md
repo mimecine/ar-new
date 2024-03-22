@@ -1,16 +1,11 @@
 ---
 title: Hatton Gallery
 town: Newcastle
-address: |-
-  The Quadrangle
-  Newcastle University
-  Newcastle upon Tyne
-  NE1 7RU
-  United Kingdom
+address: Haymarket, Newcastle upon Tyne NE1 7RU, UK
 map: https://goo.gl/maps/wnZfl
 url: http://www.twmuseums.org.uk/
-lat: "54.9796685"
-lon: "-1.6151288"
+geo: '{"type":"Point","coordinates":[-1.6157017,54.979856]}'
+plus_code: 9C6WX9HM+WP
 
 ---
 

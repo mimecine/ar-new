@@ -1,15 +1,11 @@
 ---
 title: Tate Britain
 town: London
-address: |-
-  Millbank
-  London
-  SW1P 4RG
-  United Kingdom
-map: http://maps.google.com/maps?q=Tate%20Britain%2C%20Millbank%2C%20London%2C%20GB%2C%20SW1P%204RG
+address: Millbank, London SW1P 4RG, UK
+map: https://www.google.com/maps/place/Tate+Britain/@51.4910621,-0.1277886,17z/data=!3m1!4b1!4m2!3m1!1s0x487604e9c5c268bd:0xf51fd991541028a0
 url: http://www.tate.org.uk/
-lat: "51.4911182"
-lon: "-0.12781878350367853"
+geo: '{"type":"Point","coordinates":[-0.1277886,51.4910621]}'
+plus_code: 9C3XFVRC+CV
 
 ---
 

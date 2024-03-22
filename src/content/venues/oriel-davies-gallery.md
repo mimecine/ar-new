@@ -1,16 +1,11 @@
 ---
 title: Oriel Davies Gallery
 town: Powys
-address: |-
-  The Park
-  Newton
-  Powys
-  SY16 2NZ
-  United Kingdom
+address: The Park, Newtown SY16 2NZ, UK
 map: https://www.google.com/maps/place/Oriel+Davies+Gallery/@52.514745,-3.317409,17z/data=!4m2!3m1!1s0x486ffb6243f6e86d:0x78965a558a83e2ff
 url: http://www.orieldavies.org/
-lat: "52.5147764"
-lon: "-3.3173578330539257"
+geo: '{"type":"Point","coordinates":[-3.3174832,52.5148035]}'
+plus_code: 9C4RGM7M+W2
 
 ---
 

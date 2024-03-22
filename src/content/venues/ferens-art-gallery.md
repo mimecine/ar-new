@@ -1,11 +1,11 @@
 ---
 title: Ferens Art Gallery
 town: Hull
-address: Queen Victoria Square
-map: https://www.google.co.uk/maps/place/Ferens+Art+Gallery/@53.7434069,-0.3392926,15z/data=!4m5!3m4!1s0x0:0x7560d1834dbe2b79!8m2!3d53.7434069!4d-0.3392926
-url: http://www.hcandl.co.uk/
-lat: "53.7432132"
-lon: "-0.33919185976848565"
+address: Carr Ln, Hull HU1 3RL, UK
+map: http://maps.google.com/maps?q=Ferens%20Art%20Gallery%2C%20Queen%20Victoria%20Square%2C%20Hull%2C%20Yorkshire%2C%20GB%2C%20HU1%203RA
+url: http://www.hullcc.gov.uk/
+geo: '{"type":"Point","coordinates":[-0.3392237,53.74372469999999]}'
+plus_code: 9C5XPMV6+F8
 
 ---
 

@@ -1,13 +1,12 @@
 ---
 url: http://www.mostyn.org/
 title: Anselm Kiefer, Llandudno
-hidden: false
-startdate: 2011-12-03
-enddate: 2012-03-11
-priority: 0
 artists:
   - anselm-kiefer
 venue: mostyn
+images: []
+startdate: 2011-12-03
+enddate: 2012-03-11
 
 ---
 

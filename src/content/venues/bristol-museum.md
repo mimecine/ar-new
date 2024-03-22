@@ -1,15 +1,11 @@
 ---
 title: Bristol Museum
 town: Bristol
-address: |-
-  Queens Road
-  Bristol
-  BS8 1RL
-  United Kingdom
+address: Queens Rd, Clifton, Bristol BS8 1RL, UK
 map: https://goo.gl/maps/ra1Ce
 url: http://www.bristol.gov.uk/
-lat: "51.45036305"
-lon: "-2.6005109540315727"
+geo: '{"type":"Point","coordinates":[-2.6050953,51.45649539999999]}'
+plus_code: 9C3VF94V+HX
 
 ---
 

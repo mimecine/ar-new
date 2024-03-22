@@ -18,7 +18,6 @@ images:
   - ../../media/Artist-Rooms-Gilbert-and-George-13.jpg
 startdate: 2009-04-20
 enddate: 2010-01-01
-priority: 10
 
 ---
 

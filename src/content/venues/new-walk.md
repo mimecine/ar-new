@@ -1,10 +1,9 @@
 ---
 title: New Walk
 town: Leicester
-address: ""
+address: New Walk, Leicester LE1, UK
 url: http://www.leicester.gov.uk/
-lat: "52.6291035"
-lon: "-1.1270799"
+geo: '{"type":"Point","coordinates":[-1.127679,52.6292486]}'
 
 ---
 

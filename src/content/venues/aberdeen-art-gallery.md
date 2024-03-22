@@ -1,15 +1,11 @@
 ---
 title: Aberdeen Art Gallery
 town: Aberdeen
-address: |-
-  Schoolhill
-  Aberdeen
-  AB10 1FQ
-  United Kingdom
-map: http://maps.google.com/maps?q=Aberdeen%20Art%20Gallery%2C%20Schoolhill%2C%20Aberdeen%2C%20GB%2C%20AB10%201FQ
+address: Art Gallery, Schoolhill, Aberdeen AB10 1FQ, UK
+map: https://www.google.com/maps/place/Aberdeen+Art+Gallery/@57.1481069,-2.1026962,17z/data=!3m1!4b1!4m2!3m1!1s0x48840e3cd13462af:0x67525c35c8ec0625
 url: http://www.aagm.co.uk/
-lat: "57.14813735"
-lon: "-2.1027209951756136"
+geo: '{"type":"Point","coordinates":[-2.1025518,57.14802899999999]}'
+plus_code: 9C9V4VXW+6X
 
 ---
 
