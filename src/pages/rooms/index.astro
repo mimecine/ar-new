@@ -21,10 +21,12 @@ rooms = rooms
   <section>
     <ul class="flex flex-wrap gap-3 justify-evenly">
       {
-        rooms.filter(room => !room.data.hidden && room.data.images).map((room) => (
+        rooms.filter(room => !room.data.hidden ).map((room) => (
+          <>
           <Thumbnail src={room.data.images[0]} alt={room.data.title} title={room.data.title} href={`/rooms/${room.slug}`}>
           <p class="text-sm my-[-0.5rem] italic"><FormattedDate date={room.data.startdate} /> - {room.data.enddate && <FormattedDate date={room.data.enddate} /> || `ONGOING`}</p>  
-          </Thumbnail> 
+          </Thumbnail>
+          </>
         ))
       }
     </ul>

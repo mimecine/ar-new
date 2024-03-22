@@ -50,7 +50,7 @@ const all_venues = await getCollection("venues");
         <ul class="flex flex-wrap gap-3 justify-evenly">
           {
             artist.data.works.map((work) => (
-              <Thumbnail src={work.src} alt={work.title} title={work.title} />
+              <Thumbnail src={work.src} alt={work.title} title={work.title} data-inventorynumber={work.inventorynumber} data-info={work.info} data-credit={work.credit} />
             ))
           }
         </ul>

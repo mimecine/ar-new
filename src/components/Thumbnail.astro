@@ -11,18 +11,23 @@ const { src, alt, title, href, class: className, ...props } = Astro.props;
     {href && <><a href={href}></>}
     <div class="h-full p-2" >
         <div class="w-full bg-gray-200 h-64 flex justify-center items-center">
-            <Image
-            width={500}
+            {src && <Image
+            x-width={500}
+            widths={[240, 540, 720, src.width]}
+            sizes={`(max-width: 360px) 240px, (max-width: 720px) 540px, (max-width: 1600px) 720px, ${src.width}px`}
             src={src}
             alt={alt}
             class="max-w-full h-full w-auto object-contain p-2"
             {...props}
-            />
+            /> }
         </div>
         <div class="h-full">
             {title && <h5>{title}</h5>}
+            {props['data-info'] && <p class="text-xs">{props['data-info']}</p>}
+            {props['data-credit'] && <p class="text-xs italic">{props['data-credit']}</p>}
+            {props['data-inventorynumber'] && <p class="text-xs uppercase">{props['data-inventorynumber']}</p>}
             <slot />
-        </div>
+        </div>    
     </div>
     {href && <></a></>}
 </li>
