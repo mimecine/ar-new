@@ -2,6 +2,8 @@
 import { type CollectionEntry, getCollection, getEntryBySlug } from "astro:content";
 import { Image } from "astro:assets";
 import Main from "../../layouts/Main.astro";
+import { Vimeo, YouTube } from 'astro-embed';
+
 
 export async function getStaticPaths() {
   let films = await getCollection("films");
@@ -26,7 +28,7 @@ const artists = await getCollection("artists");
 <main>
   <section class="grid w-full place-items-center">
     <div class="w-full h-full">
-      <iframe id="ytplayer" type="text/html" class="w-full aspect-video" loading="lazy"
+      <iframe id="player" type="text/html" class="w-full aspect-video" loading="lazy"
       src={film.data.url}></iframe>
                     {film.data.artists && film.data.artists.map(artist => <a class="artist" href={`/artists/${artist}`}>{artists.find(a => a.slug == artist)?.data.title}</a>)}
       <Content />

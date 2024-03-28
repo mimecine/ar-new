@@ -1,18 +1,15 @@
 ---
 import { getCollection } from "astro:content";
-import { Image } from "astro:assets";
-import { Icon } from 'astro-icon/components';
-
+import { Icon } from "astro-icon/components";
+import { Vimeo, YouTube } from 'astro-embed';
 import Main from "../../layouts/Main.astro";
-
-import FormattedDate from "../../components/FormattedDate.astro";
 
 let films = await getCollection("films");
 films = films
-  .filter((film) => film.data.hidden!==true)
+  .filter((film) => film.data.hidden !== true)
   .sort((a, b) => {
-  return a.data.title.localeCompare(b.data.title);
-});
+    return a.data.title.localeCompare(b.data.title);
+  });
 
 const artists = await getCollection("artists");
 ---
@@ -28,55 +25,62 @@ const artists = await getCollection("artists");
           films.map((film) => (
             <li
               class="film w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 cursor-pointer"
-              x-on:click="() => {src = $el.querySelector('iframe').src; dialog_open = true; $refs.dialog.showModal();}"
+              @click={`() => {src = '${film.data.url}'; dialog_open = true; $refs.dialog.showModal();}`}
             >
-              <iframe
+            <div class="pointer-events-none">
+              { film.data.url.includes('vimeo') && ( <Vimeo class="aspect-video bg-black" id={film.data.url} allow="autoplay; fullscreen; picture-in-picture" allowfullscreen/> )}
+              { film.data.url.includes('youtube') && ( <YouTube class="aspect-video bg-black" id={film.data.url} allow="autoplay; fullscreen; picture-in-picture" allowfullscreen/> )}
+            </div>
+               <!--  <iframe
                 id={`film-${film.slug}`}
                 type="text/html"
                 loading="lazy"
-                class="xmax-h-64 w-auto aspect-video pointer-events-none bg-black"
+                class="none xmax-h-64 w-auto aspect-video pointer-events-none bg-black"
                 src={film.data.url}
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                allowfullscreen 
-              />
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
+              /> -->
               <h4 class="title text-xl md:text-2xl">
                 <xa href={`/films/${film.slug}`}>
                   {film.data.title.replace(/ARTIST ROOMS:?/, "")}
                 </xa>
-              </h5>
+              </h4>
               ON:{" "}
               {film.data.artists &&
                 film.data.artists.map((artist) => (
                   <a class="artist" href={`/artists/${artist}`}>
-                    {artists.find((a) => a.slug == artist && !a.data.hidden)?.data.title}
+                    {
+                      artists.find((a) => a.slug == artist && !a.data.hidden)
+                        ?.data.title
+                    }
                   </a>
                 ))}
             </li>
-
-            
           ))
         }
       </ul>
       <dialog
-        xx-show="dialog_open"
         x-ref="dialog"
-        xx-transition
+        x-show="dialog_open"         
         id="film-dialog"
         class="w-lvw h-lvh xinset-0 xz-10 bg-transparent backdrop:bg-black backdrop:opacity-80"
       >
-        <button x-on:click="() => {dialog_open = false; $refs.dialog.close(); $refs.video.src=''}" class="absolute top-0 right-0 focus-visible:outline-none text-white">
+        <button
+          @click="() => {dialog_open = false; src = null; $refs.dialog.close(); /*$refs.video.stop(); $refs.video.src='about:none';*/}"
+          class="absolute top-0 right-0 focus-visible:outline-none text-white"
+        >
           <Icon name="material-symbols-light:close" class="size-6 lg:size-12" />
         </button>
-        <div
-          class="h-full w-full inset-0 grid place-items-center p-6"
-        >
+        <div class="h-full w-full inset-0 grid place-items-center p-6">
+          <template x-if="dialog_open">
           <iframe
             x-ref="video"
             id="film-iframe"
             class="w-full max-h-full aspect-video object-contain bg-gray bg-no-repeat bg-center bg-[url('/SvgSpinners180RingWithBg.svg')]"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                allowfullscreen 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
             :src="src"></iframe>
+          </template>
         </div>
       </dialog>
     </section>

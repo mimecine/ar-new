@@ -48,24 +48,22 @@ const all_venues = await getCollection("venues");
         </div>
       </div>
 
-      <div
-        x-data="{activeSlide:null}"
-        x-init="() => {window.$refs = $refs;}"
-      >
+      <div x-data="{activeSlide:null}" x-init="() => {window.$refs = $refs;}">
         <ul class="flex flex-wrap gap-3 justify-evenly">
           {
-            artist.data.works.map((work,i) => (
+            artist.data.works.map((work, i) => (
               <li>
                 <Thumbnail
                   src={work.src}
                   alt={work.title}
                   title={work.title}
-                  @click={`() => { activeSlide:${1+i}; $refs.dialog.showModal();}`}
+                  @click={`() => { activeSlide:${1 + i}; $refs.dialog.showModal();}`}
                 />
               </li>
             ))
           }
         </ul>
+
         <dialog
           x-ref="dialog"
           x-transition
@@ -81,20 +79,21 @@ const all_venues = await getCollection("venues");
             />
           </button>
 
-
-
-          <div class="h-full w-11/12 flex flex-col justify-center items-center mx-auto">
-            <div 
-              class=" w-full mx-auto relative"
+          <div
+            class="h-full w-11/12 flex flex-col justify-center items-center mx-auto"
+          >
+            <div
+              class="w-full mx-auto relative"
               x-data={`{ activeSlide: 1, slides: ${artist.data.works.length} }`}
             >
               <!-- Slides -->
-  
+
               {
-                artist.data.works.map((work,i) => (
-                <div
-                  x-show={`activeSlide === ${i+1}`}
-                  class=" w-full h-full max-h-[80%] text-sm lg:text-xl flex flex-col items-center text-white border z-10">
+                artist.data.works.map((work, i) => (
+                  <div
+                    x-show={`activeSlide === ${i + 1}`}
+                    class="w-full h-full max-h-[80%] text-sm lg:text-xl flex flex-col items-center text-white border border-pink-700 object-contain"
+                  >
                     <Image
                       src={work.src}
                       alt={work.title}
@@ -104,39 +103,39 @@ const all_venues = await getCollection("venues");
                       data-inventorynumber={work.inventorynumber}
                       data-info={work.info}
                       data-credit={work.credit}
-                      class="object-contain w-auto m-auto"
+                      class="object-contain w-auto m-auto border border-green-700"
                     />
                     <div class="text-center">
-                    <p class="p-1 pt-4">{work.title}</p>
-                    <p class="p-0 m-0 text-xs lg:text-lg italic opacity-80">{work.info}, {work.credit}, {work.inventorynumber}</p>
+                      <p class="p-1 pt-4">{work.title}</p>
+                      <p class="p-0 m-0 text-xs lg:text-lg italic opacity-80">
+                        {work.info}, {work.credit}, {work.inventorynumber}
+                      </p>
                     </div>
                   </div>
                 ))
-             }
-              
+              }
+
               <!-- Prev/Next Arrows -->
               <div class="absolute inset-0 flex z-0">
                 <div class="flex items-center justify-start w-1/2">
-                  <button 
+                  <button
                     class="bg-white text-black text-lg font-bold hover:shadow-lg rounded-full w-12 h-12 -ml-6 select-none"
                     x-on:click="activeSlide = activeSlide === 1 ? slides.length : activeSlide - 1"
                     x-on:keyup.left.window="activeSlide = activeSlide === 1 ? slides.length : activeSlide - 1"
-                    >
+                  >
                     &#8592;
                   </button>
                 </div>
                 <div class="flex items-center justify-end w-1/2">
-                  <button 
+                  <button
                     class="bg-white text-black text-xl font-bold hover:shadow rounded-full w-12 h-12 -mr-6 select-none"
                     x-on:click="activeSlide = activeSlide === slides.length ? 1 : activeSlide + 1"
                     x-on:keyup.right.window="activeSlide = activeSlide === slides.length ? 1 : activeSlide + 1"
-                    >
+                  >
                     &#8594;
                   </button>
-                </div>        
+                </div>
               </div>
-            </div>
-            
             </div>
           </div>
         </dialog>

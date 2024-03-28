@@ -17,7 +17,7 @@
 	--gray-gradient: rgba(var(--gray-light), 50%), #fff;
 	--box-shadow: 0 2px 6px rgba(var(--gray), 25%), 0 8px 24px rgba(var(--gray), 33%),
 		0 16px 32px rgba(var(--gray), 33%);
-	--main-background: rgb(239, 239, 239);
+	--main-background: rgb(141, 138, 138);
 	--font-family: 'Fredoka', 'Atkinson', sans-serif;
 	
 }
@@ -65,13 +65,14 @@ body {
 	margin: 0;
 	padding: 0;
 	text-align: left;
-	background: var(--main-background);
+	background-color: var(--main-background);
 	background-size: 100% 600px;
 	word-wrap: break-word;
 	overflow-wrap: break-word;
 	color: rgb(var(--gray-dark));
-	font-size: 20px;
+	-x-font-size: 20px;
 	line-height: 1.7;
+	@apply text-sm lg:text-xl
 }
 main {
 	max-width: calc(100% - 2em);
@@ -89,7 +90,8 @@ h6 {
 	line-height: 1.2;
 }
 h1 {
-	font-size: 3.052em;
+	@apply text-2xl lg:text-5xl
+
 }
 h2 {
 	font-size: 2.441em;

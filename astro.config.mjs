@@ -5,10 +5,11 @@ import tailwind from "@astrojs/tailwind";
 import alpinejs from "@astrojs/alpinejs";
 import icon from "astro-icon";
 
+
 import pagefind from "astro-pagefind";
 
 // https://astro.build/config
 export default defineConfig({
   site: 'https://example.com',
-  integrations: [mdx(), sitemap(), tailwind(), alpinejs(), icon(), pagefind()]
+  integrations: [mdx(), sitemap(), tailwind(), alpinejs(), icon(), pagefind()],
 });

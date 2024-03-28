@@ -1,0 +1,27 @@
+---
+import { getCollection } from "astro:content";
+import { Image } from "astro:assets";
+import Main from '../../layouts/Main.astro';
+import Thumbnail from "../../components/Thumbnail.astro";
+import FormattedDate from "../../components/FormattedDate.astro";
+
+let artists = await getCollection("artists");
+artists = artists
+.filter( (artist) => !artist.data.hidden )
+.sort(
+  (a, b) => { return a.data.title.localeCompare(b.data.title); }
+);
+---
+<Main title="The Artists">
+<main>
+  <section>
+    <ul class="flex flex-wrap gap-3 justify-evenly">
+      {
+        artists.map((artist) => (
+        <Thumbnail src={artist.data.featuredImage} alt={artist.data.title} title={artist.data.title} href={`/artists-x/${artist.slug}`}/>
+        ))
+      }
+    </ul>
+  </section>
+</main>
+</Main>
