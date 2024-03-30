@@ -51,7 +51,7 @@ const all_venues = await getCollection("venues");
       <div x-data="{activeSlide:null}" x-init="() => {window.$refs = $refs;}">
         <ul class="flex flex-wrap gap-3 justify-evenly">
           {
-            artist.data.works.map((work, i) => (
+            artist.data.works.map((work, i) => ( <>
               <li>
                 <Thumbnail
                   src={work.src}
@@ -60,6 +60,7 @@ const all_venues = await getCollection("venues");
                   @click={`() => { activeSlide:${1 + i}; $refs.dialog.showModal();}`}
                 />
               </li>
+              </>
             ))
           }
         </ul>
@@ -82,28 +83,20 @@ const all_venues = await getCollection("venues");
           <div
             class="h-full w-11/12 flex flex-col justify-center items-center mx-auto"
           >
-            <div
-              class="w-full mx-auto relative"
-              x-data={`{ activeSlide: 1, slides: ${artist.data.works.length} }`}
-            >
-              <!-- Slides -->
-
+            <div class="carousel w-full">
               {
-                artist.data.works.map((work, i) => (
-                  <div
-                    x-show={`activeSlide === ${i + 1}`}
-                    class="w-full h-full max-h-[80%] text-sm lg:text-xl flex flex-col items-center text-white border border-pink-700 object-contain"
-                  >
+                artist.data.works.map((work, i, works) => (
+                  <div id={`slide${i}`} class="carousel-item relative w-full">
                     <Image
                       src={work.src}
                       alt={work.title}
                       title={work.title}
-                      widths={[240, 540, 720, work.src.width]}
-                      sizes={`(max-width: 360px) 240px, (max-width: 720px) 540px, (max-width: 1600px) 720px, ${work.src.width}px`}
+                      widths={[360, 720, 1600]}
+                      sizes={`(max-width: 360px) 360px, (max-width: 720px) 720px, 1600px`}
                       data-inventorynumber={work.inventorynumber}
                       data-info={work.info}
                       data-credit={work.credit}
-                      class="object-contain w-auto m-auto border border-green-700"
+                      class="xw-full object-contain"
                     />
                     <div class="text-center">
                       <p class="p-1 pt-4">{work.title}</p>
@@ -111,31 +104,17 @@ const all_venues = await getCollection("venues");
                         {work.info}, {work.credit}, {work.inventorynumber}
                       </p>
                     </div>
+                    <div class="absolute flex justify-between transform -translate-y-1/2 left-0 right-0 top-1/2">
+                      <a href={`#slide${ i === 0 ? works.length-1 : i-1 } `} class="hidden lg:btn btn-circle !rounded-none !bg-[--main-background] !text-2xl">
+                        ❮
+                      </a>
+                      <a href={`#slide${ i === works.length-1 ? 0 : i+1 } `} class="hidden lg:btn btn-circle !rounded-none !bg-[--main-background] !text-2xl">
+                        ❯
+                      </a>
+                    </div>
                   </div>
                 ))
               }
-
-              <!-- Prev/Next Arrows -->
-              <div class="absolute inset-0 flex z-0">
-                <div class="flex items-center justify-start w-1/2">
-                  <button
-                    class="bg-white text-black text-lg font-bold hover:shadow-lg rounded-full w-12 h-12 -ml-6 select-none"
-                    x-on:click="activeSlide = activeSlide === 1 ? slides.length : activeSlide - 1"
-                    x-on:keyup.left.window="activeSlide = activeSlide === 1 ? slides.length : activeSlide - 1"
-                  >
-                    &#8592;
-                  </button>
-                </div>
-                <div class="flex items-center justify-end w-1/2">
-                  <button
-                    class="bg-white text-black text-xl font-bold hover:shadow rounded-full w-12 h-12 -mr-6 select-none"
-                    x-on:click="activeSlide = activeSlide === slides.length ? 1 : activeSlide + 1"
-                    x-on:keyup.right.window="activeSlide = activeSlide === slides.length ? 1 : activeSlide + 1"
-                  >
-                    &#8594;
-                  </button>
-                </div>
-              </div>
             </div>
           </div>
         </dialog>

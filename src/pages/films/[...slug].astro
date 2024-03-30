@@ -28,9 +28,9 @@ const artists = await getCollection("artists");
 <main>
   <section class="grid w-full place-items-center">
     <div class="w-full h-full">
-      <iframe id="player" type="text/html" class="w-full aspect-video" loading="lazy"
-      src={film.data.url}></iframe>
-                    {film.data.artists && film.data.artists.map(artist => <a class="artist" href={`/artists/${artist}`}>{artists.find(a => a.slug == artist)?.data.title}</a>)}
+      { film.data.url.includes('vimeo') && ( <Vimeo class="aspect-video bg-black" id={film.data.url} allow="autoplay; fullscreen; picture-in-picture" allowfullscreen/> )}
+      { film.data.url.includes('youtube') && ( <YouTube class="aspect-video bg-black" id={film.data.url} allow="autoplay; fullscreen; picture-in-picture" allowfullscreen/> )}
+      {film.data.artists && film.data.artists.map(artist => <a class="artist" href={`/artists/${artist}`}>{artists.find(a => a.slug == artist)?.data.title}</a>)}
       <Content />
     </div>
   </section>

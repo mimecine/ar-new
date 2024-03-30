@@ -60,6 +60,9 @@
 	font-variation-settings:
 	  "wdth" 100; /* 75 to 125 */
   }  
+li:empty {
+	display: none;
+}
 body {
 	font-family: var(--font-family);
 	margin: 0;
@@ -71,7 +74,7 @@ body {
 	overflow-wrap: break-word;
 	color: rgb(var(--gray-dark));
 	-x-font-size: 20px;
-	line-height: 1.7;
+	-x-line-height: 1.7;
 	@apply text-sm lg:text-xl
 }
 main {

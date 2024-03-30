@@ -1,7 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import { Icon } from "astro-icon/components";
-import { Vimeo, YouTube } from 'astro-embed';
+import { Vimeo, YouTube } from "astro-embed";
 import Main from "../../layouts/Main.astro";
 
 let films = await getCollection("films");
@@ -9,6 +9,23 @@ films = films
   .filter((film) => film.data.hidden !== true)
   .sort((a, b) => {
     return a.data.title.localeCompare(b.data.title);
+  })
+  .map((film) => {
+    let url = film.data.url,
+      embed = null;
+    if (url.includes("vimeo")) {
+      embed = url.replace(
+        /(?:http:|https:|)\/\/(?:player.|www.)?vimeo\.com\/(?:video\/|embed\/|watch\?\S*v=|v\/)?(\d*)(?:.*)/gim,
+        "https://player.vimeo.com/video/$1?app_id=122963"
+      );
+    } else if (url.includes("youtube")) {
+      embed = url.replace(
+        /(?:http:|https:|)\/\/(?:www\.|)youtube\.com\/(?:watch\?.*(?:|\&)v=|embed\/|v\/|watch\?.*?\bv=)([^#\&\?]*).*/gim,
+        "https://www.youtube.com/embed/$1"
+      );
+    }
+    film.data.embed = embed;
+    return film;
   });
 
 const artists = await getCollection("artists");
@@ -25,25 +42,28 @@ const artists = await getCollection("artists");
           films.map((film) => (
             <li
               class="film w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 cursor-pointer"
-              @click={`() => {src = '${film.data.url}'; dialog_open = true; $refs.dialog.showModal();}`}
+              @click={`() => {src = '${film.data.embed}'; dialog_open = true; $refs.dialog.showModal();}`}
             >
-            <div class="pointer-events-none">
-              { film.data.url.includes('vimeo') && ( <Vimeo class="aspect-video bg-black" id={film.data.url} allow="autoplay; fullscreen; picture-in-picture" allowfullscreen/> )}
-              { film.data.url.includes('youtube') && ( <YouTube class="aspect-video bg-black" id={film.data.url} allow="autoplay; fullscreen; picture-in-picture" allowfullscreen/> )}
-            </div>
-               <!--  <iframe
-                id={`film-${film.slug}`}
-                type="text/html"
-                loading="lazy"
-                class="none xmax-h-64 w-auto aspect-video pointer-events-none bg-black"
-                src={film.data.url}
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowfullscreen
-              /> -->
+              <div class="pointer-events-none">
+                {film.data.url.includes("vimeo") && (
+                  <Vimeo
+                    class="aspect-video bg-black"
+                    id={film.data.url}
+                    allow="autoplay; fullscreen; picture-in-picture"
+                    allowfullscreen
+                  />
+                )}
+                {film.data.url.includes("youtube") && (
+                  <YouTube
+                    class="aspect-video bg-black"
+                    id={film.data.url}
+                    allow="autoplay; fullscreen; picture-in-picture"
+                    allowfullscreen
+                  />
+                )}
+              </div>
               <h4 class="title text-xl md:text-2xl">
-                <xa href={`/films/${film.slug}`}>
-                  {film.data.title.replace(/ARTIST ROOMS:?/, "")}
-                </xa>
+                {film.data.title.replace(/ARTIST ROOMS:?/, "")}
               </h4>
               ON:{" "}
               {film.data.artists &&
@@ -61,25 +81,26 @@ const artists = await getCollection("artists");
       </ul>
       <dialog
         x-ref="dialog"
-        x-show="dialog_open"         
+        x-show="dialog_open"
         id="film-dialog"
         class="w-lvw h-lvh xinset-0 xz-10 bg-transparent backdrop:bg-black backdrop:opacity-80"
       >
         <button
-          @click="() => {dialog_open = false; src = null; $refs.dialog.close(); /*$refs.video.stop(); $refs.video.src='about:none';*/}"
+          @click="() => {dialog_open = false; src = null; $refs.dialog.close();}"
           class="absolute top-0 right-0 focus-visible:outline-none text-white"
         >
           <Icon name="material-symbols-light:close" class="size-6 lg:size-12" />
         </button>
         <div class="h-full w-full inset-0 grid place-items-center p-6">
           <template x-if="dialog_open">
-          <iframe
-            x-ref="video"
-            id="film-iframe"
-            class="w-full max-h-full aspect-video object-contain bg-gray bg-no-repeat bg-center bg-[url('/SvgSpinners180RingWithBg.svg')]"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
-            :src="src"></iframe>
+            <iframe
+              x-transition.duration.1000ms.opacity.scale.ease-in-out
+              x-ref="video"
+              id="film-iframe"
+              class="w-full max-h-full aspect-video object-contain bg-gray bg-no-repeat bg-center bg-[url('/SvgSpinners180RingWithBg.svg')]"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+              :src="src"></iframe>
           </template>
         </div>
       </dialog>
