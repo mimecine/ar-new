@@ -4,12 +4,12 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "bun astro dev",
-    "start": "bun concurrently npm:dev npm:cms",
+    "start": "concurrently npm:dev npm:cms",
     "build": "bun astro build",
     "deploy": "vercel --dist",
-    "preview": "bun astro preview",
+    "preview": "astro preview",
     "cms": "npm exec @staticcms/proxy-server",
-    "astro": "bun astro"
+    "astro": "astro"
   },
   "dependencies": {
     "@astrojs/alpinejs": "^0.4.0",

@@ -39,8 +39,8 @@ const all_venues = await getCollection("venues");
         </div>
         <div class="md:w-1/2">
           <Image
-            widths={[240, 540, 720, artist.data.featuredImage.width]}
-            sizes={`(max-width: 360px) 240px, (max-width: 720px) 540px, (max-width: 1600px) 720px, ${artist.data.featuredImage.width}px`}
+            widths={[360, 1600]}
+            sizes={`(max-width: 360px) 360px, 1600px`}
             src={artist.data.featuredImage}
             alt={artist.data.title}
             class="px-8 max-w-full w-auto object-cover"
