@@ -91,14 +91,14 @@ const all_venues = await getCollection("venues");
                       src={work.src}
                       alt={work.title}
                       title={work.title}
-                      widths={[360, 720, 1600]}
-                      sizes={`(max-width: 360px) 360px, (max-width: 720px) 720px, 1600px`}
+                      widths={[360, 1600]}
+                      sizes={`(max-width: 360px) 360px, 1600px`}
                       data-inventorynumber={work.inventorynumber}
                       data-info={work.info}
                       data-credit={work.credit}
                       class="xw-full object-contain"
                     />
-                    <div class="text-center">
+                    <div class="hidden text-center">
                       <p class="p-1 pt-4">{work.title}</p>
                       <p class="p-0 m-0 text-xs lg:text-lg italic opacity-80">
                         {work.info}, {work.credit}, {work.inventorynumber}

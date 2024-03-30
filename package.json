@@ -3,13 +3,13 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "astro dev",
-    "start": "concurrently npm:dev npm:cms",
-    "build": "astro build",
+    "dev": "bun astro dev",
+    "start": "bun concurrently npm:dev npm:cms",
+    "build": "bun astro build",
     "deploy": "vercel --dist",
-    "preview": "astro preview",
+    "preview": "bun astro preview",
     "cms": "npm exec @staticcms/proxy-server",
-    "astro": "astro"
+    "astro": "bun astro"
   },
   "dependencies": {
     "@astrojs/alpinejs": "^0.4.0",

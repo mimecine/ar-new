@@ -12,8 +12,8 @@ const { src, alt, title, href, class: className, ...props } = Astro.props;
     <div class="h-full p-2" >
         <div class="w-full bg-gray-200 h-64 flex justify-center items-center">
             {src && <Image
-                widths={[360, 720, 1600]}
-                sizes={`(max-width: 360px) 360px, (max-width: 720px) 720px, 1600px`}
+                widths={[360, 1600]}
+                sizes={`(max-width: 360px) 360px, 1600px`}
                 src={src}
                 alt={alt}
                 class="max-w-full h-full w-auto object-contain p-2"
