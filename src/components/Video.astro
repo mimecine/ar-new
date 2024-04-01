@@ -1,0 +1,80 @@
+---
+import { Image } from "astro:assets";
+import type { HTMLAttributes } from "astro/types";
+import { extract } from "@extractus/oembed-extractor";
+import { Icon } from "astro-icon/components";
+
+type Props = HTMLAttributes<"img">;
+
+const { src, alt, title, class: className, ...props } = Astro.props;
+
+let film, id, url, embed, thumb, width, height, vtitle;
+
+if (src?.includes("vimeo")) {
+  let id = src.replace(
+    /(?:http:|https:|)\/\/(?:player.|www.)?vimeo\.com\/(?:video\/|embed\/|watch\?\S*v=|v\/)?(\d*)(?:.*)/gim,
+    "$1"
+  );
+  url = `https://vimeo.com/${id}`;
+  embed = `https://player.vimeo.com/video/${id}?app_id=122963`;
+} else if (src?.includes("youtube")) {
+  let id = src.replace(
+    /(?:http:|https:|)\/\/(?:www\.|)youtube\.com\/(?:watch\?.*(?:|\&)v=|embed\/|v\/|watch\?.*?\bv=)([^#\&\?]*).*/gim,
+    "$1"
+  );
+  url = `https://youtube.com/watch?v=${id}`;
+  embed = `https://www.youtube.com/embed/${id}`;
+}
+
+console.log(url);
+
+try {
+  let res = await extract(url);
+  thumb = res.thumbnail_url;
+  width = res.thumbnail_width;
+  height = res.thumbnail_height;
+} catch (e) {
+  console.log(e, id, url);
+}
+---
+
+<div
+  class="h-full p-2 cursor-pointer"
+  onclick="this.querySelector('dialog').showModal()"
+>
+  <div class="w-full bg-gray-200 h-64 flex justify-center items-center">
+    {
+      thumb && (
+        <Image
+          width={width}
+          height={height}
+          src={thumb}
+          alt={title}
+          class="max-w-full h-full w-auto object-contain p-2"
+          {...props}
+        />
+      )
+    }
+  </div>
+  <slot />
+  <dialog
+    class="w-lvw h-lvh xinset-0 xz-10 bg-transparent backdrop:bg-black backdrop:opacity-80"
+  >
+    <form method="dialog">
+      <button
+        class="absolute top-0 right-0 focus-visible:outline-none text-white"
+        type="submit"
+      >
+        <Icon name="material-symbols-light:close" class="size-6 lg:size-12" />
+      </button>
+    </form>
+    <div class="h-full w-full inset-0 grid place-items-center p-6">
+      <iframe
+        id="film-iframe"
+        class="w-full max-h-full aspect-video object-contain bg-gray bg-no-repeat bg-center bg-[url('/SvgSpinners180RingWithBg.svg')]"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen
+        src={embed}></iframe>
+    </div>
+  </dialog>
+</div>

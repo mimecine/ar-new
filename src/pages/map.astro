@@ -16,7 +16,7 @@ const artists = await getCollection("artists");
 ---
 
 <Main title="The Map">
-    <div id="map" class="size-full border border-gray-700"></div>
+    <div id="map" class="w-[90vw] max-w-screen-2xl h-full  border border-gray-700"></div>
     <script
     src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
@@ -65,8 +65,8 @@ const artists = await getCollection("artists");
                 }).join('; ')
                 marker.bindPopup(`
                     <h3 class="text-black font-[--font-family]" style="font-family:var(--font-family)">${venue.data.title}</h3>
-                    <p class="!text-xs font-italic">${venue.data.address}</p>
                     <p class="!text-lg">${room_string}</p>
+                    <p class="!text-xs font-italic">${venue.data.address}</p>
                     `)//.openPopup();
                 bounds.extend(lon_lat);
             }

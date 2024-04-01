@@ -1,35 +1,71 @@
 ---
 import { getCollection } from "astro:content";
 import { Image } from "astro:assets";
-import Main from '../../layouts/Main.astro';
-import  FormattedDate  from "../../components/FormattedDate.astro";
+import Main from "../../layouts/Main.astro";
+import FormattedDate from "../../components/FormattedDate.astro";
 import Thumbnail from "../../components/Thumbnail.astro";
-let rooms = (await getCollection("rooms"));
+let rooms = await getCollection("rooms");
 const continuos = new Date(2100, 1, 1);
 rooms = rooms
-  .filter((room) =>!room.data.hidden)
+  .filter((room) => !room.data.hidden)
   .sort((a, b) => {
-    let date = (b.data.enddate||continuos) - (a.data.enddate||continuos)
-    return  date;
-   })
-   .sort((a, b) => {
-     return a.data.priority > b.data.priority ? -1 : 1;
-   });
+    let date = (b.data.enddate || continuos) - (a.data.enddate || continuos);
+    return date;
+  })
+  .sort((a, b) => {
+    return a.data.priority > b.data.priority ? -1 : 1;
+  });
 ---
+
 <Main title="The Rooms">
-<main>
-  <section>
-    <ul class="flex flex-wrap gap-3 justify-evenly">
-      {
-        rooms.filter(room => !room.data.hidden ).map((room) => (
-          <>
-          <Thumbnail src={room.data.images[0]} alt={room.data.title} title={room.data.title} href={`/rooms/${room.slug}`}>
-          <p class="text-sm my-[-0.5rem] italic"><FormattedDate date={room.data.startdate} /> - {room.data.enddate && <FormattedDate date={room.data.enddate} /> || `ONGOING`}</p>  
-          </Thumbnail>
-          </>
-        ))
-      }
-    </ul>
-  </section>
-</main>
+  <main>
+    <section>
+      <ul class="flex flex-wrap gap-3 justify-evenly">
+        {
+          rooms
+            .filter((room) => !room.data.hidden)
+            .map((room) => (
+              <li class="w-full md:w-1/3 lg:w-1/4 xl:w-1/5 xxl:w-1/6 p-4">
+                <a href={`/rooms/${room.slug}`}>
+                  <Thumbnail
+                    src={room.data.images[0]}
+                    alt={room.data.title}
+                    title={room.data.title}
+                  >
+                    <div class="h-full">
+                      {room.data.title && <h5 class="text-balance">{room.data.title}</h5>}
+                      <p class="text-sm my-[-0.5rem] italic">
+                        <FormattedDate date={room.data.startdate} /> -{" "}
+                        {(room.data.enddate && (
+                          <FormattedDate date={room.data.enddate} />
+                        )) ||
+                          `ONGOING`}
+                      </p>
+                    </div>
+                  </Thumbnail>
+                </a>
+              </li>
+            ))
+        }
+        <li class="h-0 w-full md:w-1/3 lg:w-1/4 xl:w-1/5 xxl:w-1/6 p-4">
+          &nbsp;
+        </li>
+        <li class="h-0 w-full md:w-1/3 lg:w-1/4 xl:w-1/5 xxl:w-1/6 p-4">
+          &nbsp;
+        </li>
+        <li class="h-0 w-full md:w-1/3 lg:w-1/4 xl:w-1/5 xxl:w-1/6 p-4">
+          &nbsp;
+        </li>
+        <li class="h-0 w-full md:w-1/3 lg:w-1/4 xl:w-1/5 xxl:w-1/6 p-4">
+          &nbsp;
+        </li>
+        <li class="h-0 w-full md:w-1/3 lg:w-1/4 xl:w-1/5 xxl:w-1/6 p-4">
+          &nbsp;
+        </li>
+        <li class="h-0 w-full md:w-1/3 lg:w-1/4 xl:w-1/5 xxl:w-1/6 p-4">
+          &nbsp;
+        </li>
+      </ul>
+    </section>
+  </main>
 </Main>
