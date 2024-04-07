@@ -17,6 +17,11 @@ export async function getStaticPaths() {
 type Props = CollectionEntry<"artists">;
 
 const artist = Astro.props;
+
+let sortedWorks = artist.data.works.sort((a, b) => {
+  return a.title.split(',').pop() - b.title.split(',').pop();
+}); // needs mod to sort by year
+
 const { Content } = await artist.render();
 
 const all_rooms = await getCollection("rooms");
@@ -51,14 +56,14 @@ const all_venues = await getCollection("venues");
       <div x-data x-init="() => {window.$refs = $refs;}">
         <ul class="flex flex-wrap gap-3 justify-evenly">
           {
-            artist.data.works.map((work, i) => (
+            sortedWorks.map((work, i) => (
               <li
                 class="w-full md:w-1/3 lg:w-1/4 xl:w-1/5 xxl:w-1/6 p-0 md:p-4"
                 @click.prevent={` () => {$refs.dialog.showModal(); document.getElementById('p${i}').scrollIntoView(); } `}
               >
                 <Thumbnail src={work.src} alt={work.title} title={work.title}>
                   <div class="h-full">
-                    {work.title && <h5 class=" text-balance">{work.title}</h5>}
+                    {work.title && <h5 class="text-balance">{work.title}</h5>}
                   </div>
                 </Thumbnail>
               </li>
@@ -104,43 +109,45 @@ const all_venues = await getCollection("venues");
           >
             <div class="carousel w-full">
               {
-                artist.data.works.map((work, i, works) => (
+                sortedWorks.map((work, i, works) => (
                   <div
                     id={`p${i}`}
                     class="carousel-item relative w-full duration-75"
                   >
-                    <Image
-                      src={work.src}
-                      alt={work.title}
-                      title={work.title}
-                      widths={[360, 1600]}
-                      sizes={`(max-width: 360px) 360px, 1600px`}
-                      data-inventorynumber={work.inventorynumber}
-                      data-info={work.info}
-                      data-credit={work.credit}
-                      class="xw-full object-contain"
-                    />
-                    <div class="hidden text-center">
-                      <p class="p-1 pt-4">{work.title}</p>
-                      <p class="p-0 m-0 text-xs lg:text-lg italic opacity-80">
-                        {work.info}, {work.credit}, {work.inventorynumber}
-                      </p>
-                    </div>
-                    <div class="absolute flex justify-between transform -translate-y-1/2 left-0 right-0 top-1/2">
-                      <a
-                        href={`#p${i === 0 ? works.length - 1 : i - 1} `}
-                        class="hidden lg:btn btn-circle !rounded-none !bg-[--main-background] !text-2xl !border-none"
-                        @click.prevent="() => {document.getElementById($el.href.split('#').pop()).scrollIntoView({behavior: 'smooth'})}"
-                      >
-                        ❮❮
-                      </a>
-                      <a
-                        href={`#p${i === works.length - 1 ? 0 : i + 1} `}
-                        class="hidden lg:btn btn-circle !rounded-none !bg-[--main-background] !text-2xl !border-none"
-                        @click.prevent="() => {document.getElementById($el.href.split('#').pop()).scrollIntoView({behavior: 'smooth'})}"
-                      >
-                        ❯❯
-                      </a>
+                    <div class="frame w-full h-full bg-gray-200 p-8 relative flex flex-col justify-center items-center">
+                      <Image
+                        src={work.src}
+                        alt={work.title}
+                        title={work.title}
+                        widths={[360, 1600]}
+                        sizes={`(max-width: 360px) 360px, 1600px`}
+                        data-inventorynumber={work.inventorynumber}
+                        data-info={work.info}
+                        data-credit={work.credit}
+                        class="max-w-full max-h-full object-contain"
+                      />
+                      <div class="xhidden absolute bottom-0 text-center text-black p-2">
+                        <p class="p-0 hidden">{work.title}</p>
+                        <p class="p-0 m-0 text-xs lg:text-sm italic opacity-50">
+                        <span class="font-bold">{work.title.replace(/,\s*\d{4}$/,'')}</span> / {work.info} / {work.credit} / <span class="uppercase">{work.inventorynumber}</span>
+                        </p>
+                      </div>
+                      <div class="absolute flex justify-between transform -translate-y-1/2 left-0 right-0 top-1/2">
+                        <a
+                          href={`#p${i === 0 ? works.length - 1 : i - 1} `}
+                          class="hidden lg:btn btn-circle !rounded-none !bg-[--main-background] !text-2xl !border-none"
+                          @click.prevent="() => {document.getElementById($el.href.split('#').pop()).scrollIntoView({behavior: 'smooth'})}"
+                        >
+                          ❮❮
+                        </a>
+                        <a
+                          href={`#p${i === works.length - 1 ? 0 : i + 1} `}
+                          class="hidden lg:btn btn-circle !rounded-none !bg-[--main-background] !text-2xl !border-none"
+                          @click.prevent="() => {document.getElementById($el.href.split('#').pop()).scrollIntoView({behavior: 'smooth'})}"
+                        >
+                          ❯❯
+                        </a>
+                      </div>
                     </div>
                   </div>
                 ))

@@ -72,13 +72,14 @@ const artists = await getCollection("artists");
               {
                 room.data.images?.map((image, i, images) => (
                   <div id={`p${i}`} class="carousel-item relative w-full duration-75">
+                    <div class="frame w-full h-full bg-gray-200 p-8 relative flex justify-center items-center">
                     <Image
                       src={image}
                       alt={room.data.title}
                       title={room.data.title}
                       widths={[360, 1600]}
                       sizes={`(max-width: 360px) 360px, 1600px`}
-                      class="xw-full object-contain"
+                      class="max-w-full max-h-full object-contain"
                     />
                     <div class="absolute flex justify-between transform -translate-y-1/2 left-0 right-0 top-1/2">
                       <a href={`#p${ i === 0 ? images.length-1 : i-1 } `} class="hidden lg:btn btn-circle !rounded-none !bg-[--main-background] !text-2xl !border-none"
@@ -91,6 +92,7 @@ const artists = await getCollection("artists");
                       >
                         ❯❯
                       </a>
+                    </div>
                     </div>
                   </div>
                 ))

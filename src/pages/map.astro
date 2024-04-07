@@ -39,7 +39,7 @@ const artists = await getCollection("artists");
       var map = L.map("map").setView([51.505, -0.09], 13);
       var bounds = L.latLngBounds(); // Instantiate LatLngBounds object
       var markers = L.markerClusterGroup({
-			maxClusterRadius: 120,
+			maxClusterRadius: 25,
 			iconCreateFunction: function (cluster) {
 				var markers = cluster.getAllChildMarkers();
 				var n = 0;
@@ -49,7 +49,7 @@ const artists = await getCollection("artists");
 				return L.divIcon({ html: markers.length, className: 'mycluster', iconSize: L.point(20, 20) });
 			},
 			//Disable all of the defaults:
-			spiderfyOnMaxZoom: false, showCoverageOnHover: false, zoomToBoundsOnClick: true, maxClusterRadius: 25,
+			spiderfyOnMaxZoom: false, showCoverageOnHover: false, zoomToBoundsOnClick: true,
 		});
  // Instantiate MarkerClusterGroup to hold marker clusters
 
@@ -98,7 +98,9 @@ const artists = await getCollection("artists");
                     <p class="!text-lg">${room_string}</p>
                     <p><a class="!text-xs !font-italic !text-black !underline" href="https://google.com/maps/search/?api=1&query=${venue.data.title}, ${venue.data.town}" target="_map">${venue.data.address}</a></p>
                     `);
+                    // marker.bindTooltip(venue.data.title); // too ugly!
           bounds.extend(lon_lat);
+          
         }
       });
 
