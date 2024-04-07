@@ -40,9 +40,6 @@ const all_venues = await getCollection("venues");
     <section>
       <div class="flex flex-wrap">
         <div class="md:w-1/2">
-          <Content />
-        </div>
-        <div class="md:w-1/2">
           <Image
             widths={[360, 1600]}
             sizes={`(max-width: 360px) 360px, 1600px`}
@@ -50,6 +47,9 @@ const all_venues = await getCollection("venues");
             alt={artist.data.title}
             class="px-0 py-4 md:px-8 md:py-0 max-w-full w-auto object-cover"
           />
+        </div>
+        <div class="md:w-1/2">
+          <Content />
         </div>
       </div>
 
