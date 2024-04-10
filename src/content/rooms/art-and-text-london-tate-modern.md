@@ -20,7 +20,6 @@ images:
   - ../../media/Richard-Long-CBE-In-the-Cloud-1991-.jpeg
   - ../../media/Mario-Merz-Che-Fare-1968-73-.jpeg
 startdate: 2020-01-01
-enddate: 2028-01-01
 
 ---
 

@@ -36,7 +36,7 @@ for (const slug of settings.films) {
   <main>
     {
       settings.intro && (
-        <section class="intro">
+        <section class="intro pb-12">
           <div set:html={marked.parse(settings.intro)} />
         </section>
       )
@@ -117,7 +117,7 @@ for (const slug of settings.films) {
     </section>
     {
       settings.outro && (
-        <section class="outro">
+        <section class="outro pt-12">
           <div set:html={marked.parse(settings.outro)} />
         </section>
       )
