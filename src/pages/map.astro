@@ -4,19 +4,16 @@ import Main from "../layouts/Main.astro";
 // https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png
 
 import { getCollection } from "astro:content";
-import { Image } from "astro:assets";
-
 const venues = await getCollection("venues");
-const rooms = await getCollection("rooms");
 venues.sort((a, b) => {
   return a.data.title.localeCompare(b.data.title);
 });
-
-const artists = await getCollection("artists");
 ---
 
 <Main title="The Map">
-  <div id="map" class="w-[90vw] max-w-screen-2xl h-full border border-gray-700">
+  <div class="flex justify-center w-full h-full">
+  <div id="map" class="w-full max-w-screen-2xl h-full border border-gray-500">
+  </div>
   </div>
 
   <link
@@ -93,18 +90,25 @@ const artists = await getCollection("artists");
           let geo = JSON.parse(venue.data.geo);
           let lon_lat = geo.coordinates.reverse();
           var marker = L.marker(lon_lat, { icon: lgIcon }).addTo(markers);
-
+          let new_year = '';
           var room_string = venue.data.rooms
+            .sort((a, b) => new Date(a.date) - new Date(b.date))
             .map((room) => {
-              return `<a href="/rooms/${room.slug}" class="!text-black !font-[--font-family]">${room.title.replace(/,[^,]+$/, "")}</a>`;
+              let year = room.date.slice(0, 4);
+              if (new_year!= year) {
+                new_year = year;
+                return `<span class="italic">${year}:</span> <a href="/rooms/${room.slug}" class="!text-black !font-[--font-family]">${room.title.replace(/,[^,]+$/, "")}</a>`;
+              } else {
+                return `<a href="/rooms/${room.slug}" class="!text-black !font-[--font-family]">${room.title.replace(/,[^,]+$/, "")}</a>`;
+              }
             })
             .join("; ");
           marker.bindPopup(`
                     <h3 class="text-black !font-[--font-family]">${venue.data.title}</h3>
                     <p class="!text-lg">${room_string}</p>
-                    <p><a class="!text-xs !font-italic !text-black !underline" href="https://google.com/maps/search/?api=1&query=${venue.data.title}, ${venue.data.town}" target="_map">${venue.data.address}</a></p>
+                    <p><a class="!text-xs !font-italic !text-black !underline" href="https://google.com/maps/search/?api=1&query=${venue.data.title}, ${venue.data.town}, UK" target="_map">${venue.data.address}</a></p>
                     `);
-          // marker.bindTooltip(venue.data.title); // too ugly!
+           marker.bindTooltip(venue.data.title); // too ugly!
           bounds.extend(lon_lat);
         }
       });
@@ -117,30 +121,31 @@ const artists = await getCollection("artists");
     document.addEventListener("astro:page-load", loadedHandler);
   </script>
   <style is:inline>
+
+.leaflet-container {
+  font-family: "Fredoka Variable", sans-serif;
+}
     .leaflet-popup-content-wrapper {
       box-shadow: none !important;
-      border: 1px solid black !important;
-    }
-    .leaflet-popup-content-wrapper {
+      border: 1px solid #6b7280 !important;
       border-radius: 0 !important;
+      background-color: #d4dadc;
     }
-
     .leaflet-popup-tip {
-      border-bottom: 1px solid black;
-      border-right: 1px solid black;
+      border-bottom: 1px solid #6b7280;
+      border-right: 1px solid #6b7280;
     }
 
     .leaflet-bottom {
       z-index: 1;
     }
-    .leaflet-popup-content {
-      font-family: serif !important;
+    .leaflet-popup-content {      
     }
 
     .mycluster {
       width: 20px;
       height: 15px;
-      border: 2px solid black;
+      border: 2px solid #6b7280;
       border-radius: 100%;
       background-color: var(--main-background);
       color: white;

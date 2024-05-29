@@ -4,12 +4,14 @@ import BaseHead from "../components/BaseHead.astro";
 import Footer from "../components/Footer.astro";
 import HeaderLink from "../components/HeaderLink.astro";
 import { Icon } from "astro-icon/components";
-//import Search from "astro-pagefind/components/Search";
-import { ViewTransitions } from 'astro:transitions';
 
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+}
 
-//import settings from "../_data/index_settings.json" with { type: "json" };
-const { title } = Astro.props;
+const { title, description, image } = Astro.props;
 ---
 
 <html lang="en-US" class="bg-[--main-background]">
@@ -67,7 +69,6 @@ const { title } = Astro.props;
         <HeaderLink href="/page/about" class="!hidden lg:!inline-block"
           >About</HeaderLink
         >
-        <xSearch id="search" className="pagefind-ui" uiOptions={{ showImages: false, excerptLength: 0, showExcerpt: false }} />
 
         <div
           x-data="{ open: false }"

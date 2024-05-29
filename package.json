@@ -29,6 +29,7 @@
     "astro": "^4.4.0",
     "astro-embed": "^0.6.1",
     "astro-icon": "^1.1.0",
+    "astro-pagefind": "^1.5.0",
     "core-js": "^3.37.1",
     "crawler": "^1.5.0",
     "dotenv": "^16.4.5",

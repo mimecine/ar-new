@@ -21,6 +21,7 @@ const room = Astro.props;
 const { Content } = await room.render();
 
 const artists = await getCollection("artists");
+const venues = await getCollection("venues");
 
 const grid_tail_size = new Array(4 - room.data.images.length % 4);
 for (let i = 0; i < grid_tail_size.length; i++) {
@@ -30,7 +31,7 @@ for (let i = 0; i < grid_tail_size.length; i++) {
 
 ---
 
-<Main title={`${room.data.title}`}>
+<Main title={room.data.title.replace(/,[^,]+$/,'')}>
   <main>
     <section class="w-full">
       <div
@@ -153,12 +154,14 @@ for (let i = 0; i < grid_tail_size.length; i++) {
         </dialog>
       </div>
 
-      <h2>
+      <h2>{venues.find((a) => a.slug == room.data.venue)?.data.title}, {venues.find((a) => a.slug == room.data.venue)?.data.town} </h2>
+      
+      <h4>
         <FormattedDate date={room.data.startdate} /> - {
           (room.data.enddate && <FormattedDate date={room.data.enddate} />) ||
             `ONGOING`
         }
-      </h2>
+      </h4>
       <div class="max-w-4xl">
         <Content />
       </div>
