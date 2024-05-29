@@ -2,7 +2,7 @@
 title: Gerhard Richter, Plymouth
 artists:
   - gerhard-richter
-venue: plymouth-city-museum-art-gallery
+venue: plymouth-city-museum-and-art-gallery
 images:
   - ../../media/Gerhard-Richter-07.jpg
   - ../../media/Gerhard-Richter-18.jpg

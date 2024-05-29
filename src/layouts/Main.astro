@@ -45,11 +45,11 @@ const { title } = Astro.props;
             class="h-10 lg:h-14 w-auto"
           />
         </a>
-        <h1 class="text-lg lg:text-5xl text-balance">
+        <h1 class="text-sm md:text-lg lg:text-5xl text-balance">
           {title.replace(/Artist Rooms|-/g, "")}
         </h1>
       </div>
-      <div class="flex flex-col lg:flex-row print:hidden items-end gap-4">
+      <div class="flex flex-col lg:flex-row print:hidden items-end lg:gap">
         <HeaderLink href="/rooms" class="!hidden lg:!inline-block"
           >Rooms</HeaderLink
         >
@@ -96,7 +96,7 @@ const { title } = Astro.props;
       </div>
     </nav>
 <div class="grid justify-items-center">
-    <article class="p-2 pt-16 lg:p-4 lg:pt-[8rem] max-w-screen-2xl">
+    <article class="p-2 pt-16 lg:p-4 lg:pt-[8rem] max-w-screen-2xl w-full">
       <slot />
     </article></div>
     <Footer />

@@ -2,7 +2,7 @@
 title: Vija Celmins, Sleaford
 artists:
   - vija-celmins
-venue: national-centre-for-craft-design
+venue: national-centre-for-craft-and-design
 images:
   - ../../media/Vija-Celmins-01.jpeg
   - ../../media/Vija-Celmins-03.jpeg

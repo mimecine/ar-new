@@ -2,7 +2,7 @@
 title: Diane Arbus, Bideford
 artists:
   - diane-arbus
-venue: the-burton-art-gallery-museum
+venue: the-burton-art-gallery-and-museum
 images:
   - ../../media/Diane-Arbus-Artist-Rooms-Burton-Art-Gallery-01.jpg
   - ../../media/Diane-Arbus-Artist-Rooms-Burton-Art-Gallery-07.jpg

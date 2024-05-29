@@ -2,7 +2,7 @@
 title: Gilbert & George, Brighton
 artists:
   - gilbert-george
-venue: brighton-museum-art-gallery
+venue: brighton-museum-and-art-gallery
 images:
   - ../../media/Gilbert-and-George-Brighton-2018-10.jpg
   - ../../media/Gilbert-and-George-Brighton-2018-09.jpg

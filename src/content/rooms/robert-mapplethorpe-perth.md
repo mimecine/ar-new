@@ -2,7 +2,7 @@
 title: Robert Mapplethorpe, Perth
 artists:
   - robert-mapplethorpe
-venue: perth-museum-art-gallery
+venue: perth-museum-and-art-gallery
 images:
   - ../../media/-MG-0123-2.jpg
   - ../../media/-MG-0124-2.jpg

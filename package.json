@@ -3,14 +3,14 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "bun astro dev",
     "start": "concurrently npm:dev npm:cms",
+    "dev": "bun astro dev",
     "build": "bun astro build",
     "deploy": "vercel --dist",
     "preview": "astro preview",
     "cms": "npm exec @staticcms/proxy-server",
-    "make data": "bun scripts/make-md.mjs",
-    "scrape": "bun scripts/crawler-artists.js; bun scripts/crawler-rooms.js",
+    "make data": "rm -rf src/content/{rooms,artists,venues} && bun scripts/make_md.mjs",
+    "scrape": "bun scripts/crawler-artists.js && bun scripts/crawler-rooms.js",
     "astro": "astro"
   },
   "dependencies": {

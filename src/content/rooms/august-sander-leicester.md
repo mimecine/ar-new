@@ -2,7 +2,7 @@
 title: August Sander, Leicester
 artists:
   - august-sander
-venue: new-walk-museum-art-gallery
+venue: new-walk-museum-and-art-gallery
 images:
   - ../../media/August-Sander-Documentation-Stephen-Lynch-Photography-002.jpg
   - ../../media/August-Sander-Documentation-Stephen-Lynch-Photography-015.jpg

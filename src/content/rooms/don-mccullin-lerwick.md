@@ -2,7 +2,7 @@
 title: Don McCullin, Lerwick
 artists:
   - don-mccullin
-venue: shetland-museum-archives
+venue: shetland-museum-and-archives
 images:
   - ../../media/014-Don-McCullin-Da-Gadderie-Shetland-Museum-Archives-Shetland-Winter-2014-15-photography-by-C.-Toogood.jpg
   - ../../media/009-Don-McCullin-Da-Gadderie-Shetland-Museum-Archives-Shetland-Winter-2014-15-photography-by-C.-Toogood.jpg

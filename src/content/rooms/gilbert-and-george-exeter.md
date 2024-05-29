@@ -2,7 +2,7 @@
 title: Gilbert and George, Exeter
 artists:
   - gilbert-george
-venue: royal-albert-memorial-museum-art-gallery
+venue: royal-albert-memorial-museum-and-art-gallery
 images:
   - ../../media/Gilbert-George-02.jpg
   - ../../media/Gilbert-George-04.jpg

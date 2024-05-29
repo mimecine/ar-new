@@ -2,7 +2,7 @@
 title: Andy Warhol, Perth
 artists:
   - andy-warhol
-venue: perth-museum-art-gallery
+venue: perth-museum-and-art-gallery
 images:
   - ../../media/Warhol-Perth4.jpeg
   - ../../media/Warhol-Perth3.jpeg

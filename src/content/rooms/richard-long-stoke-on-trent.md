@@ -2,7 +2,7 @@
 title: Richard Long, Stoke-on-Trent
 artists:
   - richard-long
-venue: the-potteries-museum-art-gallery
+venue: the-potteries-museum-and-art-gallery
 images:
   - ../../media/Richard-Long-04.jpg
   - ../../media/Richard-Long-05.jpg

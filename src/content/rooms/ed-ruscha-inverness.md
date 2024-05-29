@@ -2,7 +2,7 @@
 title: Ed Ruscha, Inverness
 artists:
   - ed-ruscha
-venue: inverness-museum-art-gallery
+venue: inverness-museum-and-art-gallery
 images:
   - ../../media/Photo-Mar-23-10-37-56-PM-0.jpg
   - ../../media/Photo-Mar-23-10-40-29-PM-0.jpg

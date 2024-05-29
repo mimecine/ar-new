@@ -74,10 +74,9 @@ async function makeRoomsMD(){
             delete a.body;
 
             if(a.venue?.length){
+                a.venue = a.venue.replace(/&/g,'and');
                 let _v = {};
                 _v.title = a.venue;
-
-                
                 _v.town = a.town;
                 a.venue = slugify(a.venue);
                 _v.map = a.map; delete a.map;
@@ -141,7 +140,6 @@ async function makeRoomsMD(){
 
                 let slug_counter = 1;
                 while(fs.existsSync(`./src/content/rooms/${slug}.md`)){
-                    console.log("Slug exists", slug);
                     slug = slugify(a.title + " " + slug_counter++);
                 }
                 let room_path = `./src/content/rooms/${slug}.md`;

@@ -2,7 +2,7 @@
 title: Jeff Koons, Norwich
 artists:
   - jeff-koons
-venue: norwich-castle-museum-art-gallery
+venue: norwich-castle-museum-and-art-gallery
 images:
   - ../../media/Jeff-Koons-01.jpg
   - ../../media/Jeff-Koons-10.jpg

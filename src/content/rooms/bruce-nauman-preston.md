@@ -2,7 +2,7 @@
 title: Bruce Nauman, Preston
 artists:
   - bruce-nauman
-venue: harris-museum-art-gallery
+venue: harris-museum-and-art-gallery
 images:
   - ../../media/Bruce-Nauman-04.jpg
   - ../../media/Bruce-Nauman-15.jpg

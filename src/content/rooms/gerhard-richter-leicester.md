@@ -2,7 +2,7 @@
 title: Gerhard Richter, Leicester
 artists:
   - gerhard-richter
-venue: new-walk-museum-art-gallery
+venue: new-walk-museum-and-art-gallery
 images:
   - ../../media/48Portraits-01.jpg
   - ../../media/Abstraktes-Paintings-x2.jpg
