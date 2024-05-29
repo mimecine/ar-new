@@ -1,14 +1,17 @@
 ---
-url: https://www.artistrooms.org/artists/charles-ray
 title: Charles Ray
 featuredImage: ../../media/AR00342.jpg
 resources: []
 works:
   - inventorynumber: ar00342
+    category: Photography
     title: Plank Piece I-II,  1973
     info: "1973,  2 photographs, black and white, on paper on board,  each: 1090 x
       761 x 50 mm"
-    credit: © Charles Ray
+    credit: |-
+      © Charles Ray
+
+      AR00342
     src: ../../media/AR00342.jpg
 
 ---

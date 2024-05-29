@@ -50,13 +50,20 @@ collections:
     folder: "src/content/rooms"
     create: true
     # summary: "{{fields.title}}, Open {{fields.start}} to {{fields.end | date('yyyy')}}" - not working
-    summary: "{{title}} - {{venue}}"
-    summary_fields: ["title","venue"]
+    # summary: "{{title}} - {{venue}}"
+    # summary_fields: ["title","venue"]
+    # sortable_fields: 
+    #   fields: ["title","venue"]
+    #   default:
+    #     field: "title"
+    #     direction: Descending
+    summary: "{{title}} - {{venue | upper | truncate(10,'...')}} - {{start}} to {{end | date('yyyy')}}"
+    summary_fields: ["title","venue","start","end"]
     sortable_fields: 
-      fields: ["title","venue"]
+      fields: ["title","venue","start","end"]
       default:
-        field: "title"
-        direction: Descending
+        field: "end"
+        direction: Descending    
     editor:
       preview: false
     fields:

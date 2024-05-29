@@ -1,44 +1,70 @@
 ---
-url: https://www.artistrooms.org/artists/agnes-martin
 title: Agnes Martin
 featuredImage: ../../media/AR00179.jpg
 resources: []
 works:
   - inventorynumber: ar00177
+    category: Painting
     title: "Untitled #5, 1994"
     info: 1994,  Acrylic paint and graphite on canvas,  1525 x 1528 x 35 mm
-    credit: © estate of Agnes Martin
+    credit: |-
+      © Estate of Agnes Martin / DACS, 2014
+
+      AR00177
     src: ../../media/AR00177.jpg
   - inventorynumber: al00194
+    category: Painting
     title: "Untitled #10, 1995"
     info: 1995,  Acrylic paint and graphite on canvas,  1524 x 1524 mm
-    credit: © estate of Agnes Martin
+    credit: |-
+      © Estate of Agnes Martin / DACS, 2014
+
+      AL00194
     src: ../../media/AL00194.jpg
   - inventorynumber: ar00179
+    category: Painting
     title: Happy Holiday, 1999
     info: 1999,  Acrylic paint and graphite on canvas,  1525 x 1525 x 40 mm
-    credit: © estate of Agnes Martin
+    credit: |-
+      © Estate of Agnes Martin / DACS, 2014
+
+      AR00179
     src: ../../media/AR00179.jpg
   - inventorynumber: al00193
+    category: Painting
     title: I Love the Whole World, 1999
     info: 1999,  Acrylic paint and graphite on canvas,  1524 x 1524 mm
-    credit: © estate of Agnes Martin
+    credit: |-
+      © Estate of Agnes Martin / DACS, 2014
+
+      AL00193
     src: ../../media/AL00193.jpg
   - inventorynumber: ar00178
+    category: Painting
     title: Faraway Love, 1999
     info: 1999,  Acrylic paint and graphite on canvas,  1525 x 1525 x 35 mm
-    credit: © estate of Agnes Martin
+    credit: |-
+      © Estate of Agnes Martin / DACS, 2014
+
+      AR00178
     src: ../../media/AR00178.jpg
   - inventorynumber: t01866
+    category: Painting
     title: Morning, 1965
     info: 1965,  Acrylic paint and graphite on canvas,  1826 x 1219 mm
-    credit: © Estate of Agnes Martin / DACS, 2014
+    credit: |-
+      © Estate of Agnes Martin / DACS, 2014
+
+      T01866
     src: ../../media/T01866-9.jpg
   - inventorynumber: t13717
+    category: Painting
     title: "Untitled #5, 1991"
     info: 1991,  Acrylic paint and graphite on canvas,  1829 x 1829 mm
-    credit: Presented by the American Fund for the Tate Gallery, courtesy of Milly
-      and Arne Glimcher in honour of Anthony d'Offay and ARTIST ROOMS, 2012
+    credit: |-
+      © Estate of Agnes Martin / DACS, 2014
+
+      T13717
     src: ../../media/T13717-9.jpg
 
 ---

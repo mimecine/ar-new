@@ -2,9 +2,9 @@
 
 import fs from "node:fs";
 import yaml from "yaml";
-import artists from "./artists.json" with { type: "json" };
-import rooms from "./rooms.json" with { type: "json" };
-import films from "./films.json" with { type: "json" };
+import artists from "./pages-artists.json" with { type: "json" };
+import rooms from "./pages-rooms.json" with { type: "json" };
+//import films from "./films.json" with { type: "json" };
 import dotenv from "dotenv";
 import { Client }  from "@googlemaps/google-maps-services-js";
 
@@ -44,7 +44,7 @@ async function makeArtistMD(){
             let path = `./src/content/artists/${slug}.md`;
             let body = a.body;
             delete a.body;
-            a.featuredImage = '../../media/'+ await existOrDownload('https://artistrooms.org'+a.featuredImage,'./src/media/');
+            if(a.featuredImage) a.featuredImage  = '../../media/'+ await existOrDownload('https://artistrooms.org'+a.featuredImage,'./src/media/');
             a.works = await Promise.all(a.works?.filter(w=>w.src).map(async w => {w.src = '../../media/'+ await existOrDownload('https://artistrooms.org'+w.src,'./src/media/'); return w;}));
             let fm = yaml.stringify(a);
 
@@ -62,26 +62,24 @@ async function makeArtistMD(){
 async function makeRoomsMD(){
     fs.mkdirSync('./src/content/rooms/',{recursive:true});
     fs.mkdirSync('./src/content/venues/',{recursive:true});
-    for(let _a of rooms.rooms){
+    for(let _a of rooms){
         (async (_a) => {
             let a = _a;
             a.title = a.title.replace(/ \| Artist Rooms/,"")
-            let [title,town = ""] = a.title.split(/\s*,\s*/);
-            let slug = slugify(a.title +" "+ a.venue)
-            let room_path = `./src/content/rooms/${slug}.md`;
+            let slug = slugify(a.title)
 
-            a.images = await Promise.all(a.images.map(async i => {i = '../../media/'+ await existOrDownload(i,'./src/media/'); return i}));
+            a.images = await Promise.all(a.images.map(i => i).map(async i => {i = '../../media/'+ await existOrDownload(i,'./src/media/'); return i}));
 
             let body = a.body;
             delete a.body;
 
-            if(a.venue!= null){
-                //let [title, town = ""] = a.venue.split(/\s*,\s*/);
+            if(a.venue?.length){
                 let _v = {};
                 _v.title = a.venue;
-                _v.town = town;
+
+                
+                _v.town = a.town;
                 a.venue = slugify(a.venue);
-                _v.address = a.address; delete a.address;
                 _v.map = a.map; delete a.map;
                 if( a.url){
                     try {
@@ -95,13 +93,18 @@ async function makeRoomsMD(){
 
 
                 try {
+                    let where = _v.title;
+                    if(where == "Tate Britain") { where = "Tate Britain Millbank" }
+                    if(where == "Tate Modern") { where = "Tate Modern Bankside" }
                     const R = await getCoordinates(
-                        `${_v.title} ${_v.address} UK`
+                        `${where} ${_v.town} UK`
                     );
                     _v.geo = JSON.stringify({type:'Point',coordinates: [ R.geometry.location.lng, R.geometry.location.lat]});
                     _v.address = R.formatted_address; 
                     _v.plus_code = R.plus_code?.global_code;  
-                    console.log(_v.address, _v.geo) 
+
+                    //console.log([a.title,_v.title, _v.town, _v.address].join(';')) 
+                    
                 } catch (e) {
                     console.log("Geocoding didn't succeed: ", a.venue, e)
                 }
@@ -113,7 +116,7 @@ async function makeRoomsMD(){
                         `---\n${ yaml.stringify(_v) }\n---\n\n`
                     );
                 } catch (e) {
-                    console.log("Room can't be written", slug, e);
+                    console.log("Venue can't be written", slug, e);
                 }
             } else {
                 console.log("Room has no venue", slug);
@@ -135,6 +138,14 @@ async function makeRoomsMD(){
             let fm = yaml.stringify(a);
 
             try {
+
+                let slug_counter = 1;
+                while(fs.existsSync(`./src/content/rooms/${slug}.md`)){
+                    console.log("Slug exists", slug);
+                    slug = slugify(a.title + " " + slug_counter++);
+                }
+                let room_path = `./src/content/rooms/${slug}.md`;
+    
                 fs.writeFileSync(
                     room_path,
                     `---\n${fm}\n---\n\n${body}`
@@ -146,35 +157,35 @@ async function makeRoomsMD(){
     }
 }
 
-async function makeFilmsMD(){
-    fs.mkdirSync('./src/content/films/',{recursive:true});
-    for(const a of films[0].artists){
-        for(const f of a.films){
-            f.artists = [slugify(a.artist)];
-            let path = `./src/content/films/${slugify(f.title)}.md`;
-            let fm = yaml.stringify(f);
+// async function makeFilmsMD(){
+//     fs.mkdirSync('./src/content/films/',{recursive:true});
+//     for(const a of films[0].artists){
+//         for(const f of a.films){
+//             f.artists = [slugify(a.artist)];
+//             let path = `./src/content/films/${slugify(f.title)}.md`;
+//             let fm = yaml.stringify(f);
 
-            try {
-            fs.writeFileSync(
-                path,
-                `---\n${fm}\n---\n\n`
-            );
-            } catch (e) {
-                console.log(e);
-            }
-        }
-    }
-}
+//             try {
+//             fs.writeFileSync(
+//                 path,
+//                 `---\n${fm}\n---\n\n`
+//             );
+//             } catch (e) {
+//                 console.log(e);
+//             }
+//         }
+//     }
+// }
 
 async function existOrDownload(url, folder){
-    let _url = new URL(url);
+    let _url = new URL(url, 'https://artistrooms.org/');
     let filename = decodeURIComponent(_url.pathname.split("/").pop()).replace(/[^a-zA-Z0-9.]+/g,'-');
     let local = `${folder}/${filename}`;
     if(!fs.existsSync(local)){
 
         console.log("Downloading", local);
         try {
-            let res = await fetch(url);
+            let res = await fetch(_url);
            let blob = await res.blob();
             let buffer = Buffer.from(await blob.arrayBuffer());
             
@@ -198,5 +209,5 @@ function slugify(text) {
 }
 await makeArtistMD();
 await makeRoomsMD();
-await makeFilmsMD();
+//await makeFilmsMD();
 

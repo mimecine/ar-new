@@ -1,14 +1,24 @@
 ---
-url: https://www.artistrooms.org/artists/dan-flavin
 title: Dan Flavin
 featuredImage: ../../media/DF-04.jpg
 resources: []
 works:
   - inventorynumber: al00350
+    category: Sculpture
     title: untitled (to Don Judd, colorist) 1-5, 1987
     info: "1987,  Fluorescent tubes and metal, each: 1220 x 1220 mm"
-    credit: © 2013 Stephen Flavin/Artists Rights Society (ARS), New York; courtesy
+    credit: >-
+      Collection: Artist Rooms Foundation
+
+
+      © 2013 Stephen Flavin/Artists Rights Society (ARS), New York; courtesy
       David Zwirner, New York/London
+
+
+      AL00350 (on long-term loan from Artist Rooms Foundation)
+
+
+       
     src: ../../media/483-487-untitled-to-Don-Judd-colorist-1-5-1987-Mass-MoCA-low-res.jpg
 
 ---

@@ -1,30 +1,53 @@
 ---
-url: https://www.artistrooms.org/artists/douglas-gordon
 title: Douglas Gordon
 featuredImage: ../../media/Douglas-Gordon-01.jpg
 resources: []
 works:
   - inventorynumber: al00339
+    category: Installation
     title: Play Dead; Real Time, 2003
     info: "2003,  Video, 2 projections, 1 monitor, colour,  Duration: 19 mins 16
       secs; 14 minutes 44 secs; 23 minutes 44 secs"
-    credit: © Douglas Gordon
+    credit: |-
+      Collection: Artist Rooms Foundation
+
+      © Douglas Gordon
+
+      AL00339 (on long term loan from Artist Rooms Foundation, 2012)
     src: ../../media/AL00339-9.jpg
   - inventorynumber: ar01179
+    category: Installation
     title: A Divided Self (I and II), 1996
     info: 1996,  Two channel video installation without sound,  Dimensions variable
-    credit: Courtesy Studio lost but found, Berlin
+    credit: |-
+      Courtesy Studio lost but found, Berlin
+
+      © Studio lost but found / VG Bild-Kunst, Bonn 2014
+
+      AR01179
     src: ../../media/AR01179-9.jpg
   - inventorynumber: ar01180
+    category: Installation
     title: Film Noir (Fly), 1996
     info: 1996,  Single channel video installation without sound,  Dimensions
       variable
-    credit: Courtesy Studio lost but found, Berlin
+    credit: |-
+      Courtesy Studio lost but found, Berlin
+
+      © Studio lost but found / VG Bild-Kunst, Bonn 2014
+
+      AR01180
+
+       
     src: ../../media/Film-Noir-Fly-.jpg
   - inventorynumber: ar01178
+    category: Installation
     title: Looking Down With His Black, Black, Ee, 2008
     info: 2008,  Three channel video installation with sound,  Dimensions variable
-    credit: © Douglas Gordon
+    credit: |-
+      © Douglas Gordon
+
+      AR01178
     src: ../../media/AR01178-9.jpg
 
 ---

@@ -1,46 +1,102 @@
 ---
-url: https://www.artistrooms.org/artists/martin-creed
 title: Martin Creed
 featuredImage: ../../media/Martin-Creed-07.jpg
 resources: []
 works:
   - inventorynumber: ar01149
+    category: Sculpture
     title: "Work No. 890: DON'T WORRY, 2008"
     info: 2008,  Neon lights, 505 x 500 x 60 mm
-    credit: © Martin Creed
+    credit: |-
+      © Martin Creed
+
+      AR01149
     src: ../../media/Screen-Shot-2015-07-27-at-11.32.36.png
   - inventorynumber: ar01150
+    category: Paintings
     title: Work No. 1102, 2011
     info: 2011,  Acrylic paint on canvas,  610 x 457 mm
-    credit: © Martin Creed
+    credit: >-
+      © Martin Creed
+
+
+      Presented by the artist jointly to National Galleries of Scotland and Tate
+      and acquired with assistance of the ARTIST ROOMS Endowment, supported by
+      the Henry Moore Foundation and Tate Members, 2011.
+
+
+      AR01150
     src: ../../media/AR01150.jpg
   - inventorynumber: ar01151
+    category: Video
     title: Work No. 837, 2008
     info: 2008, 4 synchronized videos; 35 mm film, colour, sound 1 minute 53
       seconds, looped, Dimensions variable
     credit: |-
       © Martin Creed
       Photo: Stuart Whipps
+
+      AR01151
     src: ../../media/AR01151.jpg
   - inventorynumber: ar01152
+    category: Paintings
     title: Work No. 1103, 2011
     info: 2011, Oil paint on canvas, 610 x 457 mm
-    credit: © Martin Creed
+    credit: >-
+      © Martin Creed
+
+
+      Presented by the artist jointly to National Galleries of Scotland and Tate
+      and acquired with assistance of the ARTIST ROOMS Endowment, supported by
+      the Henry Moore Foundation and Tate Members, 2011.
+
+
+      AR01152
     src: ../../media/AR01152.jpg
   - inventorynumber: ar01153
+    category: Paintings
     title: Work No. 1104, 2011
     info: 2011,  Acrylic paint on canvas,  610 x 457 mm
-    credit: © Martin Creed
+    credit: >-
+      © Martin Creed
+
+
+      Presented by the artist jointly to National Galleries of Scotland and Tate
+      and acquired with assistance of the ARTIST ROOMS Endowment, supported by
+      the Henry Moore Foundation and Tate Members, 2011.
+
+
+      AR01153
     src: ../../media/AR01153.jpg
   - inventorynumber: ar01154
+    category: Paintings
     title: Work No. 1105, 2011
     info: 2011,  Acrylic paint on canvas,  610 x 457 mm
-    credit: © Martin Creed
+    credit: >-
+      © Martin Creed
+
+
+      Presented by the artist jointly to National Galleries of Scotland and Tate
+      and acquired with assistance of the ARTIST ROOMS Endowment, supported by
+      the Henry Moore Foundation and Tate Members, 2011.
+
+
+      AR01154
     src: ../../media/AR01154.jpg
   - inventorynumber: ar01148
+    category: Works on paper
     title: Work No. 944, 2008
     info: "2008,  21 works on paper, ink,  each: 297 x 210 mm"
-    credit: © Martin Creed
+    credit: >-
+      © Martin Creed
+
+
+      Presented by the artist jointly to National Galleries of Scotland and Tate
+      and acquired with assistance of the ARTIST ROOMS Endowment, supported by
+      the Henry Moore Foundation and Tate Members, 2011.
+
+
+      AR01148
     src: ../../media/Screen-Shot-2015-07-27-at-11.32.24.png
 
 ---

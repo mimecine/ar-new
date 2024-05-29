@@ -1,23 +1,34 @@
 ---
-url: https://www.artistrooms.org/artists/ian-hamilton-finlay
 title: Ian Hamilton Finlay
 featuredImage: ../../media/0047-sailing-dinghy.jpg
 resources: []
 works:
   - inventorynumber: ar01124
+    category: Painting
     title: Idylls End In Thunderstorms, 1986
     info: 1986,  Wall text,  Overall displayed dimensions variable
-    credit: © Estate of Ian Hamilton Finlay
+    credit: |-
+      © Estate of Ian Hamilton Finlay
+
+      AR01124
     src: ../../media/AR01124.jpg
   - inventorynumber: ar01125
+    category: Painting
     title: "A LAST WORD: RUDDER, 1999"
     info: 1999,  Household paint on wall,  Overall displayed dimensions variable
-    credit: © Estate of Ian Hamilton Finlay
+    credit: |-
+      © Estate of Ian Hamilton Finlay
+
+      AR01125
     src: ../../media/AR01125-0.jpg
   - inventorynumber: ar00021
+    category: Sculpture
     title: Sailing Dinghy, 1996
     info: 1996,  Boat and painted wall text,  6020 x 4400 x 1400 mm
-    credit: © Estate of Ian Hamilton Finlay
+    credit: |-
+      © Estate of Ian Hamilton Finlay
+
+      AR00021
     src: ../../media/AR00021.jpg
 
 ---

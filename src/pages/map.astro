@@ -18,20 +18,20 @@ const artists = await getCollection("artists");
 <Main title="The Map">
   <div id="map" class="w-[90vw] max-w-screen-2xl h-full border border-gray-700">
   </div>
+
   <link
     rel="stylesheet"
     href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"
   />
-  <script is:inline
+  <script
+    is:inline
     src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
     crossorigin=""></script>
-  <script is:inline
-    src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster-src.js"
+  <script
+    is:inline
+    src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"
   ></script>
-  <style is:inline>
-
-</style>
   <script>
     var loadedHandler = async () => {
       const venues = await (await fetch("/venues.json")).json();
@@ -39,19 +39,25 @@ const artists = await getCollection("artists");
       var map = L.map("map").setView([51.505, -0.09], 13);
       var bounds = L.latLngBounds(); // Instantiate LatLngBounds object
       var markers = L.markerClusterGroup({
-			maxClusterRadius: 25,
-			iconCreateFunction: function (cluster) {
-				var markers = cluster.getAllChildMarkers();
-				var n = 0;
-				for (var i = 0; i < markers.length; i++) {
-					n += markers[i].number;
-				}
-				return L.divIcon({ html: markers.length, className: 'mycluster', iconSize: L.point(20, 20) });
-			},
-			//Disable all of the defaults:
-			spiderfyOnMaxZoom: false, showCoverageOnHover: false, zoomToBoundsOnClick: true,
-		});
- // Instantiate MarkerClusterGroup to hold marker clusters
+        maxClusterRadius: 25,
+        iconCreateFunction: function (cluster) {
+          var markers = cluster.getAllChildMarkers();
+          var n = 0;
+          for (var i = 0; i < markers.length; i++) {
+            n += markers[i].number;
+          }
+          return L.divIcon({
+            html: markers.length,
+            className: "mycluster",
+            iconSize: L.point(20, 20),
+          });
+        },
+        //Disable all of the defaults:
+        spiderfyOnMaxZoom: false,
+        showCoverageOnHover: false,
+        zoomToBoundsOnClick: true,
+      });
+      // Instantiate MarkerClusterGroup to hold marker clusters
 
       var lgIcon = L.icon({
         iconUrl: "/map-point.svg",
@@ -98,9 +104,8 @@ const artists = await getCollection("artists");
                     <p class="!text-lg">${room_string}</p>
                     <p><a class="!text-xs !font-italic !text-black !underline" href="https://google.com/maps/search/?api=1&query=${venue.data.title}, ${venue.data.town}" target="_map">${venue.data.address}</a></p>
                     `);
-                    // marker.bindTooltip(venue.data.title); // too ugly!
+          // marker.bindTooltip(venue.data.title); // too ugly!
           bounds.extend(lon_lat);
-          
         }
       });
 
@@ -133,15 +138,14 @@ const artists = await getCollection("artists");
     }
 
     .mycluster {
-        width: 20px;
-        height: 15px;
-        border: 2px solid black;
-        border-radius: 100%;
-        background-color: var(--main-background);
-        color: white;
-        text-align: center;
-        font-size: .6rem;
+      width: 20px;
+      height: 15px;
+      border: 2px solid black;
+      border-radius: 100%;
+      background-color: var(--main-background);
+      color: white;
+      text-align: center;
+      font-size: 0.6rem;
     }
-
   </style>
 </Main>

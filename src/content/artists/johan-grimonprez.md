@@ -1,9 +1,18 @@
 ---
-url: https://www.artistrooms.org/artists/johan-grimonprez
 title: Johan Grimonprez
 featuredImage: ../../media/AR00085-9.jpg
 resources: []
-works: []
+works:
+  - inventorynumber: ar00085
+    category: Installation
+    title: Dial H-I-S-T-O-R-Y, Inflight, 1997-2001
+    info: 1997-2001,  Video, projection, colour and sound (stereo) and printed
+      papers,  overall display dimensions variable
+    credit: |-
+      © Johan Grimonprez
+
+      AR00085
+    src: ../../media/AR00085-Externally-Supplied-Image.jpeg
 
 ---
 

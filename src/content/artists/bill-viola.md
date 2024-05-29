@@ -1,24 +1,35 @@
 ---
-url: https://www.artistrooms.org/artists/bill-viola
 title: Bill Viola
 featuredImage: ../../media/AR00042.jpg
 resources: []
 works:
   - inventorynumber: ar00043
+    category: Video
     title: Four Hands, 2001
     info: 2001,  Video, 4 flat screens, black and white,  230 x 1300 x 205 mm
-    credit: © Bill Viola Studio LLC
+    credit: |-
+      © Bill Viola Studio LLC
+
+      AR00043
     src: ../../media/AR00043.jpg
   - inventorynumber: ar00042
+    category: Video
     title: Catherine's Room,  2001
     info: 2001,  Video, 5 flat screens, colour,  381 x 2460 x 570 mm
-    credit: © Bill Viola Studio LLC
+    credit: |-
+      © Bill Viola Studio LLC
+
+      AR00042
     src: ../../media/AR00042.jpg
   - inventorynumber: gma4683
+    category: Video
     title: Surrender, 2001
     info: "2001,  Diptych, video on plasma flat panel displays,  each monitor: 1030
       x 630 x 108 mm"
-    credit: © Bill Viola
+    credit: |-
+      © Bill Viola
+
+      GMA4683
     src: ../../media/Bill-Viola-Surrender-need-high-res-from-NGS.jpg
 
 ---

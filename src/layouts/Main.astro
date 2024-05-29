@@ -5,6 +5,8 @@ import Footer from "../components/Footer.astro";
 import HeaderLink from "../components/HeaderLink.astro";
 import { Icon } from "astro-icon/components";
 //import Search from "astro-pagefind/components/Search";
+import { ViewTransitions } from 'astro:transitions';
+
 
 //import settings from "../_data/index_settings.json" with { type: "json" };
 const { title } = Astro.props;
@@ -15,7 +17,7 @@ const { title } = Astro.props;
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <BaseHead title={title} />
-    <!-- <ViewTransitions /> -->
+    <ViewTransitions />
     <style>
       [x-cloak] {
         display: none !important;
@@ -60,7 +62,7 @@ const { title } = Astro.props;
         <HeaderLink href="/venues" class="!hidden lg:!inline-block"
           >Venues</HeaderLink
         >
-        <HeaderLink href="/map" class="!hidden lg:!inline-block">Map</HeaderLink
+        <HeaderLink href="/map" class="!hidden lg:!inline-block" data-astro-reload>Map</HeaderLink
         >
         <HeaderLink href="/page/about" class="!hidden lg:!inline-block"
           >About</HeaderLink
@@ -87,7 +89,7 @@ const { title } = Astro.props;
             <HeaderLink href="/artists">Artists</HeaderLink>
             <HeaderLink href="/films">Films</HeaderLink>
             <HeaderLink href="/venues">Venues</HeaderLink>
-            <HeaderLink href="/map">Map</HeaderLink>
+            <HeaderLink href="/map" data-astro-reload>Map</HeaderLink>
             <HeaderLink href="/page/about">About</HeaderLink>
           </div>
         </div>

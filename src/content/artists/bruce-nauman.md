@@ -1,67 +1,112 @@
 ---
-url: https://www.artistrooms.org/artists/bruce-nauman
 title: Bruce Nauman
 featuredImage: ../../media/AR00580.jpg
 resources: []
 works:
   - inventorynumber: ar00044
+    category: Installation
     title: Changing Light Corridor with Rooms, 1971
     info: 1971,  Wooden structure, 2 light bulbs and timer,  Overall display
       dimensions variable
-    credit: © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
+    credit: >-
+      © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
       London
+
+
+      AR00044
     src: ../../media/AR00044.jpg
   - inventorynumber: ar00607
+    category: Sculpture
     title: La Brea/Art Tips/Rat Spit/Tar Pits, 1972
     info: 1972,  Neon lights and glass,  619 x 584 x 51 mm
-    credit: © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
+    credit: >-
+      © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
       London
+
+
+      AR00607
     src: ../../media/AR00607.jpg
   - inventorynumber: ar00180
+    category: Sculpture
     title: "Enforced Perspective: Allegory and Symbolism, 1975"
     info: "1975,  Steel, 36 parts, each: 102 x 356 x 356 mm"
-    credit: © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
+    credit: >-
+      © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
       London
+
+
+      AR00180
     src: ../../media/AR00180.jpg
   - inventorynumber: ar00578
+    category: Works on paper
     title: Untitled (Drawing for Enforced Perspective), 1975
     info: 1975,  Graphite on paper,  765 x 1016 mm
-    credit: © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
+    credit: >-
+      © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
       London
+
+
+      AR00578
     src: ../../media/AR00578.jpg
   - inventorynumber: ar00577
+    category: Video
     title: "Violent Incident: Man-Woman Segment, 1986"
     info: "1986,  Video, monitor, colour and sound (mono),  Overall display
       dimensions variable,  Duration: 30 min, 30 sec"
-    credit: © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
+    credit: >-
+      © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
       London
+
+
+      AR00577
     src: ../../media/BN-violent-incident.jpg
   - inventorynumber: ar00580
+    category: Sculpture
     title: Untitled (Hand Circle),  1996
     info: 1996,  Bronze, silver solder and copper,  1155 x 710 x 700 mm (variable
       height)
-    credit: ""
+    credit: >-
+      © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
+      London
+
+
+      AR00580
     src: ../../media/AR00580.jpg
   - inventorynumber: ar00579
+    category: Video
     title: Raw Material Washing Hands, Normal (A of A/B); Raw Material Washing
       Hands, Normal (B of A/B),  1996
     info: "1996  Video, 2 monitors, colour and sound  Overall display dimensions
       variable. Duration (channel 1): 55 min,46 sec; duration (channel 2): 55
       min, 56 sec"
-    credit: © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
+    credit: >-
+      © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
       London
+
+
+      AR00579
     src: ../../media/AR00579.jpg
   - inventorynumber: ar00575
+    category: Sculpture
     title: Partial Truth, 1997
     info: 1997,  Granite,  60 x 607 x 550 mm
-    credit: © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
+    credit: >-
+      © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
       London
+
+
+      AR00575
     src: ../../media/AR00575.jpg
   - inventorynumber: ar00576
+    category: Video
     title: Setting a Good Corner (Allegory and Metaphor), 1999
     info: "1999,  Video, monitor, colour and sound (stereo), Duration: 59min, 18sec"
-    credit: © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
+    credit: >-
+      © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
       London
+
+
+      AR00576
     src: ../../media/AR00576.jpg
 
 ---
