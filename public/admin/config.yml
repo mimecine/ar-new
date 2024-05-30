@@ -4,6 +4,10 @@ backend:
 media_folder: "src/media"
 media_library:
   max_file_size: 1000000000
+site_url: https://artistrooms.netlify.app
+display_url: https://artistrooms.netlify.app
+logo_url: https://artistrooms.netlify.app/favicon.svg
+
 
 # Please run "npx netlify-cms-proxy-server" for local backend
 local_backend: true
@@ -15,11 +19,12 @@ collections:
     name: "artists"
     folder: "src/content/artists"
     create: true
+    summary: "{{fields.title}} {{ fields.hidden | ternary(' (HIDDEN)','') }}"
     editor:
       preview: false
     fields:
       - { label: "Name", name: "title", widget: "string" }
-      - { label: "Hide", name: "hidden", widget: "boolean", default: false }
+      - { label: "Hidden", name: "hidden", widget: "boolean", default: false }
       - { label: "Biography", name: "body", widget: "markdown" }
       - { label: "Summary", name: "summary", widget: "markdown", required: false }
       - { label: "Featured Image", name: "featuredImage", widget: "image", required: false }
@@ -49,26 +54,17 @@ collections:
     name: "rooms"
     folder: "src/content/rooms"
     create: true
-    # summary: "{{fields.title}}, Open {{fields.start}} to {{fields.end | date('yyyy')}}" - not working
-    # summary: "{{title}} - {{venue}}"
-    # summary_fields: ["title","venue"]
-    # sortable_fields: 
-    #   fields: ["title","venue"]
-    #   default:
-    #     field: "title"
-    #     direction: Descending
-    summary: "{{title}} - {{venue | upper | truncate(10,'...')}} - {{start}} to {{end | date('yyyy')}}"
-    summary_fields: ["title","venue","start","end"]
+    summary: "{{title}} / {{startdate | date('yyyy')}} @ {{venue | upper}}  {{hidden | ternary('---**HIDDEN**', '')}}"
     sortable_fields: 
-      fields: ["title","venue","start","end"]
+      fields: ["title","venue","startdate","enddate","hidden"]
       default:
-        field: "end"
+        field: "enddate"
         direction: Descending    
     editor:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Hide", name: "hidden", widget: "boolean", default: false }
+      - { label: "Hidden", name: "hidden", widget: "boolean", default: false }
       - { label: "Start", name: "startdate", widget: "datetime", date_format: 'dd.MM.yyyy', time_format: false, format: 'yyyy-MM-dd'}
       - { label: "End", name: "enddate", widget: "datetime", date_format: 'dd.MM.yyyy', time_format: false, format: 'yyyy-MM-dd', required: false, default: 2030-01-01 }
       - { label: "Priority", name: "priority", widget: "number", required: false, default: 0 }
@@ -105,7 +101,7 @@ collections:
       preview: false
     fields:
       - { label: "Venue", name: "title", widget: "string" }
-      - { label: "Hide", name: "hidden", widget: "boolean", default: false }
+      - { label: "Hidden", name: "hidden", widget: "boolean", default: false }
       - { label: "Town", name: "town", widget: "string" }
       - { label: "Address", name: "address", widget: "string", required: false }
       - { label: "Map Link", name: "map", widget: "string", required: false }
@@ -124,7 +120,7 @@ collections:
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Hide", name: "hidden", widget: "boolean", default: false }
+      - { label: "Hidden", name: "hidden", widget: "boolean", default: false }
       - { label: "Url", name: "url", widget: "string" }
       - label: "Artists"
         name: "artists"
@@ -136,16 +132,29 @@ collections:
         display_fields: ["title"]
         required: false     
 
+  - name: 'posts'
+    label: 'Posts'
+    folder: 'src/_posts'
+    create: true
+    summary: "{{title | upper}} - {{date | date('YYYY-MM-DD')}} – {{body | truncate(20, '***')}} {{ hidden | ternary(' (HIDDEN)', '') }}"
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Truth', name: 'hidden', widget: 'boolean' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
   - label: "Pages"
     label_singular: "Page"
     name: "pages"
-    folder: "src/content/pages"
+    preview_path: "{{slug}}"
+    folder: "src/pages"
     create: true
     editor:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Hide", name: "hidden", widget: "boolean", default: false }
+      - {label: "Layout", name: "layout", widget: "hidden", default: "../layouts/Main.astro"}
+      - { label: "Hidden", name: "hidden", widget: "boolean", default: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - label: "Artists"
         name: "artists"

@@ -9,9 +9,11 @@ interface Props {
   title: string;
   description?: string;
   image?: string;
+  frontmatter?: Record<string, unknown>;
 }
 
-const { title, description, image } = Astro.props;
+let { title, description, image, frontmatter } = Astro.props;
+title = title || frontmatter?.title || "Untitled";
 ---
 
 <html lang="en-US" class="bg-[--main-background]">
@@ -20,18 +22,6 @@ const { title, description, image } = Astro.props;
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <BaseHead title={title} />
     <ViewTransitions />
-    <style>
-      [x-cloak] {
-        display: none !important;
-      }
-    </style>
-
-    <link
-      rel="stylesheet"
-      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
-      crossorigin=""
-    />
   </head>
   <body class="h-lvh w-lvw grid grid-rows-[1fr,auto] bg-[--main-background]">
     <nav
@@ -48,7 +38,7 @@ const { title, description, image } = Astro.props;
           />
         </a>
         <h1 class="text-sm md:text-lg lg:text-5xl text-balance">
-          {title.replace(/Artist Rooms|-/g, "")}
+          {title?.replace(/Artist Rooms|-/g, "")}
         </h1>
       </div>
       <div class="flex flex-col lg:flex-row print:hidden items-end lg:gap">
@@ -64,7 +54,10 @@ const { title, description, image } = Astro.props;
         <HeaderLink href="/venues" class="!hidden lg:!inline-block"
           >Venues</HeaderLink
         >
-        <HeaderLink href="/map" class="!hidden lg:!inline-block" data-astro-reload>Map</HeaderLink
+        <HeaderLink
+          href="/map"
+          class="!hidden lg:!inline-block"
+          data-astro-reload>Map</HeaderLink
         >
         <HeaderLink href="/page/about" class="!hidden lg:!inline-block"
           >About</HeaderLink
@@ -96,10 +89,11 @@ const { title, description, image } = Astro.props;
         </div>
       </div>
     </nav>
-<div class="grid justify-items-center">
-    <article class="p-2 pt-16 lg:p-4 lg:pt-[8rem] max-w-screen-2xl w-full">
-      <slot />
-    </article></div>
+    <div class="grid justify-items-center">
+      <article class="p-2 pt-16 lg:p-4 lg:pt-[8rem] max-w-screen-2xl w-full">
+        <slot />
+      </article>
+    </div>
     <Footer />
   </body>
 </html>

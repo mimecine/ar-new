@@ -43,3 +43,25 @@ const { title, description, image = "/logo-lg.png" } = Astro.props;
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={new URL(image, Astro.url)} />
+<style>
+  [x-cloak] {
+    display: none !important;
+  }
+</style>
+<script>
+  import Alpine from "alpinejs";
+  document.addEventListener("astro:after-preparation", () => {
+    Alpine.stopObservingMutations();
+  });
+  document.addEventListener("astro:page-load", () => {
+    document.dispatchEvent(new Event("alpine:init"));
+    Alpine.initTree(document.documentElement);
+    Alpine.startObservingMutations();
+  });
+</script>
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+  crossorigin=""
+/>
