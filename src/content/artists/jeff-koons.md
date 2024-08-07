@@ -37,14 +37,8 @@ works:
     category: Works on paper
     title: Art Magazine Ads (Art in America; Arts; Flash Art; and, Art Forum), 1988-9
     info: 1988-9,  Lithograph on paper,  915 x 712 mm
-    credit: >-
+    credit: |-
       © Jeff Koons
-
-
-      Acquired jointly with the National Galleries of Scotland through The
-      d'Offay Donation with assistance from the National Heritage Memorial Fund
-      and the Art Fund, 2008.
-
 
       AR00081
     src: ../../media/AR00081-0.jpg

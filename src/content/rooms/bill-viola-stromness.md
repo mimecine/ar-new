@@ -1,5 +1,5 @@
 ---
-title: Bill Viola, Orkney
+title: Bill Viola, Stromness
 artists:
   - bill-viola
 venue: the-piers-art-centre
@@ -11,7 +11,7 @@ images:
   - ../../media/Bill-Viola-Four-Hands.jpg
 startdate: 2009-06-19
 enddate: 2009-09-05
-town: Orkney
+town: Stromness
 url: http://www.pierartscentre.com/
 
 ---

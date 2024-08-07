@@ -1,4 +1,4 @@
-[{
+{
   "artists": [
     {
       "artist": "Carl Andre",
@@ -6,12 +6,7 @@
     },
     {
       "artist": "Diane Arbus",
-      "films": [
-        {
-          "url": "https://www.youtube.com/embed/CZwEMz3y8mo",
-          "title": "Diane Arbus talk @ National Museum, Cardiff"
-        }
-      ]
+      "films": []
     },
     {
       "artist": "Phyllida Barlow",
@@ -25,10 +20,6 @@
     {
       "artist": "Georg Baselitz",
       "films": [
-        {
-          "url": "https://www.youtube.com/embed/V7m-tMX_Zfs",
-          "title": "Café Des Artistes no. 8: Georg Baselitz at New Walk Art Museum & Gallery"
-        },
         {
           "url": "https://www.youtube.com/embed/xJ13--1X_zY",
           "title": "ARTIST ROOMS: Georg Baselitz - New Walk Museum & Art Gallery, Leicester"
@@ -48,10 +39,6 @@
       "artist": "Louise Bourgeois",
       "films": [
         {
-          "url": "https://www.youtube.com/embed/s4A-FP8D2UY",
-          "title": "Behind the scenes of ARTIST ROOMS: Louise Bourgeois "
-        },
-        {
           "url": "https://www.youtube.com/embed/qy7xJhImnLw",
           "title": "Louise Bourgeois - Tate Shots"
         }
@@ -63,10 +50,6 @@
         {
           "url": "https://www.youtube.com/embed/SsbkzSrCdIg",
           "title": "Tate Shots: Vija Celmins"
-        },
-        {
-          "url": "https://www.youtube.com/embed/iqOrMob6V3I",
-          "title": "ARTIST ROOMS: Vija Celmins"
         },
         {
           "url": "https://www.youtube.com/embed/Q5Ef2rw5Fzo",
@@ -94,10 +77,6 @@
     {
       "artist": "Ellen Gallagher",
       "films": [
-        {
-          "url": "https://www.youtube.com/embed/QLgV-opF478",
-          "title": "ARTIST ROOMS: Ellen Gallagher"
-        },
         {
           "url": "https://www.youtube.com/embed/T4iizpGEV3Y",
           "title": "Tate Shots: Bonnie Greer on Ellen Gallagher"
@@ -149,12 +128,7 @@
     },
     {
       "artist": "Damien Hirst",
-      "films": [
-        {
-          "url": "https://www.youtube.com/embed/PBdRJ-Q8yOA",
-          "title": "ARTIST ROOMS: Damien Hirst"
-        }
-      ]
+      "films": []
     },
     {
       "artist": "Jenny Holzer",
@@ -167,12 +141,7 @@
     },
     {
       "artist": "Alex Katz",
-      "films": [
-        {
-          "url": "https://www.youtube.com/embed/QPxwn5QzPLc",
-          "title": "ARTIST ROOMS: Alex Katz"
-        }
-      ]
+      "films": []
     },
     {
       "artist": "Anselm Kiefer",
@@ -283,6 +252,10 @@
       "films": []
     },
     {
+      "artist": "Daido Moriyama",
+      "films": []
+    },
+    {
       "artist": "Ron Mueck",
       "films": [
         {
@@ -388,10 +361,6 @@
       "artist": "Andy Warhol",
       "films": [
         {
-          "url": "https://www.youtube.com/embed/fIMJYyYTSqA",
-          "title": "Tate Shots: Andy Warhol"
-        },
-        {
           "url": "https://www.youtube.com/embed/bfXLqyvzorE",
           "title": "ARTIST ROOMS: Andy Warhol"
         },
@@ -422,10 +391,6 @@
       "artist": "Francesca Woodman",
       "films": [
         {
-          "url": "https://www.youtube.com/embed/18tBayxAeJw",
-          "title": "ARTIST ROOMS: Francesca Woodman"
-        },
-        {
           "url": "https://player.vimeo.com/video/117192141",
           "title": "Performing Arts Students respond to Francesca Woodman"
         },
@@ -436,4 +401,4 @@
       ]
     }
   ]
-}]
+}

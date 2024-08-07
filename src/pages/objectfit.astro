@@ -1,0 +1,107 @@
+---
+const today = new Date();
+import { Image } from "astro:assets";
+import logoNgs from "../assets/logo-ngs.png";
+import logoTate from "../assets/logo-tate.png";
+import Main from "../layouts/Main.astro";
+import { Icon } from "astro-icon/components";
+---
+
+<Main title="slideshow playground" x-data="{ open: false }">
+  <div class="items-center justify-center" xx-data="{ open: false }">
+    <button
+      @click="$refs.dialog.showModal(); $refs['slide1'].scrollIntoView(); open=!open;"
+      @keyup.period.window="$refs.dialog.showModal(); open=!open;"
+      class="focus-visible:outline-none"
+      ><Icon
+        name="material-symbols-light:chevron-right"
+        class="size-6 lg:size-12"
+      /></button
+    >
+    <button
+    @click="$refs['slide2'].scrollIntoView({behavior:'instant'}); $refs.dialog.showModal();  open=!open;"
+    @keyup.period.window="$refs.dialog.showModal(); open=!open;"
+    class="focus-visible:outline-none"
+    ><Icon
+      name="material-symbols-light:chevron-right"
+      class="size-6 lg:size-12"
+    /></button
+  >
+
+    <dialog
+      id="dialog"
+      x-ref="dialog"
+      class="absolute w-screen h-screen inset-0 z-[600] opacity-0 pointer-events-none transition-opacity duration-500 open:opacity-100 open:pointer-events-auto bg-gray-100"
+      role="dialog"
+      aria-modal="true"
+    >
+      <div
+        x-ref="slider"
+        class="flex overflow-x-scroll items-start h-full snap-x snap-mandatory scroll-smooth"
+      >
+        <button
+          @click="$refs.dialog.close(); open=!open;"
+          class="absolute right-0 top-0 leading-none right-2 top-2 focus-visible:outline-none z-10"
+          ><Icon
+            name="material-symbols-light:close"
+            class="size-6 lg:size-12"
+          /></button
+        >
+        <button
+          @click="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider;  $refs.slider.scrollBy({left: -clientWidth, behavior:'smooth'});"
+          @keyup.left.window="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: -clientWidth, behavior:'smooth'});"
+          class="absolute left-0 top-1/2 leading-none focus-visible:outline-none z-10"
+          ><Icon
+            name="material-symbols-light:chevron-left"
+            class="size-6 lg:size-12"
+          /></button
+        >
+        <button
+          @click="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: clientWidth, behavior:'smooth'});"
+          @keyup.right.window="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: clientWidth, behavior:'smooth'});"
+          class="absolute right-0 top-1/2 leading-none focus-visible:outline-none z-10"
+          ><Icon
+            name="material-symbols-light:chevron-right"
+            class="size-6 lg:size-12"
+          /></button
+        >
+
+        <div
+          x-ref="slide1" class="flex-none w-full h-full p-2 grid grid-rows-[1fr,auto,auto] items-center justify-center snap-x snap-center  text-sm font-thin"
+        >
+          <div class="w-full"><img src="https://picsum.photos/2000/3000" alt="Artist Rooms" class="m-auto"  class="object-contain" /></div>
+          <div class="flex flex-row items-center justify-between w-full grid grid-flow-col gap-8">
+            <div class="font-normal">Title of the piece, 2024</div>
+            <div>Materials, techniques, more</div>
+            <div>#1234567</div>
+          </div>
+          <div class="text-center text-xs opacity-50">© Copyright yadda yadda yadda </div>
+
+        </div>
+        <div
+        x-ref="slide2" class="flex-none w-full h-full p-2 grid items-center justify-center snap-x snap-center"
+        >
+          <img src="/logo.svg" alt="Artist Rooms" width="72" height="56" />
+        </div>
+        <div
+          class="flex-none w-full h-full p-2 grid items-center justify-center snap-x snap-center"
+        >
+          <img src="https://picsum.photos/3000/2000" alt="Artist Rooms" class="object-contain" />
+        </div>
+        <div
+          class="flex-none w-full h-full p-2 grid items-center justify-center snap-x snap-center"
+        >
+          <img src="/logo.svg" alt="Artist Rooms" width="72" height="56" />
+        </div>
+      </div>
+    </dialog>
+  </div>
+
+  <div class="absolute top-0 left-0 z-[800] w-screen h-full border-4 border-black">
+    <img src="https://picsum.photos/3000/2000" alt="Artist Rooms" class="object-contain w-full h-full" />
+  </div>
+</Main>
+<script>
+  import smoothscroll from "smoothscroll-polyfill";
+  smoothscroll.polyfill();
+</script>

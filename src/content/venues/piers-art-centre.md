@@ -1,6 +1,6 @@
 ---
 title: Piers Art Centre
-town: Stromness
+town: Orkney
 map: https://goo.gl/maps/RPIi7
 url: http://www.pierartscentre.com/
 geo: '{"type":"Point","coordinates":[-3.2983067,58.96298729999999]}'

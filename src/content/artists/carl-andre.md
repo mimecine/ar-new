@@ -8,7 +8,7 @@ works:
     title: "144 Titanium Square, 2011 "
     info: 2011, fabricated 2017-18,  Titanium,  3.6m x 3.6m x .10mm
     credit: |-
-      Copyright : Carl Andre
+      © Carl Andre
 
       AR01265
 

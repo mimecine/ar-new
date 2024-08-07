@@ -11,11 +11,12 @@ venues.sort((a, b) => {
 ---
 
 <Main title="The Map">
-  <div class="flex justify-center w-full h-full">
-  <div id="map" class="w-full max-w-screen-2xl h-full border border-gray-500">
-  </div>
-  </div>
-
+      <div class="flex justify-center w-full h-full">
+        <div
+          id="map"
+          class="w-full max-w-screen-2xl h-full border border-gray-500">
+        </div>
+      </div>
   <link
     rel="stylesheet"
     href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"
@@ -90,12 +91,12 @@ venues.sort((a, b) => {
           let geo = JSON.parse(venue.data.geo);
           let lon_lat = geo.coordinates.reverse();
           var marker = L.marker(lon_lat, { icon: lgIcon }).addTo(markers);
-          let new_year = '';
+          let new_year = "";
           var room_string = venue.data.rooms
             .sort((a, b) => new Date(a.date) - new Date(b.date))
             .map((room) => {
               let year = room.date.slice(0, 4);
-              if (new_year!= year) {
+              if (new_year != year) {
                 new_year = year;
                 return `<span class="italic">${year}:</span> <a href="/rooms/${room.slug}" class="!text-black !font-[--font-family]">${room.title.replace(/,[^,]+$/, "")}</a>`;
               } else {
@@ -108,7 +109,7 @@ venues.sort((a, b) => {
                     <p class="!text-lg">${room_string}</p>
                     <p><a class="!text-xs !font-italic !text-black !underline" href="https://google.com/maps/search/?api=1&query=${venue.data.title}, ${venue.data.town}, UK" target="_map">${venue.data.address}</a></p>
                     `);
-           marker.bindTooltip(venue.data.title); // too ugly!
+          marker.bindTooltip(venue.data.title); // too ugly!
           bounds.extend(lon_lat);
         }
       });
@@ -121,10 +122,9 @@ venues.sort((a, b) => {
     document.addEventListener("astro:page-load", loadedHandler);
   </script>
   <style is:inline>
-
-.leaflet-container {
-  font-family: "Fredoka Variable", sans-serif;
-}
+    .leaflet-container {
+      font-family: "Fredoka Variable", sans-serif;
+    }
     .leaflet-popup-content-wrapper {
       box-shadow: none !important;
       border: 1px solid #6b7280 !important;
@@ -139,7 +139,7 @@ venues.sort((a, b) => {
     .leaflet-bottom {
       z-index: 1;
     }
-    .leaflet-popup-content {      
+    .leaflet-popup-content {
     }
 
     .mycluster {

@@ -36,7 +36,7 @@ works:
       AR00038
     src: ../../media/AR00038.jpg
   - inventorynumber: ar01171
-    category: Photography
+    category: Works on paper
     title: Heroische Sinnbilder, 1969
     info: 1969,   Photograph, black and white, on paper, 634 x 832 mm
     credit: |-
@@ -45,7 +45,7 @@ works:
       AR01171
     src: ../../media/AR01171-9.jpg
   - inventorynumber: ar01172
-    category: Photography
+    category: Works on paper
     title: Heroische Sinnbilder, 1969
     info: 1969,   Photograph, black and white, on paper, 634 x 833 mm
     credit: |-
@@ -54,7 +54,7 @@ works:
       AR01172
     src: ../../media/AR01172-9.jpg
   - inventorynumber: ar01173
-    category: Photography
+    category: Works on paper
     title: Heroische Sinnbilder, 1969
     info: "1969,   Photograph, black and white, on paper, 535 x 758 mm "
     credit: |-
@@ -63,7 +63,7 @@ works:
       AR01173
     src: ../../media/AR01173-9.jpg
   - inventorynumber: ar01174
-    category: Photography
+    category: Works on paper
     title: Heroische Sinnbilder, 1969
     info: 1969,  Photograph, black and white, on paper  516 x 760 mm
     credit: |-
@@ -72,7 +72,7 @@ works:
       AR01174
     src: ../../media/AR01174-9.jpg
   - inventorynumber: ar01162
-    category: Photography
+    category: Works on paper
     title: Heroische Sinnbilder, 1969
     info: 1969,  Photograph, black and white, on paper,  760 x 540 mm
     credit: |-
@@ -81,7 +81,7 @@ works:
       AR01162
     src: ../../media/AR01162.jpg
   - inventorynumber: ar01163
-    category: Photography
+    category: Works on paper
     title: Heroische Sinnbilder, 1969
     info: 1969,  Photograph, black and white, on paper,  775 x 534 mm
     credit: |-
@@ -128,7 +128,7 @@ works:
       AR00037
     src: ../../media/AR00037.jpg
   - inventorynumber: ar01166
-    category: Photography
+    category: Works on paper
     title: Sternenfall, 2006
     info: 2006,  Photograph, black and white, on paper,  1155 x 1250 mm
     credit: |-

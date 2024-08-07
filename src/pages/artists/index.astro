@@ -9,7 +9,10 @@ let artists = await getCollection("artists");
 artists = artists
   .filter((artist) => !artist.data.hidden)
   .sort((a, b) => {
-    return a.data.title.localeCompare(b.data.title);
+    let a_last = a.data.title.replace(/^[a-z]+\s+\&?/i, "").trim();
+    let b_last = b.data.title.replace(/^[a-z]+\s+\&?/i, "").trim();
+    console.log(a_last, ",", b_last);
+    return a_last.localeCompare(b_last);
   });
 ---
 

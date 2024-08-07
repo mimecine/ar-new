@@ -73,7 +73,7 @@ const parsePage = (error, res, done) => {
     const images = $('.o-room__banner-image--slide img').map((i,img) => $(img).attr('src')).toArray()
     const startdate = $('time').first().attr('datetime')?.split('T').shift()
     const enddate = $('time').last().attr('datetime')?.split('T').shift()
-    const venue = $('.o-room_detail-info__item:nth-child(3) p').first().text()?.trim()
+    const venue = $('.o-room_detail-info__item:nth-child(2) p').first().text()?.trim()
     const url = $('.o-room__details__cta__visit a').first().attr('href')
     const map = $('.o-room__details__cta__map a').first().attr('href')
     const town = $('h1').first().text()?.split(/\s?,\s+/).pop();

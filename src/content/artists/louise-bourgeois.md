@@ -15,6 +15,15 @@ works:
 
       AL00227 (on long-term loan from Artist Rooms Foundation, 2011)
     src: ../../media/AL00227.jpg
+  - inventorynumber: al00356
+    category: Sculpture
+    title: Fallen Woman, 1981
+    info: 1981, Bronze, black patina Ed. 4/6 + AP, 34 x 9 x 9 cm
+    credit: |-
+      © Louise Bourgeois
+
+      AL00356
+    src: ../../media/a034073.jpg
   - inventorynumber: al00228
     category: Sculpture
     title: Nature Study, 1986
@@ -26,6 +35,15 @@ works:
 
       AL00228 (on long-term loan from Artist Rooms Foundation, 2011)
     src: ../../media/AL00228.jpg
+  - inventorynumber: a039019
+    category: Works on paper
+    title: La mère à couper le cordon, 1986
+    info: ""
+    credit: |-
+      © The Easton Foundation/Licensed by DACS
+
+      A039019
+    src: ../../media/Bourgeois-works-not-included-in-exhibition-list-for-Compton-Verney-exhibition-6-July-6-Oct-2024-updated-3-June-2024.pdf-image-002.jpg
   - inventorynumber: al00349
     category: Works on paper
     title: Triptych for the Red Room, 1994
@@ -47,6 +65,33 @@ works:
 
       AL00340
     src: ../../media/al00340.png
+  - inventorynumber: a039020
+    category: Works on paper
+    title: The Five Magic Words, 2002
+    info: Ink on paper, 25.4 x 25.4 cm
+    credit: |-
+      © The Easton Foundation/Licensed by DACS
+
+      A039020
+    src: ../../media/Bourgeois-works-not-included-in-exhibition-list-for-Compton-Verney-exhibition-6-July-6-Oct-2024-updated-3-June-2024.pdf-image-003.jpg
+  - inventorynumber: a039021
+    category: Works on paper
+    title: Self Portrait, 2003
+    info: Fabric, thread and pencil on paper, 52.4 x 34 cm
+    credit: |-
+      © The Easton Foundation/Licensed by DACS
+
+      A039021
+    src: ../../media/Bourgeois-works-not-included-in-exhibition-list-for-Compton-Verney-exhibition-6-July-6-Oct-2024-updated-3-June-2024.pdf-image-004.jpg
+  - inventorynumber: a039022
+    category: Works on paper
+    title: Key Hole, 2005
+    info: ""
+    credit: |-
+      © The Easton Foundation/Licensed by DACS
+
+      A039022
+    src: ../../media/Bourgeois-works-not-included-in-exhibition-list-for-Compton-Verney-exhibition-6-July-6-Oct-2024-updated-3-June-2024.pdf-image-005.jpg
   - inventorynumber: al00344
     category: Sculpture
     title: Couple I, 1996
@@ -58,17 +103,17 @@ works:
 
       AL00344 (on long-term loan from Artist Rooms Foundation)
     src: ../../media/al00344.jpg
-  - inventorynumber: al00343
+  - inventorynumber: al00229
     category: Sculpture
-    title: Give or Take, 2002
-    info: 2002,  bronze, silver nitrate patina,   89 x 584 x 127 mm
+    title: Single II, 1996
+    info: 1996,  Fabric, hanging piece,  2032 x 1067 x 762 mm
     credit: |-
       Collection: Artist Rooms Foundation
 
-      © The Easton Foundation/Licensed by DACS, Photo: Christopher Burke
+      © The Easton Foundation/Licensed by DACS
 
-      AL00343 (on long-term loan from Artist Rooms Foundation)
-    src: ../../media/al00343.jpg
+      AL00229 (on long-term loan from Artist Rooms Foundation, 2011)
+    src: ../../media/Untitled.jpg
   - inventorynumber: al00346
     category: Works on paper
     title: Spirals, 2005
@@ -89,6 +134,15 @@ works:
 
       AL00230 (on long-term loan from Artist Rooms Foundation, 2011)
     src: ../../media/al00230.jpg
+  - inventorynumber: a036089
+    category: Sculpture
+    title: Legs, 2001
+    info: 2001, Red fabric, hanging piece, 193 x 86 x 57 cm
+    credit: |-
+      @ Louise Bourgeois
+
+      A036089
+    src: ../../media/Legs-2001-x.jpg
   - inventorynumber: al00342
     category: Sculpture
     title: Eyes, 2001-5
@@ -98,20 +152,20 @@ works:
 
       AL00342
     src: ../../media/BOURG56193.jpg
-  - inventorynumber: al00229
+  - inventorynumber: al00343
     category: Sculpture
-    title: Single II, 1996
-    info: 1996,  Fabric, hanging piece,  2032 x 1067 x 762 mm
+    title: Give or Take, 2002
+    info: 2002,  bronze, silver nitrate patina,   89 x 584 x 127 mm
     credit: |-
       Collection: Artist Rooms Foundation
 
-      © The Easton Foundation/Licensed by DACS
+      © The Easton Foundation/Licensed by DACS, Photo: Christopher Burke
 
-      AL00229 (on long-term loan from Artist Rooms Foundation, 2011)
-    src: ../../media/Untitled.jpg
+      AL00343 (on long-term loan from Artist Rooms Foundation)
+    src: ../../media/al00343.jpg
   - inventorynumber: al00345
     category: Works on paper
-    title: 10 AM IS WHEN YOU COME TO ME,  2006
+    title: 10 AM is When You Come To Me,  2006
     info: "2006,  etching, gouache on paper, 20 pages, each: 380 x 910 mm"
     credit: |-
       © The Easton Foundation/Licensed by DACS
@@ -163,6 +217,15 @@ works:
 
       AL00358
     src: ../../media/al00358.jpg
+  - inventorynumber: al00397
+    category: Painting
+    title: Untitled, 1946-1947
+    info: 1946-1947, Oil on canvas,  66 x 112 cm
+    credit: |-
+      © Louise Bourgeois
+
+      AL00397
+    src: ../../media/A035148.jpg
 
 ---
 

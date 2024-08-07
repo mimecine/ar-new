@@ -4,18 +4,18 @@ artists:
   - andy-warhol
 venue: tate-modern
 images:
-  - ../../media/Warhol-02.jpg
-  - ../../media/Warhol-04.jpg
-  - ../../media/Warhol-07-0.jpg
-  - ../../media/Warhol-08.jpg
-  - ../../media/Warhol-09.jpg
-startdate: 2010-03-01
-enddate: 2011-03-01
+  - ../../media/Warhol-07.jpg
+  - ../../media/Warhol-10.jpg
+  - ../../media/in000981.jpg
+  - ../../media/in000979.jpg
+  - ../../media/in000978.jpg
+startdate: 2009-04-03
+enddate: 2010-03-14
 town: London
-url: http://www.tate.org.uk/visit/tate-modern
+url: https://www.tate.org.uk/
 
 ---
 
-This exhibition presented a selection of Andy Warhol paintings recently acquired by ARTIST ROOMS, including self-portraits and the iconic multi-part work 'Skulls'. The works emphasise Warhol's increasing preoccupation with themes of death and mortality in the later part of his career, exacerbated by the near-fatal shooting he suffered in 1968.
+Andy Warhol was the son of immigrants who became an American icon. A shy gay man who became the hub of New York’s social scene. An artist who embraced consumerism, celebrity and the counter culture – and changed modern art in the process.
 
-This presentation opened alongside an ARTIST ROOMS exhibition at the Tate Modern devoted to one of the most significant female American artists of the last fifty years, Agnes Martin.
+He was born in 1928 as Andrew Warhola to working-class parents from present day Slovakia. In 1949 he moved from Pittsburgh to New York. Initially working as a commercial illustrator, his skill at transforming the imagery of American culture soon found its realisation in his ground-breaking pop art.

@@ -90,6 +90,42 @@ works:
 
       AR01135
     src: ../../media/AR01135.jpg
+  - inventorynumber: ar01271
+    category: Sculpture
+    title: They're Breathing
+    info: 2017, Rosso francia marble, 43 × 134 × 51 cm
+    credit: |-
+      © Jenny Holzer
+
+      AR01271
+    src: ../../media/JHO-31025-THEY-RE-BREATHING-A-min.jpg
+  - inventorynumber: ar01269
+    category: Sculpture
+    title: You Enemy
+    info: 2017, Rosso francia marble, 43 × 134 × 51 cm
+    credit: |-
+      © Jenny Holzer
+
+      AR01269
+    src: ../../media/JHO-31023-YOU-ENEMY-02-min-0.JPG
+  - inventorynumber: ar01270
+    category: Sculpture
+    title: I Placed My Feet
+    info: 2017, Rosso francia marble, 43 × 134 × 51 cm
+    credit: |-
+      © Jenny Holzer
+
+      AR01270
+    src: ../../media/JHO-31026-I-PLACED-MY-FEET-A-min.jpg
+  - inventorynumber: ar01268
+    category: Sculpture
+    title: The Beauty Worshipped
+    info: 2017, Rosso francia marble, 43 × 134 × 51 cm
+    credit: |-
+      © Jenny Holzer
+
+      AR01268
+    src: ../../media/JHO-31024-THE-BEAUTY-WORSHIPPED-03-min.JPG
 
 ---
 

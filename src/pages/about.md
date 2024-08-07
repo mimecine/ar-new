@@ -7,8 +7,7 @@ artists:
 rooms:
   - jannis-kounellis-london-tate-modern
 ---
-ARTIST ROOMS is a collection of modern and contemporary art. Established in 2008, the collection includes major bodies of work by more than 40 international artists. The guiding principle is to show the work of each artist in dedicated solo exhibitions.
-
+![Artist Rooms](/src/media/-DSC0674.jpg)
 Through ARTIST ROOMS, important works of art can be seen by visitors across the United Kingdom. Since the touring programme began in 2009, nearly 50 million people have visited more than 180 exhibitions at over 85 museums and galleries, from Penzance to the Hebrides, and from Belfast to Llandudno.
 
 ARTIST ROOMS gives young people across the UK the chance to get involved in creative projects, discover more about art and artists, and learn new skills.

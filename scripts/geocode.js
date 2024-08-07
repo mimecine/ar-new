@@ -16,8 +16,8 @@ async function getCoordinates(place) {
     });
 
     if (response.data.status === 'OK') {
+      console.log(response.data.results[0]?.place_id);
       const location = response.data.results[0].geometry.location;
-      console.log(response.data.results[0])
       console.log(`Latitude: ${location.lat}`);
       console.log(`Longitude: ${location.lng}`);
     } else {
@@ -30,3 +30,4 @@ async function getCoordinates(place) {
 
 // Call the function with your query 
 getCoordinates("Tate Modern Bankside");  
+console.log(client)

@@ -2,7 +2,7 @@
 title: Johan Grimonprez, Colchester
 artists:
   - johan-grimonprez
-venue: firstsite-colchester-off-site
+venue: firstsite
 images:
   - ../../media/-DSC2568.jpg
   - ../../media/-DSC2638.jpg

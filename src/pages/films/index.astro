@@ -1,11 +1,7 @@
 ---
 import { getCollection } from "astro:content";
-import { Icon } from "astro-icon/components";
-import { Vimeo, YouTube } from "astro-embed";
 import Main from "../../layouts/Main.astro";
-import Thumbnail from "../../components/Thumbnail.astro";
 import Video from "../../components/Video.astro";
-import { extract } from "@extractus/oembed-extractor";
 
 let films = await getCollection("films");
 films = await Promise.all(
@@ -14,44 +10,6 @@ films = await Promise.all(
     .sort((a, b) => {
       return a.data.title.localeCompare(b.data.title);
     })
-  // .map(async (film) => {
-  //   let url = film.data.url;
-  //   if (url.includes("vimeo")) {
-  //     let id = url.replace(
-  //       /(?:http:|https:|)\/\/(?:player.|www.)?vimeo\.com\/(?:video\/|embed\/|watch\?\S*v=|v\/)?(\d*)(?:.*)/gim,
-  //       "$1"
-  //     );
-  //     // try {
-  //     //   let res = await extract(`https://vimeo.com/${id}`);
-  //     //   film.data.thumbnail_url = res.thumbnail_url;
-  //     //   film.data.thumbnail_width = res.thumbnail_width;
-  //     //   film.data.thumbnail_height = res.thumbnail_height;
-  //     // } catch (e) {
-  //     //   console.log(e, id, url);
-  //     // }
-  //     film.data.id = id;
-  //     film.data.url = `https://vimeo.com/${id}`;
-  //     film.data.embed = `https://player.vimeo.com/video/${id}?app_id=122963`;
-  //   } else if (url.includes("youtube")) {
-  //     let id = url.replace(
-  //       /(?:http:|https:|)\/\/(?:www\.|)youtube\.com\/(?:watch\?.*(?:|\&)v=|embed\/|v\/|watch\?.*?\bv=)([^#\&\?]*).*/gim,
-  //       "$1"
-  //     );
-  //     // try {
-  //     //   let res = await extract(`https://youtube.com/watch?v=${id}`);
-  //     //   film.data.thumbnail_url = res.thumbnail_url;
-  //     //   film.data.thumbnail_width = res.thumbnail_width;
-  //     //   film.data.thumbnail_height = res.thumbnail_height;
-  //     // } catch (e) {
-  //     //   console.log(e, id, url);
-  //     // }
-  //     film.data.id = id;
-  //     film.data.url = `https://youtube.com/watch?v=${id}`;
-  //     film.data.embed = `https://www.youtube.com/embed/${id}`;
-  //   }
-  //   console.log(film.data.url)
-  //   return film;
-  // })
 );
 
 const artists = await getCollection("artists");
@@ -68,7 +26,6 @@ const artists = await getCollection("artists");
           films.map((film) => (
             <li
               class="film w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4 cursor-pointer"
-              @xclick={`() => {src = '${film.data.embed}'; dialog_open = true; $refs.dialog.showModal();}`}
             >
               <Video
                 src={film.data.url}
@@ -96,32 +53,6 @@ const artists = await getCollection("artists");
           ))
         }
       </ul>
-      <dialog
-        x-ref="dialog"
-        x-show="dialog_open"
-        id="film-dialog"
-        class="w-lvw h-lvh xinset-0 xz-10 bg-transparent backdrop:bg-black backdrop:opacity-80"
-      >
-        <button
-          @click="() => {dialog_open = false; src = null; $refs.dialog.close();}"
-          class="absolute top-0 right-0 focus-visible:outline-none text-white"
-        >
-          <Icon name="material-symbols-light:close" class="size-6 lg:size-12" />
-        </button>
-        <div class="h-full w-full inset-0 grid place-items-center p-6">
-          <template x-if="dialog_open">
-            <iframe
-              x-transition.duration.1000ms.opacity.scale.ease-in-out
-              x-ref="video"
-              id="film-iframe"
-              class="w-full max-h-full aspect-video object-contain bg-gray bg-no-repeat bg-center bg-[url('/SvgSpinners180RingWithBg.svg')]"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-              :src="src"></iframe>
-          </template>
-        </div>
-      </dialog>
     </section>
   </main>
-  <script></script>
 </Main>

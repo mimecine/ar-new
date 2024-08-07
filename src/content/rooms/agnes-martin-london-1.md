@@ -4,16 +4,16 @@ artists:
   - agnes-martin
 venue: tate-modern
 images:
-  - ../../media/Agnes-Martin-In-the-Studio-Artist-Rooms-2020-1-0.jpg
-  - ../../media/Agnes-Martin-In-the-Studio-Artist-Rooms-2020-2-0.jpg
-  - ../../media/Agnes-Martin-In-the-Studio-Artist-Rooms-2020-4-0.jpg
-  - ../../media/Agnes-Martin-In-the-Studio-Artist-Rooms-2020-5-0.jpg
-  - ../../media/Agnes-Martin-In-the-Studio-Artist-Rooms-2020-6-0.jpg
-  - ../../media/Agnes-Martin-In-the-Studio-Artist-Rooms-2020-7-0.jpg
-startdate: 2021-12-06
-enddate: 2024-09-22
+  - ../../media/Agnes-Martin-In-the-Studio-Artist-Rooms-2020-6-.jpg
+  - ../../media/Agnes-Martin-In-the-Studio-Artist-Rooms-2020-5-.jpg
+  - ../../media/Agnes-Martin-In-the-Studio-Artist-Rooms-2020-4-.jpg
+  - ../../media/Agnes-Martin-In-the-Studio-Artist-Rooms-2020-1-.jpg
+  - ../../media/Agnes-Martin-In-the-Studio-Artist-Rooms-2020-2-.jpg
+  - ../../media/Agnes-Martin-In-the-Studio-Artist-Rooms-2020-7-.jpg
+startdate: 2020-01-27
+enddate: 2023-11-05
 town: London
-url: https://www.tate.org.uk/
+url: https://www.tate.org.uk/visit/tate-modern
 
 ---
 
