@@ -23,7 +23,7 @@ async function getCoordinates(place) {
 
     if (response.data.status === "OK") {
         // console.log(response.data.results[0]);
-      const location = response.data.results[0].geometry.location;
+      // const location = response.data.results[0].geometry.location;
       return response.data.results[0];
     } else {
       console.error("Geocoding failed:", response.data.status);
@@ -124,7 +124,7 @@ async function makeRoomsMD() {
           const R = await getCoordinates(`${where} ${_v.town} UK`);
           _v.geo = JSON.stringify({
             type: "Point",
-            coordinates: [R.geometry.location.lng, R.geometry.location.lat],
+            coordinates: [R.geometry?.location.lng, R.geometry?.location.lat],
           });
           _v.address = R.formatted_address;
           _v.plus_code = R.plus_code?.global_code;
