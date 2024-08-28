@@ -7,6 +7,7 @@ import rooms from "./pages-rooms.json" assert { type: "json" };
 import films from "./pages-films.json" assert { type: "json" };
 import dotenv from "dotenv";
 import { Client } from "@googlemaps/google-maps-services-js";
+import sharp from "sharp";
 
 dotenv.config();
 const client = new Client({}); // Create your client
@@ -196,6 +197,7 @@ async function existOrDownload(url, folder, slug) {
     "-"
   );
   var ext = filename.split(".").pop();
+  ext = "webp";
   if(slug) { filename = slug + '.' + ext}
   let local = `${folder}/${filename}`;
   if (!fs.existsSync(local)) {
@@ -204,8 +206,13 @@ async function existOrDownload(url, folder, slug) {
       let res = await fetch(_url);
       let blob = await res.blob();
       let buffer = Buffer.from(await blob.arrayBuffer());
-
-      fs.writeFileSync(local, buffer);
+      let S = new sharp(buffer);
+      S.resize(1600, 1600, {
+        fit: "inside",
+        withoutEnlargement: true,
+        
+      }).webp({quality: 100,}).toFile(local);
+      // fs.writeFileSync(local, buffer);
       return filename;
     } catch (e) {
       console.log("Can't write", local, e);

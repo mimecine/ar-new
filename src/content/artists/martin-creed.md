@@ -12,7 +12,7 @@ works:
       © Martin Creed
 
       AR01149
-    src: ../../media/martin-creed-ar01149-work-no-890-dont-worry-2008.png
+    src: ../../media/martin-creed-ar01149-work-no-890-dont-worry-2008.webp
   - inventorynumber: AR01150
     category: Paintings
     title: Work No. 1102, 2011
@@ -114,7 +114,7 @@ works:
 
 
       AR01148
-    src: ../../media/martin-creed-ar01148-work-no-944-2008.png
+    src: ../../media/martin-creed-ar01148-work-no-944-2008.webp
   - inventorynumber: A037053
     category: Paintings
     title: Work No. 1582, 2013

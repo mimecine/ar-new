@@ -1,11 +1,8 @@
 ---
 title: Tate Modern
 town: London
-map: https://www.google.com/maps/place/Tate+Modern/@51.5075953,-0.0993564,17z/data=!3m1!4b1!4m2!3m1!1s0x487604a931761995:0x1ffc6f23e06b9be7
+map: http://maps.google.com/maps?q=Tate%20Modern%2C%20Bankside%2C%20London%2C%20GB%2C%20SE1%209TG
 url: http://www.tate.org.uk/
-geo: '{"type":"Point","coordinates":[-0.09949219999999999,51.5078837]}'
-address: Bankside, London SE1 9TG, UK
-plus_code: 9C3XGW52+56
 
 ---
 

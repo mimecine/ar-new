@@ -80,7 +80,7 @@ works:
       Photo: Marcus Leith; © The Easton Foundation/Licensed by DACS
 
       AL00340
-    src: ../../media/louise-bourgeois-al00340-home-for-runaway-girls-1994.png
+    src: ../../media/louise-bourgeois-al00340-home-for-runaway-girls-1994.webp
   - inventorynumber: A039020
     category: Works on paper
     title: The Five Magic Words, 2002
