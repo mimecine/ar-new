@@ -4,11 +4,11 @@ artists:
   - richard-long
 venue: the-potteries-museum-and-art-gallery
 images:
-  - ../../media/Richard-Long-04.jpg
-  - ../../media/Richard-Long-05.jpg
-  - ../../media/Richard-Long-08.jpg
-  - ../../media/Richard-Long-14.jpg
-  - ../../media/Richard-Long-20.jpg
+  - ../../media/richard-long-stoke-on-trent-the-potteries-museum-art-gallery-2013-11-30-0.jpg
+  - ../../media/richard-long-stoke-on-trent-the-potteries-museum-art-gallery-2013-11-30-1.jpg
+  - ../../media/richard-long-stoke-on-trent-the-potteries-museum-art-gallery-2013-11-30-2.jpg
+  - ../../media/richard-long-stoke-on-trent-the-potteries-museum-art-gallery-2013-11-30-3.jpg
+  - ../../media/richard-long-stoke-on-trent-the-potteries-museum-art-gallery-2013-11-30-4.jpg
 startdate: 2013-11-30
 enddate: 2014-03-02
 town: Stoke-on-Trent

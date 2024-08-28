@@ -4,11 +4,11 @@ artists:
   - jeff-koons
 venue: norwich-castle-museum-and-art-gallery
 images:
-  - ../../media/Jeff-Koons-01.jpg
-  - ../../media/Jeff-Koons-10.jpg
-  - ../../media/Jeff-Koons-18.jpg
-  - ../../media/Jeff-Koons-22.jpg
-  - ../../media/Jeff-Koons-24.jpg
+  - ../../media/jeff-koons-norwich-norwich-castle-museum-art-gallery-2015-05-09-0.jpg
+  - ../../media/jeff-koons-norwich-norwich-castle-museum-art-gallery-2015-05-09-1.jpg
+  - ../../media/jeff-koons-norwich-norwich-castle-museum-art-gallery-2015-05-09-2.jpg
+  - ../../media/jeff-koons-norwich-norwich-castle-museum-art-gallery-2015-05-09-3.jpg
+  - ../../media/jeff-koons-norwich-norwich-castle-museum-art-gallery-2015-05-09-4.jpg
 startdate: 2015-05-09
 enddate: 2015-09-06
 town: Norwich

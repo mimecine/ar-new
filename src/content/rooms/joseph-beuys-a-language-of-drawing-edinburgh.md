@@ -4,11 +4,11 @@ artists:
   - joseph-beuys
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/Joseph-Beuys-A-Language-of-Drawing-ARTIST-ROOMS-5.jpg
-  - ../../media/Joseph-Beuys-A-Language-of-Drawing-ARTIST-ROOMS-21.jpg
-  - ../../media/Joseph-Beuys-A-Language-of-Drawing-ARTIST-ROOMS-51.jpg
-  - ../../media/Joseph-Beuys-A-Language-of-Drawing-ARTIST-ROOMS-69.jpg
-  - ../../media/Joseph-Beuys-A-Language-of-Drawing-ARTIST-ROOMS-86.jpg
+  - ../../media/joseph-beuys-a-language-of-drawing-edinburgh-scottish-national-gallery-of-modern-art-2016-07-30-0.jpg
+  - ../../media/joseph-beuys-a-language-of-drawing-edinburgh-scottish-national-gallery-of-modern-art-2016-07-30-1.jpg
+  - ../../media/joseph-beuys-a-language-of-drawing-edinburgh-scottish-national-gallery-of-modern-art-2016-07-30-2.jpg
+  - ../../media/joseph-beuys-a-language-of-drawing-edinburgh-scottish-national-gallery-of-modern-art-2016-07-30-3.jpg
+  - ../../media/joseph-beuys-a-language-of-drawing-edinburgh-scottish-national-gallery-of-modern-art-2016-07-30-4.jpg
 startdate: 2016-07-30
 enddate: 2016-10-30
 town: Edinburgh

@@ -1,71 +1,78 @@
 ---
 title: Agnes Martin
-featuredImage: ../../media/AR00179.jpg
+featuredImage: ../../media/agnes-martin-featured.jpg
 resources: []
 works:
-  - inventorynumber: ar00177
+  - inventorynumber: AR00177
     category: Painting
     title: "Untitled #5, 1994"
     info: 1994,  Acrylic paint and graphite on canvas,  1525 x 1528 x 35 mm
+    year: "1994"
     credit: |-
       © Estate of Agnes Martin / DACS, 2014
 
       AR00177
-    src: ../../media/AR00177.jpg
-  - inventorynumber: al00194
+    src: ../../media/agnes-martin-ar00177-untitled-5-1994.jpg
+  - inventorynumber: AL00194
     category: Painting
     title: "Untitled #10, 1995"
     info: 1995,  Acrylic paint and graphite on canvas,  1524 x 1524 mm
+    year: "1995"
     credit: |-
       © Estate of Agnes Martin / DACS, 2014
 
       AL00194
-    src: ../../media/AL00194.jpg
-  - inventorynumber: ar00179
+    src: ../../media/agnes-martin-al00194-untitled-10-1995.jpg
+  - inventorynumber: AR00179
     category: Painting
     title: Happy Holiday, 1999
     info: 1999,  Acrylic paint and graphite on canvas,  1525 x 1525 x 40 mm
+    year: "1999"
     credit: |-
       © Estate of Agnes Martin / DACS, 2014
 
       AR00179
-    src: ../../media/AR00179.jpg
-  - inventorynumber: al00193
+    src: ../../media/agnes-martin-ar00179-happy-holiday-1999.jpg
+  - inventorynumber: AL00193
     category: Painting
     title: I Love the Whole World, 1999
     info: 1999,  Acrylic paint and graphite on canvas,  1524 x 1524 mm
+    year: "1999"
     credit: |-
       © Estate of Agnes Martin / DACS, 2014
 
       AL00193
-    src: ../../media/AL00193.jpg
-  - inventorynumber: ar00178
+    src: ../../media/agnes-martin-al00193-i-love-the-whole-world-1999.jpg
+  - inventorynumber: AR00178
     category: Painting
     title: Faraway Love, 1999
     info: 1999,  Acrylic paint and graphite on canvas,  1525 x 1525 x 35 mm
+    year: "1999"
     credit: |-
       © Estate of Agnes Martin / DACS, 2014
 
       AR00178
-    src: ../../media/AR00178.jpg
-  - inventorynumber: t01866
+    src: ../../media/agnes-martin-ar00178-faraway-love-1999.jpg
+  - inventorynumber: T01866
     category: Painting
     title: Morning, 1965
     info: 1965,  Acrylic paint and graphite on canvas,  1826 x 1219 mm
+    year: "1965"
     credit: |-
       © Estate of Agnes Martin / DACS, 2014
 
       T01866
-    src: ../../media/T01866-9.jpg
-  - inventorynumber: t13717
+    src: ../../media/agnes-martin-t01866-morning-1965.jpg
+  - inventorynumber: T13717
     category: Painting
     title: "Untitled #5, 1991"
     info: 1991,  Acrylic paint and graphite on canvas,  1829 x 1829 mm
+    year: "1991"
     credit: |-
       © Estate of Agnes Martin / DACS, 2014
 
       T13717
-    src: ../../media/T13717-9.jpg
+    src: ../../media/agnes-martin-t13717-untitled-5-1991.jpg
 
 ---
 

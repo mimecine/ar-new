@@ -4,9 +4,9 @@ artists:
   - robert-therrien
 venue: tate-modern
 images:
-  - ../../media/Therrien-AR-TM-2018-006.jpg
-  - ../../media/Therrien-AR-TM-2018-011.jpg
-  - ../../media/Therrien-AR-TM-2018-017.jpg
+  - ../../media/robert-therrien-london-tate-modern-2018-08-20-0.jpg
+  - ../../media/robert-therrien-london-tate-modern-2018-08-20-1.jpg
+  - ../../media/robert-therrien-london-tate-modern-2018-08-20-2.jpg
 startdate: 2018-08-20
 enddate: 2018-10-07
 town: London

@@ -1,8 +1,8 @@
 ---
 title: Tate Liverpool
 town: Liverpool
-map: https://www.google.com/maps/place/Tate+Liverpool/@53.4007545,-2.9941722,15z/data=!4m5!3m4!1s0x0:0x94e5864833386952!8m2!3d53.4007545!4d-2.9941722
-url: https://www.tate.org.uk/
+map: http://maps.google.com/maps?q=Tate%20Liverpool%2C%20Albert%20Dock%2C%20Liverpool%2C%20Merseyside%2C%20GB%2C%20L3%204BB
+url: http://www.tate.org.uk/
 geo: '{"type":"Point","coordinates":[-2.9936658,53.4033981]}'
 address: Mann Island Buildings, Mann Island, Liverpool L3 1BP, UK
 plus_code: 9C5VC234+9G

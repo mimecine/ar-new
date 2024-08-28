@@ -4,9 +4,9 @@ artists:
   - anselm-kiefer
 venue: tate-modern
 images:
-  - ../../media/Kiefer-AR00038-01.jpeg
-  - ../../media/Kiefer-AR00038-02.jpeg
-  - ../../media/Kiefer-AR00038-04.jpeg
+  - ../../media/anselm-kiefer-london-tate-modern-2009-04-29-0.jpeg
+  - ../../media/anselm-kiefer-london-tate-modern-2009-04-29-1.jpeg
+  - ../../media/anselm-kiefer-london-tate-modern-2009-04-29-2.jpeg
 startdate: 2009-04-29
 enddate: 2010-01-01
 town: London

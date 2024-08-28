@@ -4,9 +4,9 @@ artists:
   - don-mccullin
 venue: bonhoga-gallery
 images:
-  - ../../media/005-Don-McCullin-Bonhoga-Gallery-Shetland-Winter-2014-15-photography-by-C.-Toogood.jpg
-  - ../../media/011-Don-McCullin-Bonhoga-Gallery-Shetland-Winter-2014-15-photography-by-C.-Toogood.jpeg
-  - ../../media/002-Don-McCullin-Bonhoga-Gallery-Shetland-Winter-2014-15-photography-by-C.-Toogood.jpeg
+  - ../../media/don-mccullin-weisdale-bonhoga-gallery-2014-11-29-0.jpg
+  - ../../media/don-mccullin-weisdale-bonhoga-gallery-2014-11-29-1.jpeg
+  - ../../media/don-mccullin-weisdale-bonhoga-gallery-2014-11-29-2.jpeg
 startdate: 2014-11-29
 enddate: 2015-02-22
 town: Weisdale

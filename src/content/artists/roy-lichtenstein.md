@@ -1,6 +1,6 @@
 ---
 title: Roy Lichtenstein
-featuredImage: ../../media/Lichtenstein-05.jpg
+featuredImage: ../../media/roy-lichtenstein-featured.jpg
 resources:
   - /sites/default/files/downloads/RoyLichtensteinLearningResource.pdf
 works: []

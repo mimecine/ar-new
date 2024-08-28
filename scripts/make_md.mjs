@@ -21,14 +21,14 @@ async function getCoordinates(place) {
     });
 
     if (response.data.status === "OK") {
-        console.log(response.data.results[0]);
+        // console.log(response.data.results[0]);
       const location = response.data.results[0].geometry.location;
       return response.data.results[0];
     } else {
       console.error("Geocoding failed:", response.data.status);
     }
   } catch (error) {
-    console.error("Error:", error);
+    //console.error("Error:", error);
   }
 }
 
@@ -42,11 +42,12 @@ async function makeArtistMD() {
       let body = a.body;
       delete a.body;
       if (a.featuredImage)
+        var ext = a.featuredImage.split(".").pop();
         a.featuredImage =
           "../../media/" +
           (await existOrDownload(
             "https://artistrooms.org" + a.featuredImage,
-            "./src/media/"
+            "./src/media/", slugify(`${a.title}-featured`)
           ));
       a.works = await Promise.all(
         a.works
@@ -56,7 +57,8 @@ async function makeArtistMD() {
               "../../media/" +
               (await existOrDownload(
                 "https://artistrooms.org" + w.src,
-                "./src/media/"
+                "./src/media/",
+                slugify(`${a.title}-${w.inventorynumber}-${w.title}`)
               ));
             return w;
           })
@@ -83,8 +85,8 @@ async function makeRoomsMD() {
       a.images = await Promise.all(
         a.images
           .map((i) => i)
-          .map(async (i) => {
-            i = "../../media/" + (await existOrDownload(i, "./src/media/"));
+          .map(async (i, index) => {
+            i = "../../media/" + (await existOrDownload(i, "./src/media/",slugify(`${a.title}-${a.venue}-${a.startdate}-${index}`)));
             return i;
           })
       );
@@ -187,12 +189,14 @@ async function makeFilmsMD() {
   }
 }
 
-async function existOrDownload(url, folder) {
+async function existOrDownload(url, folder, slug) {
   let _url = new URL(url, "https://artistrooms.org/");
   let filename = decodeURIComponent(_url.pathname.split("/").pop()).replace(
     /[^a-zA-Z0-9.]+/g,
     "-"
   );
+  var ext = filename.split(".").pop();
+  if(slug) { filename = slug + '.' + ext}
   let local = `${folder}/${filename}`;
   if (!fs.existsSync(local)) {
     console.log("Downloading", local);

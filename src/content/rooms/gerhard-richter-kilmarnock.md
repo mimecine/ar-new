@@ -4,11 +4,11 @@ artists:
   - gerhard-richter
 venue: dick-institute
 images:
-  - ../../media/Gerhard-Richter-03.jpg
-  - ../../media/Gerhard-Richter-06.jpg
-  - ../../media/Gerhard-Richter-11.jpg
-  - ../../media/Gerhard-Richter-07.jpg
-  - ../../media/Gerhard-Richter-17.jpg
+  - ../../media/gerhard-richter-kilmarnock-dick-institute-2014-09-06-0.jpg
+  - ../../media/gerhard-richter-kilmarnock-dick-institute-2014-09-06-1.jpg
+  - ../../media/gerhard-richter-kilmarnock-dick-institute-2014-09-06-2.jpg
+  - ../../media/gerhard-richter-kilmarnock-dick-institute-2014-09-06-3.jpg
+  - ../../media/gerhard-richter-kilmarnock-dick-institute-2014-09-06-4.jpg
 startdate: 2014-09-06
 enddate: 2014-12-06
 town: Kilmarnock

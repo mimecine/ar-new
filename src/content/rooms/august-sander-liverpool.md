@@ -4,14 +4,14 @@ artists:
   - august-sander
 venue: tate-liverpool
 images:
-  - ../../media/TL-August-Sander-Portraying-a-Nation-Germany-1919-1933-06.jpg
-  - ../../media/TL-August-Sander-Portraying-a-Nation-52.jpg
-  - ../../media/TL-August-Sander-Portraying-a-Nation-Germany-1919-1933-58.jpg
-  - ../../media/04-AR-Sander-TL2017.jpg
-  - ../../media/TL-August-Sander-Portraying-a-Nation.jpg
-  - ../../media/TL-August-Sander-Portraying-a-Nation-Germany-1919-1933-20.jpg
-  - ../../media/TL-August-Sander-Portraying-a-Nation-Germany-1919-1933-42.jpg
-  - ../../media/TL-August-Sander-Portraying-a-Nation-Germany-1919-1933-33.jpg
+  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-0.jpg
+  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-1.jpg
+  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-2.jpg
+  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-3.jpg
+  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-4.jpg
+  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-5.jpg
+  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-6.jpg
+  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-7.jpg
 startdate: 2017-06-22
 enddate: 2017-10-15
 town: Liverpool

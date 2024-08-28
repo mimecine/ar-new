@@ -4,7 +4,7 @@ artists:
   - robert-therrien
 venue: tate-liverpool
 images:
-  - ../../media/AR00166-07.jpg
+  - ../../media/robert-therrien-liverpool-tate-liverpool-2011-06-24-0.jpg
 startdate: 2011-06-24
 enddate: 2011-10-16
 town: Liverpool

@@ -4,10 +4,10 @@ artists:
   - andy-warhol
 venue: de-la-warr-pavilion
 images:
-  - ../../media/Warhol-2.jpg
-  - ../../media/Warhol-9.jpg
-  - ../../media/Warhol-14.jpg
-  - ../../media/Warhol-31.jpg
+  - ../../media/andy-warhol-sussex-de-la-warr-pavilion-2011-09-24-0.jpg
+  - ../../media/andy-warhol-sussex-de-la-warr-pavilion-2011-09-24-1.jpg
+  - ../../media/andy-warhol-sussex-de-la-warr-pavilion-2011-09-24-2.jpg
+  - ../../media/andy-warhol-sussex-de-la-warr-pavilion-2011-09-24-3.jpg
 startdate: 2011-09-24
 enddate: 2012-02-26
 town: Sussex

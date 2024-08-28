@@ -4,23 +4,23 @@ artists:
   - daido-moriyama
 venue: tate-modern
 images:
-  - ../../media/Moriyama-AR-0011.jpg
-  - ../../media/Moriyama-AR-0008.jpg
-  - ../../media/Moriyama-AR-0004.jpg
-  - ../../media/Moriyama-AR-0001.jpg
-  - ../../media/Moriyama-AR-0006.jpg
-  - ../../media/Moriyama-AR-0005.jpg
-  - ../../media/Moriyama-AR-0007.jpg
-  - ../../media/Moriyama-AR-0016.jpg
-  - ../../media/Moriyama-AR-0017.jpg
-  - ../../media/Moriyama-AR-0013.jpg
-  - ../../media/Moriyama-AR-0002.jpg
-  - ../../media/Moriyama-AR-0003.jpg
-  - ../../media/Moriyama-AR-0014.jpg
-  - ../../media/Moriyama-AR-0015.jpg
-  - ../../media/Moriyama-AR-0012.jpg
-  - ../../media/Moriyama-AR-0010.jpg
-  - ../../media/Moriyama-AR-0009.jpg
+  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-0.jpg
+  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-1.jpg
+  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-2.jpg
+  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-3.jpg
+  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-4.jpg
+  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-5.jpg
+  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-6.jpg
+  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-7.jpg
+  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-8.jpg
+  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-9.jpg
+  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-10.jpg
+  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-11.jpg
+  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-12.jpg
+  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-13.jpg
+  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-14.jpg
+  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-15.jpg
+  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-16.jpg
 startdate: 2017-02-20
 enddate: 2018-12-08
 town: London

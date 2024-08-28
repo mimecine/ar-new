@@ -4,11 +4,11 @@ artists:
   - august-sander
 venue: new-walk-museum-and-art-gallery
 images:
-  - ../../media/August-Sander-Documentation-Stephen-Lynch-Photography-002.jpg
-  - ../../media/August-Sander-Documentation-Stephen-Lynch-Photography-015.jpg
-  - ../../media/August-Sander-Documentation-Stephen-Lynch-Photography-018.jpg
-  - ../../media/August-Sander-Documentation-Stephen-Lynch-Photography-024.jpg
-  - ../../media/August-Sander-Documentation-Stephen-Lynch-Photography-036.jpg
+  - ../../media/august-sander-leicester-new-walk-museum-art-gallery-2012-09-29-0.jpg
+  - ../../media/august-sander-leicester-new-walk-museum-art-gallery-2012-09-29-1.jpg
+  - ../../media/august-sander-leicester-new-walk-museum-art-gallery-2012-09-29-2.jpg
+  - ../../media/august-sander-leicester-new-walk-museum-art-gallery-2012-09-29-3.jpg
+  - ../../media/august-sander-leicester-new-walk-museum-art-gallery-2012-09-29-4.jpg
 startdate: 2012-09-29
 enddate: 2013-01-06
 town: Leicester

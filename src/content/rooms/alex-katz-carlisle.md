@@ -4,12 +4,12 @@ artists:
   - alex-katz
 venue: tullie-house
 images:
-  - ../../media/Alex-Katz-Artist-Rooms-05-0.jpg
-  - ../../media/Alex-Katz-Artist-Rooms-12.jpg
-  - ../../media/Alex-Katz-Artist-Rooms-26.jpg
-  - ../../media/Alex-Katz-Artist-Rooms-21.jpg
-  - ../../media/Alex-Katz-Artist-Rooms-16.jpg
-  - ../../media/Alex-Katz-Artist-Rooms-09.jpg
+  - ../../media/alex-katz-carlisle-tullie-house-2019-03-30-0.jpg
+  - ../../media/alex-katz-carlisle-tullie-house-2019-03-30-1.jpg
+  - ../../media/alex-katz-carlisle-tullie-house-2019-03-30-2.jpg
+  - ../../media/alex-katz-carlisle-tullie-house-2019-03-30-3.jpg
+  - ../../media/alex-katz-carlisle-tullie-house-2019-03-30-4.jpg
+  - ../../media/alex-katz-carlisle-tullie-house-2019-03-30-5.jpg
 startdate: 2019-03-30
 enddate: 2019-06-16
 town: Carlisle

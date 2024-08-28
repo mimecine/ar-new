@@ -4,11 +4,11 @@ artists:
   - anselm-kiefer
 venue: tullie-house-museum-and-gallery
 images:
-  - ../../media/Anselm-Keifer-01.jpeg
-  - ../../media/Anselm-Keifer-05.jpeg
-  - ../../media/Anselm-Keifer-08.jpeg
-  - ../../media/Anselm-Keifer-21.jpeg
-  - ../../media/Anselm-Keifer-27.jpeg
+  - ../../media/anselm-kiefer-carlisle-tullie-house-museum-and-gallery-2015-02-07-0.jpeg
+  - ../../media/anselm-kiefer-carlisle-tullie-house-museum-and-gallery-2015-02-07-1.jpeg
+  - ../../media/anselm-kiefer-carlisle-tullie-house-museum-and-gallery-2015-02-07-2.jpeg
+  - ../../media/anselm-kiefer-carlisle-tullie-house-museum-and-gallery-2015-02-07-3.jpeg
+  - ../../media/anselm-kiefer-carlisle-tullie-house-museum-and-gallery-2015-02-07-4.jpeg
 startdate: 2015-02-07
 enddate: 2015-06-07
 town: Carlisle

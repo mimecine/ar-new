@@ -4,10 +4,10 @@ artists:
   - robert-therrien
 venue: the-exchange
 images:
-  - ../../media/Robert-Therrien-09-0.jpg
-  - ../../media/Robert-Therrien-12.jpg
-  - ../../media/Robert-Therrien-03.jpg
-  - ../../media/Robert-Therrien-05.jpg
+  - ../../media/robert-therrien-penzance-the-exchange-2015-07-11-0.jpg
+  - ../../media/robert-therrien-penzance-the-exchange-2015-07-11-1.jpg
+  - ../../media/robert-therrien-penzance-the-exchange-2015-07-11-2.jpg
+  - ../../media/robert-therrien-penzance-the-exchange-2015-07-11-3.jpg
 startdate: 2015-07-11
 enddate: 2015-09-26
 town: Penzance

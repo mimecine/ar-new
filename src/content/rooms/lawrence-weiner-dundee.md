@@ -4,10 +4,10 @@ artists:
   - lawrence-weiner
 venue: the-mcmanus
 images:
-  - ../../media/Weiner-McManus002.jpg
-  - ../../media/Weiner-McManus004.jpg
-  - ../../media/Weiner-McManus017.jpg
-  - ../../media/Weiner-McManus043.jpg
+  - ../../media/lawrence-weiner-dundee-the-mcmanus-2018-11-02-0.jpg
+  - ../../media/lawrence-weiner-dundee-the-mcmanus-2018-11-02-1.jpg
+  - ../../media/lawrence-weiner-dundee-the-mcmanus-2018-11-02-2.jpg
+  - ../../media/lawrence-weiner-dundee-the-mcmanus-2018-11-02-3.jpg
 startdate: 2018-11-02
 enddate: 2019-02-17
 town: Dundee

@@ -4,13 +4,13 @@ artists:
   - ron-mueck
 venue: ferens-art-gallery
 images:
-  - ../../media/Ron-Mueck-02.jpg
-  - ../../media/Ron-Mueck-03.jpg
-  - ../../media/Ron-Mueck-05.jpg
-  - ../../media/Ron-Mueck-06.jpg
-  - ../../media/Ron-Mueck-07.jpg
-  - ../../media/Ron-Mueck-25.jpg
-  - ../../media/Ron-Mueck-24.jpg
+  - ../../media/ron-mueck-hull-ferens-art-gallery-2017-04-22-0.jpg
+  - ../../media/ron-mueck-hull-ferens-art-gallery-2017-04-22-1.jpg
+  - ../../media/ron-mueck-hull-ferens-art-gallery-2017-04-22-2.jpg
+  - ../../media/ron-mueck-hull-ferens-art-gallery-2017-04-22-3.jpg
+  - ../../media/ron-mueck-hull-ferens-art-gallery-2017-04-22-4.jpg
+  - ../../media/ron-mueck-hull-ferens-art-gallery-2017-04-22-5.jpg
+  - ../../media/ron-mueck-hull-ferens-art-gallery-2017-04-22-6.jpg
 startdate: 2017-04-22
 enddate: 2017-08-13
 town: Hull

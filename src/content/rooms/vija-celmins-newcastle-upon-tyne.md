@@ -4,11 +4,11 @@ artists:
   - vija-celmins
 venue: hatton-gallery
 images:
-  - ../../media/Artist-Rooms-Vija-Celmins-2024-16.jpeg
-  - ../../media/Artist-Room-Vija-Celmins-2024-10.jpeg
-  - ../../media/Artist-Rooms-Vija-Celmins-2024-31.jpeg
-  - ../../media/Artist-Rooms-Vija-Celmins-2024-23.jpeg
-  - ../../media/Artist-Room-Vija-Celmins-2024-04.jpeg
+  - ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-0.jpeg
+  - ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-1.jpeg
+  - ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-2.jpeg
+  - ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-3.jpeg
+  - ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-4.jpeg
 startdate: 2024-02-03
 enddate: 2024-05-04
 town: Newcastle upon Tyne

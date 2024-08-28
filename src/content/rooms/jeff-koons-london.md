@@ -4,9 +4,9 @@ artists:
   - jeff-koons
 venue: tate-modern
 images:
-  - ../../media/Koons-02.jpeg
-  - ../../media/Koons-04.jpeg
-  - ../../media/Koons-10.jpeg
+  - ../../media/jeff-koons-london-tate-modern-2009-04-29-0.jpeg
+  - ../../media/jeff-koons-london-tate-modern-2009-04-29-1.jpeg
+  - ../../media/jeff-koons-london-tate-modern-2009-04-29-2.jpeg
 startdate: 2009-04-29
 enddate: 2010-01-01
 town: London

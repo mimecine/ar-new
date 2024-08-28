@@ -4,11 +4,11 @@ artists:
   - diane-arbus
 venue: the-burton-art-gallery-and-museum
 images:
-  - ../../media/Diane-Arbus-Artist-Rooms-Burton-Art-Gallery-01.jpg
-  - ../../media/Diane-Arbus-Artist-Rooms-Burton-Art-Gallery-07.jpg
-  - ../../media/Diane-Arbus-Artist-Rooms-Burton-Art-Gallery-10.jpg
-  - ../../media/Diane-Arbus-Artist-Rooms-Burton-Art-Gallery-16.jpg
-  - ../../media/Diane-Arbus-Artist-Rooms-Burton-Art-Gallery-17.jpg
+  - ../../media/diane-arbus-bideford-the-burton-art-gallery-museum-2018-03-17-0.jpg
+  - ../../media/diane-arbus-bideford-the-burton-art-gallery-museum-2018-03-17-1.jpg
+  - ../../media/diane-arbus-bideford-the-burton-art-gallery-museum-2018-03-17-2.jpg
+  - ../../media/diane-arbus-bideford-the-burton-art-gallery-museum-2018-03-17-3.jpg
+  - ../../media/diane-arbus-bideford-the-burton-art-gallery-museum-2018-03-17-4.jpg
 startdate: 2018-03-17
 enddate: 2018-06-11
 town: Bideford

@@ -3,10 +3,10 @@ title: Andy Warhol, Southampton
 artists: []
 venue: southampton-city-art-gallery
 images:
-  - ../../media/A-Warhol-4-0.jpg
-  - ../../media/A-Warhol-6.jpg
-  - ../../media/A-Warhol-12-0.jpg
-  - ../../media/A-Warhol7-.jpg
+  - ../../media/andy-warhol-southampton-southampton-city-art-gallery-2011-03-27-0.jpg
+  - ../../media/andy-warhol-southampton-southampton-city-art-gallery-2011-03-27-1.jpg
+  - ../../media/andy-warhol-southampton-southampton-city-art-gallery-2011-03-27-2.jpg
+  - ../../media/andy-warhol-southampton-southampton-city-art-gallery-2011-03-27-3.jpg
 startdate: 2011-03-27
 enddate: 2011-06-26
 town: Southampton

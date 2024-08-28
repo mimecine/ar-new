@@ -1,12 +1,13 @@
 ---
 title: Dan Flavin
-featuredImage: ../../media/DF-04.jpg
+featuredImage: ../../media/dan-flavin-featured.jpg
 resources: []
 works:
-  - inventorynumber: al00350
+  - inventorynumber: AL00350
     category: Sculpture
     title: untitled (to Don Judd, colorist) 1-5, 1987
     info: "1987,  Fluorescent tubes and metal, each: 1220 x 1220 mm"
+    year: "1987"
     credit: >-
       Collection: Artist Rooms Foundation
 
@@ -19,7 +20,7 @@ works:
 
 
        
-    src: ../../media/483-487-untitled-to-Don-Judd-colorist-1-5-1987-Mass-MoCA-low-res.jpg
+    src: ../../media/dan-flavin-al00350-untitled-to-don-judd-colorist-1-5-1987.jpg
 
 ---
 

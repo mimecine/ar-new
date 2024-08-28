@@ -4,12 +4,12 @@ artists:
   - louise-bourgeois
 venue: mima
 images:
-  - ../../media/Artist-Rooms-Middlebrough-22.jpg
-  - ../../media/Artist-Rooms-Middlebrough-24.jpg
-  - ../../media/Artist-Rooms-Middlebrough-05.jpg
-  - ../../media/Artist-Rooms-Middlebrough-10.jpg
-  - ../../media/Artist-Rooms-Middlebrough-15.jpg
-  - ../../media/Artist-Rooms-Middlebrough-18.jpg
+  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-0.jpg
+  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-1.jpg
+  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-2.jpg
+  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-3.jpg
+  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-4.jpg
+  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-5.jpg
 startdate: 2014-07-18
 enddate: 2014-10-12
 town: Middlesbrough

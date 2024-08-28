@@ -4,11 +4,11 @@ artists:
   - richard-long
 venue: derby-museum-and-art-gallery
 images:
-  - ../../media/Richard-Long-01.jpg
-  - ../../media/Richard-Long-18.jpg
-  - ../../media/Richard-Long-10.jpg
-  - ../../media/Richard-Long-03.jpg
-  - ../../media/Richard-Long-08-0.jpg
+  - ../../media/richard-long-derby-derby-museum-and-art-gallery-2017-12-02-0.jpg
+  - ../../media/richard-long-derby-derby-museum-and-art-gallery-2017-12-02-1.jpg
+  - ../../media/richard-long-derby-derby-museum-and-art-gallery-2017-12-02-2.jpg
+  - ../../media/richard-long-derby-derby-museum-and-art-gallery-2017-12-02-3.jpg
+  - ../../media/richard-long-derby-derby-museum-and-art-gallery-2017-12-02-4.jpg
 startdate: 2017-12-02
 enddate: 2018-03-04
 town: Derby

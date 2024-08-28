@@ -4,11 +4,11 @@ artists:
   - vija-celmins
 venue: gracefield-arts-centre
 images:
-  - ../../media/Vija-Celmins-Gracefield-Art-Centre-001.jpg
-  - ../../media/Vija-Celmins-Gracefield-Art-Centre-002.jpg
-  - ../../media/Vija-Celmins-Gracefield-Art-Centre-003.jpg
-  - ../../media/Vija-Celmins-Gracefield-Art-Centre-005.jpg
-  - ../../media/Vija-Celmns-Gracefield-Art-Centre-004.jpg
+  - ../../media/vija-celmins-dumfries-gracefield-arts-centre-2011-05-21-0.jpg
+  - ../../media/vija-celmins-dumfries-gracefield-arts-centre-2011-05-21-1.jpg
+  - ../../media/vija-celmins-dumfries-gracefield-arts-centre-2011-05-21-2.jpg
+  - ../../media/vija-celmins-dumfries-gracefield-arts-centre-2011-05-21-3.jpg
+  - ../../media/vija-celmins-dumfries-gracefield-arts-centre-2011-05-21-4.jpg
 startdate: 2011-05-21
 enddate: 2011-07-30
 town: Dumfries

@@ -1,26 +1,28 @@
 ---
 title: Georg Baselitz
-featuredImage: ../../media/AR00032-10.jpg
+featuredImage: ../../media/georg-baselitz-featured.jpg
 resources: []
 works:
-  - inventorynumber: ar00031
+  - inventorynumber: AR00031
     category: Painting
     title: Volkstanz Marode, 1989
     info: 1989, Oil paint on canvas,  2504 x 2510 x 58 mm
+    year: "1989"
     credit: |-
       © Georg Baselitz
 
       AR00031
-    src: ../../media/AR00031-10.jpg
-  - inventorynumber: ar00032
+    src: ../../media/georg-baselitz-ar00031-volkstanz-marode-1989.jpg
+  - inventorynumber: AR00032
     category: Painting
     title: Wo ist der gelbe Milchkrug, Frau Vogel?, 1989
     info: 1989,  Oil paint on canvas,  2504 x 2505 x 55 mm
+    year: "1989"
     credit: |-
       © Georg Baselitz
 
       AR00032
-    src: ../../media/AR00032-10.jpg
+    src: ../../media/georg-baselitz-ar00032-wo-ist-der-gelbe-milchkrug-frau-vogel-1989.jpg
 
 ---
 

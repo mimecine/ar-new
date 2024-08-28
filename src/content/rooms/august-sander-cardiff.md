@@ -4,16 +4,16 @@ artists:
   - august-sander
 venue: national-museum-cardiff
 images:
-  - ../../media/Artist-Rooms-August-Sander-Jan20-01.jpg
-  - ../../media/Artist-Rooms-August-Sander-Jan20-06.jpg
-  - ../../media/Artist-Rooms-August-Sander-Jan20-08.jpg
-  - ../../media/Artist-Rooms-August-Sander-Jan20-07.jpg
-  - ../../media/Artist-Rooms-August-Sander-Jan20-05.jpg
-  - ../../media/Artist-Rooms-August-Sander-Jan20-13.jpg
-  - ../../media/Artist-Rooms-August-Sander-Jan20-20.jpg
-  - ../../media/Artist-Rooms-August-Sander-Jan20-04.jpg
-  - ../../media/Artist-Rooms-August-Sander-Jan20-03.jpg
-  - ../../media/Artist-Rooms-August-Sander-Jan20-02.jpg
+  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-0.jpg
+  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-1.jpg
+  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-2.jpg
+  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-3.jpg
+  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-4.jpg
+  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-5.jpg
+  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-6.jpg
+  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-7.jpg
+  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-8.jpg
+  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-9.jpg
 startdate: 2019-10-26
 enddate: 2020-03-01
 town: Cardiff

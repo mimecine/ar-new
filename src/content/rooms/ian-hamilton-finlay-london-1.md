@@ -4,10 +4,10 @@ artists:
   - ian-hamilton-finlay
 venue: tate-modern
 images:
-  - ../../media/Artist-Rooms-Ian-Hamilton-Finlay-Tate-Modern-2023-13.jpeg
-  - ../../media/Artist-Rooms-Ian-Hamilton-Finlay-Tate-Modern-2023-06.jpeg
-  - ../../media/Artist-Rooms-Ian-Hamilton-Finlay-Tate-Modern-2023-07.jpeg
-  - ../../media/Artist-Rooms-Ian-Hamilton-Finlay-Tate-Modern-2023-09.jpeg
+  - ../../media/ian-hamilton-finlay-london-tate-modern-2023-02-27-0.jpeg
+  - ../../media/ian-hamilton-finlay-london-tate-modern-2023-02-27-1.jpeg
+  - ../../media/ian-hamilton-finlay-london-tate-modern-2023-02-27-2.jpeg
+  - ../../media/ian-hamilton-finlay-london-tate-modern-2023-02-27-3.jpeg
 startdate: 2023-02-27
 enddate: 2024-12-08
 town: London

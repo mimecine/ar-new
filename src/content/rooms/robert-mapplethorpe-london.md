@@ -4,10 +4,10 @@ artists:
   - robert-mapplethorpe
 venue: tate-modern
 images:
-  - ../../media/Mapplethorpe-01.jpeg
-  - ../../media/Mapplethorpe-12.jpeg
-  - ../../media/Mapplethorpe-16.jpeg
-  - ../../media/Mapplethorpe-22.jpeg
+  - ../../media/robert-mapplethorpe-london-tate-modern-2014-05-11-0.jpeg
+  - ../../media/robert-mapplethorpe-london-tate-modern-2014-05-11-1.jpeg
+  - ../../media/robert-mapplethorpe-london-tate-modern-2014-05-11-2.jpeg
+  - ../../media/robert-mapplethorpe-london-tate-modern-2014-05-11-3.jpeg
 startdate: 2014-05-11
 enddate: 2014-10-26
 town: London

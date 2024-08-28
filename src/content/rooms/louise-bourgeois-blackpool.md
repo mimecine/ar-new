@@ -4,13 +4,13 @@ artists:
   - louise-bourgeois
 venue: grundy-art-gallery
 images:
-  - ../../media/Installation-Photography-of-Louise-Bourgeois-2023-02.jpeg
-  - ../../media/Installation-Photography-of-Louise-Bourgeois-2023-04.jpeg
-  - ../../media/Installation-Photography-of-Louise-Bourgeois-2023-08.jpeg
-  - ../../media/Installation-Photography-of-Louise-Bourgeois-2023-10.jpeg
-  - ../../media/Installation-Photography-of-Louise-Bourgeois-2023-16.jpeg
-  - ../../media/Installation-Photography-of-Louise-Bourgeois-2023-26.jpeg
-  - ../../media/Installation-Photography-of-Louise-Bourgeois-2023-30.jpeg
+  - ../../media/louise-bourgeois-blackpool-grundy-art-gallery-2023-07-08-0.jpeg
+  - ../../media/louise-bourgeois-blackpool-grundy-art-gallery-2023-07-08-1.jpeg
+  - ../../media/louise-bourgeois-blackpool-grundy-art-gallery-2023-07-08-2.jpeg
+  - ../../media/louise-bourgeois-blackpool-grundy-art-gallery-2023-07-08-3.jpeg
+  - ../../media/louise-bourgeois-blackpool-grundy-art-gallery-2023-07-08-4.jpeg
+  - ../../media/louise-bourgeois-blackpool-grundy-art-gallery-2023-07-08-5.jpeg
+  - ../../media/louise-bourgeois-blackpool-grundy-art-gallery-2023-07-08-6.jpeg
 startdate: 2023-07-08
 enddate: 2023-09-09
 town: Blackpool

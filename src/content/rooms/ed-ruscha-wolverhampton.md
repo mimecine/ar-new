@@ -4,10 +4,10 @@ artists:
   - ed-ruscha
 venue: wolverhampton-art-gallery
 images:
-  - ../../media/DSC-0154.JPG
-  - ../../media/DSC-0059.JPG
-  - ../../media/DSC-0077.JPG
-  - ../../media/Artist-Rooms-Young-Ambassadors-Ed-Ruscha.jpg
+  - ../../media/ed-ruscha-wolverhampton-wolverhampton-art-gallery-2011-05-28-0.JPG
+  - ../../media/ed-ruscha-wolverhampton-wolverhampton-art-gallery-2011-05-28-1.JPG
+  - ../../media/ed-ruscha-wolverhampton-wolverhampton-art-gallery-2011-05-28-2.JPG
+  - ../../media/ed-ruscha-wolverhampton-wolverhampton-art-gallery-2011-05-28-3.jpg
 startdate: 2011-05-28
 enddate: 2011-10-29
 town: Wolverhampton

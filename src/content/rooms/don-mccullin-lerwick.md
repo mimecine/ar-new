@@ -4,9 +4,9 @@ artists:
   - don-mccullin
 venue: shetland-museum-and-archives
 images:
-  - ../../media/014-Don-McCullin-Da-Gadderie-Shetland-Museum-Archives-Shetland-Winter-2014-15-photography-by-C.-Toogood.jpg
-  - ../../media/009-Don-McCullin-Da-Gadderie-Shetland-Museum-Archives-Shetland-Winter-2014-15-photography-by-C.-Toogood.jpg
-  - ../../media/021-Don-McCullin-Da-Gadderie-Shetland-Museum-Archives-Shetland-Winter-2014-15-photography-by-C.-Toogood.jpg
+  - ../../media/don-mccullin-lerwick-shetland-museum-archives-2014-11-29-0.jpg
+  - ../../media/don-mccullin-lerwick-shetland-museum-archives-2014-11-29-1.jpg
+  - ../../media/don-mccullin-lerwick-shetland-museum-archives-2014-11-29-2.jpg
 startdate: 2014-11-29
 enddate: 2015-02-22
 town: Lerwick

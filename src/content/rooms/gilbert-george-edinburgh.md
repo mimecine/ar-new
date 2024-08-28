@@ -4,8 +4,8 @@ artists:
   - gilbert-george
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/ARF-web-G-G-SNGMA-2010.002.jpg
-  - ../../media/ARF-web-G-G-SNGMA-2010.001-0.jpg
+  - ../../media/gilbert-george-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-0.jpg
+  - ../../media/gilbert-george-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-1.jpg
 startdate: 2010-07-29
 enddate: 2010-11-21
 town: Edinburgh

@@ -4,10 +4,10 @@ artists:
   - robert-therrien
 venue: mac
 images:
-  - ../../media/Robert-Therrien-01.jpg
-  - ../../media/Robert-Therrien-05-copy.jpg
-  - ../../media/Robert-Therrien-09.jpg
-  - ../../media/Robert-Therrien-20.jpg
+  - ../../media/robert-therrien-birmingham-mac-2014-06-21-0.jpg
+  - ../../media/robert-therrien-birmingham-mac-2014-06-21-1.jpg
+  - ../../media/robert-therrien-birmingham-mac-2014-06-21-2.jpg
+  - ../../media/robert-therrien-birmingham-mac-2014-06-21-3.jpg
 startdate: 2014-06-21
 enddate: 2014-09-07
 town: Birmingham

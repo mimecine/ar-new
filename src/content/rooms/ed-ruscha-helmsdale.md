@@ -4,9 +4,9 @@ artists:
   - ed-ruscha
 venue: timespan
 images:
-  - ../../media/Photo-Mar-23-10-37-56-PM.jpg
-  - ../../media/Photo-Mar-23-10-40-29-PM.jpg
-  - ../../media/Photo-Mar-23-10-42-23-PM.jpg
+  - ../../media/ed-ruscha-helmsdale-timespan-2011-03-05-0.jpg
+  - ../../media/ed-ruscha-helmsdale-timespan-2011-03-05-1.jpg
+  - ../../media/ed-ruscha-helmsdale-timespan-2011-03-05-2.jpg
 startdate: 2011-03-05
 enddate: 2011-04-16
 town: Helmsdale

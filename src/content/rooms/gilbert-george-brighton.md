@@ -4,13 +4,13 @@ artists:
   - gilbert-george
 venue: brighton-museum-and-art-gallery
 images:
-  - ../../media/Gilbert-and-George-Brighton-2018-10.jpg
-  - ../../media/Gilbert-and-George-Brighton-2018-09.jpg
-  - ../../media/Gilbert-and-George-Brighton-2018-19.jpg
-  - ../../media/Gilbert-and-George-Brighton-2018-20.jpg
-  - ../../media/Gilbert-and-George-Brighton-2018-29.jpg
-  - ../../media/Gilbert-and-George-Brighton-2018-32.jpg
-  - ../../media/Gilbert-and-George-Brighton-2018-34.jpg
+  - ../../media/gilbert-george-brighton-brighton-museum-art-gallery-2018-04-28-0.jpg
+  - ../../media/gilbert-george-brighton-brighton-museum-art-gallery-2018-04-28-1.jpg
+  - ../../media/gilbert-george-brighton-brighton-museum-art-gallery-2018-04-28-2.jpg
+  - ../../media/gilbert-george-brighton-brighton-museum-art-gallery-2018-04-28-3.jpg
+  - ../../media/gilbert-george-brighton-brighton-museum-art-gallery-2018-04-28-4.jpg
+  - ../../media/gilbert-george-brighton-brighton-museum-art-gallery-2018-04-28-5.jpg
+  - ../../media/gilbert-george-brighton-brighton-museum-art-gallery-2018-04-28-6.jpg
 startdate: 2018-04-28
 enddate: 2018-09-02
 town: Brighton

@@ -4,11 +4,11 @@ artists:
   - robert-mapplethorpe
 venue: the-atkinson
 images:
-  - ../../media/Artist-Rooms-Mapplethorpe-Feb19-01.jpg
-  - ../../media/Artist-Rooms-Mapplethorpe-Feb19-03.jpg
-  - ../../media/Artist-Rooms-Mapplethorpe-Feb19-08.jpg
-  - ../../media/Artist-Rooms-Mapplethorpe-Feb19-13.jpg
-  - ../../media/Artist-Rooms-Mapplethorpe-Feb19-16.jpg
+  - ../../media/robert-mapplethorpe-southport-the-atkinson-2018-12-15-0.jpg
+  - ../../media/robert-mapplethorpe-southport-the-atkinson-2018-12-15-1.jpg
+  - ../../media/robert-mapplethorpe-southport-the-atkinson-2018-12-15-2.jpg
+  - ../../media/robert-mapplethorpe-southport-the-atkinson-2018-12-15-3.jpg
+  - ../../media/robert-mapplethorpe-southport-the-atkinson-2018-12-15-4.jpg
 startdate: 2018-12-15
 enddate: 2019-03-24
 town: Southport

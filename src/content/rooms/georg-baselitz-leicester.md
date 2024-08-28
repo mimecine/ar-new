@@ -4,10 +4,10 @@ artists:
   - georg-baselitz
 venue: new-walk-museum-and-art-gallery
 images:
-  - ../../media/Baselitz-0025.jpg
-  - ../../media/Baselitz-0013.jpg
-  - ../../media/Baselitz-0019.jpg
-  - ../../media/Baselitz-0009.jpg
+  - ../../media/georg-baselitz-leicester-new-walk-museum-and-art-gallery-2014-09-20-0.jpg
+  - ../../media/georg-baselitz-leicester-new-walk-museum-and-art-gallery-2014-09-20-1.jpg
+  - ../../media/georg-baselitz-leicester-new-walk-museum-and-art-gallery-2014-09-20-2.jpg
+  - ../../media/georg-baselitz-leicester-new-walk-museum-and-art-gallery-2014-09-20-3.jpg
 startdate: 2014-09-20
 enddate: 2015-01-18
 town: Leicester

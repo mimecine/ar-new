@@ -4,9 +4,9 @@ artists:
   - ron-mueck
 venue: aberdeen-art-gallery
 images:
-  - ../../media/P1030092.JPG
-  - ../../media/P1030041.JPG
-  - ../../media/P1030054.JPG
+  - ../../media/ron-mueck-aberdeen-aberdeen-art-gallery-2009-08-29-0.JPG
+  - ../../media/ron-mueck-aberdeen-aberdeen-art-gallery-2009-08-29-1.JPG
+  - ../../media/ron-mueck-aberdeen-aberdeen-art-gallery-2009-08-29-2.JPG
 startdate: 2009-08-29
 enddate: 2009-10-31
 town: Aberdeen

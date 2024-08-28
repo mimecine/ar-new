@@ -4,7 +4,7 @@ artists:
   - robert-therrien
 venue: the-mac
 images:
-  - ../../media/DSC-6792.jpg
+  - ../../media/robert-therrien-belfast-the-mac-2012-04-21-0.jpg
 startdate: 2012-04-21
 enddate: 2012-07-22
 town: Belfast

@@ -4,10 +4,10 @@ artists:
   - louise-bourgeois
 venue: rugby-art-gallery-and-museum
 images:
-  - ../../media/Louise-Bourgeois-Artist-Rooms-2022-10-min.JPG
-  - ../../media/Louise-Bourgeois-Artist-Rooms-2022-14-min.JPG
-  - ../../media/Louise-Bourgeois-Artist-Rooms-2022-09-min.JPG
-  - ../../media/Louise-Bourgeois-Artist-Rooms-2022-11-min.JPG
+  - ../../media/louise-bourgeois-rugby-rugby-art-gallery-and-museum-2022-07-23-0.JPG
+  - ../../media/louise-bourgeois-rugby-rugby-art-gallery-and-museum-2022-07-23-1.JPG
+  - ../../media/louise-bourgeois-rugby-rugby-art-gallery-and-museum-2022-07-23-2.JPG
+  - ../../media/louise-bourgeois-rugby-rugby-art-gallery-and-museum-2022-07-23-3.JPG
 startdate: 2022-07-23
 enddate: 2022-11-19
 town: Rugby

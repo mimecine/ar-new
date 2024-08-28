@@ -4,9 +4,9 @@ artists:
   - agnes-martin
 venue: winchester-discovery-centre
 images:
-  - ../../media/Artist-Rooms-AGNES-MARTIN-05.jpg
-  - ../../media/Artist-Rooms-AGNES-MARTIN-12.jpg
-  - ../../media/Artist-Rooms-AGNES-MARTIN-15.jpg
+  - ../../media/agnes-martin-winchester-winchester-discovery-centre-2018-07-07-0.jpg
+  - ../../media/agnes-martin-winchester-winchester-discovery-centre-2018-07-07-1.jpg
+  - ../../media/agnes-martin-winchester-winchester-discovery-centre-2018-07-07-2.jpg
 startdate: 2018-07-07
 enddate: 2018-10-07
 town: Winchester

@@ -5,8 +5,8 @@ artists:
   - joseph-beuys
 venue: tate-modern
 images:
-  - ../../media/Artist-Rooms-Joseph-Beuys-and-Jenny-Holzer-Tate-Modern-2022-06.jpeg
-  - ../../media/Artist-Rooms-Joseph-Beuys-and-Jenny-Holzer-Tate-Modern-2022-12.jpeg
+  - ../../media/jenny-holzer-with-joseph-beuys-london-tate-modern-2022-04-11-0.jpeg
+  - ../../media/jenny-holzer-with-joseph-beuys-london-tate-modern-2022-04-11-1.jpeg
 startdate: 2022-04-11
 enddate: 2024-05-19
 town: London

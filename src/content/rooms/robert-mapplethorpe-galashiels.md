@@ -4,13 +4,13 @@ artists:
   - robert-mapplethorpe
 venue: old-gala-house
 images:
-  - ../../media/Mapplethrope-Galasheils06.jpeg
-  - ../../media/Mapplethrope-Galasheils08.jpeg
-  - ../../media/Mapplethrope-Galasheils07.jpeg
-  - ../../media/Mapplethrope-Galasheils04.jpeg
-  - ../../media/Mapplethrope-Galasheils03.jpeg
-  - ../../media/Mapplethrope-Galasheils02.jpeg
-  - ../../media/Mapplethrope-Galasheils01.jpeg
+  - ../../media/robert-mapplethorpe-galashiels-old-gala-house-2013-05-11-0.jpeg
+  - ../../media/robert-mapplethorpe-galashiels-old-gala-house-2013-05-11-1.jpeg
+  - ../../media/robert-mapplethorpe-galashiels-old-gala-house-2013-05-11-2.jpeg
+  - ../../media/robert-mapplethorpe-galashiels-old-gala-house-2013-05-11-3.jpeg
+  - ../../media/robert-mapplethorpe-galashiels-old-gala-house-2013-05-11-4.jpeg
+  - ../../media/robert-mapplethorpe-galashiels-old-gala-house-2013-05-11-5.jpeg
+  - ../../media/robert-mapplethorpe-galashiels-old-gala-house-2013-05-11-6.jpeg
 startdate: 2013-05-11
 enddate: 2013-08-11
 town: Galashiels

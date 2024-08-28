@@ -4,11 +4,11 @@ artists:
   - august-sander
 venue: tate-modern
 images:
-  - ../../media/August-Sander-03.jpg
-  - ../../media/August-Sander-07.jpg
-  - ../../media/August-Sander-08.jpg
-  - ../../media/August-Sander-10.jpg
-  - ../../media/August-Sander-14.jpg
+  - ../../media/august-sander-london-tate-modern-2010-03-01-0.jpg
+  - ../../media/august-sander-london-tate-modern-2010-03-01-1.jpg
+  - ../../media/august-sander-london-tate-modern-2010-03-01-2.jpg
+  - ../../media/august-sander-london-tate-modern-2010-03-01-3.jpg
+  - ../../media/august-sander-london-tate-modern-2010-03-01-4.jpg
 startdate: 2010-03-01
 enddate: 2011-03-01
 town: London

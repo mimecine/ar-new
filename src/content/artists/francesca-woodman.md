@@ -1,172 +1,190 @@
 ---
 title: Francesca Woodman
-featuredImage: ../../media/AR00348.jpg
+featuredImage: ../../media/francesca-woodman-featured.jpg
 resources: []
 works:
-  - inventorynumber: ar00347
+  - inventorynumber: AR00347
     category: Photography
     title: Untitled, 1975-80
     info: 1975-80,  Photograph, gelatin silver print on paper, on ink on paper,  109
       x 109 mm
+    year: 1975-80
     credit: |-
       © Courtesy of George and Betty Woodman
 
       AR00347
-    src: ../../media/AR00347.jpg
-  - inventorynumber: ar00348
+    src: ../../media/francesca-woodman-ar00347-untitled-1975-80.jpg
+  - inventorynumber: AR00348
     category: Photography
     title: Eel Series, Roma, May 1977 - August 1978
     info: 1977-8,  Photograph, gelatin silver print, 219 x 219 mm
+    year: 1977-8
     credit: |-
       © Courtesy of George and Betty Woodman
 
       AR00348
-    src: ../../media/AR00348.jpg
-  - inventorynumber: ar00349
+    src: ../../media/francesca-woodman-ar00348-eel-series-roma-may-1977-august-1978.jpg
+  - inventorynumber: AR00349
     category: Photography
     title: Space², Providence, Rhode Island, 1975-1978
     info: 1975-8,  Photograph, gelatin silver print on paper, 139 x 139 mm
+    year: 1975-8
     credit: |-
       © Courtesy of George and Betty Woodman
 
       AR00349
-    src: ../../media/AR00349.jpg
-  - inventorynumber: ar00350
+    src: ../../media/francesca-woodman-ar00349-space-providence-rhode-island-1975-1978.jpg
+  - inventorynumber: AR00350
     category: Photography
     title: Space², Providence, Rhode Island, 1975-1978
     info: 1975-8,  Photograph, gelatin silver print on paper,  140 x 140 mm
+    year: 1975-8
     credit: |-
       © Courtesy of George and Betty Woodman
 
       AR00350
-    src: ../../media/AR00350.jpg
-  - inventorynumber: ar00351
+    src: ../../media/francesca-woodman-ar00350-space-providence-rhode-island-1975-1978.jpg
+  - inventorynumber: AR00351
     category: Photography
     title: Untitled, 1975-80
     info: 1975-80,  Photograph, gelatin silver print on paper,  141 x 140 mm
+    year: 1975-80
     credit: |-
       © Courtesy of George and Betty Woodman
 
       AR00351
-    src: ../../media/AR00351.jpg
-  - inventorynumber: ar00352
+    src: ../../media/francesca-woodman-ar00351-untitled-1975-80.jpg
+  - inventorynumber: AR00352
     category: Photography
     title: Providence, Rhode Island, 1976
     info: 1976,  Photograph, gelatin silver print on paper,  143 x 144 mm
+    year: "1976"
     credit: |-
       © Courtesy of George and Betty Woodman
 
       AR00352
-    src: ../../media/AR00352.jpg
-  - inventorynumber: ar00353
+    src: ../../media/francesca-woodman-ar00352-providence-rhode-island-1976.jpg
+  - inventorynumber: AR00353
     category: Photography
     title: Italy, May 1977 - August 1978
     info: 1977-8,  Photograph, gelatin silver print on paper,  143 x 158 mm
+    year: 1977-8
     credit: |-
       © Courtesy of George and Betty Woodman
 
       AR00353
-    src: ../../media/AR00353.jpg
-  - inventorynumber: ar00354
+    src: ../../media/francesca-woodman-ar00353-italy-may-1977-august-1978.jpg
+  - inventorynumber: AR00354
     category: Photography
     title: From Angel Series, Roma, September 1977
     info: 1977,  Photograph, gelatin silver print on paper,  93 x 93 mm
+    year: "1977"
     credit: |-
       © Courtesy of George and Betty Woodman
 
       AR00354
-    src: ../../media/AR00354.jpg
-  - inventorynumber: ar00355
+    src: ../../media/francesca-woodman-ar00354-from-angel-series-roma-september-1977.jpg
+  - inventorynumber: AR00355
     category: Photography
     title: Untitled, 1975-80
     info: 1975-80, Photograph, gelatin silver print on paper, 128 x 128 mm
+    year: 1975-80
     credit: |-
       © Courtesy of George and Betty Woodman
 
       AR0355
-    src: ../../media/AR00355.jpg
-  - inventorynumber: ar00356
+    src: ../../media/francesca-woodman-ar00355-untitled-1975-80.jpg
+  - inventorynumber: AR00356
     category: Photography
     title: Untitled, 1975-80
     info: 1975-80,  Photograph, gelatin silver print on paper and ink,  144 x 144 mm
+    year: 1975-80
     credit: |-
       © Courtesy of George and Betty Woodman
 
       AR00356
-    src: ../../media/AR00356.jpg
-  - inventorynumber: ar00357
+    src: ../../media/francesca-woodman-ar00356-untitled-1975-80.jpg
+  - inventorynumber: AR00357
     category: Photography
     title: Untitled, 1975-80
     info: 1975-80,  Photograph, gelatin silver print on paper and ink,  144 x 144 mm
+    year: 1975-80
     credit: |-
       © Courtesy of George and Betty Woodman
 
       AR00357
-    src: ../../media/AR00357.jpg
-  - inventorynumber: ar00358
+    src: ../../media/francesca-woodman-ar00357-untitled-1975-80.jpg
+  - inventorynumber: AR00358
     category: Photography
     title: Untitled, 1975-80
     info: 1975-80, Photograph, gelatin silver print on paper, 140 x 140 mm
+    year: 1975-80
     credit: |-
       © Courtesy of George and Betty Woodman
 
       AR00358
-    src: ../../media/AR00358.jpg
-  - inventorynumber: ar00359
+    src: ../../media/francesca-woodman-ar00358-untitled-1975-80.jpg
+  - inventorynumber: AR00359
     category: Photography
     title: Untitled, 1975-80
     info: 1975-80,  Photograph, gelatin silver print on paper,  156 x 156 mm
+    year: 1975-80
     credit: |-
       © Courtesy of George and Betty Woodman
 
       AR00359
-    src: ../../media/AR00359.jpg
-  - inventorynumber: ar00360
+    src: ../../media/francesca-woodman-ar00359-untitled-1975-80.jpg
+  - inventorynumber: AR00360
     category: Photography
     title: Untitled, 1975-80
     info: 1975-80,  Photograph, gelatin silver print on paper, on ink on paper,  143
       x 143 mm
+    year: 1975-80
     credit: |-
       © Courtesy of George and Betty Woodman
 
       AR00360
-    src: ../../media/AR00360.jpg
-  - inventorynumber: ar00361
+    src: ../../media/francesca-woodman-ar00360-untitled-1975-80.jpg
+  - inventorynumber: AR00361
     category: Photography
     title: Untitled, 1975-80
     info: 1975-80,  Photograph, gelatin silver print on paper,  135 x 135 mm
+    year: 1975-80
     credit: |-
       © Courtesy of George and Betty Woodman
 
       AR00361
-    src: ../../media/AR00361.jpg
-  - inventorynumber: ar00362
+    src: ../../media/francesca-woodman-ar00361-untitled-1975-80.jpg
+  - inventorynumber: AR00362
     category: Photography
     title: Untitled, 1975-80
     info: 1975-80,  Photograph, gelatin silver print on paper,  98 x 105 mm
+    year: 1975-80
     credit: |-
       © Courtesy of George and Betty Woodman
 
       AR00362
-    src: ../../media/AR00362-0.jpg
-  - inventorynumber: ar00363
+    src: ../../media/francesca-woodman-ar00362-untitled-1975-80.jpg
+  - inventorynumber: AR00363
     category: Photography
     title: Untitled, 1975-80
     info: 1975-80, Photograph, gelatin silver print on paper,  152 x 152 mm
+    year: 1975-80
     credit: |-
       © Courtesy of George and Betty Woodman
 
       AR00363
-    src: ../../media/AR00363.jpg
-  - inventorynumber: ar00364
+    src: ../../media/francesca-woodman-ar00363-untitled-1975-80.jpg
+  - inventorynumber: AR00364
     category: Photography
     title: Untitled, c.1980
     info: c.1980,  Photograph, gelatin silver print on paper,  171 x 165 mm
+    year: c.1980
     credit: |-
       © Courtesy of George and Betty Woodman
 
       AR00364
-    src: ../../media/AR00364.jpg
+    src: ../../media/francesca-woodman-ar00364-untitled-c1980.jpg
 
 ---
 

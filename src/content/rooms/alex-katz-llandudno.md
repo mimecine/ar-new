@@ -4,9 +4,9 @@ artists:
   - alex-katz
 venue: mostyn
 images:
-  - ../../media/ARF-web-AK-Mostyn-2010.013.jpg
-  - ../../media/-MG-2049-copy.jpg
-  - ../../media/-MG-2052-copy.jpg
+  - ../../media/alex-katz-llandudno-mostyn-2010-11-20-0.jpg
+  - ../../media/alex-katz-llandudno-mostyn-2010-11-20-1.jpg
+  - ../../media/alex-katz-llandudno-mostyn-2010-11-20-2.jpg
 startdate: 2010-11-20
 enddate: 2011-02-19
 town: Llandudno

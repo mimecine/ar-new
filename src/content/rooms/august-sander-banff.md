@@ -4,9 +4,9 @@ artists:
   - august-sander
 venue: duff-house
 images:
-  - ../../media/August-Sander-installation-2012-009.jpg
-  - ../../media/August-Sander-installation-Duff-House-2012-002.jpg
-  - ../../media/August-Sander-installation-Duff-House-2012-003.jpg
+  - ../../media/august-sander-banff-duff-house-2012-04-01-0.jpg
+  - ../../media/august-sander-banff-duff-house-2012-04-01-1.jpg
+  - ../../media/august-sander-banff-duff-house-2012-04-01-2.jpg
 startdate: 2012-04-01
 enddate: 2012-08-31
 town: Banff

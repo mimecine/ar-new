@@ -4,9 +4,9 @@ artists:
   - vija-celmins
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/2012AA48724.jpg
-  - ../../media/2012AA48725.jpg
-  - ../../media/2012AA48729.jpg
+  - ../../media/vija-celmins-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-0.jpg
+  - ../../media/vija-celmins-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-1.jpg
+  - ../../media/vija-celmins-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-2.jpg
 startdate: 2009-03-14
 enddate: 2009-11-08
 town: Edinburgh

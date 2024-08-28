@@ -4,11 +4,11 @@ artists:
   - dan-flavin
 venue: tate-modern
 images:
-  - ../../media/DF-04.jpg
-  - ../../media/DF-05.jpg
-  - ../../media/DF-06.jpg
-  - ../../media/DF-07.jpg
-  - ../../media/DF-02.jpg
+  - ../../media/dan-flavin-london-tate-modern-2013-03-29-0.jpg
+  - ../../media/dan-flavin-london-tate-modern-2013-03-29-1.jpg
+  - ../../media/dan-flavin-london-tate-modern-2013-03-29-2.jpg
+  - ../../media/dan-flavin-london-tate-modern-2013-03-29-3.jpg
+  - ../../media/dan-flavin-london-tate-modern-2013-03-29-4.jpg
 startdate: 2013-03-29
 enddate: 2014-04-27
 town: London

@@ -4,10 +4,10 @@ artists:
   - diane-arbus
 venue: tate-modern
 images:
-  - ../../media/Arbus-Installs-02.jpg
-  - ../../media/Arbus-Installs-05.jpg
-  - ../../media/Arbus-Installs-06.jpg
-  - ../../media/Arbus-Installs-07.jpg
+  - ../../media/diane-arbus-london-tate-modern-2011-04-01-0.jpg
+  - ../../media/diane-arbus-london-tate-modern-2011-04-01-1.jpg
+  - ../../media/diane-arbus-london-tate-modern-2011-04-01-2.jpg
+  - ../../media/diane-arbus-london-tate-modern-2011-04-01-3.jpg
 startdate: 2011-04-01
 enddate: 2012-04-01
 town: London

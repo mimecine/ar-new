@@ -1,3 +1,4 @@
+import { date } from "astro/zod";
 import { defineCollection, reference, z } from "astro:content";
 
 const artists = defineCollection({
@@ -89,4 +90,15 @@ const pages = defineCollection({
     }),
 });
 
-export const collections = { artists, rooms, venues, films, pages };
+const news = defineCollection({
+  type: "content",
+  // Type-check frontmatter using a schema
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      hidden: z.boolean().optional(),
+      date: z.coerce.date(),
+    }),
+});
+
+export const collections = { artists, rooms, venues, films, pages, news };

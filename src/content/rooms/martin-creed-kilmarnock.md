@@ -4,11 +4,11 @@ artists:
   - martin-creed
 venue: the-dick-institute
 images:
-  - ../../media/2023AC59444-0.jpg
-  - ../../media/2023AC59448-0.jpg
-  - ../../media/2023AC59453-0.jpg
-  - ../../media/2023AC59459-0.jpg
-  - ../../media/2023AC59460-0.jpg
+  - ../../media/martin-creed-kilmarnock-the-dick-institute-2023-09-22-0.jpg
+  - ../../media/martin-creed-kilmarnock-the-dick-institute-2023-09-22-1.jpg
+  - ../../media/martin-creed-kilmarnock-the-dick-institute-2023-09-22-2.jpg
+  - ../../media/martin-creed-kilmarnock-the-dick-institute-2023-09-22-3.jpg
+  - ../../media/martin-creed-kilmarnock-the-dick-institute-2023-09-22-4.jpg
 startdate: 2023-09-22
 enddate: 2024-01-06
 town: Kilmarnock

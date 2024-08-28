@@ -4,7 +4,7 @@ artists:
   - sol-lewitt
 venue: turner-contemporary
 images:
-  - ../../media/Sol-leWitt-Wall-Drawing-1135-2004-credit-Dan-Bass-c-ARS-NY-and-DACS-London-2013-6-.jpg
+  - ../../media/sol-lewitt-margate-turner-contemporary-2013-11-29-0.jpg
 startdate: 2013-11-29
 enddate: 2014-06-08
 town: Margate

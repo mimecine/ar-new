@@ -4,10 +4,10 @@ artists:
   - robert-mapplethorpe
 venue: graves-gallery
 images:
-  - ../../media/L1080032.jpeg
-  - ../../media/L1080033.jpeg
-  - ../../media/L1080036.jpeg
-  - ../../media/L1080037.jpeg
+  - ../../media/robert-mapplethorpe-sheffield-graves-gallery-2009-12-19-0.jpeg
+  - ../../media/robert-mapplethorpe-sheffield-graves-gallery-2009-12-19-1.jpeg
+  - ../../media/robert-mapplethorpe-sheffield-graves-gallery-2009-12-19-2.jpeg
+  - ../../media/robert-mapplethorpe-sheffield-graves-gallery-2009-12-19-3.jpeg
 startdate: 2009-12-19
 enddate: 2010-03-27
 town: Sheffield

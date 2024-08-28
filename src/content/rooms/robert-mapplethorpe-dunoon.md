@@ -4,11 +4,11 @@ artists:
   - robert-mapplethorpe
 venue: burgh-hall
 images:
-  - ../../media/Mapplethorpe-Gallery-North-Wall-11-05-12-Small.jpg
-  - ../../media/Mapplethorpe-Gallery-South-East-Walls-11-05-12-Small.jpg
-  - ../../media/Mapplethorpe-Gallery-South-Wall-11-05-12-Small.jpg
-  - ../../media/Mapplethorpe-Gallery-West-North-Walls-11-05-12-Small.jpg
-  - ../../media/Mapplethorpe-Gallery-West-Wall-11-05-12-Small.jpg
+  - ../../media/robert-mapplethorpe-dunoon-burgh-hall-2012-03-24-0.jpg
+  - ../../media/robert-mapplethorpe-dunoon-burgh-hall-2012-03-24-1.jpg
+  - ../../media/robert-mapplethorpe-dunoon-burgh-hall-2012-03-24-2.jpg
+  - ../../media/robert-mapplethorpe-dunoon-burgh-hall-2012-03-24-3.jpg
+  - ../../media/robert-mapplethorpe-dunoon-burgh-hall-2012-03-24-4.jpg
 startdate: 2012-03-24
 enddate: 2012-07-08
 town: Dunoon

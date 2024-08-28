@@ -4,12 +4,12 @@ artists:
   - jenny-holzer
 venue: attenborough-arts-centre
 images:
-  - ../../media/AR-Jenny-Holzer-Leicester-2024-002.jpeg
-  - ../../media/AR-Jenny-Holzer-Leicester-2024-004.jpeg
-  - ../../media/AR-Jenny-Holzer-Leicester-2024-007.jpeg
-  - ../../media/AR-Jenny-Holzer-Leicester-2024-015.jpeg
-  - ../../media/AR-Jenny-Holzer-Leicester-2024-017.jpeg
-  - ../../media/AR-Jenny-Holzer-Leicester-2024-023.jpeg
+  - ../../media/jenny-holzer-leicester-attenborough-arts-centre-2024-06-14-0.jpeg
+  - ../../media/jenny-holzer-leicester-attenborough-arts-centre-2024-06-14-1.jpeg
+  - ../../media/jenny-holzer-leicester-attenborough-arts-centre-2024-06-14-2.jpeg
+  - ../../media/jenny-holzer-leicester-attenborough-arts-centre-2024-06-14-3.jpeg
+  - ../../media/jenny-holzer-leicester-attenborough-arts-centre-2024-06-14-4.jpeg
+  - ../../media/jenny-holzer-leicester-attenborough-arts-centre-2024-06-14-5.jpeg
 startdate: 2024-06-14
 enddate: 2024-09-29
 town: Leicester

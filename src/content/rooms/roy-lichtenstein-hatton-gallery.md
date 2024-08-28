@@ -4,11 +4,11 @@ artists:
   - roy-lichtenstein
 venue: hatton-gallery
 images:
-  - ../../media/Lichtenstein-AR-Newcastle-003.jpg
-  - ../../media/Lichtenstein-AR-Newcastle-006.jpg
-  - ../../media/Lichtenstein-AR-Newcastle-018.jpg
-  - ../../media/Lichtenstein-AR-Newcastle-030.jpg
-  - ../../media/Lichtenstein-AR-Newcastle-025.jpg
+  - ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-0.jpg
+  - ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-1.jpg
+  - ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-2.jpg
+  - ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-3.jpg
+  - ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-4.jpg
 startdate: 2019-09-28
 enddate: 2020-01-04
 town: Hatton Gallery

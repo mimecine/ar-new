@@ -4,13 +4,13 @@ artists:
   - roy-lichtenstein
 venue: tate-liverpool
 images:
-  - ../../media/DSC0849-25cm.jpg
-  - ../../media/DSC0889-25cm.jpg
-  - ../../media/DSC0851-25cm.jpg
-  - ../../media/DSC0843-25cm.jpg
-  - ../../media/DSC0870-25cm.jpg
-  - ../../media/DSC0881-25cm.jpg
-  - ../../media/DSC0859-25cm.jpg
+  - ../../media/roy-lichtenstein-liverpool-tate-liverpool-2017-09-22-0.jpg
+  - ../../media/roy-lichtenstein-liverpool-tate-liverpool-2017-09-22-1.jpg
+  - ../../media/roy-lichtenstein-liverpool-tate-liverpool-2017-09-22-2.jpg
+  - ../../media/roy-lichtenstein-liverpool-tate-liverpool-2017-09-22-3.jpg
+  - ../../media/roy-lichtenstein-liverpool-tate-liverpool-2017-09-22-4.jpg
+  - ../../media/roy-lichtenstein-liverpool-tate-liverpool-2017-09-22-5.jpg
+  - ../../media/roy-lichtenstein-liverpool-tate-liverpool-2017-09-22-6.jpg
 startdate: 2017-09-22
 enddate: 2018-06-17
 town: Liverpool

@@ -4,10 +4,10 @@ artists:
   - ian-hamilton-finlay
 venue: an-lanntair
 images:
-  - ../../media/0047-sailing-dinghy.jpg
-  - ../../media/0112-sailing-dinghy.jpg
-  - ../../media/0133-sailing-dinghy.jpg
-  - ../../media/IMG-1827-lr.jpg
+  - ../../media/ian-hamilton-finlay-stornoway-an-lanntair-2010-08-30-0.jpg
+  - ../../media/ian-hamilton-finlay-stornoway-an-lanntair-2010-08-30-1.jpg
+  - ../../media/ian-hamilton-finlay-stornoway-an-lanntair-2010-08-30-2.jpg
+  - ../../media/ian-hamilton-finlay-stornoway-an-lanntair-2010-08-30-3.jpg
 startdate: 2010-08-30
 enddate: 2010-11-01
 town: Stornoway

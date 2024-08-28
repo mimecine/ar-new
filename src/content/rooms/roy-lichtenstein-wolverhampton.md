@@ -4,10 +4,10 @@ artists:
   - roy-lichtenstein
 venue: wolverhampton-art-gallery
 images:
-  - ../../media/10.jpg
-  - ../../media/12-0.jpg
-  - ../../media/21.jpg
-  - ../../media/28.jpg
+  - ../../media/roy-lichtenstein-wolverhampton-wolverhampton-art-gallery-2016-10-22-0.jpg
+  - ../../media/roy-lichtenstein-wolverhampton-wolverhampton-art-gallery-2016-10-22-1.jpg
+  - ../../media/roy-lichtenstein-wolverhampton-wolverhampton-art-gallery-2016-10-22-2.jpg
+  - ../../media/roy-lichtenstein-wolverhampton-wolverhampton-art-gallery-2016-10-22-3.jpg
 startdate: 2016-10-22
 enddate: 2017-02-26
 town: Wolverhampton

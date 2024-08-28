@@ -4,11 +4,11 @@ artists:
   - robert-mapplethorpe
 venue: perth-museum-and-art-gallery
 images:
-  - ../../media/-MG-0123-2.jpg
-  - ../../media/-MG-0124-2.jpg
-  - ../../media/-MG-0125-2.jpg
-  - ../../media/-MG-0126-2.jpg
-  - ../../media/-MG-0127-2.jpg
+  - ../../media/robert-mapplethorpe-perth-perth-museum-art-gallery-2012-11-10-0.jpg
+  - ../../media/robert-mapplethorpe-perth-perth-museum-art-gallery-2012-11-10-1.jpg
+  - ../../media/robert-mapplethorpe-perth-perth-museum-art-gallery-2012-11-10-2.jpg
+  - ../../media/robert-mapplethorpe-perth-perth-museum-art-gallery-2012-11-10-3.jpg
+  - ../../media/robert-mapplethorpe-perth-perth-museum-art-gallery-2012-11-10-4.jpg
 startdate: 2012-11-10
 enddate: 2013-04-27
 town: Perth

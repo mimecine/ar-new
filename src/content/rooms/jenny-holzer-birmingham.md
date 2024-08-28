@@ -4,11 +4,11 @@ artists:
   - jenny-holzer
 venue: mac
 images:
-  - ../../media/Jenny-Holzer-07.jpg
-  - ../../media/Jenny-Holzer-01.jpg
-  - ../../media/Jenny-Holzer-21.jpg
-  - ../../media/Jenny-Holzer-33.jpg
-  - ../../media/Jenny-Holzer-09.jpg
+  - ../../media/jenny-holzer-birmingham-mac-2017-05-27-0.jpg
+  - ../../media/jenny-holzer-birmingham-mac-2017-05-27-1.jpg
+  - ../../media/jenny-holzer-birmingham-mac-2017-05-27-2.jpg
+  - ../../media/jenny-holzer-birmingham-mac-2017-05-27-3.jpg
+  - ../../media/jenny-holzer-birmingham-mac-2017-05-27-4.jpg
 startdate: 2017-05-27
 enddate: 2017-09-10
 town: Birmingham

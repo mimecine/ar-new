@@ -4,11 +4,11 @@ artists:
   - andy-warhol
 venue: firstsite
 images:
-  - ../../media/16-0.jpg
-  - ../../media/33.jpg
-  - ../../media/36.jpg
-  - ../../media/44.jpg
-  - ../../media/56.jpg
+  - ../../media/andy-warhol-colchester-firstsite-2016-03-19-0.jpg
+  - ../../media/andy-warhol-colchester-firstsite-2016-03-19-1.jpg
+  - ../../media/andy-warhol-colchester-firstsite-2016-03-19-2.jpg
+  - ../../media/andy-warhol-colchester-firstsite-2016-03-19-3.jpg
+  - ../../media/andy-warhol-colchester-firstsite-2016-03-19-4.jpg
 startdate: 2016-03-19
 enddate: 2016-06-12
 town: "Colchester "

@@ -4,10 +4,10 @@ artists:
   - martin-creed
 venue: quay-arts
 images:
-  - ../../media/Martin-Creed-04.jpg
-  - ../../media/Martin-Creed-15.jpg
-  - ../../media/Martin-Creed-16.jpg
-  - ../../media/Creed-Live-16.jpg
+  - ../../media/martin-creed-newport-quay-arts-2014-06-13-0.jpg
+  - ../../media/martin-creed-newport-quay-arts-2014-06-13-1.jpg
+  - ../../media/martin-creed-newport-quay-arts-2014-06-13-2.jpg
+  - ../../media/martin-creed-newport-quay-arts-2014-06-13-3.jpg
 startdate: 2014-06-13
 enddate: 2014-09-20
 town: Newport

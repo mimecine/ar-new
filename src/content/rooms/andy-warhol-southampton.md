@@ -4,12 +4,12 @@ artists:
   - andy-warhol
 venue: john-hansard-gallery
 images:
-  - ../../media/-DSC3732.jpeg
-  - ../../media/-DSC3746.jpeg
-  - ../../media/-DSC3751.jpeg
-  - ../../media/-DSC3758.jpeg
-  - ../../media/-DSC3765.jpeg
-  - ../../media/-DSC3780.jpeg
+  - ../../media/andy-warhol-southampton-john-hansard-gallery-2011-03-27-0.jpeg
+  - ../../media/andy-warhol-southampton-john-hansard-gallery-2011-03-27-1.jpeg
+  - ../../media/andy-warhol-southampton-john-hansard-gallery-2011-03-27-2.jpeg
+  - ../../media/andy-warhol-southampton-john-hansard-gallery-2011-03-27-3.jpeg
+  - ../../media/andy-warhol-southampton-john-hansard-gallery-2011-03-27-4.jpeg
+  - ../../media/andy-warhol-southampton-john-hansard-gallery-2011-03-27-5.jpeg
 startdate: 2011-03-27
 enddate: 2011-06-26
 town: Southampton

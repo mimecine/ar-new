@@ -4,9 +4,9 @@ artists:
   - francesca-woodman
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/090430GMAex-09.jpeg
-  - ../../media/090430GMAex-12.jpeg
-  - ../../media/090430GMAex-13.jpeg
+  - ../../media/francesca-woodman-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-0.jpeg
+  - ../../media/francesca-woodman-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-1.jpeg
+  - ../../media/francesca-woodman-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-2.jpeg
 startdate: 2009-03-14
 enddate: 2009-11-09
 town: Edinburgh

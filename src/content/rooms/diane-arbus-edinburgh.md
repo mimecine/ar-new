@@ -4,10 +4,10 @@ artists:
   - diane-arbus
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/100412DeanEx-02.jpg
-  - ../../media/100412DeanEx-06.jpg
-  - ../../media/100412DeanEx-12.jpg
-  - ../../media/100412DeanEx-13.jpg
+  - ../../media/diane-arbus-edinburgh-scottish-national-gallery-of-modern-art-2010-03-13-0.jpg
+  - ../../media/diane-arbus-edinburgh-scottish-national-gallery-of-modern-art-2010-03-13-1.jpg
+  - ../../media/diane-arbus-edinburgh-scottish-national-gallery-of-modern-art-2010-03-13-2.jpg
+  - ../../media/diane-arbus-edinburgh-scottish-national-gallery-of-modern-art-2010-03-13-3.jpg
 startdate: 2010-03-13
 enddate: 2010-06-13
 town: Edinburgh

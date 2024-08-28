@@ -4,10 +4,10 @@ artists:
   - andy-warhol
 venue: the-mac
 images:
-  - ../../media/DSC-0037.jpg
-  - ../../media/DSC-0001.jpg
-  - ../../media/DSC-0003.jpg
-  - ../../media/DSC-0016.jpg
+  - ../../media/andy-warhol-belfast-the-mac-2013-02-08-0.jpg
+  - ../../media/andy-warhol-belfast-the-mac-2013-02-08-1.jpg
+  - ../../media/andy-warhol-belfast-the-mac-2013-02-08-2.jpg
+  - ../../media/andy-warhol-belfast-the-mac-2013-02-08-3.jpg
 startdate: 2013-02-08
 enddate: 2013-04-28
 town: Belfast

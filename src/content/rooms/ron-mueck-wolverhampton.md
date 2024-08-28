@@ -4,15 +4,15 @@ artists:
   - ron-mueck
 venue: wolverhampton-art-gallery
 images:
-  - ../../media/6-Wild-Man-17.7.2013-Wolverhampton.jpg
-  - ../../media/10-Wild-Man-17.7.2013-Wolverhampton.jpg
-  - ../../media/9-Wild-Man-17.7.2013-Wolverhampton.jpg
-  - ../../media/8-Wild-Man-17.7.2013-Wolverhampton.jpg
-  - ../../media/7-Wild-Man-17.7.2013-Wolverhampton.jpg
-  - ../../media/4-Wild-Man-17.7.2013-Wolverhampton.jpg
-  - ../../media/2-Wild-Man-17.7.2013-Wolverhampton.jpg
-  - ../../media/1-Wild-Man-17.7.2013-Wolverhampton.jpg
-  - ../../media/3-Wild-Man-17.7.2013-Wolverhampton.jpg
+  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-0.jpg
+  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-1.jpg
+  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-2.jpg
+  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-3.jpg
+  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-4.jpg
+  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-5.jpg
+  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-6.jpg
+  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-7.jpg
+  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-8.jpg
 startdate: 2013-07-20
 enddate: 2013-11-02
 town: Wolverhampton

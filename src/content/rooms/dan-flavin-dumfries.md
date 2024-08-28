@@ -4,11 +4,11 @@ artists:
   - dan-flavin
 venue: gracefield-art-centre
 images:
-  - ../../media/Dan-Flavin-01-0.jpg
-  - ../../media/Dan-Flavin-02-0.jpg
-  - ../../media/Dan-Flavin-07-0.jpg
-  - ../../media/Dan-Flavin-14-0.jpg
-  - ../../media/Dan-Flavin-15.jpg
+  - ../../media/dan-flavin-dumfries-gracefield-art-centre-2014-08-16-0.jpg
+  - ../../media/dan-flavin-dumfries-gracefield-art-centre-2014-08-16-1.jpg
+  - ../../media/dan-flavin-dumfries-gracefield-art-centre-2014-08-16-2.jpg
+  - ../../media/dan-flavin-dumfries-gracefield-art-centre-2014-08-16-3.jpg
+  - ../../media/dan-flavin-dumfries-gracefield-art-centre-2014-08-16-4.jpg
 startdate: 2014-08-16
 enddate: 2014-11-15
 town: Dumfries

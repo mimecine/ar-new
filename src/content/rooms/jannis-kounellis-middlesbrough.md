@@ -4,11 +4,11 @@ artists:
   - jannis-kounellis
 venue: mima
 images:
-  - ../../media/-DSC0674.jpg
-  - ../../media/-DSC0702.jpg
-  - ../../media/-DSC0733.jpg
-  - ../../media/-DSC0756.jpg
-  - ../../media/-DSC0777.jpg
+  - ../../media/jannis-kounellis-middlesbrough-mima-2012-12-15-0.jpg
+  - ../../media/jannis-kounellis-middlesbrough-mima-2012-12-15-1.jpg
+  - ../../media/jannis-kounellis-middlesbrough-mima-2012-12-15-2.jpg
+  - ../../media/jannis-kounellis-middlesbrough-mima-2012-12-15-3.jpg
+  - ../../media/jannis-kounellis-middlesbrough-mima-2012-12-15-4.jpg
 startdate: 2012-12-15
 enddate: 2013-03-10
 town: Middlesbrough

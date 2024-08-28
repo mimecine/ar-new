@@ -4,11 +4,11 @@ artists:
   - andy-warhol
 venue: dunoon-burgh-hall
 images:
-  - ../../media/Andy-Warhol-0006.jpg
-  - ../../media/Andy-Warhol-0003.jpg
-  - ../../media/Andy-Warhol-0038.jpg
-  - ../../media/Andy-Warhol-0010.jpg
-  - ../../media/Andy-Warhol-0018.jpg
+  - ../../media/andy-warhol-dunoon-dunoon-burgh-hall-2017-06-10-0.jpg
+  - ../../media/andy-warhol-dunoon-dunoon-burgh-hall-2017-06-10-1.jpg
+  - ../../media/andy-warhol-dunoon-dunoon-burgh-hall-2017-06-10-2.jpg
+  - ../../media/andy-warhol-dunoon-dunoon-burgh-hall-2017-06-10-3.jpg
+  - ../../media/andy-warhol-dunoon-dunoon-burgh-hall-2017-06-10-4.jpg
 startdate: 2017-06-10
 enddate: 2017-09-02
 town: Dunoon

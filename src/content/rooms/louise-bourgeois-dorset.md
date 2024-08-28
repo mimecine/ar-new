@@ -4,13 +4,13 @@ artists:
   - louise-bourgeois
 venue: dorset-museum
 images:
-  - ../../media/Louise-Bourgeois-Artist-Room-2023-06.jpeg
-  - ../../media/Louise-Bourgeois-Artist-Room-2023-13.jpeg
-  - ../../media/Louise-Bourgeois-Artist-Room-2023-17.jpeg
-  - ../../media/Louise-Bourgeois-Artist-Room-2023-20.jpeg
-  - ../../media/Louise-Bourgeois-Artist-Room-2023-24.jpeg
-  - ../../media/Louise-Bourgeois-Artist-Room-2023-31.jpeg
-  - ../../media/Louise-Bourgeois-Artist-Room-2023-34.jpeg
+  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-0.jpeg
+  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-1.jpeg
+  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-2.jpeg
+  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-3.jpeg
+  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-4.jpeg
+  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-5.jpeg
+  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-6.jpeg
 startdate: 2023-03-22
 enddate: 2023-06-25
 town: Dorset

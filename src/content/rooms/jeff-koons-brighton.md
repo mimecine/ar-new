@@ -4,10 +4,10 @@ artists:
   - jeff-koons
 venue: the-royal-pavilion-and-museums
 images:
-  - ../../media/JP3-5246.jpg
-  - ../../media/JP3-5267.jpg
-  - ../../media/JP3-5291.jpg
-  - ../../media/JP3-5305.jpg
+  - ../../media/jeff-koons-brighton-the-royal-pavilion-and-museums-2013-05-11-0.jpg
+  - ../../media/jeff-koons-brighton-the-royal-pavilion-and-museums-2013-05-11-1.jpg
+  - ../../media/jeff-koons-brighton-the-royal-pavilion-and-museums-2013-05-11-2.jpg
+  - ../../media/jeff-koons-brighton-the-royal-pavilion-and-museums-2013-05-11-3.jpg
 startdate: 2013-05-11
 enddate: 2013-09-08
 town: Brighton

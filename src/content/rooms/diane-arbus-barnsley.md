@@ -4,11 +4,11 @@ artists:
   - diane-arbus
 venue: barnsley-civic
 images:
-  - ../../media/Diane-Arbus-004.0.jpeg
-  - ../../media/Diane-Arbus-007.0.jpeg
-  - ../../media/Diane-Arbus-010.0.jpeg
-  - ../../media/Diane-Arbus-013.0.jpeg
-  - ../../media/Diane-Arbus-023.0.jpeg
+  - ../../media/diane-arbus-barnsley-barnsley-civic-2023-01-23-0.jpeg
+  - ../../media/diane-arbus-barnsley-barnsley-civic-2023-01-23-1.jpeg
+  - ../../media/diane-arbus-barnsley-barnsley-civic-2023-01-23-2.jpeg
+  - ../../media/diane-arbus-barnsley-barnsley-civic-2023-01-23-3.jpeg
+  - ../../media/diane-arbus-barnsley-barnsley-civic-2023-01-23-4.jpeg
 startdate: 2023-01-23
 enddate: 2023-04-16
 town: Barnsley

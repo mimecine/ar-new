@@ -4,10 +4,10 @@ artists:
   - joseph-beuys
 venue: hunterian-art-gallery
 images:
-  - ../../media/JB-002.jpg
-  - ../../media/JB-007.jpg
-  - ../../media/JB-008.jpg
-  - ../../media/JB-009.jpg
+  - ../../media/joseph-beuys-glasgow-hunterian-art-gallery-2010-04-01-0.jpg
+  - ../../media/joseph-beuys-glasgow-hunterian-art-gallery-2010-04-01-1.jpg
+  - ../../media/joseph-beuys-glasgow-hunterian-art-gallery-2010-04-01-2.jpg
+  - ../../media/joseph-beuys-glasgow-hunterian-art-gallery-2010-04-01-3.jpg
 startdate: 2010-04-01
 enddate: 2010-09-27
 town: Glasgow

@@ -1,21 +1,23 @@
 ---
 title: Martin Creed
-featuredImage: ../../media/Martin-Creed-07.jpg
+featuredImage: ../../media/martin-creed-featured.jpg
 resources: []
 works:
-  - inventorynumber: ar01149
+  - inventorynumber: AR01149
     category: Sculpture
     title: "Work No. 890: DON'T WORRY, 2008"
     info: 2008,  Neon lights, 505 x 500 x 60 mm
+    year: "2008"
     credit: |-
       © Martin Creed
 
       AR01149
-    src: ../../media/Screen-Shot-2015-07-27-at-11.32.36.png
-  - inventorynumber: ar01150
+    src: ../../media/martin-creed-ar01149-work-no-890-dont-worry-2008.png
+  - inventorynumber: AR01150
     category: Paintings
     title: Work No. 1102, 2011
     info: 2011,  Acrylic paint on canvas,  610 x 457 mm
+    year: "2011"
     credit: >-
       © Martin Creed
 
@@ -26,22 +28,24 @@ works:
 
 
       AR01150
-    src: ../../media/AR01150.jpg
-  - inventorynumber: ar01151
+    src: ../../media/martin-creed-ar01150-work-no-1102-2011.jpg
+  - inventorynumber: AR01151
     category: Video
     title: Work No. 837, 2008
     info: 2008, 4 synchronized videos; 35 mm film, colour, sound 1 minute 53
       seconds, looped, Dimensions variable
+    year: "2008"
     credit: |-
       © Martin Creed
       Photo: Stuart Whipps
 
       AR01151
-    src: ../../media/AR01151.jpg
-  - inventorynumber: ar01152
+    src: ../../media/martin-creed-ar01151-work-no-837-2008.jpg
+  - inventorynumber: AR01152
     category: Paintings
     title: Work No. 1103, 2011
     info: 2011, Oil paint on canvas, 610 x 457 mm
+    year: "2011"
     credit: >-
       © Martin Creed
 
@@ -52,11 +56,12 @@ works:
 
 
       AR01152
-    src: ../../media/AR01152.jpg
-  - inventorynumber: ar01153
+    src: ../../media/martin-creed-ar01152-work-no-1103-2011.jpg
+  - inventorynumber: AR01153
     category: Paintings
     title: Work No. 1104, 2011
     info: 2011,  Acrylic paint on canvas,  610 x 457 mm
+    year: "2011"
     credit: >-
       © Martin Creed
 
@@ -67,11 +72,12 @@ works:
 
 
       AR01153
-    src: ../../media/AR01153.jpg
-  - inventorynumber: ar01154
+    src: ../../media/martin-creed-ar01153-work-no-1104-2011.jpg
+  - inventorynumber: AR01154
     category: Paintings
     title: Work No. 1105, 2011
     info: 2011,  Acrylic paint on canvas,  610 x 457 mm
+    year: "2011"
     credit: >-
       © Martin Creed
 
@@ -82,11 +88,22 @@ works:
 
 
       AR01154
-    src: ../../media/AR01154.jpg
-  - inventorynumber: ar01148
+    src: ../../media/martin-creed-ar01154-work-no-1105-2011.jpg
+  - inventorynumber: AR01229
+    category: Paintings
+    title: Work No. 1340, 2012
+    info: 2012, Emulsion on wall, dimensions variable
+    year: "2012"
+    credit: |-
+      © Martin Creed
+
+      AR01229
+    src: ../../media/martin-creed-ar01229-work-no-1340-2012.jpg
+  - inventorynumber: AR01148
     category: Works on paper
     title: Work No. 944, 2008
     info: "2008,  21 works on paper, ink,  each: 297 x 210 mm"
+    year: "2008"
     credit: >-
       © Martin Creed
 
@@ -97,7 +114,27 @@ works:
 
 
       AR01148
-    src: ../../media/Screen-Shot-2015-07-27-at-11.32.24.png
+    src: ../../media/martin-creed-ar01148-work-no-944-2008.png
+  - inventorynumber: A037053
+    category: Paintings
+    title: Work No. 1582, 2013
+    info: 2013 , Acrylic and pencil on paper, 36 x 36 cm
+    year: 2013 , Acrylic and pencil on paper, 36 x 36 cm
+    credit: |-
+      © Martin Creed
+
+      A037053
+    src: ../../media/martin-creed-a037053-work-no-1582-2013.jpg
+  - inventorynumber: AR01230
+    category: Sculpture
+    title: Work No. 960, 2008
+    info: 2008, 13 cacti, dimensions variable
+    year: "2008"
+    credit: |-
+      © Martin Creed
+
+      AR01230
+    src: ../../media/martin-creed-ar01230-work-no-960-2008.JPG
 
 ---
 

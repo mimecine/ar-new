@@ -4,15 +4,15 @@ artists:
   - ed-ruscha
 venue: tate-modern
 images:
-  - ../../media/Ed-Ruscha-Artist-Rooms01-lo-res.jpg
-  - ../../media/Ed-Ruscha-Artist-Rooms-04-lo-res-min-01-min.jpg
-  - ../../media/Ed-Ruscha-Artist-Rooms-07-lo-res-min-01-min.jpg
-  - ../../media/Ed-Ruscha-Artist-Rooms-08-lo-res-min-01-min.jpg
-  - ../../media/Ed-Ruscha-Artist-Rooms-10-lo-res-min-01-min.jpg
-  - ../../media/Ed-Ruscha-Artist-Rooms-12-lo-res-fewerpixels.jpg
-  - ../../media/Ed-Ruscha-Artist-Rooms-11-cropped-lo-res.jpg
-  - ../../media/Ed-Ruscha-Artist-Rooms-15-lo-res-0.jpg
-  - ../../media/Ed-Ruscha-Artist-Rooms-16-lo-res.jpg
+  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-0.jpg
+  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-1.jpg
+  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-2.jpg
+  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-3.jpg
+  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-4.jpg
+  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-5.jpg
+  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-6.jpg
+  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-7.jpg
+  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-8.jpg
 startdate: 2019-07-25
 enddate: 2020-06-28
 town: London

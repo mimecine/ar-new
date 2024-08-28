@@ -4,10 +4,10 @@ artists:
   - martin-creed
 venue: ferens-art-gallery
 images:
-  - ../../media/Martin-Creed-21.jpg
-  - ../../media/Martin-Creed-13.jpg
-  - ../../media/Martin-Creed-18.jpg
-  - ../../media/Martin-Creed-08.jpg
+  - ../../media/martin-creed-hull-ferens-art-gallery-2013-06-08-0.jpg
+  - ../../media/martin-creed-hull-ferens-art-gallery-2013-06-08-1.jpg
+  - ../../media/martin-creed-hull-ferens-art-gallery-2013-06-08-2.jpg
+  - ../../media/martin-creed-hull-ferens-art-gallery-2013-06-08-3.jpg
 startdate: 2013-06-08
 enddate: 2013-10-06
 town: Hull

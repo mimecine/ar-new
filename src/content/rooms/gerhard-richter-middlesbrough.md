@@ -4,10 +4,10 @@ artists:
   - gerhard-richter
 venue: mima
 images:
-  - ../../media/Room1-01.jpg
-  - ../../media/Room2-04.jpg
-  - ../../media/Room3-01.jpg
-  - ../../media/Room3-02.jpg
+  - ../../media/gerhard-richter-middlesbrough-mima-2009-08-28-0.jpg
+  - ../../media/gerhard-richter-middlesbrough-mima-2009-08-28-1.jpg
+  - ../../media/gerhard-richter-middlesbrough-mima-2009-08-28-2.jpg
+  - ../../media/gerhard-richter-middlesbrough-mima-2009-08-28-3.jpg
 startdate: 2009-08-28
 enddate: 2009-11-15
 town: Middlesbrough

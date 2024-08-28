@@ -4,10 +4,10 @@ artists:
   - bruce-nauman
 venue: harris-museum-and-art-gallery
 images:
-  - ../../media/Bruce-Nauman-04.jpg
-  - ../../media/Bruce-Nauman-15.jpg
-  - ../../media/Bruce-Nauman-34.jpg
-  - ../../media/Bruce-Nauman-20.jpg
+  - ../../media/bruce-nauman-preston-harris-museum-art-gallery-2014-02-15-0.jpg
+  - ../../media/bruce-nauman-preston-harris-museum-art-gallery-2014-02-15-1.jpg
+  - ../../media/bruce-nauman-preston-harris-museum-art-gallery-2014-02-15-2.jpg
+  - ../../media/bruce-nauman-preston-harris-museum-art-gallery-2014-02-15-3.jpg
 startdate: 2014-02-15
 enddate: 2014-05-24
 town: Preston

@@ -4,13 +4,13 @@ artists:
   - gerhard-richter
 venue: john-hansard-gallery
 images:
-  - ../../media/GR-60.jpg
-  - ../../media/GR-08.jpg
-  - ../../media/GR-16.jpg
-  - ../../media/GR-25.jpg
-  - ../../media/GR-34.jpg
-  - ../../media/GR-40.jpg
-  - ../../media/GR-55.jpg
+  - ../../media/gerhard-richter-southampton-john-hansard-gallery-2018-05-12-0.jpg
+  - ../../media/gerhard-richter-southampton-john-hansard-gallery-2018-05-12-1.jpg
+  - ../../media/gerhard-richter-southampton-john-hansard-gallery-2018-05-12-2.jpg
+  - ../../media/gerhard-richter-southampton-john-hansard-gallery-2018-05-12-3.jpg
+  - ../../media/gerhard-richter-southampton-john-hansard-gallery-2018-05-12-4.jpg
+  - ../../media/gerhard-richter-southampton-john-hansard-gallery-2018-05-12-5.jpg
+  - ../../media/gerhard-richter-southampton-john-hansard-gallery-2018-05-12-6.jpg
 startdate: 2018-05-12
 enddate: 2018-08-18
 town: Southampton

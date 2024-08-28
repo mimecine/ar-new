@@ -1,164 +1,181 @@
 ---
 title: Jeff Koons
-featuredImage: ../../media/JP3-5271.jpg
+featuredImage: ../../media/jeff-koons-featured.jpg
 resources:
   - /sites/default/files/downloads/JEFFKOONSLEARNINGRESOURCE.pdf
 works:
-  - inventorynumber: ar00077
+  - inventorynumber: AR00077
     category: Sculpture
     title: New Hoover Convertibles, Green, Red, Brown, New Shelton Wet/Dry 10 Gallon
       Displaced Doubledecker, 1981-7
     info: 1981-7,  4 vacuum cleaners, Perspex and fluorescent lights,  2510 x 1370 x
       715 mm
+    year: 1981-7
     credit: |-
       © Jeff Koons
 
       AR00077
-    src: ../../media/AR00077.jpg
-  - inventorynumber: ar00078
+    src: ../../media/jeff-koons-ar00077-new-hoover-convertibles-green-red-brown-new-shelton-wetdry-10-gallon-displaced-doubledecker-1981-7.jpg
+  - inventorynumber: AR00078
     category: Sculpture
     title: Encased - Four Rows, 1983-93
     info: 1983-93,  Glass, steel, plastic and basketballs,  2032 x 1400 x 432 mm
+    year: 1983-93
     credit: |-
       © Jeff Koons
 
       AR00078
-    src: ../../media/AR00078.jpg
-  - inventorynumber: ar00494
+    src: ../../media/jeff-koons-ar00078-encased-four-rows-1983-93.jpg
+  - inventorynumber: AR00494
     category: Sculpture
     title: Winter Bears, 1988
     info: 1988,  Polychromed wood,  1245 x 1170 x 450 mm
+    year: "1988"
     credit: |-
       © Jeff Koons
 
       AR00494
-    src: ../../media/AR00494.jpg
-  - inventorynumber: ar00081
+    src: ../../media/jeff-koons-ar00494-winter-bears-1988.jpg
+  - inventorynumber: AR00081
     category: Works on paper
     title: Art Magazine Ads (Art in America; Arts; Flash Art; and, Art Forum), 1988-9
     info: 1988-9,  Lithograph on paper,  915 x 712 mm
+    year: 1988-9
     credit: |-
       © Jeff Koons
 
       AR00081
-    src: ../../media/AR00081-0.jpg
-  - inventorynumber: ar00080
+    src: ../../media/jeff-koons-ar00081-art-magazine-ads-art-in-america-arts-flash-art-and-art-forum-1988-9.jpg
+  - inventorynumber: AR00080
     category: Works on paper
     title: Made in Heaven, 1989
     info: 1989,  Lithograph on paper on canvas,  3145 x 6910 x 5.5 mm
+    year: "1989"
     credit: |-
       © Jeff Koons
 
       AR00080
-    src: ../../media/AR00080.jpg
-  - inventorynumber: ar00597
+    src: ../../media/jeff-koons-ar00080-made-in-heaven-1989.jpg
+  - inventorynumber: AR00597
     category: Sculpture
     title: Bourgeois Bust - Jeff and Ilona, 1991
     info: 1991,  Marble,  1190 x 745 x 580 mm
+    year: "1991"
     credit: |-
       © Jeff Koons
 
       AR00597
-    src: ../../media/AR00597.jpg
-  - inventorynumber: ar00076
+    src: ../../media/jeff-koons-ar00597-bourgeois-bust-jeff-and-ilona-1991.jpg
+  - inventorynumber: AR00076
     category: Sculpture
     title: Mound of Flowers, 1991
     info: 1991, Glass, 400 x 1135 x 945 mm
+    year: "1991"
     credit: |-
       © Jeff Koons
 
       AR00076
-    src: ../../media/AR00076-10.jpg
-  - inventorynumber: ar00079
+    src: ../../media/jeff-koons-ar00076-mound-of-flowers-1991.jpg
+  - inventorynumber: AR00079
     category: Sculpture
     title: Caterpillar (with chains), 2002
     info: 2002,  Polychromed aluminium and rubber-coated steel,  470 x 1945 x 1100 mm
+    year: "2002"
     credit: |-
       © Jeff Koons
 
       AR00079
-    src: ../../media/AR00079.jpg
-  - inventorynumber: ar00493
+    src: ../../media/jeff-koons-ar00079-caterpillar-with-chains-2002.jpg
+  - inventorynumber: AR00493
     category: Sculpture
     title: WALRUS (Purple), 1999
     info: 1999, glass, plastic and stainless steel, 2210 x 1490 x 30 mm
+    year: "1999"
     credit: |-
       © Jeff Koons
 
       AR00493
-    src: ../../media/Walrus-Purple-AR00493-Tate-flat-smaller-0.jpg
-  - inventorynumber: ar00492
+    src: ../../media/jeff-koons-ar00493-walrus-purple-1999.jpg
+  - inventorynumber: AR00492
     category: Sculpture
     title: PONY (Blue), 1999
     info: 1999, glass, plastic and stainless steel, 1990 x 1503 x 30 mm
+    year: "1999"
     credit: |-
       © Jeff Koons
 
       AR00492
-    src: ../../media/Pony-Blue-AR00492-Tate-flat-th.jpg
-  - inventorynumber: ar00487
+    src: ../../media/jeff-koons-ar00492-pony-blue-1999.jpg
+  - inventorynumber: AR00487
     category: Sculpture
     title: MONKEY (Red-Orange), 1999
     info: 1999, glass, plastic and stainless steel, 1753 x 1503 x 30mm
+    year: "1999"
     credit: |-
       © Jeff Koons
 
       AR00487
-    src: ../../media/Monkey-RedOrange-AR00487-Tate-flat-0.jpg
-  - inventorynumber: ar00490
+    src: ../../media/jeff-koons-ar00487-monkey-red-orange-1999.jpg
+  - inventorynumber: AR00490
     category: Sculpture
     title: HIPPO (green), 1999
     info: 1999, glass, plastic and stainless steel, 2106 x 1479 x 30 mm
+    year: "1999"
     credit: |-
       © Jeff Koons
 
       AR00490
-    src: ../../media/Hippo-Green-AR00490-Tate-flat-0.jpg
-  - inventorynumber: ar00486
+    src: ../../media/jeff-koons-ar00490-hippo-green-1999.jpg
+  - inventorynumber: AR00486
     category: Sculpture
     title: GOAT (Ice Blue), 1999
     info: 1999, Glass, plastic and stainless steel, 2178 x 1485 x 30mm
+    year: "1999"
     credit: |-
       © Jeff Koons
 
       AR00486
-    src: ../../media/Goat-IceBlueAR00486-Tate-flat-0.jpg
-  - inventorynumber: ar01147
+    src: ../../media/jeff-koons-ar00486-goat-ice-blue-1999.jpg
+  - inventorynumber: AR01147
     category: Sculpture
     title: GIRAFFE (red), 1999
     info: 1999, Glass, plastic and stainless steel, 2110 x 1530 x 30mm
+    year: "1999"
     credit: |-
       © Jeff Koons
 
       AR01147
-    src: ../../media/Giraffe-Red-AR01147-Tate-flat-0.jpg
-  - inventorynumber: ar00491
+    src: ../../media/jeff-koons-ar01147-giraffe-red-1999.jpg
+  - inventorynumber: AR00491
     category: Sculpture
     title: ELEPHANT (gold), 1999
     info: 1999, glass, plastic and stainless steel, 1933 x 1503 x 30 mm
+    year: "1999"
     credit: |-
       © Jeff Koons
 
       AR00491
-    src: ../../media/Elephant-Gold-AR00491-Tate-flat-0.jpg
-  - inventorynumber: ar00488
+    src: ../../media/jeff-koons-ar00491-elephant-gold-1999.jpg
+  - inventorynumber: AR00488
     category: Sculpture
     title: DONKEY (blue-green), 1999
     info: 1999, Glass, plastic and stainless steel, 1944 x 1495 x 30 mm
+    year: "1999"
     credit: |-
       ​© Jeff Koons
 
       AR00488
-    src: ../../media/Donkey-Blue-Green-AR00488-Tate-flat-0.jpg
-  - inventorynumber: ar00489
+    src: ../../media/jeff-koons-ar00488-donkey-blue-green-1999.jpg
+  - inventorynumber: AR00489
     category: Sculpture
     title: BEAR (blue), 1999
     info: 1999, Glass, plastic and stainless steel, 2155 x 1503 x 30 mm
+    year: "1999"
     credit: |-
       © Jeff Koons
 
       AR00489
-    src: ../../media/Bear-Blue-AR00489-Tate-flat-smaller-0.jpg
+    src: ../../media/jeff-koons-ar00489-bear-blue-1999.jpg
 
 ---
 

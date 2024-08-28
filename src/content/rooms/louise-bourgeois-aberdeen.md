@@ -4,8 +4,8 @@ artists:
   - louise-bourgeois
 venue: aberdeen-art-gallery
 images:
-  - ../../media/Aberdeen-install-view1-100dpi.jpg
-  - ../../media/Aberdeen-install-view2-100dpi.jpg
+  - ../../media/louise-bourgeois-aberdeen-aberdeen-art-gallery-2024-03-02-0.jpg
+  - ../../media/louise-bourgeois-aberdeen-aberdeen-art-gallery-2024-03-02-1.jpg
 startdate: 2024-03-02
 enddate: 2024-06-09
 town: Aberdeen

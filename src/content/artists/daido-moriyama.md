@@ -1,17 +1,18 @@
 ---
 title: Daido Moriyama
-featuredImage: ../../media/Moriyama-AR-0009.jpg
+featuredImage: ../../media/daido-moriyama-featured.jpg
 resources: []
 works:
-  - inventorynumber: ar01264
+  - inventorynumber: AR01264
     category: Photography
     title: Hokkaido 1979, produced 2017
     info: 2017, Slideshow
+    year: "2017"
     credit: |-
       © Daido Moriyama
 
       AR01264
-    src: ../../media/Moriyama-AR-0009.jpg
+    src: ../../media/daido-moriyama-ar01264-hokkaido-1979-produced-2017.jpg
 
 ---
 

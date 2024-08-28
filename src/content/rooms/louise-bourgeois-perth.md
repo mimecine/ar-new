@@ -4,12 +4,12 @@ artists:
   - louise-bourgeois
 venue: perth-museum-and-art-gallery
 images:
-  - ../../media/Louise-Bourgeois-15.jpg
-  - ../../media/Louise-Bourgeois-08.jpg
-  - ../../media/Louise-Bourgeois-20.jpg
-  - ../../media/Louise-Bourgeois-05.jpg
-  - ../../media/Louise-Bourgeois-01.jpg
-  - ../../media/Louise-Bourgeois-11-0.jpg
+  - ../../media/louise-bourgeois-perth-perth-museum-and-art-gallery-2017-09-01-0.jpg
+  - ../../media/louise-bourgeois-perth-perth-museum-and-art-gallery-2017-09-01-1.jpg
+  - ../../media/louise-bourgeois-perth-perth-museum-and-art-gallery-2017-09-01-2.jpg
+  - ../../media/louise-bourgeois-perth-perth-museum-and-art-gallery-2017-09-01-3.jpg
+  - ../../media/louise-bourgeois-perth-perth-museum-and-art-gallery-2017-09-01-4.jpg
+  - ../../media/louise-bourgeois-perth-perth-museum-and-art-gallery-2017-09-01-5.jpg
 startdate: 2017-09-01
 enddate: 2017-11-18
 town: Perth

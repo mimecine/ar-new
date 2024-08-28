@@ -1,6 +1,6 @@
 ---
 title: Diane Arbus
-featuredImage: ../../media/Arbus-Installs-07-1-.jpg
+featuredImage: ../../media/diane-arbus-featured.jpg
 resources: []
 works: []
 

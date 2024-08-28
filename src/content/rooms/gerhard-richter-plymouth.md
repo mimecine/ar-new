@@ -4,11 +4,11 @@ artists:
   - gerhard-richter
 venue: plymouth-city-museum-and-art-gallery
 images:
-  - ../../media/Gerhard-Richter-07.jpg
-  - ../../media/Gerhard-Richter-18.jpg
-  - ../../media/Gerhard-Richter-20.jpg
-  - ../../media/Gerhard-Richter-25.jpg
-  - ../../media/Gerhard2.jpg
+  - ../../media/gerhard-richter-plymouth-plymouth-city-museum-art-gallery-2015-09-26-0.jpg
+  - ../../media/gerhard-richter-plymouth-plymouth-city-museum-art-gallery-2015-09-26-1.jpg
+  - ../../media/gerhard-richter-plymouth-plymouth-city-museum-art-gallery-2015-09-26-2.jpg
+  - ../../media/gerhard-richter-plymouth-plymouth-city-museum-art-gallery-2015-09-26-3.jpg
+  - ../../media/gerhard-richter-plymouth-plymouth-city-museum-art-gallery-2015-09-26-4.jpg
 startdate: 2015-09-26
 enddate: 2016-01-16
 town: Plymouth

@@ -4,13 +4,13 @@ artists:
   - bruce-nauman
 venue: tate-modern
 images:
-  - ../../media/Nauman-AR-TM-0001.jpg
-  - ../../media/Nauman-AR-TM-0005.jpg
-  - ../../media/Nauman-AR-TM-0008.jpg
-  - ../../media/Nauman-AR-TM-0015.jpg
-  - ../../media/Nauman-AR-TM-0014.jpg
-  - ../../media/Nauman-AR-TM-0018.jpg
-  - ../../media/Nauman-AR-TM-0029.jpg
+  - ../../media/bruce-nauman-london-tate-modern-2017-07-24-0.jpg
+  - ../../media/bruce-nauman-london-tate-modern-2017-07-24-1.jpg
+  - ../../media/bruce-nauman-london-tate-modern-2017-07-24-2.jpg
+  - ../../media/bruce-nauman-london-tate-modern-2017-07-24-3.jpg
+  - ../../media/bruce-nauman-london-tate-modern-2017-07-24-4.jpg
+  - ../../media/bruce-nauman-london-tate-modern-2017-07-24-5.jpg
+  - ../../media/bruce-nauman-london-tate-modern-2017-07-24-6.jpg
 startdate: 2017-07-24
 enddate: 2018-06-01
 town: London

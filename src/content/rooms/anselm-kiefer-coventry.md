@@ -4,11 +4,11 @@ artists:
   - anselm-kiefer
 venue: the-herbert
 images:
-  - ../../media/Kiefer-AR-Cov-01.jpg
-  - ../../media/Kiefer-AR-Cov-07.jpg
-  - ../../media/Kiefer-AR-Cov-22.jpg
-  - ../../media/Kiefer-AR-Cov-27.jpg
-  - ../../media/Kiefer-AR-Cov-30.jpg
+  - ../../media/anselm-kiefer-coventry-the-herbert-2018-10-19-0.jpg
+  - ../../media/anselm-kiefer-coventry-the-herbert-2018-10-19-1.jpg
+  - ../../media/anselm-kiefer-coventry-the-herbert-2018-10-19-2.jpg
+  - ../../media/anselm-kiefer-coventry-the-herbert-2018-10-19-3.jpg
+  - ../../media/anselm-kiefer-coventry-the-herbert-2018-10-19-4.jpg
 startdate: 2018-10-19
 enddate: 2019-01-27
 town: Coventry

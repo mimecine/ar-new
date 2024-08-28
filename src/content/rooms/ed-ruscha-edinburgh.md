@@ -4,11 +4,11 @@ artists:
   - ed-ruscha
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/ARTIST-ROOMS-Music-from-the-Balconies-Ed-Ruscha-and-Los-Angeles016.jpg
-  - ../../media/ARTIST-ROOMS-Music-from-the-Balconies-Ed-Ruscha-and-Los-Angeles019.jpg
-  - ../../media/ARTIST-ROOMS-Music-from-the-Balconies-Ed-Ruscha-and-Los-Angeles021.jpg
-  - ../../media/ARTIST-ROOMS-Music-from-the-Balconies-Ed-Ruscha-and-Los-Angeles004.jpg
-  - ../../media/ARTIST-ROOMS-Music-from-the-Balconies-Ed-Ruscha-and-Los-Angeles002.jpg
+  - ../../media/ed-ruscha-edinburgh-scottish-national-gallery-of-modern-art-2017-04-29-0.jpg
+  - ../../media/ed-ruscha-edinburgh-scottish-national-gallery-of-modern-art-2017-04-29-1.jpg
+  - ../../media/ed-ruscha-edinburgh-scottish-national-gallery-of-modern-art-2017-04-29-2.jpg
+  - ../../media/ed-ruscha-edinburgh-scottish-national-gallery-of-modern-art-2017-04-29-3.jpg
+  - ../../media/ed-ruscha-edinburgh-scottish-national-gallery-of-modern-art-2017-04-29-4.jpg
 startdate: 2017-04-29
 enddate: 2018-04-29
 town: Edinburgh

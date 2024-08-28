@@ -4,11 +4,11 @@ artists:
   - diane-arbus
 venue: north-hertfordshire-museum
 images:
-  - ../../media/Artist-Rooms-Diane-Arbus-2024-02.jpeg
-  - ../../media/Artist-Rooms-Diane-Arbus-2024-07.jpeg
-  - ../../media/Artist-Rooms-Diane-Arbus-2024-10.jpeg
-  - ../../media/Artist-Rooms-Diane-Arbus-2024-15.jpeg
-  - ../../media/Artist-Rooms-Diane-Arbus-2024-16.jpeg
+  - ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-0.jpeg
+  - ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-1.jpeg
+  - ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-2.jpeg
+  - ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-3.jpeg
+  - ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-4.jpeg
 startdate: 2023-12-03
 enddate: 2024-02-25
 town: Hitchin

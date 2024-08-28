@@ -1,26 +1,28 @@
 ---
 title: Mario Merz
-featuredImage: ../../media/AR00608.jpg
+featuredImage: ../../media/mario-merz-featured.jpg
 resources: []
 works:
-  - inventorynumber: ar00608
+  - inventorynumber: AR00608
     category: Sculpture
     title: Lingotto, 1968
     info: 1968,  Brush-wood, beeswax and steel,  2620 x 3130 x 1140 mm
+    year: "1968"
     credit: |-
       © The estate of Mario Merz
 
       AR00608
-    src: ../../media/AR00608.jpg
-  - inventorynumber: ar00598
+    src: ../../media/mario-merz-ar00608-lingotto-1968.jpg
+  - inventorynumber: AR00598
     category: Sculpture
     title: Che Fare?, 1968-73
     info: 1968-73,  Aluminium, wax and neon lights,  125 x 668 x 191 mm
+    year: 1968-73
     credit: |-
       © The estate of Mario Merz
 
       AR00598
-    src: ../../media/AR00598.jpg
+    src: ../../media/mario-merz-ar00598-che-fare-1968-73.jpg
 
 ---
 

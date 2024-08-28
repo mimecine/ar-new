@@ -4,11 +4,11 @@ artists:
   - ed-ruscha
 venue: tate-modern
 images:
-  - ../../media/Ruscha-05.jpeg
-  - ../../media/Ruscha-01.jpeg
-  - ../../media/Ruscha-03.jpeg
-  - ../../media/Ruscha-08.jpeg
-  - ../../media/Ruscha-09.jpeg
+  - ../../media/ed-ruscha-london-tate-modern-2009-04-29-0.jpeg
+  - ../../media/ed-ruscha-london-tate-modern-2009-04-29-1.jpeg
+  - ../../media/ed-ruscha-london-tate-modern-2009-04-29-2.jpeg
+  - ../../media/ed-ruscha-london-tate-modern-2009-04-29-3.jpeg
+  - ../../media/ed-ruscha-london-tate-modern-2009-04-29-4.jpeg
 startdate: 2009-04-29
 enddate: 2010-01-01
 town: London

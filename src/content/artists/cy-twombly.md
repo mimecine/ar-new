@@ -1,17 +1,18 @@
 ---
 title: Cy Twombly
-featuredImage: ../../media/AR00181.jpg
+featuredImage: ../../media/cy-twombly-featured.jpg
 resources: []
 works:
-  - inventorynumber: ar00181
+  - inventorynumber: AR00181
     category: Works on paper
     title: Souvenir de L'ile des Saintes, 1979
     info: "1979,  8 works on paper, watercolour and gouache, each: 252 x 287 mm"
+    year: "1979"
     credit: |-
       © Courtesy of Cy Twombly Foundation
 
       AR00181
-    src: ../../media/AR00181.jpg
+    src: ../../media/cy-twombly-ar00181-souvenir-de-lile-des-saintes-1979.jpg
 
 ---
 

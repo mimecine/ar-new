@@ -4,10 +4,10 @@ artists:
   - martin-creed
 venue: tate-britain
 images:
-  - ../../media/Martin-Creed-09.jpg
-  - ../../media/Martin-Creed-04.jpg
-  - ../../media/Martin-Creed-15.jpg
-  - ../../media/Martin-Creed-12.jpg
+  - ../../media/martin-creed-london-tate-britain-2013-10-11-0.jpg
+  - ../../media/martin-creed-london-tate-britain-2013-10-11-1.jpg
+  - ../../media/martin-creed-london-tate-britain-2013-10-11-2.jpg
+  - ../../media/martin-creed-london-tate-britain-2013-10-11-3.jpg
 startdate: 2013-10-11
 enddate: 2014-04-13
 town: London

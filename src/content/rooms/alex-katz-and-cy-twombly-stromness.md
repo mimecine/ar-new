@@ -5,12 +5,12 @@ artists:
   - cy-twombly
 venue: the-piers-art-centre
 images:
-  - ../../media/Beautiful-Being-002-copy.jpg
-  - ../../media/Beautiful-Being-006-copy.jpg
-  - ../../media/Beautiful-Being-008-copy.jpg
-  - ../../media/Beautiful-Being-009-copy.jpg
-  - ../../media/Beautiful-Being-013-copy.jpg
-  - ../../media/afternoon-low-res.jpg
+  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-0.jpg
+  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-1.jpg
+  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-2.jpg
+  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-3.jpg
+  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-4.jpg
+  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-5.jpg
 startdate: 2011-03-26
 enddate: 2011-06-04
 town: Stromness

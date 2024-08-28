@@ -4,9 +4,9 @@ artists:
   - anselm-kiefer
 venue: mostyn
 images:
-  - ../../media/kiefer-20install-2008.jpg
-  - ../../media/kiefer-20install-2007-0.jpg
-  - ../../media/kiefer-20install-2012.jpg
+  - ../../media/anselm-kiefer-mostyn-mostyn-2011-12-03-0.jpg
+  - ../../media/anselm-kiefer-mostyn-mostyn-2011-12-03-1.jpg
+  - ../../media/anselm-kiefer-mostyn-mostyn-2011-12-03-2.jpg
 startdate: 2011-12-03
 enddate: 2012-03-11
 town: Mostyn

@@ -4,11 +4,11 @@ artists:
   - richard-long
 venue: the-hepworth
 images:
-  - ../../media/untitled.jpeg
-  - ../../media/untitled3.jpeg
-  - ../../media/untitled4.jpeg
-  - ../../media/untitled5.jpg
-  - ../../media/untitled12.jpeg
+  - ../../media/richard-long-wakefield-the-hepworth-2012-06-23-0.jpeg
+  - ../../media/richard-long-wakefield-the-hepworth-2012-06-23-1.jpeg
+  - ../../media/richard-long-wakefield-the-hepworth-2012-06-23-2.jpeg
+  - ../../media/richard-long-wakefield-the-hepworth-2012-06-23-3.jpg
+  - ../../media/richard-long-wakefield-the-hepworth-2012-06-23-4.jpeg
 startdate: 2012-06-23
 enddate: 2012-10-14
 town: Wakefield

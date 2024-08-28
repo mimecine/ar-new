@@ -4,8 +4,8 @@ artists:
   - diane-arbus
 venue: gracefield-arts-centre
 images:
-  - ../../media/2023AC55881-0.jpg
-  - ../../media/2023AC55894-0crop.jpg
+  - ../../media/diane-arbus-dumfries-gracefield-arts-centre-2023-04-29-0.jpg
+  - ../../media/diane-arbus-dumfries-gracefield-arts-centre-2023-04-29-1.jpg
 startdate: 2023-04-29
 enddate: 2023-07-29
 town: Dumfries

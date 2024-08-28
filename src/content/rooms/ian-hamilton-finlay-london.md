@@ -4,7 +4,7 @@ artists:
   - ian-hamilton-finlay
 venue: tate-britain
 images:
-  - ../../media/ARF-web-IHF-Tate-Britain-2009.001.jpg
+  - ../../media/ian-hamilton-finlay-london-tate-britain-2009-03-02-0.jpg
 startdate: 2009-03-02
 enddate: 2010-01-30
 town: London

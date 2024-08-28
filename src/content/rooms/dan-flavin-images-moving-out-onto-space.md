@@ -4,9 +4,9 @@ artists:
   - dan-flavin
 venue: tate-st-ives
 images:
-  - ../../media/Dan-Flavin-03.jpg
-  - ../../media/Dan-Flavin-05.jpg
-  - ../../media/Dan-Flavin-08.jpg
+  - ../../media/dan-flavin-images-moving-out-onto-space-tate-st-ives-2015-05-23-0.jpg
+  - ../../media/dan-flavin-images-moving-out-onto-space-tate-st-ives-2015-05-23-1.jpg
+  - ../../media/dan-flavin-images-moving-out-onto-space-tate-st-ives-2015-05-23-2.jpg
 startdate: 2015-05-23
 enddate: 2015-09-27
 town: "Dan Flavin: Images Moving Out Onto Space"

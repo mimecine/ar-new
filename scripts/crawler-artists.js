@@ -86,9 +86,10 @@ c.queue([
                         const inventorynumber = $(el)
                           .attr("about")
                           .split("/")
-                          .pop();
+                          .pop().toUpperCase();
                         const title = $("h2", el).first().text();
                         const info = $("p.info", el).first().text();
+                        const year = info.replace(/,.*$/, "");
                         const credit = $(".details p", el)
                           .map(function () {
                             return $(this).text();
@@ -102,6 +103,7 @@ c.queue([
                           category,
                           title,
                           info,
+                          year,
                           credit,
                           src,
                         };

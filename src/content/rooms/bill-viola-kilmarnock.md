@@ -4,9 +4,9 @@ artists:
   - bill-viola
 venue: dick-institute
 images:
-  - ../../media/871.jpg
-  - ../../media/3880-0.jpg
-  - ../../media/ARF-web-BV-Dick-Institute-2011.021.jpg
+  - ../../media/bill-viola-kilmarnock-dick-institute-2011-09-03-0.jpg
+  - ../../media/bill-viola-kilmarnock-dick-institute-2011-09-03-1.jpg
+  - ../../media/bill-viola-kilmarnock-dick-institute-2011-09-03-2.jpg
 startdate: 2011-09-03
 enddate: 2011-12-24
 town: Kilmarnock

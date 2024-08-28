@@ -1,107 +1,117 @@
 ---
 title: Gilbert & George
-featuredImage: ../../media/AR00504.jpg
+featuredImage: ../../media/gilbert-george-featured.jpg
 resources: []
 works:
-  - inventorynumber: ar00170
+  - inventorynumber: AR00170
     category: Works on paper
     title: George the Cunt and Gilbert the Shit, 1969
     info: 1969,  2 photographs, colour on printed paper,  305 x 484mm
+    year: "1969"
     credit: |-
       © Gilbert & George
 
       AR00170
-    src: ../../media/AR00170.jpg
-  - inventorynumber: ar00172
+    src: ../../media/gilbert-george-ar00170-george-the-cunt-and-gilbert-the-shit-1969.jpg
+  - inventorynumber: AR00172
     category: Works on paper
     title: Crusade, 1980
     info: 1980,  16 hand-coloured photographs, gelatin silver print on paper on
       board,  2424 x 2020 x 25 mm
+    year: "1980"
     credit: |-
       © Gilbert & George
 
       AR00172
-    src: ../../media/AR00172.jpg
-  - inventorynumber: ar00171
+    src: ../../media/gilbert-george-ar00172-crusade-1980.jpg
+  - inventorynumber: AR00171
     category: Works on paper
     title: Fallen Leaves, 1980
     info: 1980, 16 hand-coloured photographs, gelatin silver print on paper on
       board,  2424 x 2020 x 25 mm
+    year: "1980"
     credit: |-
       © Gilbert & George
 
       AR00171
-    src: ../../media/AR00171.jpg
-  - inventorynumber: ar00173
+    src: ../../media/gilbert-george-ar00171-fallen-leaves-1980.jpg
+  - inventorynumber: AR00173
     category: Works on paper
     title: Hunger, 1982
     info: 1982,  16 photographs, gelatin silver print on paper with dye on paper
       mounted onto board,  2424 x 2020 x 25 mm
+    year: "1982"
     credit: |-
       © Gilbert & George
 
       AR00173
-    src: ../../media/AR00173.jpg
-  - inventorynumber: ar00174
+    src: ../../media/gilbert-george-ar00173-hunger-1982.jpg
+  - inventorynumber: AR00174
     category: Works on paper
     title: Thirst, 1982
     info: 1982,  16 photographs, gelatin silver print on paper with dye on paper
       mounted onto board,  2424 x 2020 x 25 mm
+    year: "1982"
     credit: |-
       © Gilbert & George
 
       AR00174
-    src: ../../media/AR00174.jpg
-  - inventorynumber: ar00505
+    src: ../../media/gilbert-george-ar00174-thirst-1982.jpg
+  - inventorynumber: AR00505
     category: Works on paper
     title: Existers, 1984
     info: 1984,  28 photographs, gelatin silver print on paper with dye and silver
       leaf on board,  2410 x 3510 mm
+    year: "1984"
     credit: |-
       © Gilbert & George
 
       AR00505
-    src: ../../media/AR00505.jpg
-  - inventorynumber: al00195
+    src: ../../media/gilbert-george-ar00505-existers-1984.jpg
+  - inventorynumber: AL00195
     category: Works on paper
     title: Dead Heads, 1989
     info: "1989,  Photographs, colour, 20 parts  3380 x 3550 mm; each: 845 x 710 x
       23 mm"
+    year: "1989"
     credit: |-
       © Gilbert & George
 
       AL00195
-    src: ../../media/AL00195-9.jpg
-  - inventorynumber: ar00504
+    src: ../../media/gilbert-george-al00195-dead-heads-1989.jpg
+  - inventorynumber: AR00504
     category: Works on paper
     title: Light Headed, 1991
     info: 1991,  15 hand-coloured photographs, gelatin silver print on paper on
       board,  2535 x 3550 x 23 mm
+    year: "1991"
     credit: |-
       © Gilbert & George
 
       AR00504
-    src: ../../media/AR00504.jpg
-  - inventorynumber: ar00176
+    src: ../../media/gilbert-george-ar00504-light-headed-1991.jpg
+  - inventorynumber: AR00176
     category: Works on paper
     title: Faith Drop, 1991
     info: 1991,  15 photographs, gelatin silver print on paper with dye on paper
       mounted onto board,  2538 x 3540 x 25 mm
+    year: "1991"
     credit: |-
       © Gilbert & George
 
       AR00176
-    src: ../../media/AR00176.jpg
-  - inventorynumber: ar00175
+    src: ../../media/gilbert-george-ar00176-faith-drop-1991.jpg
+  - inventorynumber: AR00175
     category: Works on paper
     title: Family Tree, 1991
     info: 1991,  18 photographs, gelatin silver print on paper with dye on paper
       onto board,  2538 x 3540 x 25 mm
+    year: "1991"
     credit: |-
       © Gilbert & George
 
       AR00175
-    src: ../../media/AR00175.jpg
+    src: ../../media/gilbert-george-ar00175-family-tree-1991.jpg
 
 ---
 

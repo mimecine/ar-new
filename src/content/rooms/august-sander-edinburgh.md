@@ -4,10 +4,10 @@ artists:
   - august-sander
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/110225Sanders-27.jpeg
-  - ../../media/110225Sanders-06.jpeg
-  - ../../media/110225Sanders-57.jpeg
-  - ../../media/110225Sanders-88.jpeg
+  - ../../media/august-sander-edinburgh-scottish-national-gallery-of-modern-art-2011-02-12-0.jpeg
+  - ../../media/august-sander-edinburgh-scottish-national-gallery-of-modern-art-2011-02-12-1.jpeg
+  - ../../media/august-sander-edinburgh-scottish-national-gallery-of-modern-art-2011-02-12-2.jpeg
+  - ../../media/august-sander-edinburgh-scottish-national-gallery-of-modern-art-2011-02-12-3.jpeg
 startdate: 2011-02-12
 enddate: 2011-07-10
 town: Edinburgh

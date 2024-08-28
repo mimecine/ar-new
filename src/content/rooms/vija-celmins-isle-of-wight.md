@@ -4,12 +4,12 @@ artists:
   - vija-celmins
 venue: quay-arts
 images:
-  - ../../media/Celmins-QuayArts-0016.jpg
-  - ../../media/Celmins-QuayArts-0003.jpg
-  - ../../media/Celmins-QuayArts-0012.jpg
-  - ../../media/Celmins-QuayArts-0004.jpg
-  - ../../media/Celmins-QuayArts-0005.jpg
-  - ../../media/Celmins-QuayArts-0008.jpg
+  - ../../media/vija-celmins-isle-of-wight-quay-arts-2019-09-21-0.jpg
+  - ../../media/vija-celmins-isle-of-wight-quay-arts-2019-09-21-1.jpg
+  - ../../media/vija-celmins-isle-of-wight-quay-arts-2019-09-21-2.jpg
+  - ../../media/vija-celmins-isle-of-wight-quay-arts-2019-09-21-3.jpg
+  - ../../media/vija-celmins-isle-of-wight-quay-arts-2019-09-21-4.jpg
+  - ../../media/vija-celmins-isle-of-wight-quay-arts-2019-09-21-5.jpg
 startdate: 2019-09-21
 enddate: 2019-11-16
 town: Isle of Wight

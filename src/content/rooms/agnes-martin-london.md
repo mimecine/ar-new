@@ -4,9 +4,9 @@ artists:
   - agnes-martin
 venue: tate-modern
 images:
-  - ../../media/Agnes-Martin-01.jpg
-  - ../../media/Agnes-Martin-03.jpg
-  - ../../media/Agnes-Martin-07.jpg
+  - ../../media/agnes-martin-london-tate-modern-2010-07-19-0.jpg
+  - ../../media/agnes-martin-london-tate-modern-2010-07-19-1.jpg
+  - ../../media/agnes-martin-london-tate-modern-2010-07-19-2.jpg
 startdate: 2010-07-19
 enddate: 2011-03-01
 town: London

@@ -4,12 +4,12 @@ artists:
   - louise-bourgeois
 venue: tate-liverpool
 images:
-  - ../../media/TL-Install-Louise-Borgeouis-Artist-Rooms-2021-20.jpg
-  - ../../media/TL-Install-Louise-Borgeouis-Artist-Rooms-2021-04.jpg
-  - ../../media/TL-Install-Louise-Borgeouis-Artist-Rooms-2021-11.jpg
-  - ../../media/TL-Install-Louise-Borgeouis-Artist-Rooms-2021-18.jpg
-  - ../../media/TL-Install-Louise-Borgeouis-Artist-Rooms-2021-22.jpg
-  - ../../media/TL-Install-Louise-Borgeouis-Artist-Rooms-2021-26.jpg
+  - ../../media/louise-bourgeois-liverpool-tate-liverpool-2021-07-24-0.jpg
+  - ../../media/louise-bourgeois-liverpool-tate-liverpool-2021-07-24-1.jpg
+  - ../../media/louise-bourgeois-liverpool-tate-liverpool-2021-07-24-2.jpg
+  - ../../media/louise-bourgeois-liverpool-tate-liverpool-2021-07-24-3.jpg
+  - ../../media/louise-bourgeois-liverpool-tate-liverpool-2021-07-24-4.jpg
+  - ../../media/louise-bourgeois-liverpool-tate-liverpool-2021-07-24-5.jpg
 startdate: 2021-07-24
 enddate: 2022-01-16
 town: Liverpool

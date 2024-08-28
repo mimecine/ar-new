@@ -1,39 +1,43 @@
 ---
 title: Jenny Holzer
-featuredImage: ../../media/BLUE-PURPLE-TILT-2007.jpg
+featuredImage: ../../media/jenny-holzer-featured.jpg
 resources: []
 works:
-  - inventorynumber: ar00082
+  - inventorynumber: AR00082
     category: Sculpture
     title: Blue Purple Tilt, 2007
     info: "2007,  7 light-emitting diode columns,  each: 4190 x 136 x 136 mm"
+    year: "2007"
     credit: |-
       © 2014 Jenny Holzer, member/Artists Rights Society (ARS), New York
 
       AR00082
-    src: ../../media/AR00082-0.jpg
-  - inventorynumber: ar00083
+    src: ../../media/jenny-holzer-ar00082-blue-purple-tilt-2007.jpg
+  - inventorynumber: AR00083
     category: Painting
     title: Protect Protect, 2007
     info: 2007,  Oil paint on canvas,  2011 x 2600 x 40 mm
+    year: "2007"
     credit: |-
       © 2014 Jenny Holzer, member/Artists Rights Society (ARS), New York
 
       AR00083
-    src: ../../media/AR00083.jpg
-  - inventorynumber: ar00084
+    src: ../../media/jenny-holzer-ar00083-protect-protect-2007.jpg
+  - inventorynumber: AR00084
     category: Painting
     title: Shape the Battlespace, 2007
     info: 2007,  Oil paint on canvas,  2011 x 2602 x 40 mm
+    year: "2007"
     credit: |-
       © 2014 Jenny Holzer, member/Artists Rights Society (ARS), New York
 
       AR0084
-    src: ../../media/AR00084.jpg
-  - inventorynumber: ar01132
+    src: ../../media/jenny-holzer-ar00084-shape-the-battlespace-2007.jpg
+  - inventorynumber: AR01132
     category: Painting
     title: Phase I...Running Start Shape the Battlespace pewter, 2007
     info: 2007,  Oil paint on canvas,  2011 x 2600 x 40 mm
+    year: "2007"
     credit: >-
       © 2014 Jenny Holzer, member/Artists Rights Society (ARS), New York
 
@@ -44,11 +48,12 @@ works:
 
 
       AR01132
-    src: ../../media/AR01132.jpg
-  - inventorynumber: ar01133
+    src: ../../media/jenny-holzer-ar01132-phase-irunning-start-shape-the-battlespace-pewter-2007.jpg
+  - inventorynumber: AR01133
     category: Painting
     title: Phase II...Running Start Decisive Operations violet, 2007
     info: 2007,  Oil paint on canvas,  2011 x 2600 x 40 mm
+    year: "2007"
     credit: >-
       © 2014 Jenny Holzer, member/Artists Rights Society (ARS), New York
 
@@ -59,11 +64,12 @@ works:
 
 
       AR01133
-    src: ../../media/AR01133.jpg
-  - inventorynumber: ar01134
+    src: ../../media/jenny-holzer-ar01133-phase-iirunning-start-decisive-operations-violet-2007.jpg
+  - inventorynumber: AR01134
     category: Painting
     title: Force at End of Phase III (If Required) violet, 2007
     info: 2007,  Oil paint on canvas,  2011 x 2600 x 40 mm
+    year: "2007"
     credit: >-
       © 2014 Jenny Holzer, member/Artists Rights Society (ARS), New York
 
@@ -74,11 +80,12 @@ works:
 
 
       AR01134
-    src: ../../media/AR01134.jpg
-  - inventorynumber: ar01135
+    src: ../../media/jenny-holzer-ar01134-force-at-end-of-phase-iii-if-required-violet-2007.jpg
+  - inventorynumber: AR01135
     category: Painting
     title: Phase III - Decisive Operations violet, 2007
     info: 2007,  Oil paint on canvas,  2011 x 2600 x 40 mm
+    year: "2007"
     credit: >-
       © 2014 Jenny Holzer, member/Artists Rights Society (ARS), New York
 
@@ -89,43 +96,47 @@ works:
 
 
       AR01135
-    src: ../../media/AR01135.jpg
-  - inventorynumber: ar01271
+    src: ../../media/jenny-holzer-ar01135-phase-iii-decisive-operations-violet-2007.jpg
+  - inventorynumber: AR01271
     category: Sculpture
     title: They're Breathing
     info: 2017, Rosso francia marble, 43 × 134 × 51 cm
+    year: "2017"
     credit: |-
       © Jenny Holzer
 
       AR01271
-    src: ../../media/JHO-31025-THEY-RE-BREATHING-A-min.jpg
-  - inventorynumber: ar01269
+    src: ../../media/jenny-holzer-ar01271-theyre-breathing.jpg
+  - inventorynumber: AR01269
     category: Sculpture
     title: You Enemy
     info: 2017, Rosso francia marble, 43 × 134 × 51 cm
+    year: "2017"
     credit: |-
       © Jenny Holzer
 
       AR01269
-    src: ../../media/JHO-31023-YOU-ENEMY-02-min-0.JPG
-  - inventorynumber: ar01270
+    src: ../../media/jenny-holzer-ar01269-you-enemy.JPG
+  - inventorynumber: AR01270
     category: Sculpture
     title: I Placed My Feet
     info: 2017, Rosso francia marble, 43 × 134 × 51 cm
+    year: "2017"
     credit: |-
       © Jenny Holzer
 
       AR01270
-    src: ../../media/JHO-31026-I-PLACED-MY-FEET-A-min.jpg
-  - inventorynumber: ar01268
+    src: ../../media/jenny-holzer-ar01270-i-placed-my-feet.jpg
+  - inventorynumber: AR01268
     category: Sculpture
     title: The Beauty Worshipped
     info: 2017, Rosso francia marble, 43 × 134 × 51 cm
+    year: "2017"
     credit: |-
       © Jenny Holzer
 
       AR01268
-    src: ../../media/JHO-31024-THE-BEAUTY-WORSHIPPED-03-min.JPG
+    src: ../../media/jenny-holzer-ar01268-the-beauty-worshipped.JPG
 
 ---
 

@@ -1,17 +1,18 @@
 ---
 title: Sol LeWitt
-featuredImage: ../../media/CF060672.jpg
+featuredImage: ../../media/sol-lewitt-featured.jpg
 resources: []
 works:
-  - inventorynumber: ar00165
+  - inventorynumber: AR00165
     category: Sculpture
     title: "Wall Drawing #1136, 2004"
     info: 2004,  Paint on wall,  Overall display dimensions variable
+    year: "2004"
     credit: |-
       © Sol LeWitt
 
       AR00165
-    src: ../../media/AR00165.jpg
+    src: ../../media/sol-lewitt-ar00165-wall-drawing-1136-2004.jpg
 
 ---
 

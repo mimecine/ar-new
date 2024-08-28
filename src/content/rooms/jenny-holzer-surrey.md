@@ -4,9 +4,9 @@ artists:
   - jenny-holzer
 venue: the-lightbox
 images:
-  - ../../media/BLUE-PURPLE-TILT-2007.jpg
-  - ../../media/DSC06938.JPG
-  - ../../media/Picture-011.jpg
+  - ../../media/jenny-holzer-surrey-the-lightbox-2009-11-14-0.jpg
+  - ../../media/jenny-holzer-surrey-the-lightbox-2009-11-14-1.JPG
+  - ../../media/jenny-holzer-surrey-the-lightbox-2009-11-14-2.jpg
 startdate: 2009-11-14
 enddate: 2010-02-14
 town: Surrey

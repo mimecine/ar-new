@@ -1,18 +1,19 @@
 ---
 title: Robert Ryman
-featuredImage: ../../media/AR00343.jpg
+featuredImage: ../../media/robert-ryman-featured.jpg
 resources: []
 works:
-  - inventorynumber: ar00343
+  - inventorynumber: AR00343
     category: Painting
     title: Untitled, Bruxelles,  1974
     info: "1974,  Polymer paint on vinyl mounted on composite board, each: 536 x 536
       mm"
+    year: "1974"
     credit: |-
       © Robert Ryman
 
       AR00343
-    src: ../../media/AR00343.jpg
+    src: ../../media/robert-ryman-ar00343-untitled-bruxelles-1974.jpg
 
 ---
 

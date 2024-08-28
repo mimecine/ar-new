@@ -4,11 +4,11 @@ artists:
   - andy-warhol
 venue: graves-gallery
 images:
-  - ../../media/Artist-Rooms-Warhol-2012-2-.JPG
-  - ../../media/Artist-Rooms-Warhol-2012-4-.JPG
-  - ../../media/Artist-Rooms-Warhol-2012-5-.JPG
-  - ../../media/Artist-Rooms-Warhol-2012-17-.JPG
-  - ../../media/Artist-Rooms-Warhol-2012-20-.JPG
+  - ../../media/andy-warhol-sheffield-graves-gallery-2012-04-11-0.JPG
+  - ../../media/andy-warhol-sheffield-graves-gallery-2012-04-11-1.JPG
+  - ../../media/andy-warhol-sheffield-graves-gallery-2012-04-11-2.JPG
+  - ../../media/andy-warhol-sheffield-graves-gallery-2012-04-11-3.JPG
+  - ../../media/andy-warhol-sheffield-graves-gallery-2012-04-11-4.JPG
 startdate: 2012-04-11
 enddate: 2012-12-01
 town: Sheffield

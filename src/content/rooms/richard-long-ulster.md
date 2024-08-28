@@ -4,10 +4,10 @@ artists:
   - richard-long
 venue: ulster-museum
 images:
-  - ../../media/all-pictures-april-2011-414.jpg
-  - ../../media/all-pictures-april-2011-420.jpg
-  - ../../media/in007133.jpg
-  - ../../media/in007142.jpg
+  - ../../media/richard-long-ulster-ulster-museum-2010-09-24-0.jpg
+  - ../../media/richard-long-ulster-ulster-museum-2010-09-24-1.jpg
+  - ../../media/richard-long-ulster-ulster-museum-2010-09-24-2.jpg
+  - ../../media/richard-long-ulster-ulster-museum-2010-09-24-3.jpg
 startdate: 2010-09-24
 enddate: 2011-02-27
 town: Ulster

@@ -4,11 +4,11 @@ artists:
   - robert-mapplethorpe
 venue: clydebank-museum-and-art-gallery
 images:
-  - ../../media/Mapplethorpe-06.jpg
-  - ../../media/Mapplethorpe-22.jpg
-  - ../../media/Mapplethorpe-26.jpg
-  - ../../media/Mapplethorpe-15.jpg
-  - ../../media/Mapplethorpe-03.jpg
+  - ../../media/robert-mapplethorpe-clydebank-clydebank-museum-and-art-gallery-2015-02-28-0.jpg
+  - ../../media/robert-mapplethorpe-clydebank-clydebank-museum-and-art-gallery-2015-02-28-1.jpg
+  - ../../media/robert-mapplethorpe-clydebank-clydebank-museum-and-art-gallery-2015-02-28-2.jpg
+  - ../../media/robert-mapplethorpe-clydebank-clydebank-museum-and-art-gallery-2015-02-28-3.jpg
+  - ../../media/robert-mapplethorpe-clydebank-clydebank-museum-and-art-gallery-2015-02-28-4.jpg
 startdate: 2015-02-28
 enddate: 2015-05-23
 town: Clydebank

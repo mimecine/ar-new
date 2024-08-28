@@ -1,79 +1,86 @@
 ---
 title: Robert Therrien
-featuredImage: ../../media/AR00166.jpg
+featuredImage: ../../media/robert-therrien-featured.jpg
 resources:
   - /sites/default/files/downloads/RobertTherrienlearningresource.pdf
 works:
-  - inventorynumber: ar00168
+  - inventorynumber: AR00168
     category: Works on paper
     title: No Title (Scrubbrush panel),  1997
     info: 1997,  Photograph, black and white, on paper with chalk, graphite and
       paint on hardboard,  1209 x 1611 x 65 mm
+    year: "1997"
     credit: |-
       © Robert Therrien
 
       AR00168
-    src: ../../media/AR00168.jpg
-  - inventorynumber: ar00702
+    src: ../../media/robert-therrien-ar00168-no-title-scrubbrush-panel-1997.jpg
+  - inventorynumber: AR00702
     category: Installation
     title: RED ROOM, 2000-7
     info: "2000-7,  Organ, radio, telephone, wall clock, grill, kitchen utensils,
       clothes, shoes and other materials,  displayed (internal room dimensions):
       2438 x 1956 x 2667 mm"
+    year: 2000-7
     credit: |-
       © Robert Therrien
 
       AR00702
-    src: ../../media/AR00702.jpg
-  - inventorynumber: ar00166
+    src: ../../media/robert-therrien-ar00702-red-room-2000-7.jpg
+  - inventorynumber: AR00166
     category: Sculpture
     title: No Title (Table and Four Chairs), 2003
     info: "2003,  Aluminium, steel, wood and plastic,  8920 x 14850 mm each (chair):
       2860 x 1430 x 1730 mm table: 2690 x 4685 x 3620 mm"
+    year: "2003"
     credit: |-
       © Robert Therrien
 
       AR00166
-    src: ../../media/AR00166.jpg
-  - inventorynumber: ar00169
+    src: ../../media/robert-therrien-ar00166-no-title-table-and-four-chairs-2003.jpg
+  - inventorynumber: AR00169
     category: Works on paper
     title: No Title (Large Red Brick Drawing), 2003
     info: 2003,  Print on paper,  606 x 700 mm
+    year: "2003"
     credit: |-
       © Robert Therrien
 
       AR00169
-    src: ../../media/AR00169.jpg
-  - inventorynumber: ar00167
+    src: ../../media/robert-therrien-ar00169-no-title-large-red-brick-drawing-2003.jpg
+  - inventorynumber: AR00167
     category: Sculpture
     title: No Title (Oil Can),  2004
     info: 2004,  Stainless steel, 2460 x 530 mm
+    year: "2004"
     credit: |-
       © Robert Therrien
 
       AR00167
-    src: ../../media/AR00167.jpg
-  - inventorynumber: ar01128
+    src: ../../media/robert-therrien-ar00167-no-title-oil-can-2004.jpg
+  - inventorynumber: AR01128
     category: Sculpture
     title: No Title (Beard Cart),  2004
     info: 2004,  Steel plate, stainless steel, plastic, wood, rubber, human hair and
       plaster,  2235 x 1162 x 1221 mm
+    year: "2004"
     credit: |-
       © Robert Therrien
 
       Presented by the artist, 2010
 
       AR00128
-    src: ../../media/AR01128.jpg
-  - inventorynumber: ar01127
+    src: ../../media/robert-therrien-ar01128-no-title-beard-cart-2004.jpg
+  - inventorynumber: AR01127
     category: Sculpture
     title: No Title (Stacked Plates),  2010
     info: 2010, Plastic,  2390 x 1370 x 1370 mm
+    year: "2010"
     credit: |-
       © Robert Therrien
 
       AR01127
-    src: ../../media/AR01127.jpg
+    src: ../../media/robert-therrien-ar01127-no-title-stacked-plates-2010.jpg
 
 ---
 

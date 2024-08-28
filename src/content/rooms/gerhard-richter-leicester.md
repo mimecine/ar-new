@@ -4,10 +4,10 @@ artists:
   - gerhard-richter
 venue: new-walk-museum-and-art-gallery
 images:
-  - ../../media/48Portraits-01.jpg
-  - ../../media/Abstraktes-Paintings-x2.jpg
-  - ../../media/Exhibition-Shot-01.jpg
-  - ../../media/Exhibition-Shot-02.jpg
+  - ../../media/gerhard-richter-leicester-new-walk-museum-art-gallery-2010-10-02-0.jpg
+  - ../../media/gerhard-richter-leicester-new-walk-museum-art-gallery-2010-10-02-1.jpg
+  - ../../media/gerhard-richter-leicester-new-walk-museum-art-gallery-2010-10-02-2.jpg
+  - ../../media/gerhard-richter-leicester-new-walk-museum-art-gallery-2010-10-02-3.jpg
 startdate: 2010-10-02
 enddate: 2011-02-27
 town: Leicester

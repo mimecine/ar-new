@@ -4,10 +4,10 @@ artists:
   - gilbert-george
 venue: royal-albert-memorial-museum-and-art-gallery
 images:
-  - ../../media/Gilbert-George-02.jpg
-  - ../../media/Gilbert-George-04.jpg
-  - ../../media/Gilbert-George-08.jpg
-  - ../../media/Gilbert-George-13.jpg
+  - ../../media/gilbert-and-george-exeter-royal-albert-memorial-museum-art-gallery-2014-03-22-0.jpg
+  - ../../media/gilbert-and-george-exeter-royal-albert-memorial-museum-art-gallery-2014-03-22-1.jpg
+  - ../../media/gilbert-and-george-exeter-royal-albert-memorial-museum-art-gallery-2014-03-22-2.jpg
+  - ../../media/gilbert-and-george-exeter-royal-albert-memorial-museum-art-gallery-2014-03-22-3.jpg
 startdate: 2014-03-22
 enddate: 2014-06-22
 town: Exeter

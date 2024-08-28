@@ -4,9 +4,9 @@ artists:
   - anselm-kiefer
 venue: baltic-centre-for-contemporary-art
 images:
-  - ../../media/BALTIC-Anselm-Kiefer-064.jpg
-  - ../../media/BALTIC-Anselm-Kiefer-068-e.jpg
-  - ../../media/BALTIC-Anselm-Kiefer-072.jpg
+  - ../../media/anselm-kiefer-gateshead-baltic-centre-for-contemporary-art-2010-10-07-0.jpg
+  - ../../media/anselm-kiefer-gateshead-baltic-centre-for-contemporary-art-2010-10-07-1.jpg
+  - ../../media/anselm-kiefer-gateshead-baltic-centre-for-contemporary-art-2010-10-07-2.jpg
 startdate: 2010-10-07
 enddate: 2011-01-16
 town: Gateshead

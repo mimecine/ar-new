@@ -4,10 +4,10 @@ artists:
   - bill-viola
 venue: the-point
 images:
-  - ../../media/AR-Viola-01.jpg
-  - ../../media/AR-Viola-06.jpg
-  - ../../media/AR-Viola-16.jpg
-  - ../../media/AR-Viola-07.jpg
+  - ../../media/bill-viola-doncaster-the-point-2018-09-19-0.jpg
+  - ../../media/bill-viola-doncaster-the-point-2018-09-19-1.jpg
+  - ../../media/bill-viola-doncaster-the-point-2018-09-19-2.jpg
+  - ../../media/bill-viola-doncaster-the-point-2018-09-19-3.jpg
 startdate: 2018-09-19
 enddate: 2018-12-15
 town: Doncaster

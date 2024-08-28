@@ -4,14 +4,14 @@ artists:
   - andy-warhol
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/2018AB92645.jpg
-  - ../../media/2018AB92652.jpg
-  - ../../media/2018AB92662.jpg
-  - ../../media/2018AB92666.jpg
-  - ../../media/2018AB92669.jpg
-  - ../../media/2018AB92671.jpg
-  - ../../media/2018AB92682.jpg
-  - ../../media/2018AB92736.jpg
+  - ../../media/andy-warhol-and-eduardo-paolozzi-i-want-to-be-a-machine-edinburgh-scottish-national-gallery-of-modern-art-2018-11-17-0.jpg
+  - ../../media/andy-warhol-and-eduardo-paolozzi-i-want-to-be-a-machine-edinburgh-scottish-national-gallery-of-modern-art-2018-11-17-1.jpg
+  - ../../media/andy-warhol-and-eduardo-paolozzi-i-want-to-be-a-machine-edinburgh-scottish-national-gallery-of-modern-art-2018-11-17-2.jpg
+  - ../../media/andy-warhol-and-eduardo-paolozzi-i-want-to-be-a-machine-edinburgh-scottish-national-gallery-of-modern-art-2018-11-17-3.jpg
+  - ../../media/andy-warhol-and-eduardo-paolozzi-i-want-to-be-a-machine-edinburgh-scottish-national-gallery-of-modern-art-2018-11-17-4.jpg
+  - ../../media/andy-warhol-and-eduardo-paolozzi-i-want-to-be-a-machine-edinburgh-scottish-national-gallery-of-modern-art-2018-11-17-5.jpg
+  - ../../media/andy-warhol-and-eduardo-paolozzi-i-want-to-be-a-machine-edinburgh-scottish-national-gallery-of-modern-art-2018-11-17-6.jpg
+  - ../../media/andy-warhol-and-eduardo-paolozzi-i-want-to-be-a-machine-edinburgh-scottish-national-gallery-of-modern-art-2018-11-17-7.jpg
 startdate: 2018-11-17
 enddate: 2019-06-02
 town: Edinburgh

@@ -4,8 +4,8 @@ artists:
   - ed-ruscha
 venue: the-swanson-gallery
 images:
-  - ../../media/Ruscha-in-thurso-002.jpg
-  - ../../media/Ruscha-in-thurso-005-1-.jpg
+  - ../../media/ed-ruscha-thurso-the-swanson-gallery-2011-01-15-0.jpg
+  - ../../media/ed-ruscha-thurso-the-swanson-gallery-2011-01-15-1.jpg
 startdate: 2011-01-15
 enddate: 2011-02-26
 town: Thurso

@@ -4,11 +4,11 @@ artists:
   - vija-celmins
 venue: dunoon-burgh-hall
 images:
-  - ../../media/Dunoon10.jpg
-  - ../../media/Dunoon16.jpg
-  - ../../media/Dunoon17.jpg
-  - ../../media/Dunoon33.jpg
-  - ../../media/Dunoon36.jpg
+  - ../../media/vija-celmins-dunoon-dunoon-burgh-hall-2024-05-17-0.jpg
+  - ../../media/vija-celmins-dunoon-dunoon-burgh-hall-2024-05-17-1.jpg
+  - ../../media/vija-celmins-dunoon-dunoon-burgh-hall-2024-05-17-2.jpg
+  - ../../media/vija-celmins-dunoon-dunoon-burgh-hall-2024-05-17-3.jpg
+  - ../../media/vija-celmins-dunoon-dunoon-burgh-hall-2024-05-17-4.jpg
 startdate: 2024-05-17
 enddate: 2024-08-18
 town: Dunoon

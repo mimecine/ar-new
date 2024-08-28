@@ -4,11 +4,11 @@ artists:
   - bill-viola
 venue: royal-albert-memorial-museum-and-art-gallery
 images:
-  - ../../media/Artist-Rooms-Bill-Viola-2024-03.jpeg
-  - ../../media/Artist-Rooms-Bill-Viola-2024-06.jpeg
-  - ../../media/Artist-Rooms-Bill-Viola-2024-08.jpeg
-  - ../../media/Artist-Rooms-Bill-Viola-2024-09.jpeg
-  - ../../media/Artist-Rooms-Bill-Viola-2024-10.jpeg
+  - ../../media/bill-viola-exeter-royal-albert-memorial-museum-art-gallery-2024-01-27-0.jpeg
+  - ../../media/bill-viola-exeter-royal-albert-memorial-museum-art-gallery-2024-01-27-1.jpeg
+  - ../../media/bill-viola-exeter-royal-albert-memorial-museum-art-gallery-2024-01-27-2.jpeg
+  - ../../media/bill-viola-exeter-royal-albert-memorial-museum-art-gallery-2024-01-27-3.jpeg
+  - ../../media/bill-viola-exeter-royal-albert-memorial-museum-art-gallery-2024-01-27-4.jpeg
 startdate: 2024-01-27
 enddate: 2024-06-02
 town: Exeter
