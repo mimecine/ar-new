@@ -134,8 +134,10 @@ const films = all_films.filter((film) =>
                       src={work.src}
                       alt={work.title}
                       title={work.title}
-                      widths={[360, 1600]}
+                      widths={[360]}
                       sizes={`(max-width: 360px) 360px, ${work.src.width}px`}
+                      x-widths={[360, 1600]}
+                      x-sizes={`(max-width: 360px) 360px, ${work.src.width}px`}
                       data-inventorynumber={work.inventorynumber}
                       data-info={work.info}
                       data-credit={work.credit}

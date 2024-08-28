@@ -141,8 +141,10 @@ for (let i = 0; i < grid_tail_size.length; i++) {
               src={image}
               alt={room.data.title}
               title={room.data.title}
-              widths={[360, 1600]}
+              widths={[360]}
               sizes={`(max-width: 360px) 360px, ${image.width}px`}
+              x-widths={[360, 1600]}
+              x-sizes={`(max-width: 360px) 360px, ${image.width}px`}
               class="object-contain max-w-full max-h-full "
             />
           </div>
