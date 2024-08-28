@@ -4,11 +4,11 @@ artists:
   - andy-warhol
 venue: ferens-art-gallery
 images:
-  - ../../media/andy-warhol-hull-ferens-art-gallery-2012-06-02-0.jpg
-  - ../../media/andy-warhol-hull-ferens-art-gallery-2012-06-02-1.jpg
-  - ../../media/andy-warhol-hull-ferens-art-gallery-2012-06-02-2.jpg
-  - ../../media/andy-warhol-hull-ferens-art-gallery-2012-06-02-3.jpg
-  - ../../media/andy-warhol-hull-ferens-art-gallery-2012-06-02-4.jpg
+  - ../../media/andy-warhol-hull-ferens-art-gallery-2012-06-02-0.webp
+  - ../../media/andy-warhol-hull-ferens-art-gallery-2012-06-02-1.webp
+  - ../../media/andy-warhol-hull-ferens-art-gallery-2012-06-02-2.webp
+  - ../../media/andy-warhol-hull-ferens-art-gallery-2012-06-02-3.webp
+  - ../../media/andy-warhol-hull-ferens-art-gallery-2012-06-02-4.webp
 startdate: 2012-06-02
 enddate: 2013-01-13
 town: Hull

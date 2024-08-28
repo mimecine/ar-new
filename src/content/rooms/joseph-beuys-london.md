@@ -4,10 +4,10 @@ artists:
   - joseph-beuys
 venue: tate-modern
 images:
-  - ../../media/joseph-beuys-london-tate-modern-2018-11-19-0.jpg
-  - ../../media/joseph-beuys-london-tate-modern-2018-11-19-1.jpg
-  - ../../media/joseph-beuys-london-tate-modern-2018-11-19-2.jpg
-  - ../../media/joseph-beuys-london-tate-modern-2018-11-19-3.jpg
+  - ../../media/joseph-beuys-london-tate-modern-2018-11-19-0.webp
+  - ../../media/joseph-beuys-london-tate-modern-2018-11-19-1.webp
+  - ../../media/joseph-beuys-london-tate-modern-2018-11-19-2.webp
+  - ../../media/joseph-beuys-london-tate-modern-2018-11-19-3.webp
 startdate: 2018-11-19
 enddate: 2021-03-10
 town: London

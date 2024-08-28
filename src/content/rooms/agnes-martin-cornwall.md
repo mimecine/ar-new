@@ -4,10 +4,10 @@ artists:
   - agnes-martin
 venue: tate-st-ives
 images:
-  - ../../media/agnes-martin-cornwall-tate-st-ives-2011-05-14-0.jpg
-  - ../../media/agnes-martin-cornwall-tate-st-ives-2011-05-14-1.jpg
-  - ../../media/agnes-martin-cornwall-tate-st-ives-2011-05-14-2.jpg
-  - ../../media/agnes-martin-cornwall-tate-st-ives-2011-05-14-3.jpg
+  - ../../media/agnes-martin-cornwall-tate-st-ives-2011-05-14-0.webp
+  - ../../media/agnes-martin-cornwall-tate-st-ives-2011-05-14-1.webp
+  - ../../media/agnes-martin-cornwall-tate-st-ives-2011-05-14-2.webp
+  - ../../media/agnes-martin-cornwall-tate-st-ives-2011-05-14-3.webp
 startdate: 2011-05-14
 enddate: 2011-09-25
 town: Cornwall

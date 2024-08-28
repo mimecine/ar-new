@@ -4,12 +4,12 @@ artists:
   - roy-lichtenstein
 venue: tate-modern
 images:
-  - ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-0.jpeg
-  - ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-1.jpeg
-  - ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-2.jpeg
-  - ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-3.jpeg
-  - ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-4.jpeg
-  - ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-5.jpeg
+  - ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-0.webp
+  - ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-1.webp
+  - ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-2.webp
+  - ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-3.webp
+  - ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-4.webp
+  - ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-5.webp
 startdate: 2023-04-24
 enddate: 2024-12-01
 town: London

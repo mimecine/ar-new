@@ -4,10 +4,10 @@ artists:
   - agnes-martin
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/agnes-martin-edinburgh-scottish-national-gallery-of-modern-art-2009-08-06-0.jpg
-  - ../../media/agnes-martin-edinburgh-scottish-national-gallery-of-modern-art-2009-08-06-1.jpg
-  - ../../media/agnes-martin-edinburgh-scottish-national-gallery-of-modern-art-2009-08-06-2.jpg
-  - ../../media/agnes-martin-edinburgh-scottish-national-gallery-of-modern-art-2009-08-06-3.jpg
+  - ../../media/agnes-martin-edinburgh-scottish-national-gallery-of-modern-art-2009-08-06-0.webp
+  - ../../media/agnes-martin-edinburgh-scottish-national-gallery-of-modern-art-2009-08-06-1.webp
+  - ../../media/agnes-martin-edinburgh-scottish-national-gallery-of-modern-art-2009-08-06-2.webp
+  - ../../media/agnes-martin-edinburgh-scottish-national-gallery-of-modern-art-2009-08-06-3.webp
 startdate: 2009-08-06
 enddate: 2010-03-14
 town: Edinburgh

@@ -4,9 +4,9 @@ artists:
   - ron-mueck
 venue: manchester-art-gallery
 images:
-  - ../../media/ron-mueck-manchester-manchester-art-gallery-2010-02-04-0.JPG
-  - ../../media/ron-mueck-manchester-manchester-art-gallery-2010-02-04-1.JPG
-  - ../../media/ron-mueck-manchester-manchester-art-gallery-2010-02-04-2.JPG
+  - ../../media/ron-mueck-manchester-manchester-art-gallery-2010-02-04-0.webp
+  - ../../media/ron-mueck-manchester-manchester-art-gallery-2010-02-04-1.webp
+  - ../../media/ron-mueck-manchester-manchester-art-gallery-2010-02-04-2.webp
 startdate: 2010-02-04
 enddate: 2010-04-11
 town: Manchester

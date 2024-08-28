@@ -4,11 +4,11 @@ artists:
   - roy-lichtenstein
 venue: grundy-art-gallery
 images:
-  - ../../media/roy-lichtenstein-blackpool-grundy-art-gallery-2019-07-13-0.jpg
-  - ../../media/roy-lichtenstein-blackpool-grundy-art-gallery-2019-07-13-1.jpg
-  - ../../media/roy-lichtenstein-blackpool-grundy-art-gallery-2019-07-13-2.jpg
-  - ../../media/roy-lichtenstein-blackpool-grundy-art-gallery-2019-07-13-3.jpg
-  - ../../media/roy-lichtenstein-blackpool-grundy-art-gallery-2019-07-13-4.jpg
+  - ../../media/roy-lichtenstein-blackpool-grundy-art-gallery-2019-07-13-0.webp
+  - ../../media/roy-lichtenstein-blackpool-grundy-art-gallery-2019-07-13-1.webp
+  - ../../media/roy-lichtenstein-blackpool-grundy-art-gallery-2019-07-13-2.webp
+  - ../../media/roy-lichtenstein-blackpool-grundy-art-gallery-2019-07-13-3.webp
+  - ../../media/roy-lichtenstein-blackpool-grundy-art-gallery-2019-07-13-4.webp
 startdate: 2019-07-13
 enddate: 2019-09-07
 town: Blackpool

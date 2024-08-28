@@ -4,12 +4,12 @@ artists:
   - agnes-martin
 venue: tate-modern
 images:
-  - ../../media/agnes-martin-london-tate-modern-2021-12-06-0.jpg
-  - ../../media/agnes-martin-london-tate-modern-2021-12-06-1.jpg
-  - ../../media/agnes-martin-london-tate-modern-2021-12-06-2.jpg
-  - ../../media/agnes-martin-london-tate-modern-2021-12-06-3.jpg
-  - ../../media/agnes-martin-london-tate-modern-2021-12-06-4.jpg
-  - ../../media/agnes-martin-london-tate-modern-2021-12-06-5.jpg
+  - ../../media/agnes-martin-london-tate-modern-2021-12-06-0.webp
+  - ../../media/agnes-martin-london-tate-modern-2021-12-06-1.webp
+  - ../../media/agnes-martin-london-tate-modern-2021-12-06-2.webp
+  - ../../media/agnes-martin-london-tate-modern-2021-12-06-3.webp
+  - ../../media/agnes-martin-london-tate-modern-2021-12-06-4.webp
+  - ../../media/agnes-martin-london-tate-modern-2021-12-06-5.webp
 startdate: 2021-12-06
 enddate: 2024-09-22
 town: London

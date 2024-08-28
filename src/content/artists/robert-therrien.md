@@ -1,6 +1,6 @@
 ---
 title: Robert Therrien
-featuredImage: ../../media/robert-therrien-featured.jpg
+featuredImage: ../../media/robert-therrien-featured.webp
 resources:
   - /sites/default/files/downloads/RobertTherrienlearningresource.pdf
 works:
@@ -14,7 +14,7 @@ works:
       © Robert Therrien
 
       AR00168
-    src: ../../media/robert-therrien-ar00168-no-title-scrubbrush-panel-1997.jpg
+    src: ../../media/robert-therrien-ar00168-no-title-scrubbrush-panel-1997.webp
   - inventorynumber: AR00702
     category: Installation
     title: RED ROOM, 2000-7
@@ -26,7 +26,7 @@ works:
       © Robert Therrien
 
       AR00702
-    src: ../../media/robert-therrien-ar00702-red-room-2000-7.jpg
+    src: ../../media/robert-therrien-ar00702-red-room-2000-7.webp
   - inventorynumber: AR00166
     category: Sculpture
     title: No Title (Table and Four Chairs), 2003
@@ -37,7 +37,7 @@ works:
       © Robert Therrien
 
       AR00166
-    src: ../../media/robert-therrien-ar00166-no-title-table-and-four-chairs-2003.jpg
+    src: ../../media/robert-therrien-ar00166-no-title-table-and-four-chairs-2003.webp
   - inventorynumber: AR00169
     category: Works on paper
     title: No Title (Large Red Brick Drawing), 2003
@@ -47,7 +47,7 @@ works:
       © Robert Therrien
 
       AR00169
-    src: ../../media/robert-therrien-ar00169-no-title-large-red-brick-drawing-2003.jpg
+    src: ../../media/robert-therrien-ar00169-no-title-large-red-brick-drawing-2003.webp
   - inventorynumber: AR00167
     category: Sculpture
     title: No Title (Oil Can),  2004
@@ -57,7 +57,7 @@ works:
       © Robert Therrien
 
       AR00167
-    src: ../../media/robert-therrien-ar00167-no-title-oil-can-2004.jpg
+    src: ../../media/robert-therrien-ar00167-no-title-oil-can-2004.webp
   - inventorynumber: AR01128
     category: Sculpture
     title: No Title (Beard Cart),  2004
@@ -70,7 +70,7 @@ works:
       Presented by the artist, 2010
 
       AR00128
-    src: ../../media/robert-therrien-ar01128-no-title-beard-cart-2004.jpg
+    src: ../../media/robert-therrien-ar01128-no-title-beard-cart-2004.webp
   - inventorynumber: AR01127
     category: Sculpture
     title: No Title (Stacked Plates),  2010
@@ -80,7 +80,7 @@ works:
       © Robert Therrien
 
       AR01127
-    src: ../../media/robert-therrien-ar01127-no-title-stacked-plates-2010.jpg
+    src: ../../media/robert-therrien-ar01127-no-title-stacked-plates-2010.webp
 
 ---
 

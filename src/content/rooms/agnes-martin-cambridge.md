@@ -4,10 +4,10 @@ artists:
   - agnes-martin
 venue: kettles-yard
 images:
-  - ../../media/agnes-martin-cambridge-kettles-yard-2010-05-15-0.jpeg
-  - ../../media/agnes-martin-cambridge-kettles-yard-2010-05-15-1.jpeg
-  - ../../media/agnes-martin-cambridge-kettles-yard-2010-05-15-2.jpeg
-  - ../../media/agnes-martin-cambridge-kettles-yard-2010-05-15-3.jpeg
+  - ../../media/agnes-martin-cambridge-kettles-yard-2010-05-15-0.webp
+  - ../../media/agnes-martin-cambridge-kettles-yard-2010-05-15-1.webp
+  - ../../media/agnes-martin-cambridge-kettles-yard-2010-05-15-2.webp
+  - ../../media/agnes-martin-cambridge-kettles-yard-2010-05-15-3.webp
 startdate: 2010-05-15
 enddate: 2010-07-11
 town: Cambridge

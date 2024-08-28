@@ -4,11 +4,11 @@ artists:
   - louise-bourgeois
 venue: kettles-yard
 images:
-  - ../../media/louise-bourgeois-cambridge-kettles-yard-2019-01-22-0.jpg
-  - ../../media/louise-bourgeois-cambridge-kettles-yard-2019-01-22-1.jpg
-  - ../../media/louise-bourgeois-cambridge-kettles-yard-2019-01-22-2.jpg
-  - ../../media/louise-bourgeois-cambridge-kettles-yard-2019-01-22-3.jpg
-  - ../../media/louise-bourgeois-cambridge-kettles-yard-2019-01-22-4.jpg
+  - ../../media/louise-bourgeois-cambridge-kettles-yard-2019-01-22-0.webp
+  - ../../media/louise-bourgeois-cambridge-kettles-yard-2019-01-22-1.webp
+  - ../../media/louise-bourgeois-cambridge-kettles-yard-2019-01-22-2.webp
+  - ../../media/louise-bourgeois-cambridge-kettles-yard-2019-01-22-3.webp
+  - ../../media/louise-bourgeois-cambridge-kettles-yard-2019-01-22-4.webp
 startdate: 2019-01-22
 enddate: 2019-03-31
 town: Cambridge

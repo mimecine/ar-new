@@ -1,6 +1,6 @@
 ---
 title: Diane Arbus
-featuredImage: ../../media/diane-arbus-featured.jpg
+featuredImage: ../../media/diane-arbus-featured.webp
 resources: []
 works: []
 

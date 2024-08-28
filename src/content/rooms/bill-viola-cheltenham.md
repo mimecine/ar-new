@@ -4,10 +4,10 @@ artists:
   - bill-viola
 venue: the-wilson
 images:
-  - ../../media/bill-viola-cheltenham-the-wilson-2015-10-03-0.jpg
-  - ../../media/bill-viola-cheltenham-the-wilson-2015-10-03-1.jpg
-  - ../../media/bill-viola-cheltenham-the-wilson-2015-10-03-2.jpg
-  - ../../media/bill-viola-cheltenham-the-wilson-2015-10-03-3.jpg
+  - ../../media/bill-viola-cheltenham-the-wilson-2015-10-03-0.webp
+  - ../../media/bill-viola-cheltenham-the-wilson-2015-10-03-1.webp
+  - ../../media/bill-viola-cheltenham-the-wilson-2015-10-03-2.webp
+  - ../../media/bill-viola-cheltenham-the-wilson-2015-10-03-3.webp
 startdate: 2015-10-03
 enddate: 2016-02-07
 town: Cheltenham

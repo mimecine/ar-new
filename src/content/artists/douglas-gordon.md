@@ -1,6 +1,6 @@
 ---
 title: Douglas Gordon
-featuredImage: ../../media/douglas-gordon-featured.jpg
+featuredImage: ../../media/douglas-gordon-featured.webp
 resources: []
 works:
   - inventorynumber: AL00339
@@ -15,7 +15,7 @@ works:
       © Douglas Gordon
 
       AL00339 (on long term loan from Artist Rooms Foundation, 2012)
-    src: ../../media/douglas-gordon-al00339-play-dead-real-time-2003.jpg
+    src: ../../media/douglas-gordon-al00339-play-dead-real-time-2003.webp
   - inventorynumber: AR01179
     category: Installation
     title: A Divided Self (I and II), 1996
@@ -27,7 +27,7 @@ works:
       © Studio lost but found / VG Bild-Kunst, Bonn 2014
 
       AR01179
-    src: ../../media/douglas-gordon-ar01179-a-divided-self-i-and-ii-1996.jpg
+    src: ../../media/douglas-gordon-ar01179-a-divided-self-i-and-ii-1996.webp
   - inventorynumber: AR01180
     category: Installation
     title: Film Noir (Fly), 1996
@@ -42,7 +42,7 @@ works:
       AR01180
 
        
-    src: ../../media/douglas-gordon-ar01180-film-noir-fly-1996.jpg
+    src: ../../media/douglas-gordon-ar01180-film-noir-fly-1996.webp
   - inventorynumber: AR01178
     category: Installation
     title: Looking Down With His Black, Black, Ee, 2008
@@ -52,7 +52,7 @@ works:
       © Douglas Gordon
 
       AR01178
-    src: ../../media/douglas-gordon-ar01178-looking-down-with-his-black-black-ee-2008.jpg
+    src: ../../media/douglas-gordon-ar01178-looking-down-with-his-black-black-ee-2008.webp
 
 ---
 

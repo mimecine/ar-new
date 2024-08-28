@@ -1,6 +1,6 @@
 ---
 title: Anselm Kiefer
-featuredImage: ../../media/anselm-kiefer-featured.jpg
+featuredImage: ../../media/anselm-kiefer-featured.webp
 resources: []
 works:
   - inventorynumber: AR00613
@@ -13,7 +13,7 @@ works:
       © Anselm Kiefer
 
       AR00613
-    src: ../../media/anselm-kiefer-ar00613-palette-1981.jpg
+    src: ../../media/anselm-kiefer-ar00613-palette-1981.webp
   - inventorynumber: AR00041
     category: Installation
     title: Cette obscure clarté qui tombe des étoiles, 1999
@@ -25,7 +25,7 @@ works:
       © Anselm Kiefer
 
       AR00041
-    src: ../../media/anselm-kiefer-ar00041-cette-obscure-clart-qui-tombe-des-toiles-1999.jpg
+    src: ../../media/anselm-kiefer-ar00041-cette-obscure-clart-qui-tombe-des-toiles-1999.webp
   - inventorynumber: AR00038
     category: Installation
     title: Palmsonntag, 2006
@@ -37,7 +37,7 @@ works:
       © Anselm Kiefer
 
       AR00038
-    src: ../../media/anselm-kiefer-ar00038-palmsonntag-2006.jpg
+    src: ../../media/anselm-kiefer-ar00038-palmsonntag-2006.webp
   - inventorynumber: AR01171
     category: Works on paper
     title: Heroische Sinnbilder, 1969
@@ -47,7 +47,7 @@ works:
       © Anselm Kiefer
 
       AR01171
-    src: ../../media/anselm-kiefer-ar01171-heroische-sinnbilder-1969.jpg
+    src: ../../media/anselm-kiefer-ar01171-heroische-sinnbilder-1969.webp
   - inventorynumber: AR01172
     category: Works on paper
     title: Heroische Sinnbilder, 1969
@@ -57,7 +57,7 @@ works:
       © Anselm Kiefer
 
       AR01172
-    src: ../../media/anselm-kiefer-ar01172-heroische-sinnbilder-1969.jpg
+    src: ../../media/anselm-kiefer-ar01172-heroische-sinnbilder-1969.webp
   - inventorynumber: AR01173
     category: Works on paper
     title: Heroische Sinnbilder, 1969
@@ -67,7 +67,7 @@ works:
       © Anselm Kiefer
 
       AR01173
-    src: ../../media/anselm-kiefer-ar01173-heroische-sinnbilder-1969.jpg
+    src: ../../media/anselm-kiefer-ar01173-heroische-sinnbilder-1969.webp
   - inventorynumber: AR01174
     category: Works on paper
     title: Heroische Sinnbilder, 1969
@@ -77,7 +77,7 @@ works:
       © Anselm Kiefer
 
       AR01174
-    src: ../../media/anselm-kiefer-ar01174-heroische-sinnbilder-1969.jpg
+    src: ../../media/anselm-kiefer-ar01174-heroische-sinnbilder-1969.webp
   - inventorynumber: AR01162
     category: Works on paper
     title: Heroische Sinnbilder, 1969
@@ -87,7 +87,7 @@ works:
       © Anselm Kiefer
 
       AR01162
-    src: ../../media/anselm-kiefer-ar01162-heroische-sinnbilder-1969.jpg
+    src: ../../media/anselm-kiefer-ar01162-heroische-sinnbilder-1969.webp
   - inventorynumber: AR01163
     category: Works on paper
     title: Heroische Sinnbilder, 1969
@@ -97,7 +97,7 @@ works:
       © Anselm Kiefer
 
       AR01163
-    src: ../../media/anselm-kiefer-ar01163-heroische-sinnbilder-1969.jpg
+    src: ../../media/anselm-kiefer-ar01163-heroische-sinnbilder-1969.webp
   - inventorynumber: AR01164
     category: Works on paper
     title: Über uns der gestirnte Himmel, in uns das moralische Gesetz, 1969/2010
@@ -107,7 +107,7 @@ works:
       © Anselm Kiefer
 
       AR01164
-    src: ../../media/anselm-kiefer-ar01164-ber-uns-der-gestirnte-himmel-in-uns-das-moralische-gesetz-19692010.jpg
+    src: ../../media/anselm-kiefer-ar01164-ber-uns-der-gestirnte-himmel-in-uns-das-moralische-gesetz-19692010.webp
   - inventorynumber: AR01165
     category: Works on paper
     title: Das moralische Gesetz in uns, der gestimte Himmel über uns, 1969/2010
@@ -117,7 +117,7 @@ works:
       © Anselm Kiefer
 
       AR01165
-    src: ../../media/anselm-kiefer-ar01165-das-moralische-gesetz-in-uns-der-gestimte-himmel-ber-uns-19692010.jpg
+    src: ../../media/anselm-kiefer-ar01165-das-moralische-gesetz-in-uns-der-gestimte-himmel-ber-uns-19692010.webp
   - inventorynumber: AR00036
     category: Painting
     title: Urd, Werdandi, Skuld (Die Nornen), 1983
@@ -128,7 +128,7 @@ works:
       © Anselm Kiefer
 
       AR00036
-    src: ../../media/anselm-kiefer-ar00036-urd-werdandi-skuld-die-nornen-1983.jpg
+    src: ../../media/anselm-kiefer-ar00036-urd-werdandi-skuld-die-nornen-1983.webp
   - inventorynumber: AR00037
     category: Painting
     title: Man Under a Pyramid, 1996
@@ -139,7 +139,7 @@ works:
       © Anselm Kiefer
 
       AR00037
-    src: ../../media/anselm-kiefer-ar00037-man-under-a-pyramid-1996.jpg
+    src: ../../media/anselm-kiefer-ar00037-man-under-a-pyramid-1996.webp
   - inventorynumber: AR01166
     category: Works on paper
     title: Sternenfall, 2006
@@ -149,7 +149,7 @@ works:
       © Anselm Kiefer
 
       AR01166
-    src: ../../media/anselm-kiefer-ar01166-sternenfall-2006.jpg
+    src: ../../media/anselm-kiefer-ar01166-sternenfall-2006.webp
   - inventorynumber: AR01167
     category: Works on paper
     title: Ohne Titel, 2006
@@ -159,7 +159,7 @@ works:
       © Anselm Kiefer
 
       AR01167
-    src: ../../media/anselm-kiefer-ar01167-ohne-titel-2006.jpg
+    src: ../../media/anselm-kiefer-ar01167-ohne-titel-2006.webp
   - inventorynumber: AR01168
     category: Works on paper
     title: Johannis Nacht gafallene Bilder, 2006
@@ -169,7 +169,7 @@ works:
       © Anselm Kiefer
 
       AR01168
-    src: ../../media/anselm-kiefer-ar01168-johannis-nacht-gafallene-bilder-2006.jpg
+    src: ../../media/anselm-kiefer-ar01168-johannis-nacht-gafallene-bilder-2006.webp
   - inventorynumber: AR01221
     category: Works on paper
     title: Ödipus auf Kollonos, 2006
@@ -179,7 +179,7 @@ works:
       © Anselm Kiefer
 
       AR1221
-    src: ../../media/anselm-kiefer-ar01221-dipus-auf-kollonos-2006.jpg
+    src: ../../media/anselm-kiefer-ar01221-dipus-auf-kollonos-2006.webp
   - inventorynumber: AR01170
     category: Works on paper
     title: Johannislogen, 2007
@@ -189,7 +189,7 @@ works:
       © Anselm Kiefer
 
       AR01170
-    src: ../../media/anselm-kiefer-ar01170-johannislogen-2007.jpg
+    src: ../../media/anselm-kiefer-ar01170-johannislogen-2007.webp
   - inventorynumber: AR01169
     category: Works on paper
     title: Ohne Titel, 2007
@@ -199,7 +199,7 @@ works:
       © Anselm Kiefer
 
       AR01169
-    src: ../../media/anselm-kiefer-ar01169-ohne-titel-2007.jpg
+    src: ../../media/anselm-kiefer-ar01169-ohne-titel-2007.webp
   - inventorynumber: AR01222
     category: Works on paper
     title: Winter ade, Scheiden tut weh doch dein Scheiden macht dass mein Herze
@@ -210,7 +210,7 @@ works:
       © Anselm Kiefer
 
       AR01222
-    src: ../../media/anselm-kiefer-ar01222-winter-ade-scheiden-tut-weh-doch-dein-scheiden-macht-dass-mein-herze-lacht-2010.jpg
+    src: ../../media/anselm-kiefer-ar01222-winter-ade-scheiden-tut-weh-doch-dein-scheiden-macht-dass-mein-herze-lacht-2010.webp
   - inventorynumber: AR01223
     category: Works on paper
     title: Amfortas, 2010
@@ -220,7 +220,7 @@ works:
       © Anselm Kiefer
 
       AR1223
-    src: ../../media/anselm-kiefer-ar01223-amfortas-2010.jpg
+    src: ../../media/anselm-kiefer-ar01223-amfortas-2010.webp
   - inventorynumber: AR01224
     category: Works on paper
     title: Abstand windschiefer geraden, 2010
@@ -230,7 +230,7 @@ works:
       © Anselm Kiefer
 
       AR1224
-    src: ../../media/anselm-kiefer-ar01224-abstand-windschiefer-geraden-2010.jpg
+    src: ../../media/anselm-kiefer-ar01224-abstand-windschiefer-geraden-2010.webp
   - inventorynumber: AR01225
     category: Works on paper
     title: Schneeschmelze im Odenwald Winter ade, Scheiden tut..., 2010
@@ -240,7 +240,7 @@ works:
       © Anselm Kiefer
 
       AR01225
-    src: ../../media/anselm-kiefer-ar01225-schneeschmelze-im-odenwald-winter-ade-scheiden-tut-2010.jpg
+    src: ../../media/anselm-kiefer-ar01225-schneeschmelze-im-odenwald-winter-ade-scheiden-tut-2010.webp
   - inventorynumber: AR01175
     category: Works on paper
     title: Hortus philosophorum, 2010
@@ -251,7 +251,7 @@ works:
       © Anselm Kiefer
 
       AR01175
-    src: ../../media/anselm-kiefer-ar01175-hortus-philosophorum-2010.jpg
+    src: ../../media/anselm-kiefer-ar01175-hortus-philosophorum-2010.webp
 
 ---
 

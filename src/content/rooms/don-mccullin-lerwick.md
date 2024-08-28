@@ -4,9 +4,9 @@ artists:
   - don-mccullin
 venue: shetland-museum-and-archives
 images:
-  - ../../media/don-mccullin-lerwick-shetland-museum-archives-2014-11-29-0.jpg
-  - ../../media/don-mccullin-lerwick-shetland-museum-archives-2014-11-29-1.jpg
-  - ../../media/don-mccullin-lerwick-shetland-museum-archives-2014-11-29-2.jpg
+  - ../../media/don-mccullin-lerwick-shetland-museum-archives-2014-11-29-0.webp
+  - ../../media/don-mccullin-lerwick-shetland-museum-archives-2014-11-29-1.webp
+  - ../../media/don-mccullin-lerwick-shetland-museum-archives-2014-11-29-2.webp
 startdate: 2014-11-29
 enddate: 2015-02-22
 town: Lerwick

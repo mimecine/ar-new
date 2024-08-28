@@ -4,10 +4,10 @@ artists:
   - joseph-beuys
 venue: worcester-city-art-gallery
 images:
-  - ../../media/joseph-beuys-worcester-worcester-city-art-gallery-2013-10-26-0.jpg
-  - ../../media/joseph-beuys-worcester-worcester-city-art-gallery-2013-10-26-1.jpg
-  - ../../media/joseph-beuys-worcester-worcester-city-art-gallery-2013-10-26-2.jpg
-  - ../../media/joseph-beuys-worcester-worcester-city-art-gallery-2013-10-26-3.jpg
+  - ../../media/joseph-beuys-worcester-worcester-city-art-gallery-2013-10-26-0.webp
+  - ../../media/joseph-beuys-worcester-worcester-city-art-gallery-2013-10-26-1.webp
+  - ../../media/joseph-beuys-worcester-worcester-city-art-gallery-2013-10-26-2.webp
+  - ../../media/joseph-beuys-worcester-worcester-city-art-gallery-2013-10-26-3.webp
 startdate: 2013-10-26
 enddate: 2014-02-01
 town: Worcester

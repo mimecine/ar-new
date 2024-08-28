@@ -4,11 +4,11 @@ artists:
   - gilbert-george
 venue: tate-britain
 images:
-  - ../../media/gilbert-george-london-tate-britain-2009-04-20-0.jpg
-  - ../../media/gilbert-george-london-tate-britain-2009-04-20-1.jpg
-  - ../../media/gilbert-george-london-tate-britain-2009-04-20-2.jpg
-  - ../../media/gilbert-george-london-tate-britain-2009-04-20-3.jpg
-  - ../../media/gilbert-george-london-tate-britain-2009-04-20-4.jpg
+  - ../../media/gilbert-george-london-tate-britain-2009-04-20-0.webp
+  - ../../media/gilbert-george-london-tate-britain-2009-04-20-1.webp
+  - ../../media/gilbert-george-london-tate-britain-2009-04-20-2.webp
+  - ../../media/gilbert-george-london-tate-britain-2009-04-20-3.webp
+  - ../../media/gilbert-george-london-tate-britain-2009-04-20-4.webp
 startdate: 2009-04-20
 enddate: 2010-01-01
 town: London

@@ -5,12 +5,12 @@ artists:
   - cy-twombly
 venue: the-piers-art-centre
 images:
-  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-0.jpg
-  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-1.jpg
-  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-2.jpg
-  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-3.jpg
-  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-4.jpg
-  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-5.jpg
+  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-0.webp
+  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-1.webp
+  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-2.webp
+  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-3.webp
+  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-4.webp
+  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-5.webp
 startdate: 2011-03-26
 enddate: 2011-06-04
 town: Stromness

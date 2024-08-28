@@ -1,6 +1,6 @@
 ---
 title: Damien Hirst
-featuredImage: ../../media/damien-hirst-featured.jpg
+featuredImage: ../../media/damien-hirst-featured.webp
 resources: []
 works:
   - inventorynumber: AR00617
@@ -15,7 +15,7 @@ works:
 
 
       ​AR00617
-    src: ../../media/damien-hirst-ar00617-with-dead-head-1991.jpg
+    src: ../../media/damien-hirst-ar00617-with-dead-head-1991.webp
   - inventorynumber: AR00498
     category: Painting
     title: Controlled Substance Key Painting, 1994
@@ -28,7 +28,7 @@ works:
 
 
       AR00498
-    src: ../../media/damien-hirst-ar00498-controlled-substance-key-painting-1994.jpg
+    src: ../../media/damien-hirst-ar00498-controlled-substance-key-painting-1994.webp
   - inventorynumber: AR00499
     category: Sculpture
     title: Away from the Flock, 1994
@@ -42,7 +42,7 @@ works:
 
 
       AR00499
-    src: ../../media/damien-hirst-ar00499-away-from-the-flock-1994.jpg
+    src: ../../media/damien-hirst-ar00499-away-from-the-flock-1994.webp
   - inventorynumber: AR00045
     category: Painting
     title: Monument to the Living and the Dead, 2006
@@ -55,7 +55,7 @@ works:
 
 
       AR00045
-    src: ../../media/damien-hirst-ar00045-monument-to-the-living-and-the-dead-2006.jpg
+    src: ../../media/damien-hirst-ar00045-monument-to-the-living-and-the-dead-2006.webp
   - inventorynumber: AL00220
     category: Sculpture
     title: Pain Killers, 2004
@@ -67,7 +67,7 @@ works:
 
 
       AL00220
-    src: ../../media/damien-hirst-al00220-pain-killers-2004.jpg
+    src: ../../media/damien-hirst-al00220-pain-killers-2004.webp
   - inventorynumber: AL00221
     category: Sculpture
     title: The Pharmacist's Creed, 1997-8
@@ -80,7 +80,7 @@ works:
 
 
       AL00221
-    src: ../../media/damien-hirst-al00221-the-pharmacists-creed-1997-8.jpg
+    src: ../../media/damien-hirst-al00221-the-pharmacists-creed-1997-8.webp
   - inventorynumber: AL00222
     category: Painting
     title: Grey Periodic Table, 1997-2004
@@ -90,7 +90,7 @@ works:
       © Damien Hirst and Science Ltd. All rights reserved, DACS 2015.
 
       AL00222
-    src: ../../media/damien-hirst-al00222-grey-periodic-table-1997-2004.jpg
+    src: ../../media/damien-hirst-al00222-grey-periodic-table-1997-2004.webp
   - inventorynumber: AR00500
     category: Sculpture
     title: Trinity - Pharmacology, Physiology, Pathology, 2000
@@ -104,7 +104,7 @@ works:
 
 
       AR00500
-    src: ../../media/damien-hirst-ar00500-trinity-pharmacology-physiology-pathology-2000.jpg
+    src: ../../media/damien-hirst-ar00500-trinity-pharmacology-physiology-pathology-2000.webp
 
 ---
 

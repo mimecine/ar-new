@@ -1,6 +1,6 @@
 ---
 title: Agnes Martin
-featuredImage: ../../media/agnes-martin-featured.jpg
+featuredImage: ../../media/agnes-martin-featured.webp
 resources: []
 works:
   - inventorynumber: AR00177
@@ -12,7 +12,7 @@ works:
       © Estate of Agnes Martin / DACS, 2014
 
       AR00177
-    src: ../../media/agnes-martin-ar00177-untitled-5-1994.jpg
+    src: ../../media/agnes-martin-ar00177-untitled-5-1994.webp
   - inventorynumber: AL00194
     category: Painting
     title: "Untitled #10, 1995"
@@ -22,7 +22,7 @@ works:
       © Estate of Agnes Martin / DACS, 2014
 
       AL00194
-    src: ../../media/agnes-martin-al00194-untitled-10-1995.jpg
+    src: ../../media/agnes-martin-al00194-untitled-10-1995.webp
   - inventorynumber: AR00179
     category: Painting
     title: Happy Holiday, 1999
@@ -32,7 +32,7 @@ works:
       © Estate of Agnes Martin / DACS, 2014
 
       AR00179
-    src: ../../media/agnes-martin-ar00179-happy-holiday-1999.jpg
+    src: ../../media/agnes-martin-ar00179-happy-holiday-1999.webp
   - inventorynumber: AL00193
     category: Painting
     title: I Love the Whole World, 1999
@@ -42,7 +42,7 @@ works:
       © Estate of Agnes Martin / DACS, 2014
 
       AL00193
-    src: ../../media/agnes-martin-al00193-i-love-the-whole-world-1999.jpg
+    src: ../../media/agnes-martin-al00193-i-love-the-whole-world-1999.webp
   - inventorynumber: AR00178
     category: Painting
     title: Faraway Love, 1999
@@ -52,7 +52,7 @@ works:
       © Estate of Agnes Martin / DACS, 2014
 
       AR00178
-    src: ../../media/agnes-martin-ar00178-faraway-love-1999.jpg
+    src: ../../media/agnes-martin-ar00178-faraway-love-1999.webp
   - inventorynumber: T01866
     category: Painting
     title: Morning, 1965
@@ -62,7 +62,7 @@ works:
       © Estate of Agnes Martin / DACS, 2014
 
       T01866
-    src: ../../media/agnes-martin-t01866-morning-1965.jpg
+    src: ../../media/agnes-martin-t01866-morning-1965.webp
   - inventorynumber: T13717
     category: Painting
     title: "Untitled #5, 1991"
@@ -72,7 +72,7 @@ works:
       © Estate of Agnes Martin / DACS, 2014
 
       T13717
-    src: ../../media/agnes-martin-t13717-untitled-5-1991.jpg
+    src: ../../media/agnes-martin-t13717-untitled-5-1991.webp
 
 ---
 

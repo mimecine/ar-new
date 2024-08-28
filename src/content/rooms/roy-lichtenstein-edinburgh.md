@@ -4,10 +4,10 @@ artists:
   - roy-lichtenstein
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/roy-lichtenstein-edinburgh-scottish-national-gallery-of-modern-art-2015-03-14-0.jpg
-  - ../../media/roy-lichtenstein-edinburgh-scottish-national-gallery-of-modern-art-2015-03-14-1.jpg
-  - ../../media/roy-lichtenstein-edinburgh-scottish-national-gallery-of-modern-art-2015-03-14-2.jpg
-  - ../../media/roy-lichtenstein-edinburgh-scottish-national-gallery-of-modern-art-2015-03-14-3.jpg
+  - ../../media/roy-lichtenstein-edinburgh-scottish-national-gallery-of-modern-art-2015-03-14-0.webp
+  - ../../media/roy-lichtenstein-edinburgh-scottish-national-gallery-of-modern-art-2015-03-14-1.webp
+  - ../../media/roy-lichtenstein-edinburgh-scottish-national-gallery-of-modern-art-2015-03-14-2.webp
+  - ../../media/roy-lichtenstein-edinburgh-scottish-national-gallery-of-modern-art-2015-03-14-3.webp
 startdate: 2015-03-14
 enddate: 2016-01-10
 town: Edinburgh

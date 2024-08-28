@@ -4,9 +4,9 @@ artists:
   - ian-hamilton-finlay
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/ian-hamilton-finlay-edinburgh-scottish-national-gallery-of-modern-art-2010-03-27-0.jpg
-  - ../../media/ian-hamilton-finlay-edinburgh-scottish-national-gallery-of-modern-art-2010-03-27-1.jpg
-  - ../../media/ian-hamilton-finlay-edinburgh-scottish-national-gallery-of-modern-art-2010-03-27-2.jpg
+  - ../../media/ian-hamilton-finlay-edinburgh-scottish-national-gallery-of-modern-art-2010-03-27-0.webp
+  - ../../media/ian-hamilton-finlay-edinburgh-scottish-national-gallery-of-modern-art-2010-03-27-1.webp
+  - ../../media/ian-hamilton-finlay-edinburgh-scottish-national-gallery-of-modern-art-2010-03-27-2.webp
 startdate: 2010-03-27
 enddate: 2010-06-04
 town: Edinburgh

@@ -4,11 +4,11 @@ artists:
   - damien-hirst
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/damien-hirst-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-0.jpg
-  - ../../media/damien-hirst-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-1.jpg
-  - ../../media/damien-hirst-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-2.jpg
-  - ../../media/damien-hirst-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-3.jpg
-  - ../../media/damien-hirst-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-4.jpg
+  - ../../media/damien-hirst-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-0.webp
+  - ../../media/damien-hirst-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-1.webp
+  - ../../media/damien-hirst-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-2.webp
+  - ../../media/damien-hirst-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-3.webp
+  - ../../media/damien-hirst-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-4.webp
 startdate: 2009-03-14
 enddate: 2009-11-08
 town: Edinburgh

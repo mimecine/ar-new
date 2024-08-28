@@ -4,11 +4,11 @@ artists:
   - andy-warhol
 venue: tate-modern
 images:
-  - ../../media/andy-warhol-london-tate-modern-2009-04-03-0.jpg
-  - ../../media/andy-warhol-london-tate-modern-2009-04-03-1.jpg
-  - ../../media/andy-warhol-london-tate-modern-2009-04-03-2.jpg
-  - ../../media/andy-warhol-london-tate-modern-2009-04-03-3.jpg
-  - ../../media/andy-warhol-london-tate-modern-2009-04-03-4.jpg
+  - ../../media/andy-warhol-london-tate-modern-2009-04-03-0.webp
+  - ../../media/andy-warhol-london-tate-modern-2009-04-03-1.webp
+  - ../../media/andy-warhol-london-tate-modern-2009-04-03-2.webp
+  - ../../media/andy-warhol-london-tate-modern-2009-04-03-3.webp
+  - ../../media/andy-warhol-london-tate-modern-2009-04-03-4.webp
 startdate: 2009-04-03
 enddate: 2010-03-14
 town: London

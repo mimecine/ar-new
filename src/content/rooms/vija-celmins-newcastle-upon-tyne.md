@@ -4,11 +4,11 @@ artists:
   - vija-celmins
 venue: hatton-gallery
 images:
-  - ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-0.jpeg
-  - ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-1.jpeg
-  - ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-2.jpeg
-  - ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-3.jpeg
-  - ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-4.jpeg
+  - ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-0.webp
+  - ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-1.webp
+  - ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-2.webp
+  - ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-3.webp
+  - ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-4.webp
 startdate: 2024-02-03
 enddate: 2024-05-04
 town: Newcastle upon Tyne

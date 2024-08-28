@@ -4,10 +4,10 @@ artists:
   - diane-arbus
 venue: aberdeen-art-gallery
 images:
-  - ../../media/diane-arbus-aberdeen-aberdeen-art-gallery-2011-02-05-0.JPG
-  - ../../media/diane-arbus-aberdeen-aberdeen-art-gallery-2011-02-05-1.JPG
-  - ../../media/diane-arbus-aberdeen-aberdeen-art-gallery-2011-02-05-2.JPG
-  - ../../media/diane-arbus-aberdeen-aberdeen-art-gallery-2011-02-05-3.JPG
+  - ../../media/diane-arbus-aberdeen-aberdeen-art-gallery-2011-02-05-0.webp
+  - ../../media/diane-arbus-aberdeen-aberdeen-art-gallery-2011-02-05-1.webp
+  - ../../media/diane-arbus-aberdeen-aberdeen-art-gallery-2011-02-05-2.webp
+  - ../../media/diane-arbus-aberdeen-aberdeen-art-gallery-2011-02-05-3.webp
 startdate: 2011-02-05
 enddate: 2011-04-09
 town: Aberdeen

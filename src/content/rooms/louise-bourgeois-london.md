@@ -4,11 +4,11 @@ artists:
   - louise-bourgeois
 venue: tate-modern
 images:
-  - ../../media/louise-bourgeois-london-tate-modern-2016-06-17-0.jpg
-  - ../../media/louise-bourgeois-london-tate-modern-2016-06-17-1.jpg
-  - ../../media/louise-bourgeois-london-tate-modern-2016-06-17-2.jpg
-  - ../../media/louise-bourgeois-london-tate-modern-2016-06-17-3.jpg
-  - ../../media/louise-bourgeois-london-tate-modern-2016-06-17-4.jpg
+  - ../../media/louise-bourgeois-london-tate-modern-2016-06-17-0.webp
+  - ../../media/louise-bourgeois-london-tate-modern-2016-06-17-1.webp
+  - ../../media/louise-bourgeois-london-tate-modern-2016-06-17-2.webp
+  - ../../media/louise-bourgeois-london-tate-modern-2016-06-17-3.webp
+  - ../../media/louise-bourgeois-london-tate-modern-2016-06-17-4.webp
 startdate: 2016-06-17
 enddate: 2017-06-17
 town: London

@@ -4,9 +4,9 @@ artists:
   - ed-ruscha
 venue: the-hatton-gallery
 images:
-  - ../../media/ed-ruscha-newcastle-upon-tyne-the-hatton-gallery-2013-02-22-0.JPG
-  - ../../media/ed-ruscha-newcastle-upon-tyne-the-hatton-gallery-2013-02-22-1.JPG
-  - ../../media/ed-ruscha-newcastle-upon-tyne-the-hatton-gallery-2013-02-22-2.JPG
+  - ../../media/ed-ruscha-newcastle-upon-tyne-the-hatton-gallery-2013-02-22-0.webp
+  - ../../media/ed-ruscha-newcastle-upon-tyne-the-hatton-gallery-2013-02-22-1.webp
+  - ../../media/ed-ruscha-newcastle-upon-tyne-the-hatton-gallery-2013-02-22-2.webp
 startdate: 2013-02-22
 enddate: 2013-05-22
 town: Newcastle upon Tyne

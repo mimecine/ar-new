@@ -4,9 +4,9 @@ artists:
   - phyllida-barlow
 venue: tate-modern
 images:
-  - ../../media/phyllida-barlow-london-tate-modern-2016-01-14-0.jpg
-  - ../../media/phyllida-barlow-london-tate-modern-2016-01-14-1.jpg
-  - ../../media/phyllida-barlow-london-tate-modern-2016-01-14-2.jpg
+  - ../../media/phyllida-barlow-london-tate-modern-2016-01-14-0.webp
+  - ../../media/phyllida-barlow-london-tate-modern-2016-01-14-1.webp
+  - ../../media/phyllida-barlow-london-tate-modern-2016-01-14-2.webp
 startdate: 2016-01-14
 enddate: 2017-01-14
 town: London

@@ -1,6 +1,6 @@
 ---
 title: Johan Grimonprez
-featuredImage: ../../media/johan-grimonprez-featured.jpg
+featuredImage: ../../media/johan-grimonprez-featured.webp
 resources: []
 works:
   - inventorynumber: AR00085
@@ -13,7 +13,7 @@ works:
       © Johan Grimonprez
 
       AR00085
-    src: ../../media/johan-grimonprez-ar00085-dial-h-i-s-t-o-r-y-inflight-1997-2001.jpeg
+    src: ../../media/johan-grimonprez-ar00085-dial-h-i-s-t-o-r-y-inflight-1997-2001.webp
 
 ---
 

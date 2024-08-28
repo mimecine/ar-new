@@ -4,11 +4,11 @@ artists:
   - joseph-beuys
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/joseph-beuys-a-language-of-drawing-edinburgh-scottish-national-gallery-of-modern-art-2016-07-30-0.jpg
-  - ../../media/joseph-beuys-a-language-of-drawing-edinburgh-scottish-national-gallery-of-modern-art-2016-07-30-1.jpg
-  - ../../media/joseph-beuys-a-language-of-drawing-edinburgh-scottish-national-gallery-of-modern-art-2016-07-30-2.jpg
-  - ../../media/joseph-beuys-a-language-of-drawing-edinburgh-scottish-national-gallery-of-modern-art-2016-07-30-3.jpg
-  - ../../media/joseph-beuys-a-language-of-drawing-edinburgh-scottish-national-gallery-of-modern-art-2016-07-30-4.jpg
+  - ../../media/joseph-beuys-a-language-of-drawing-edinburgh-scottish-national-gallery-of-modern-art-2016-07-30-0.webp
+  - ../../media/joseph-beuys-a-language-of-drawing-edinburgh-scottish-national-gallery-of-modern-art-2016-07-30-1.webp
+  - ../../media/joseph-beuys-a-language-of-drawing-edinburgh-scottish-national-gallery-of-modern-art-2016-07-30-2.webp
+  - ../../media/joseph-beuys-a-language-of-drawing-edinburgh-scottish-national-gallery-of-modern-art-2016-07-30-3.webp
+  - ../../media/joseph-beuys-a-language-of-drawing-edinburgh-scottish-national-gallery-of-modern-art-2016-07-30-4.webp
 startdate: 2016-07-30
 enddate: 2016-10-30
 town: Edinburgh

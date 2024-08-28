@@ -1,6 +1,6 @@
 ---
 title: Bill Viola
-featuredImage: ../../media/bill-viola-featured.jpg
+featuredImage: ../../media/bill-viola-featured.webp
 resources: []
 works:
   - inventorynumber: AR00043
@@ -12,7 +12,7 @@ works:
       © Bill Viola Studio LLC
 
       AR00043
-    src: ../../media/bill-viola-ar00043-four-hands-2001.jpg
+    src: ../../media/bill-viola-ar00043-four-hands-2001.webp
   - inventorynumber: AR00042
     category: Video
     title: Catherine's Room,  2001
@@ -22,7 +22,7 @@ works:
       © Bill Viola Studio LLC
 
       AR00042
-    src: ../../media/bill-viola-ar00042-catherines-room-2001.jpg
+    src: ../../media/bill-viola-ar00042-catherines-room-2001.webp
   - inventorynumber: GMA4683
     category: Video
     title: Surrender, 2001
@@ -33,7 +33,7 @@ works:
       © Bill Viola
 
       GMA4683
-    src: ../../media/bill-viola-gma4683-surrender-2001.jpg
+    src: ../../media/bill-viola-gma4683-surrender-2001.webp
 
 ---
 

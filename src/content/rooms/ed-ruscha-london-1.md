@@ -4,15 +4,15 @@ artists:
   - ed-ruscha
 venue: tate-modern
 images:
-  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-0.jpg
-  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-1.jpg
-  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-2.jpg
-  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-3.jpg
-  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-4.jpg
-  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-5.jpg
-  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-6.jpg
-  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-7.jpg
-  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-8.jpg
+  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-0.webp
+  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-1.webp
+  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-2.webp
+  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-3.webp
+  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-4.webp
+  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-5.webp
+  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-6.webp
+  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-7.webp
+  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-8.webp
 startdate: 2019-07-25
 enddate: 2020-06-28
 town: London

@@ -1,6 +1,6 @@
 ---
 title: Sol LeWitt
-featuredImage: ../../media/sol-lewitt-featured.jpg
+featuredImage: ../../media/sol-lewitt-featured.webp
 resources: []
 works:
   - inventorynumber: AR00165
@@ -12,7 +12,7 @@ works:
       © Sol LeWitt
 
       AR00165
-    src: ../../media/sol-lewitt-ar00165-wall-drawing-1136-2004.jpg
+    src: ../../media/sol-lewitt-ar00165-wall-drawing-1136-2004.webp
 
 ---
 

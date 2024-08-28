@@ -4,10 +4,10 @@ artists:
   - diane-arbus
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/diane-arbus-edinburgh-scottish-national-gallery-of-modern-art-2010-03-13-0.jpg
-  - ../../media/diane-arbus-edinburgh-scottish-national-gallery-of-modern-art-2010-03-13-1.jpg
-  - ../../media/diane-arbus-edinburgh-scottish-national-gallery-of-modern-art-2010-03-13-2.jpg
-  - ../../media/diane-arbus-edinburgh-scottish-national-gallery-of-modern-art-2010-03-13-3.jpg
+  - ../../media/diane-arbus-edinburgh-scottish-national-gallery-of-modern-art-2010-03-13-0.webp
+  - ../../media/diane-arbus-edinburgh-scottish-national-gallery-of-modern-art-2010-03-13-1.webp
+  - ../../media/diane-arbus-edinburgh-scottish-national-gallery-of-modern-art-2010-03-13-2.webp
+  - ../../media/diane-arbus-edinburgh-scottish-national-gallery-of-modern-art-2010-03-13-3.webp
 startdate: 2010-03-13
 enddate: 2010-06-13
 town: Edinburgh

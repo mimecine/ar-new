@@ -4,11 +4,11 @@ artists:
   - louise-bourgeois
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/louise-bourgeois-edinburgh-scottish-national-gallery-of-modern-art-2013-10-26-0.jpg
-  - ../../media/louise-bourgeois-edinburgh-scottish-national-gallery-of-modern-art-2013-10-26-1.jpg
-  - ../../media/louise-bourgeois-edinburgh-scottish-national-gallery-of-modern-art-2013-10-26-2.jpg
-  - ../../media/louise-bourgeois-edinburgh-scottish-national-gallery-of-modern-art-2013-10-26-3.jpg
-  - ../../media/louise-bourgeois-edinburgh-scottish-national-gallery-of-modern-art-2013-10-26-4.jpg
+  - ../../media/louise-bourgeois-edinburgh-scottish-national-gallery-of-modern-art-2013-10-26-0.webp
+  - ../../media/louise-bourgeois-edinburgh-scottish-national-gallery-of-modern-art-2013-10-26-1.webp
+  - ../../media/louise-bourgeois-edinburgh-scottish-national-gallery-of-modern-art-2013-10-26-2.webp
+  - ../../media/louise-bourgeois-edinburgh-scottish-national-gallery-of-modern-art-2013-10-26-3.webp
+  - ../../media/louise-bourgeois-edinburgh-scottish-national-gallery-of-modern-art-2013-10-26-4.webp
 startdate: 2013-10-26
 enddate: 2014-05-18
 town: Edinburgh

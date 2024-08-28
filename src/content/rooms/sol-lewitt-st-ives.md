@@ -4,10 +4,10 @@ artists:
   - sol-lewitt
 venue: tate-st-ives
 images:
-  - ../../media/sol-lewitt-st-ives-tate-st-ives-2021-11-27-0.jpg
-  - ../../media/sol-lewitt-st-ives-tate-st-ives-2021-11-27-1.jpg
-  - ../../media/sol-lewitt-st-ives-tate-st-ives-2021-11-27-2.jpg
-  - ../../media/sol-lewitt-st-ives-tate-st-ives-2021-11-27-3.jpg
+  - ../../media/sol-lewitt-st-ives-tate-st-ives-2021-11-27-0.webp
+  - ../../media/sol-lewitt-st-ives-tate-st-ives-2021-11-27-1.webp
+  - ../../media/sol-lewitt-st-ives-tate-st-ives-2021-11-27-2.webp
+  - ../../media/sol-lewitt-st-ives-tate-st-ives-2021-11-27-3.webp
 startdate: 2021-11-27
 enddate: 2023-10-29
 town: St Ives

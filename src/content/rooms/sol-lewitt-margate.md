@@ -4,7 +4,7 @@ artists:
   - sol-lewitt
 venue: turner-contemporary
 images:
-  - ../../media/sol-lewitt-margate-turner-contemporary-2013-11-29-0.jpg
+  - ../../media/sol-lewitt-margate-turner-contemporary-2013-11-29-0.webp
 startdate: 2013-11-29
 enddate: 2014-06-08
 town: Margate

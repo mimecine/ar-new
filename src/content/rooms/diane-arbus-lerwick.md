@@ -3,12 +3,12 @@ title: Diane Arbus, Lerwick
 artists: []
 venue: shetland-museum-and-archives
 images:
-  - ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-0.jpg
-  - ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-1.jpg
-  - ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-2.jpg
-  - ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-3.jpg
-  - ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-4.jpg
-  - ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-5.jpg
+  - ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-0.webp
+  - ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-1.webp
+  - ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-2.webp
+  - ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-3.webp
+  - ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-4.webp
+  - ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-5.webp
 startdate: 2023-08-19
 enddate: 2023-11-12
 town: Lerwick

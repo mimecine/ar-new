@@ -1,6 +1,6 @@
 ---
 title: Jannis Kounellis
-featuredImage: ../../media/jannis-kounellis-featured.jpg
+featuredImage: ../../media/jannis-kounellis-featured.webp
 resources: []
 works:
   - inventorynumber: AR00614
@@ -12,7 +12,7 @@ works:
       © Jannis Kounellis
 
       AR00614
-    src: ../../media/jannis-kounellis-ar00614-untitled-1960.jpg
+    src: ../../media/jannis-kounellis-ar00614-untitled-1960.webp
   - inventorynumber: AR00068
     category: Sculpture
     title: Untitled, 1960-1998
@@ -23,7 +23,7 @@ works:
       © Jannis Kounellis
 
       AR00068
-    src: ../../media/jannis-kounellis-ar00068-untitled-1960-1998.jpg
+    src: ../../media/jannis-kounellis-ar00068-untitled-1960-1998.webp
   - inventorynumber: AR00069
     category: Sculpture
     title: Untitled, 1969
@@ -33,7 +33,7 @@ works:
       © Jannis Kounellis
 
       AR00069
-    src: ../../media/jannis-kounellis-ar00069-untitled-1969.jpg
+    src: ../../media/jannis-kounellis-ar00069-untitled-1969.webp
   - inventorynumber: AR01136
     category: Sculpture
     title: Untitled, 1969
@@ -43,7 +43,7 @@ works:
       © Jannis Kounellis
 
       AR01136
-    src: ../../media/jannis-kounellis-ar01136-untitled-1969.jpg
+    src: ../../media/jannis-kounellis-ar01136-untitled-1969.webp
   - inventorynumber: AR00070
     category: Installation
     title: Coal Sculpture with Wall of Coloured Glass, 1990-2005
@@ -54,7 +54,7 @@ works:
       © Jannis Kounellis
 
       AR00070
-    src: ../../media/jannis-kounellis-ar00070-coal-sculpture-with-wall-of-coloured-glass-1990-2005.jpg
+    src: ../../media/jannis-kounellis-ar00070-coal-sculpture-with-wall-of-coloured-glass-1990-2005.webp
   - inventorynumber: AR00071
     category: Sculpture
     title: Bells, 1993
@@ -65,7 +65,7 @@ works:
       © Jannis Kounellis
 
       AR00071
-    src: ../../media/jannis-kounellis-ar00071-bells-1993.jpg
+    src: ../../media/jannis-kounellis-ar00071-bells-1993.webp
   - inventorynumber: AR00072
     category: Sculpture
     title: Untitled, 1993
@@ -76,7 +76,7 @@ works:
       © Jannis Kounellis
 
       AR00072
-    src: ../../media/jannis-kounellis-ar00072-untitled-1993.jpg
+    src: ../../media/jannis-kounellis-ar00072-untitled-1993.webp
   - inventorynumber: AR00073
     category: Sculpture
     title: Untitled, 2004
@@ -86,7 +86,7 @@ works:
       © Jannis Kounellis
 
       AR00073
-    src: ../../media/jannis-kounellis-ar00073-untitled-2004.jpg
+    src: ../../media/jannis-kounellis-ar00073-untitled-2004.webp
   - inventorynumber: AL00186
     category: Sculpture
     title: Untitled, 2006
@@ -96,7 +96,7 @@ works:
       © Jannis Kounellis
 
       AL00186
-    src: ../../media/jannis-kounellis-al00186-untitled-2006.jpg
+    src: ../../media/jannis-kounellis-al00186-untitled-2006.webp
   - inventorynumber: AR00583
     category: Sculpture
     title: Untitled (Sack with Z), 2001
@@ -106,7 +106,7 @@ works:
       © Jannis Kounellis
 
       AR00583
-    src: ../../media/jannis-kounellis-ar00583-untitled-sack-with-z-2001.jpg
+    src: ../../media/jannis-kounellis-ar00583-untitled-sack-with-z-2001.webp
   - inventorynumber: AR00074
     category: Sculpture
     title: Untitled (Knife and Train), 2002
@@ -116,7 +116,7 @@ works:
       © Jannis Kounellis
 
       AR00074
-    src: ../../media/jannis-kounellis-ar00074-untitled-knife-and-train-2002.jpg
+    src: ../../media/jannis-kounellis-ar00074-untitled-knife-and-train-2002.webp
   - inventorynumber: AR00581
     category: Sculpture
     title: Untitled (Coffee), 1989-91
@@ -127,7 +127,7 @@ works:
       © Jannis Kounellis
 
       AR00581
-    src: ../../media/jannis-kounellis-ar00581-untitled-coffee-1989-91.jpg
+    src: ../../media/jannis-kounellis-ar00581-untitled-coffee-1989-91.webp
   - inventorynumber: AR00582
     category: Sculpture
     title: Untitled (Hanging Knife), 1991
@@ -137,7 +137,7 @@ works:
       © Jannis Kounellis
 
       AR00582
-    src: ../../media/jannis-kounellis-ar00582-untitled-hanging-knife-1991.jpg
+    src: ../../media/jannis-kounellis-ar00582-untitled-hanging-knife-1991.webp
   - inventorynumber: AR00584
     category: Sculpture
     title: Untitled (Scissors), 2004
@@ -147,7 +147,7 @@ works:
       © Jannis Kounellis
 
       AR00584
-    src: ../../media/jannis-kounellis-ar00584-untitled-scissors-2004.jpg
+    src: ../../media/jannis-kounellis-ar00584-untitled-scissors-2004.webp
   - inventorynumber: AR00585
     category: Sculpture
     title: Untitled (Sewing Machine), 2004
@@ -157,7 +157,7 @@ works:
       © Jannis Kounellis
 
       AR00585
-    src: ../../media/jannis-kounellis-ar00585-untitled-sewing-machine-2004.jpg
+    src: ../../media/jannis-kounellis-ar00585-untitled-sewing-machine-2004.webp
   - inventorynumber: AR00586
     category: Sculpture
     title: Untitled (Hair), 2004
@@ -167,7 +167,7 @@ works:
       © Jannis Kounellis
 
       AR00586
-    src: ../../media/jannis-kounellis-ar00586-untitled-hair-2004.jpg
+    src: ../../media/jannis-kounellis-ar00586-untitled-hair-2004.webp
   - inventorynumber: AR00075
     category: Sculpture
     title: Untitled, 2005
@@ -177,7 +177,7 @@ works:
       © Jannis Kounellis
 
       AR00075
-    src: ../../media/jannis-kounellis-ar00075-untitled-2005.jpg
+    src: ../../media/jannis-kounellis-ar00075-untitled-2005.webp
   - inventorynumber: AR00497
     category: Painting
     title: Untitled, 1971
@@ -187,7 +187,7 @@ works:
       © Jannis Kounellis
 
       AR00497
-    src: ../../media/jannis-kounellis-ar00497-untitled-1971.jpg
+    src: ../../media/jannis-kounellis-ar00497-untitled-1971.webp
 
 ---
 

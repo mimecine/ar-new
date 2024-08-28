@@ -3,11 +3,11 @@ title: Joseph Beuys, Worcester
 artists: []
 venue: worcester-city-art-gallery-and-museum
 images:
-  - ../../media/joseph-beuys-worcester-worcester-city-art-gallery-museum-2013-10-26-0.jpg
-  - ../../media/joseph-beuys-worcester-worcester-city-art-gallery-museum-2013-10-26-1.jpg
-  - ../../media/joseph-beuys-worcester-worcester-city-art-gallery-museum-2013-10-26-2.jpg
-  - ../../media/joseph-beuys-worcester-worcester-city-art-gallery-museum-2013-10-26-3.jpg
-  - ../../media/joseph-beuys-worcester-worcester-city-art-gallery-museum-2013-10-26-4.jpg
+  - ../../media/joseph-beuys-worcester-worcester-city-art-gallery-museum-2013-10-26-0.webp
+  - ../../media/joseph-beuys-worcester-worcester-city-art-gallery-museum-2013-10-26-1.webp
+  - ../../media/joseph-beuys-worcester-worcester-city-art-gallery-museum-2013-10-26-2.webp
+  - ../../media/joseph-beuys-worcester-worcester-city-art-gallery-museum-2013-10-26-3.webp
+  - ../../media/joseph-beuys-worcester-worcester-city-art-gallery-museum-2013-10-26-4.webp
 startdate: 2013-10-26
 enddate: 2014-02-23
 town: Worcester

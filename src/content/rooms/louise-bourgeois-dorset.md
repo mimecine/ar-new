@@ -4,13 +4,13 @@ artists:
   - louise-bourgeois
 venue: dorset-museum
 images:
-  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-0.jpeg
-  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-1.jpeg
-  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-2.jpeg
-  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-3.jpeg
-  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-4.jpeg
-  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-5.jpeg
-  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-6.jpeg
+  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-0.webp
+  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-1.webp
+  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-2.webp
+  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-3.webp
+  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-4.webp
+  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-5.webp
+  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-6.webp
 startdate: 2023-03-22
 enddate: 2023-06-25
 town: Dorset

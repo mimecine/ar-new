@@ -1,6 +1,6 @@
 ---
 title: Martin Creed
-featuredImage: ../../media/martin-creed-featured.jpg
+featuredImage: ../../media/martin-creed-featured.webp
 resources: []
 works:
   - inventorynumber: AR01149
@@ -28,7 +28,7 @@ works:
 
 
       AR01150
-    src: ../../media/martin-creed-ar01150-work-no-1102-2011.jpg
+    src: ../../media/martin-creed-ar01150-work-no-1102-2011.webp
   - inventorynumber: AR01151
     category: Video
     title: Work No. 837, 2008
@@ -40,7 +40,7 @@ works:
       Photo: Stuart Whipps
 
       AR01151
-    src: ../../media/martin-creed-ar01151-work-no-837-2008.jpg
+    src: ../../media/martin-creed-ar01151-work-no-837-2008.webp
   - inventorynumber: AR01152
     category: Paintings
     title: Work No. 1103, 2011
@@ -56,7 +56,7 @@ works:
 
 
       AR01152
-    src: ../../media/martin-creed-ar01152-work-no-1103-2011.jpg
+    src: ../../media/martin-creed-ar01152-work-no-1103-2011.webp
   - inventorynumber: AR01153
     category: Paintings
     title: Work No. 1104, 2011
@@ -72,7 +72,7 @@ works:
 
 
       AR01153
-    src: ../../media/martin-creed-ar01153-work-no-1104-2011.jpg
+    src: ../../media/martin-creed-ar01153-work-no-1104-2011.webp
   - inventorynumber: AR01154
     category: Paintings
     title: Work No. 1105, 2011
@@ -88,7 +88,7 @@ works:
 
 
       AR01154
-    src: ../../media/martin-creed-ar01154-work-no-1105-2011.jpg
+    src: ../../media/martin-creed-ar01154-work-no-1105-2011.webp
   - inventorynumber: AR01229
     category: Paintings
     title: Work No. 1340, 2012
@@ -98,7 +98,7 @@ works:
       © Martin Creed
 
       AR01229
-    src: ../../media/martin-creed-ar01229-work-no-1340-2012.jpg
+    src: ../../media/martin-creed-ar01229-work-no-1340-2012.webp
   - inventorynumber: AR01148
     category: Works on paper
     title: Work No. 944, 2008
@@ -124,7 +124,7 @@ works:
       © Martin Creed
 
       A037053
-    src: ../../media/martin-creed-a037053-work-no-1582-2013.jpg
+    src: ../../media/martin-creed-a037053-work-no-1582-2013.webp
   - inventorynumber: AR01230
     category: Sculpture
     title: Work No. 960, 2008
@@ -134,7 +134,7 @@ works:
       © Martin Creed
 
       AR01230
-    src: ../../media/martin-creed-ar01230-work-no-960-2008.JPG
+    src: ../../media/martin-creed-ar01230-work-no-960-2008.webp
 
 ---
 

@@ -4,10 +4,10 @@ artists:
   - vija-celmins
 venue: new-art-gallery
 images:
-  - ../../media/vija-celmins-walsall-new-art-gallery-2018-02-02-0.jpg
-  - ../../media/vija-celmins-walsall-new-art-gallery-2018-02-02-1.jpg
-  - ../../media/vija-celmins-walsall-new-art-gallery-2018-02-02-2.jpg
-  - ../../media/vija-celmins-walsall-new-art-gallery-2018-02-02-3.jpg
+  - ../../media/vija-celmins-walsall-new-art-gallery-2018-02-02-0.webp
+  - ../../media/vija-celmins-walsall-new-art-gallery-2018-02-02-1.webp
+  - ../../media/vija-celmins-walsall-new-art-gallery-2018-02-02-2.webp
+  - ../../media/vija-celmins-walsall-new-art-gallery-2018-02-02-3.webp
 startdate: 2018-02-02
 enddate: 2018-05-06
 town: Walsall

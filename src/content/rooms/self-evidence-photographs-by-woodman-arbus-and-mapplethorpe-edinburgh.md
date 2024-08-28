@@ -6,12 +6,12 @@ artists:
   - robert-mapplethorpe
 venue: scottish-national-portrait-gallery
 images:
-  - ../../media/self-evidence-photographs-by-woodman-arbus-and-mapplethorpe-edinburgh-scottish-national-portrait-gallery-2019-04-06-0.jpg
-  - ../../media/self-evidence-photographs-by-woodman-arbus-and-mapplethorpe-edinburgh-scottish-national-portrait-gallery-2019-04-06-1.jpg
-  - ../../media/self-evidence-photographs-by-woodman-arbus-and-mapplethorpe-edinburgh-scottish-national-portrait-gallery-2019-04-06-2.jpg
-  - ../../media/self-evidence-photographs-by-woodman-arbus-and-mapplethorpe-edinburgh-scottish-national-portrait-gallery-2019-04-06-3.jpg
-  - ../../media/self-evidence-photographs-by-woodman-arbus-and-mapplethorpe-edinburgh-scottish-national-portrait-gallery-2019-04-06-4.jpg
-  - ../../media/self-evidence-photographs-by-woodman-arbus-and-mapplethorpe-edinburgh-scottish-national-portrait-gallery-2019-04-06-5.jpg
+  - ../../media/self-evidence-photographs-by-woodman-arbus-and-mapplethorpe-edinburgh-scottish-national-portrait-gallery-2019-04-06-0.webp
+  - ../../media/self-evidence-photographs-by-woodman-arbus-and-mapplethorpe-edinburgh-scottish-national-portrait-gallery-2019-04-06-1.webp
+  - ../../media/self-evidence-photographs-by-woodman-arbus-and-mapplethorpe-edinburgh-scottish-national-portrait-gallery-2019-04-06-2.webp
+  - ../../media/self-evidence-photographs-by-woodman-arbus-and-mapplethorpe-edinburgh-scottish-national-portrait-gallery-2019-04-06-3.webp
+  - ../../media/self-evidence-photographs-by-woodman-arbus-and-mapplethorpe-edinburgh-scottish-national-portrait-gallery-2019-04-06-4.webp
+  - ../../media/self-evidence-photographs-by-woodman-arbus-and-mapplethorpe-edinburgh-scottish-national-portrait-gallery-2019-04-06-5.webp
 startdate: 2019-04-06
 enddate: 2019-10-20
 town: Edinburgh

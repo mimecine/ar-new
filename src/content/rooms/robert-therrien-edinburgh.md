@@ -4,10 +4,10 @@ artists:
   - robert-therrien
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/robert-therrien-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-0.jpg
-  - ../../media/robert-therrien-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-1.jpg
-  - ../../media/robert-therrien-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-2.jpg
-  - ../../media/robert-therrien-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-3.jpg
+  - ../../media/robert-therrien-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-0.webp
+  - ../../media/robert-therrien-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-1.webp
+  - ../../media/robert-therrien-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-2.webp
+  - ../../media/robert-therrien-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-3.webp
 startdate: 2010-07-29
 enddate: 2011-01-30
 town: Edinburgh

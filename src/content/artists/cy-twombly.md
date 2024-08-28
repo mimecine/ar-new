@@ -1,6 +1,6 @@
 ---
 title: Cy Twombly
-featuredImage: ../../media/cy-twombly-featured.jpg
+featuredImage: ../../media/cy-twombly-featured.webp
 resources: []
 works:
   - inventorynumber: AR00181
@@ -12,7 +12,7 @@ works:
       © Courtesy of Cy Twombly Foundation
 
       AR00181
-    src: ../../media/cy-twombly-ar00181-souvenir-de-lile-des-saintes-1979.jpg
+    src: ../../media/cy-twombly-ar00181-souvenir-de-lile-des-saintes-1979.webp
 
 ---
 

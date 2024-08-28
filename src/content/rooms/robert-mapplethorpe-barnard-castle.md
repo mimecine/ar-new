@@ -4,10 +4,10 @@ artists:
   - robert-mapplethorpe
 venue: the-bowes-museum
 images:
-  - ../../media/robert-mapplethorpe-barnard-castle-the-bowes-museum-2015-11-28-0.jpg
-  - ../../media/robert-mapplethorpe-barnard-castle-the-bowes-museum-2015-11-28-1.jpg
-  - ../../media/robert-mapplethorpe-barnard-castle-the-bowes-museum-2015-11-28-2.jpg
-  - ../../media/robert-mapplethorpe-barnard-castle-the-bowes-museum-2015-11-28-3.jpg
+  - ../../media/robert-mapplethorpe-barnard-castle-the-bowes-museum-2015-11-28-0.webp
+  - ../../media/robert-mapplethorpe-barnard-castle-the-bowes-museum-2015-11-28-1.webp
+  - ../../media/robert-mapplethorpe-barnard-castle-the-bowes-museum-2015-11-28-2.webp
+  - ../../media/robert-mapplethorpe-barnard-castle-the-bowes-museum-2015-11-28-3.webp
 startdate: 2015-11-28
 enddate: 2016-04-24
 town: Barnard Castle

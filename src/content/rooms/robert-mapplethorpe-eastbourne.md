@@ -4,11 +4,11 @@ artists:
   - robert-mapplethorpe
 venue: towner
 images:
-  - ../../media/robert-mapplethorpe-eastbourne-towner-2010-09-25-0.jpg
-  - ../../media/robert-mapplethorpe-eastbourne-towner-2010-09-25-1.jpg
-  - ../../media/robert-mapplethorpe-eastbourne-towner-2010-09-25-2.jpg
-  - ../../media/robert-mapplethorpe-eastbourne-towner-2010-09-25-3.jpg
-  - ../../media/robert-mapplethorpe-eastbourne-towner-2010-09-25-4.jpg
+  - ../../media/robert-mapplethorpe-eastbourne-towner-2010-09-25-0.webp
+  - ../../media/robert-mapplethorpe-eastbourne-towner-2010-09-25-1.webp
+  - ../../media/robert-mapplethorpe-eastbourne-towner-2010-09-25-2.webp
+  - ../../media/robert-mapplethorpe-eastbourne-towner-2010-09-25-3.webp
+  - ../../media/robert-mapplethorpe-eastbourne-towner-2010-09-25-4.webp
 startdate: 2010-09-25
 enddate: 2010-11-21
 town: Eastbourne

@@ -4,9 +4,9 @@ artists:
   - douglas-gordon
 venue: gymnasium-gallery
 images:
-  - ../../media/douglas-gordon-berwick-gymnasium-gallery-2018-06-02-0.jpg
-  - ../../media/douglas-gordon-berwick-gymnasium-gallery-2018-06-02-1.jpg
-  - ../../media/douglas-gordon-berwick-gymnasium-gallery-2018-06-02-2.jpg
+  - ../../media/douglas-gordon-berwick-gymnasium-gallery-2018-06-02-0.webp
+  - ../../media/douglas-gordon-berwick-gymnasium-gallery-2018-06-02-1.webp
+  - ../../media/douglas-gordon-berwick-gymnasium-gallery-2018-06-02-2.webp
 startdate: 2018-06-02
 enddate: 2018-09-02
 town: Berwick

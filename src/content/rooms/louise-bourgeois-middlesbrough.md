@@ -4,12 +4,12 @@ artists:
   - louise-bourgeois
 venue: mima
 images:
-  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-0.jpg
-  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-1.jpg
-  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-2.jpg
-  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-3.jpg
-  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-4.jpg
-  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-5.jpg
+  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-0.webp
+  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-1.webp
+  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-2.webp
+  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-3.webp
+  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-4.webp
+  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-5.webp
 startdate: 2014-07-18
 enddate: 2014-10-12
 town: Middlesbrough

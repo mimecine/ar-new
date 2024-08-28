@@ -1,6 +1,6 @@
 ---
 title: Gilbert & George
-featuredImage: ../../media/gilbert-george-featured.jpg
+featuredImage: ../../media/gilbert-george-featured.webp
 resources: []
 works:
   - inventorynumber: AR00170
@@ -12,7 +12,7 @@ works:
       © Gilbert & George
 
       AR00170
-    src: ../../media/gilbert-george-ar00170-george-the-cunt-and-gilbert-the-shit-1969.jpg
+    src: ../../media/gilbert-george-ar00170-george-the-cunt-and-gilbert-the-shit-1969.webp
   - inventorynumber: AR00172
     category: Works on paper
     title: Crusade, 1980
@@ -23,7 +23,7 @@ works:
       © Gilbert & George
 
       AR00172
-    src: ../../media/gilbert-george-ar00172-crusade-1980.jpg
+    src: ../../media/gilbert-george-ar00172-crusade-1980.webp
   - inventorynumber: AR00171
     category: Works on paper
     title: Fallen Leaves, 1980
@@ -34,7 +34,7 @@ works:
       © Gilbert & George
 
       AR00171
-    src: ../../media/gilbert-george-ar00171-fallen-leaves-1980.jpg
+    src: ../../media/gilbert-george-ar00171-fallen-leaves-1980.webp
   - inventorynumber: AR00173
     category: Works on paper
     title: Hunger, 1982
@@ -45,7 +45,7 @@ works:
       © Gilbert & George
 
       AR00173
-    src: ../../media/gilbert-george-ar00173-hunger-1982.jpg
+    src: ../../media/gilbert-george-ar00173-hunger-1982.webp
   - inventorynumber: AR00174
     category: Works on paper
     title: Thirst, 1982
@@ -56,7 +56,7 @@ works:
       © Gilbert & George
 
       AR00174
-    src: ../../media/gilbert-george-ar00174-thirst-1982.jpg
+    src: ../../media/gilbert-george-ar00174-thirst-1982.webp
   - inventorynumber: AR00505
     category: Works on paper
     title: Existers, 1984
@@ -67,7 +67,7 @@ works:
       © Gilbert & George
 
       AR00505
-    src: ../../media/gilbert-george-ar00505-existers-1984.jpg
+    src: ../../media/gilbert-george-ar00505-existers-1984.webp
   - inventorynumber: AL00195
     category: Works on paper
     title: Dead Heads, 1989
@@ -78,7 +78,7 @@ works:
       © Gilbert & George
 
       AL00195
-    src: ../../media/gilbert-george-al00195-dead-heads-1989.jpg
+    src: ../../media/gilbert-george-al00195-dead-heads-1989.webp
   - inventorynumber: AR00504
     category: Works on paper
     title: Light Headed, 1991
@@ -89,7 +89,7 @@ works:
       © Gilbert & George
 
       AR00504
-    src: ../../media/gilbert-george-ar00504-light-headed-1991.jpg
+    src: ../../media/gilbert-george-ar00504-light-headed-1991.webp
   - inventorynumber: AR00176
     category: Works on paper
     title: Faith Drop, 1991
@@ -100,7 +100,7 @@ works:
       © Gilbert & George
 
       AR00176
-    src: ../../media/gilbert-george-ar00176-faith-drop-1991.jpg
+    src: ../../media/gilbert-george-ar00176-faith-drop-1991.webp
   - inventorynumber: AR00175
     category: Works on paper
     title: Family Tree, 1991
@@ -111,7 +111,7 @@ works:
       © Gilbert & George
 
       AR00175
-    src: ../../media/gilbert-george-ar00175-family-tree-1991.jpg
+    src: ../../media/gilbert-george-ar00175-family-tree-1991.webp
 
 ---
 

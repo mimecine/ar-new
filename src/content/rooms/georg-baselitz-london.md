@@ -4,9 +4,9 @@ artists:
   - georg-baselitz
 venue: tate-modern
 images:
-  - ../../media/georg-baselitz-london-tate-modern-2015-04-27-0.jpg
-  - ../../media/georg-baselitz-london-tate-modern-2015-04-27-1.jpg
-  - ../../media/georg-baselitz-london-tate-modern-2015-04-27-2.jpg
+  - ../../media/georg-baselitz-london-tate-modern-2015-04-27-0.webp
+  - ../../media/georg-baselitz-london-tate-modern-2015-04-27-1.webp
+  - ../../media/georg-baselitz-london-tate-modern-2015-04-27-2.webp
 startdate: 2015-04-27
 enddate: 2016-01-10
 town: London

@@ -4,11 +4,11 @@ artists:
   - diane-arbus
 venue: north-hertfordshire-museum
 images:
-  - ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-0.jpeg
-  - ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-1.jpeg
-  - ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-2.jpeg
-  - ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-3.jpeg
-  - ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-4.jpeg
+  - ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-0.webp
+  - ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-1.webp
+  - ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-2.webp
+  - ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-3.webp
+  - ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-4.webp
 startdate: 2023-12-03
 enddate: 2024-02-25
 town: Hitchin

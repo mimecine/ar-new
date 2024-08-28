@@ -4,14 +4,14 @@ artists:
   - august-sander
 venue: tate-liverpool
 images:
-  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-0.jpg
-  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-1.jpg
-  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-2.jpg
-  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-3.jpg
-  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-4.jpg
-  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-5.jpg
-  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-6.jpg
-  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-7.jpg
+  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-0.webp
+  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-1.webp
+  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-2.webp
+  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-3.webp
+  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-4.webp
+  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-5.webp
+  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-6.webp
+  - ../../media/august-sander-liverpool-tate-liverpool-2017-06-22-7.webp
 startdate: 2017-06-22
 enddate: 2017-10-15
 town: Liverpool

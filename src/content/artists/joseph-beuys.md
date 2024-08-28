@@ -1,6 +1,6 @@
 ---
 title: Joseph Beuys
-featuredImage: ../../media/joseph-beuys-featured.jpg
+featuredImage: ../../media/joseph-beuys-featured.webp
 resources: []
 works:
   - inventorynumber: AR00087
@@ -12,7 +12,7 @@ works:
       © DACS, 2014
 
       AR00087
-    src: ../../media/joseph-beuys-ar00087-langhaus-1953-62.jpg
+    src: ../../media/joseph-beuys-ar00087-langhaus-1953-62.webp
   - inventorynumber: AR00602
     category: Sculpture
     title: Hirschdenkmal, 1958-65
@@ -22,7 +22,7 @@ works:
       © DACS, 2014
 
       AR00602
-    src: ../../media/joseph-beuys-ar00602-hirschdenkmal-1958-65.jpg
+    src: ../../media/joseph-beuys-ar00602-hirschdenkmal-1958-65.webp
   - inventorynumber: AR00603
     category: Sculpture
     title: Tisch mit Aggregat, 1958-65
@@ -32,7 +32,7 @@ works:
       © DACS, 2014
 
       AR00603
-    src: ../../media/joseph-beuys-ar00603-tisch-mit-aggregat-1958-65.jpg
+    src: ../../media/joseph-beuys-ar00603-tisch-mit-aggregat-1958-65.webp
   - inventorynumber: AR00091
     category: Sculpture
     title: Weiße Trübung, 1963
@@ -42,7 +42,7 @@ works:
       © DACS, 2014
 
       AR00091
-    src: ../../media/joseph-beuys-ar00091-weie-trbung-1963.jpg
+    src: ../../media/joseph-beuys-ar00091-weie-trbung-1963.webp
   - inventorynumber: AR00088
     category: Sculpture
     title: Fettstuhl, 1964-85
@@ -53,7 +53,7 @@ works:
       © DACS, 2014
 
       AR00088
-    src: ../../media/joseph-beuys-ar00088-fettstuhl-1964-85.jpg
+    src: ../../media/joseph-beuys-ar00088-fettstuhl-1964-85.webp
   - inventorynumber: AR00619
     category: Sculpture
     title: Entwurf für ein Filzenvironment, 1964
@@ -63,7 +63,7 @@ works:
       © DACS, 2014
 
       AR00619
-    src: ../../media/joseph-beuys-ar00619-entwurf-fr-ein-filzenvironment-1964.jpg
+    src: ../../media/joseph-beuys-ar00619-entwurf-fr-ein-filzenvironment-1964.webp
   - inventorynumber: AR00604
     category: Sculpture
     title: Damp Value, 1964-75
@@ -73,7 +73,7 @@ works:
       © DACS, 2014
 
       AR00604
-    src: ../../media/joseph-beuys-ar00604-damp-value-1964-75.jpg
+    src: ../../media/joseph-beuys-ar00604-damp-value-1964-75.webp
   - inventorynumber: AR00618
     category: Sculpture
     title: Fettecke (Prozess), 1968
@@ -83,7 +83,7 @@ works:
       © DACS, 2014
 
       AR00618
-    src: ../../media/joseph-beuys-ar00618-fettecke-prozess-1968.jpg
+    src: ../../media/joseph-beuys-ar00618-fettecke-prozess-1968.webp
   - inventorynumber: AR00092
     category: Sculpture
     title: Filzanzug, 1970
@@ -93,7 +93,7 @@ works:
       © DACS, 2014
 
       AR00092
-    src: ../../media/joseph-beuys-ar00092-filzanzug-1970.jpg
+    src: ../../media/joseph-beuys-ar00092-filzanzug-1970.webp
   - inventorynumber: AR00623
     category: Sculpture
     title: So kann die Parteiendiktatur überwunden werden, 1971
@@ -103,7 +103,7 @@ works:
       © DACS, 2014
 
       AR00623
-    src: ../../media/joseph-beuys-ar00623-so-kann-die-parteiendiktatur-berwunden-werden-1971.jpg
+    src: ../../media/joseph-beuys-ar00623-so-kann-die-parteiendiktatur-berwunden-werden-1971.webp
   - inventorynumber: AR00625
     category: Sculpture
     title: Hases Blut, 1974-7
@@ -113,7 +113,7 @@ works:
       © DACS, 2014
 
       AR00625
-    src: ../../media/joseph-beuys-ar00625-hases-blut-1974-7.jpg
+    src: ../../media/joseph-beuys-ar00625-hases-blut-1974-7.webp
   - inventorynumber: AR00621
     category: Sculpture
     title: "Zu dem Vortrag: Der Soziale Organismus - ein Kunstwerk, Bochum 2.03.1974"
@@ -123,7 +123,7 @@ works:
       © DACS, 2014
 
       AR00621
-    src: ../../media/joseph-beuys-ar00621-zu-dem-vortrag-der-soziale-organismus-ein-kunstwerk-bochum-2031974.jpg
+    src: ../../media/joseph-beuys-ar00621-zu-dem-vortrag-der-soziale-organismus-ein-kunstwerk-bochum-2031974.webp
   - inventorynumber: AR00094
     category: Photography
     title: Zeige deine Wunde, 1977-84
@@ -133,7 +133,7 @@ works:
       © DACS, 2014
 
       AR00094
-    src: ../../media/joseph-beuys-ar00094-zeige-deine-wunde-1977-84.jpg
+    src: ../../media/joseph-beuys-ar00094-zeige-deine-wunde-1977-84.webp
   - inventorynumber: AR00626
     category: Sculpture
     title: Gegenuber dem Fixsternhimmel, 1978
@@ -144,7 +144,7 @@ works:
       © DACS, 2014
 
       AR00626
-    src: ../../media/joseph-beuys-ar00626-gegenuber-dem-fixsternhimmel-1978.jpg
+    src: ../../media/joseph-beuys-ar00626-gegenuber-dem-fixsternhimmel-1978.webp
   - inventorynumber: AR00627
     category: Sculpture
     title: Untitled, 1980
@@ -154,7 +154,7 @@ works:
       © DACS, 2014
 
       AR00627
-    src: ../../media/joseph-beuys-ar00627-untitled-1980.jpg
+    src: ../../media/joseph-beuys-ar00627-untitled-1980.webp
   - inventorynumber: AR00628
     category: Sculpture
     title: Celtic Object 2, 1980
@@ -164,7 +164,7 @@ works:
       © DACS, 2014
 
       AR00628
-    src: ../../media/joseph-beuys-ar00628-celtic-object-2-1980.jpg
+    src: ../../media/joseph-beuys-ar00628-celtic-object-2-1980.webp
   - inventorynumber: AR00089
     category: Sculpture
     title: Domenica delle Palme, 1981
@@ -175,7 +175,7 @@ works:
       © DACS, 2014
 
       AR00089
-    src: ../../media/joseph-beuys-ar00089-domenica-delle-palme-1981.jpg
+    src: ../../media/joseph-beuys-ar00089-domenica-delle-palme-1981.webp
   - inventorynumber: AR00622
     category: Sculpture
     title: Dumme Kiste, 1982
@@ -185,7 +185,7 @@ works:
       © DACS, 2014
 
       AR00622
-    src: ../../media/joseph-beuys-ar00622-dumme-kiste-1982.jpg
+    src: ../../media/joseph-beuys-ar00622-dumme-kiste-1982.webp
   - inventorynumber: AR00086
     category: Sculpture
     title: Scala Napoletana, 1985
@@ -197,7 +197,7 @@ works:
       AR00086
 
        
-    src: ../../media/joseph-beuys-ar00086-scala-napoletana-1985.jpg
+    src: ../../media/joseph-beuys-ar00086-scala-napoletana-1985.webp
   - inventorynumber: AR00600
     category: Photography
     title: Ohne Titel, 1970
@@ -207,7 +207,7 @@ works:
       © DACS, 2014
 
       AR00600
-    src: ../../media/joseph-beuys-ar00600-ohne-titel-1970.jpg
+    src: ../../media/joseph-beuys-ar00600-ohne-titel-1970.webp
   - inventorynumber: AR00695
     category: Photography
     title: Coyote I, 1980
@@ -217,7 +217,7 @@ works:
       © DACS, 2014  
 
       AR00695
-    src: ../../media/joseph-beuys-ar00695-coyote-i-1980.jpg
+    src: ../../media/joseph-beuys-ar00695-coyote-i-1980.webp
   - inventorynumber: AR00694
     category: Photography
     title: Coyote II, 1980
@@ -227,7 +227,7 @@ works:
       © DACS, 2014
 
       AR00694
-    src: ../../media/joseph-beuys-ar00694-coyote-ii-1980.jpg
+    src: ../../media/joseph-beuys-ar00694-coyote-ii-1980.webp
   - inventorynumber: AR00630
     category: Works on paper 1945 - 1953
     title: Acer platanoides, 1945
@@ -237,7 +237,7 @@ works:
       © DACS, 2014
 
       AR00630
-    src: ../../media/joseph-beuys-ar00630-acer-platanoides-1945.jpg
+    src: ../../media/joseph-beuys-ar00630-acer-platanoides-1945.webp
   - inventorynumber: AR00629
     category: Works on paper 1945 - 1953
     title: Sun and Pylon, 1946
@@ -247,7 +247,7 @@ works:
       © DACS, 2014
 
       AR00629
-    src: ../../media/joseph-beuys-ar00629-sun-and-pylon-1946.jpg
+    src: ../../media/joseph-beuys-ar00629-sun-and-pylon-1946.webp
   - inventorynumber: AR00095
     category: Works on paper 1945 - 1953
     title: Dove, Food, Rainbow, 1949
@@ -257,7 +257,7 @@ works:
       © DACS, 2014
 
       AR00095
-    src: ../../media/joseph-beuys-ar00095-dove-food-rainbow-1949.jpg
+    src: ../../media/joseph-beuys-ar00095-dove-food-rainbow-1949.webp
   - inventorynumber: AR00096
     category: Works on paper 1945 - 1953
     title: Ice Age, 1951
@@ -267,7 +267,7 @@ works:
       © DACS, 2014
 
       AR00096
-    src: ../../media/joseph-beuys-ar00096-ice-age-1951.jpg
+    src: ../../media/joseph-beuys-ar00096-ice-age-1951.webp
   - inventorynumber: AR00097
     category: Works on paper 1945 - 1953
     title: Roses, 1952
@@ -277,7 +277,7 @@ works:
       © DACS, 2014
 
       AR00097
-    src: ../../media/joseph-beuys-ar00097-roses-1952.jpg
+    src: ../../media/joseph-beuys-ar00097-roses-1952.webp
   - inventorynumber: AR00098
     category: Works on paper 1945 - 1953
     title: The Table, 1952
@@ -287,7 +287,7 @@ works:
       © DACS, 2014
 
       AR00098
-    src: ../../media/joseph-beuys-ar00098-the-table-1952.jpg
+    src: ../../media/joseph-beuys-ar00098-the-table-1952.webp
   - inventorynumber: AR00100
     category: Works on paper 1945 - 1953
     title: Weird Sister, 1953-62
@@ -297,7 +297,7 @@ works:
       © DACS, 2014
 
       AR00100
-    src: ../../media/joseph-beuys-ar00100-weird-sister-1953-62.jpg
+    src: ../../media/joseph-beuys-ar00100-weird-sister-1953-62.webp
   - inventorynumber: AR00099
     category: Works on paper 1945 - 1953
     title: Angel Whale, 1953
@@ -307,7 +307,7 @@ works:
       © DACS, 2014
 
       AR00099
-    src: ../../media/joseph-beuys-ar00099-angel-whale-1953.jpg
+    src: ../../media/joseph-beuys-ar00099-angel-whale-1953.webp
   - inventorynumber: AL00196
     category: Works on paper 1945 - 1953
     title: The Centrifugal Forces of the Mountains, 1953
@@ -317,7 +317,7 @@ works:
       © DACS, 2014
 
       AL00196
-    src: ../../media/joseph-beuys-al00196-the-centrifugal-forces-of-the-mountains-1953.jpg
+    src: ../../media/joseph-beuys-al00196-the-centrifugal-forces-of-the-mountains-1953.webp
   - inventorynumber: AR00631
     category: Works on paper 1945 - 1953
     title: Geysir, 1953
@@ -328,7 +328,7 @@ works:
       © DACS, 2014
 
       AR00631
-    src: ../../media/joseph-beuys-ar00631-geysir-1953.jpg
+    src: ../../media/joseph-beuys-ar00631-geysir-1953.webp
   - inventorynumber: AR00101
     category: Works on paper 1954 - 1956
     title: Weiße Frau in Gras (Fairy), 1954
@@ -338,7 +338,7 @@ works:
       © DACS, 2014
 
       AR00101
-    src: ../../media/joseph-beuys-ar00101-weie-frau-in-gras-fairy-1954.jpg
+    src: ../../media/joseph-beuys-ar00101-weie-frau-in-gras-fairy-1954.webp
   - inventorynumber: AR00102
     category: Works on paper 1954 - 1956
     title: Sculptures, 1954
@@ -349,7 +349,7 @@ works:
       © DACS, 2014
 
       AR00102
-    src: ../../media/joseph-beuys-ar00102-sculptures-1954.jpg
+    src: ../../media/joseph-beuys-ar00102-sculptures-1954.webp
   - inventorynumber: AR00632
     category: Works on paper 1954 - 1956
     title: Crystal Measurement, 1954
@@ -359,7 +359,7 @@ works:
       © DACS, 2014
 
       AR00632
-    src: ../../media/joseph-beuys-ar00632-crystal-measurement-1954.jpg
+    src: ../../media/joseph-beuys-ar00632-crystal-measurement-1954.webp
   - inventorynumber: AR00633
     category: Works on paper 1954 - 1956
     title: 2 rote Fische, 1954
@@ -369,7 +369,7 @@ works:
       © DACS, 2014
 
       AR00633
-    src: ../../media/joseph-beuys-ar00633-2-rote-fische-1954.jpg
+    src: ../../media/joseph-beuys-ar00633-2-rote-fische-1954.webp
   - inventorynumber: AR00635
     category: Works on paper 1954 - 1956
     title: Aus dem Leben der Bienen, 1954
@@ -379,7 +379,7 @@ works:
       © DACS, 2014
 
       AR00635
-    src: ../../media/joseph-beuys-ar00635-aus-dem-leben-der-bienen-1954.jpg
+    src: ../../media/joseph-beuys-ar00635-aus-dem-leben-der-bienen-1954.webp
   - inventorynumber: AR00636
     category: Works on paper 1954 - 1956
     title: Badezimmer der Circe, 1954-8
@@ -389,7 +389,7 @@ works:
       © DACS, 2014
 
       AR00636
-    src: ../../media/joseph-beuys-ar00636-badezimmer-der-circe-1954-8.jpg
+    src: ../../media/joseph-beuys-ar00636-badezimmer-der-circe-1954-8.webp
   - inventorynumber: AR00103
     category: Works on paper 1954 - 1956
     title: Passage der Zukunftplanetoiden, 1955
@@ -399,7 +399,7 @@ works:
       © DACS, 2014
 
       AR00103
-    src: ../../media/joseph-beuys-ar00103-passage-der-zukunftplanetoiden-1955.jpg
+    src: ../../media/joseph-beuys-ar00103-passage-der-zukunftplanetoiden-1955.webp
   - inventorynumber: AR00696
     category: Works on paper 1954 - 1956
     title: Untitled, 1955
@@ -409,7 +409,7 @@ works:
       © DACS, 2014
 
       AR00696
-    src: ../../media/joseph-beuys-ar00696-untitled-1955.jpg
+    src: ../../media/joseph-beuys-ar00696-untitled-1955.webp
   - inventorynumber: AR00637
     category: Works on paper 1954 - 1956
     title: Actress, 1956
@@ -419,7 +419,7 @@ works:
       © DACS, 2014
 
       AR00637
-    src: ../../media/joseph-beuys-ar00637-actress-1956.jpg
+    src: ../../media/joseph-beuys-ar00637-actress-1956.webp
   - inventorynumber: AR00104
     category: Works on paper 1954 - 1956
     title: Beobachtung für Katze, 1956
@@ -429,7 +429,7 @@ works:
       © DACS, 2014
 
       AR00104
-    src: ../../media/joseph-beuys-ar00104-beobachtung-fr-katze-1956.jpg
+    src: ../../media/joseph-beuys-ar00104-beobachtung-fr-katze-1956.webp
   - inventorynumber: AR00638
     category: Works on paper 1957 - 1958
     title: Untitled, 1957
@@ -439,7 +439,7 @@ works:
       © DACS, 2014
 
       AR00638
-    src: ../../media/joseph-beuys-ar00638-untitled-1957.jpg
+    src: ../../media/joseph-beuys-ar00638-untitled-1957.webp
   - inventorynumber: AR00697
     category: Works on paper 1957 - 1958
     title: Brightly-Lit Stag Chair, 1957-71
@@ -450,7 +450,7 @@ works:
       © DACS, 2014
 
       AR00697
-    src: ../../media/joseph-beuys-ar00697-brightly-lit-stag-chair-1957-71.jpg
+    src: ../../media/joseph-beuys-ar00697-brightly-lit-stag-chair-1957-71.webp
   - inventorynumber: AR00105
     category: Works on paper 1957 - 1958
     title: Aktricen, 1958
@@ -460,7 +460,7 @@ works:
       © DACS, 2014
 
       AR00105
-    src: ../../media/joseph-beuys-ar00105-aktricen-1958.jpg
+    src: ../../media/joseph-beuys-ar00105-aktricen-1958.webp
   - inventorynumber: AR00107
     category: Works on paper 1957 - 1958
     title: Clan, 1958
@@ -470,7 +470,7 @@ works:
       © DACS, 2014
 
       AR00107
-    src: ../../media/joseph-beuys-ar00107-clan-1958.jpg
+    src: ../../media/joseph-beuys-ar00107-clan-1958.webp
   - inventorynumber: AR00108
     category: Works on paper 1957 - 1958
     title: Schmied II, 1958
@@ -480,7 +480,7 @@ works:
       © DACS, 2014
 
       AR00108
-    src: ../../media/joseph-beuys-ar00108-schmied-ii-1958.jpg
+    src: ../../media/joseph-beuys-ar00108-schmied-ii-1958.webp
   - inventorynumber: AR00109
     category: Works on paper 1959 - 1961
     title: Hexen Feuer Speiend, 1959
@@ -490,7 +490,7 @@ works:
       © DACS, 2014
 
       AR00109
-    src: ../../media/joseph-beuys-ar00109-hexen-feuer-speiend-1959.jpg
+    src: ../../media/joseph-beuys-ar00109-hexen-feuer-speiend-1959.webp
   - inventorynumber: AR00111
     category: Works on paper 1959 - 1961
     title: Hirschdenkmal, 1959
@@ -500,7 +500,7 @@ works:
       © DACS, 2014
 
       AR00111
-    src: ../../media/joseph-beuys-ar00111-hirschdenkmal-1959.jpg
+    src: ../../media/joseph-beuys-ar00111-hirschdenkmal-1959.webp
   - inventorynumber: AR00110
     category: Works on paper 1959 - 1961
     title: Battery, 1959
@@ -510,7 +510,7 @@ works:
       © DACS, 2014
 
       AR00110
-    src: ../../media/joseph-beuys-ar00110-battery-1959.jpg
+    src: ../../media/joseph-beuys-ar00110-battery-1959.webp
   - inventorynumber: AR00634
     category: Works on paper 1957 - 1958
     title: Sonde im Blutkreislauf des Eiches, 1958
@@ -520,7 +520,7 @@ works:
       © DACS, 2014
 
       AR00634
-    src: ../../media/joseph-beuys-ar00634-sonde-im-blutkreislauf-des-eiches-1958.jpg
+    src: ../../media/joseph-beuys-ar00634-sonde-im-blutkreislauf-des-eiches-1958.webp
   - inventorynumber: AR00640
     category: Works on paper 1957 - 1958
     title: Filter, 1958
@@ -530,7 +530,7 @@ works:
       © DACS, 2014
 
       AR00640
-    src: ../../media/joseph-beuys-ar00640-filter-1958.jpg
+    src: ../../media/joseph-beuys-ar00640-filter-1958.webp
   - inventorynumber: AR00641
     category: Works on paper 1957 - 1958
     title: Untitled, 1958
@@ -540,7 +540,7 @@ works:
       © DACS, 2014
 
       AR00641
-    src: ../../media/joseph-beuys-ar00641-untitled-1958.jpg
+    src: ../../media/joseph-beuys-ar00641-untitled-1958.webp
   - inventorynumber: AR00639
     category: Works on paper 1957 - 1958
     title: Jungfrau (Holz), 1958
@@ -550,7 +550,7 @@ works:
       © DACS, 2014
 
       AR00639
-    src: ../../media/joseph-beuys-ar00639-jungfrau-holz-1958.jpg
+    src: ../../media/joseph-beuys-ar00639-jungfrau-holz-1958.webp
   - inventorynumber: AR00106
     category: Works on paper 1957 - 1958
     title: Untitled (Frauendarstellung), 1958
@@ -560,7 +560,7 @@ works:
       © DACS, 2014
 
       AR00106
-    src: ../../media/joseph-beuys-ar00106-untitled-frauendarstellung-1958.jpg
+    src: ../../media/joseph-beuys-ar00106-untitled-frauendarstellung-1958.webp
   - inventorynumber: AR00642
     category: Works on paper 1957 - 1958
     title: Untitled, 1958
@@ -570,7 +570,7 @@ works:
       © DACS, 2014
 
       AR00642
-    src: ../../media/joseph-beuys-ar00642-untitled-1958.jpg
+    src: ../../media/joseph-beuys-ar00642-untitled-1958.webp
   - inventorynumber: AR00112
     category: Works on paper 1959 - 1961
     title: Die Elektricität, 1959
@@ -581,7 +581,7 @@ works:
       © DACS, 2014
 
       AR00112
-    src: ../../media/joseph-beuys-ar00112-die-elektricitt-1959.jpg
+    src: ../../media/joseph-beuys-ar00112-die-elektricitt-1959.webp
   - inventorynumber: AR00114
     category: Works on paper 1959 - 1961
     title: Schwangere und Schwan, 1959
@@ -591,7 +591,7 @@ works:
       © DACS, 2014
 
       AR00114
-    src: ../../media/joseph-beuys-ar00114-schwangere-und-schwan-1959.jpg
+    src: ../../media/joseph-beuys-ar00114-schwangere-und-schwan-1959.webp
   - inventorynumber: AR00646
     category: Works on paper 1959 - 1961
     title: Untitled, 1959-60
@@ -602,7 +602,7 @@ works:
       © DACS, 2014
 
       AR00646
-    src: ../../media/joseph-beuys-ar00646-untitled-1959-60.jpg
+    src: ../../media/joseph-beuys-ar00646-untitled-1959-60.webp
   - inventorynumber: AR00643
     category: Works on paper 1959 - 1961
     title: Untitled, 1959
@@ -612,7 +612,7 @@ works:
       © DACS, 2014
 
       AR00643
-    src: ../../media/joseph-beuys-ar00643-untitled-1959.jpg
+    src: ../../media/joseph-beuys-ar00643-untitled-1959.webp
   - inventorynumber: AR00644
     category: Works on paper 1959 - 1961
     title: Untitled, 1959
@@ -622,7 +622,7 @@ works:
       © DACS, 2014
 
       AR00644
-    src: ../../media/joseph-beuys-ar00644-untitled-1959.jpg
+    src: ../../media/joseph-beuys-ar00644-untitled-1959.webp
   - inventorynumber: AR00645
     category: Works on paper 1959 - 1961
     title: Woman with falling stone, 1959
@@ -632,7 +632,7 @@ works:
       © DACS, 2014
 
       AR00645
-    src: ../../media/joseph-beuys-ar00645-woman-with-falling-stone-1959.jpg
+    src: ../../media/joseph-beuys-ar00645-woman-with-falling-stone-1959.webp
   - inventorynumber: AR00113
     category: Works on paper 1959 - 1961
     title: Mädchen drucht elastiche Plastik ein, 1961
@@ -642,7 +642,7 @@ works:
       © DACS, 2014
 
       AR00113
-    src: ../../media/joseph-beuys-ar00113-mdchen-drucht-elastiche-plastik-ein-1961.jpg
+    src: ../../media/joseph-beuys-ar00113-mdchen-drucht-elastiche-plastik-ein-1961.webp
   - inventorynumber: AR00647
     category: Works on paper 1959 - 1961
     title: 2 Schafsköpfe, 1961-75
@@ -652,7 +652,7 @@ works:
       © DACS, 2014
 
       AR00647
-    src: ../../media/joseph-beuys-ar00647-2-schafskpfe-1961-75.jpg
+    src: ../../media/joseph-beuys-ar00647-2-schafskpfe-1961-75.webp
   - inventorynumber: AR00648
     category: Works on paper 1959 - 1961
     title: "Demonstration: Hand 1961"
@@ -662,7 +662,7 @@ works:
       © DACS, 2014
 
       AR00648
-    src: ../../media/joseph-beuys-ar00648-demonstration-hand-1961.jpg
+    src: ../../media/joseph-beuys-ar00648-demonstration-hand-1961.webp
   - inventorynumber: AR00651
     category: Works on paper 1959 - 1961
     title: Untitled, 1961
@@ -672,7 +672,7 @@ works:
       © DACS, 2014
 
       AR00651
-    src: ../../media/joseph-beuys-ar00651-untitled-1961.jpg
+    src: ../../media/joseph-beuys-ar00651-untitled-1961.webp
   - inventorynumber: AR00649
     category: Works on paper 1959 - 1961
     title: Kreuz, 1961
@@ -682,7 +682,7 @@ works:
       © DACS, 2014
 
       AR00650
-    src: ../../media/joseph-beuys-ar00649-kreuz-1961.jpg
+    src: ../../media/joseph-beuys-ar00649-kreuz-1961.webp
   - inventorynumber: AR00650
     category: Works on paper 1959 - 1961
     title: Trance in the House of the Shaman, 1961
@@ -692,7 +692,7 @@ works:
       © DACS, 2014
 
       AR00650
-    src: ../../media/joseph-beuys-ar00650-trance-in-the-house-of-the-shaman-1961.jpg
+    src: ../../media/joseph-beuys-ar00650-trance-in-the-house-of-the-shaman-1961.webp
   - inventorynumber: AR00652
     category: Works on paper 1962 - 1964
     title: Braunkreuz, 1962
@@ -704,7 +704,7 @@ works:
       © DACS, 2014
 
       AR00652
-    src: ../../media/joseph-beuys-ar00652-braunkreuz-1962.jpg
+    src: ../../media/joseph-beuys-ar00652-braunkreuz-1962.webp
   - inventorynumber: AR00698
     category: Works on paper 1962 - 1964
     title: Physico-Chem-Zeit-Konstellation 11:00 23:00, 1962
@@ -715,7 +715,7 @@ works:
       © DACS, 2014
 
       AR00698
-    src: ../../media/joseph-beuys-ar00698-physico-chem-zeit-konstellation-1100-2300-1962.jpg
+    src: ../../media/joseph-beuys-ar00698-physico-chem-zeit-konstellation-1100-2300-1962.webp
   - inventorynumber: AR00653
     category: Works on paper 1962 - 1964
     title: Untitled, 1962
@@ -725,7 +725,7 @@ works:
       © DACS, 2014
 
       AR00653
-    src: ../../media/joseph-beuys-ar00653-untitled-1962.jpg
+    src: ../../media/joseph-beuys-ar00653-untitled-1962.webp
   - inventorynumber: AR00656
     category: Works on paper 1962 - 1964
     title: Untitled, 1962
@@ -735,7 +735,7 @@ works:
       © DACS, 2014
 
       AR00656
-    src: ../../media/joseph-beuys-ar00656-untitled-1962.jpg
+    src: ../../media/joseph-beuys-ar00656-untitled-1962.webp
   - inventorynumber: AR00699
     category: Works on paper 1962 - 1964
     title: + -, 1962
@@ -746,7 +746,7 @@ works:
       © DACS, 2014
 
       AR00699
-    src: ../../media/joseph-beuys-ar00699-1962.jpg
+    src: ../../media/joseph-beuys-ar00699-1962.webp
   - inventorynumber: AR00654
     category: Works on paper 1962 - 1964
     title: Tails, 1962
@@ -756,7 +756,7 @@ works:
       © DACS, 2014
 
       AR00654
-    src: ../../media/joseph-beuys-ar00654-tails-1962.jpg
+    src: ../../media/joseph-beuys-ar00654-tails-1962.webp
   - inventorynumber: AR00655
     category: Works on paper 1962 - 1964
     title: For Siberian Symphony, 1962
@@ -766,7 +766,7 @@ works:
       © DACS, 2014
 
       AR00655
-    src: ../../media/joseph-beuys-ar00655-for-siberian-symphony-1962.jpg
+    src: ../../media/joseph-beuys-ar00655-for-siberian-symphony-1962.webp
   - inventorynumber: AR00657
     category: Works on paper 1962 - 1964
     title: Runrig, 1962-72
@@ -777,7 +777,7 @@ works:
       © DACS, 2014
 
       AR00657
-    src: ../../media/joseph-beuys-ar00657-runrig-1962-72.jpg
+    src: ../../media/joseph-beuys-ar00657-runrig-1962-72.webp
   - inventorynumber: AR00115
     category: Works on paper 1962 - 1964
     title: Stück 17, 1963
@@ -787,7 +787,7 @@ works:
       © DACS, 2014
 
       AR00115
-    src: ../../media/joseph-beuys-ar00115-stck-17-1963.jpg
+    src: ../../media/joseph-beuys-ar00115-stck-17-1963.webp
   - inventorynumber: AR00658
     category: Works on paper 1962 - 1964
     title: Fluxus-Namensliste, 1963
@@ -797,7 +797,7 @@ works:
       © DACS, 2014
 
       AR00658
-    src: ../../media/joseph-beuys-ar00658-fluxus-namensliste-1963.jpg
+    src: ../../media/joseph-beuys-ar00658-fluxus-namensliste-1963.webp
   - inventorynumber: AR00659
     category: Works on paper 1962 - 1964
     title: Untitled, 1963
@@ -807,7 +807,7 @@ works:
       © DACS, 2014
 
       AR00659
-    src: ../../media/joseph-beuys-ar00659-untitled-1963.jpg
+    src: ../../media/joseph-beuys-ar00659-untitled-1963.webp
   - inventorynumber: AR00660
     category: Works on paper 1962 - 1964
     title: Untitled, 1963-4
@@ -819,7 +819,7 @@ works:
       © DACS, 2014
 
       AR00660
-    src: ../../media/joseph-beuys-ar00660-untitled-1963-4.jpg
+    src: ../../media/joseph-beuys-ar00660-untitled-1963-4.webp
   - inventorynumber: AR00700
     category: Works on paper 1962 - 1964
     title: Filz Aktion, 1963
@@ -829,7 +829,7 @@ works:
       © DACS, 2014
 
       AR00700
-    src: ../../media/joseph-beuys-ar00700-filz-aktion-1963.jpg
+    src: ../../media/joseph-beuys-ar00700-filz-aktion-1963.webp
   - inventorynumber: AR00661
     category: Works on paper 1962 - 1964
     title: Felt Sculptures, 1964
@@ -839,7 +839,7 @@ works:
       © DACS, 2014
 
       AR00661
-    src: ../../media/joseph-beuys-ar00661-felt-sculptures-1964.jpg
+    src: ../../media/joseph-beuys-ar00661-felt-sculptures-1964.webp
   - inventorynumber: AR00117
     category: Works on paper 1962 - 1964
     title: Therapeuticum, 1964
@@ -849,7 +849,7 @@ works:
       © DACS, 2014
 
       AR00117
-    src: ../../media/joseph-beuys-ar00117-therapeuticum-1964.jpg
+    src: ../../media/joseph-beuys-ar00117-therapeuticum-1964.webp
   - inventorynumber: AR00116
     category: Works on paper 1962 - 1964
     title: Für Filzplastik, 1964
@@ -861,7 +861,7 @@ works:
       © DACS, 2014
 
       AR00116
-    src: ../../media/joseph-beuys-ar00116-fr-filzplastik-1964.jpg
+    src: ../../media/joseph-beuys-ar00116-fr-filzplastik-1964.webp
   - inventorynumber: AR00120
     category: Works on paper 1962 - 1964
     title: "For Brown Environment: Giant Vessels, 1964"
@@ -871,7 +871,7 @@ works:
       © DACS, 2014
 
       AR00120
-    src: ../../media/joseph-beuys-ar00120-for-brown-environment-giant-vessels-1964.jpg
+    src: ../../media/joseph-beuys-ar00120-for-brown-environment-giant-vessels-1964.webp
   - inventorynumber: AR00130
     category: Works on paper 1962 - 1964
     title: "For Brown Environment: Giant Vessels, 1964"
@@ -881,7 +881,7 @@ works:
       © DACS, 2014
 
       AR00130
-    src: ../../media/joseph-beuys-ar00130-for-brown-environment-giant-vessels-1964.jpg
+    src: ../../media/joseph-beuys-ar00130-for-brown-environment-giant-vessels-1964.webp
   - inventorynumber: AR00119
     category: Works on paper 1962 - 1964
     title: Für Braun Raum, 1964
@@ -892,7 +892,7 @@ works:
       © DACS, 2014
 
       AR00119
-    src: ../../media/joseph-beuys-ar00119-fr-braun-raum-1964.jpg
+    src: ../../media/joseph-beuys-ar00119-fr-braun-raum-1964.webp
   - inventorynumber: AR00118
     category: Works on paper 1962 - 1964
     title: Tunnel (Cathode Rays) Felt-Room Action, 1964
@@ -902,7 +902,7 @@ works:
       © DACS, 2014
 
       AR00118
-    src: ../../media/joseph-beuys-ar00118-tunnel-cathode-rays-felt-room-action-1964.jpg
+    src: ../../media/joseph-beuys-ar00118-tunnel-cathode-rays-felt-room-action-1964.webp
   - inventorynumber: AR00662
     category: Works on paper 1962 - 1964
     title: Untitled, 1964
@@ -912,7 +912,7 @@ works:
       © DACS, 2014
 
       AR00662
-    src: ../../media/joseph-beuys-ar00662-untitled-1964.jpg
+    src: ../../media/joseph-beuys-ar00662-untitled-1964.webp
   - inventorynumber: AR00663
     category: Works on paper 1962 - 1964
     title: Aktrice, 1964
@@ -922,7 +922,7 @@ works:
       © DACS, 2014
 
       AR00663
-    src: ../../media/joseph-beuys-ar00663-aktrice-1964.jpg
+    src: ../../media/joseph-beuys-ar00663-aktrice-1964.webp
   - inventorynumber: AR00665
     category: Works on paper 1962 - 1964
     title: Motor 4, 1964-80
@@ -932,7 +932,7 @@ works:
       © DACS, 2014
 
       AR00665
-    src: ../../media/joseph-beuys-ar00665-motor-4-1964-80.jpg
+    src: ../../media/joseph-beuys-ar00665-motor-4-1964-80.webp
   - inventorynumber: AR00664
     category: Works on paper 1962 - 1964
     title: Unter Spannung, 1964
@@ -942,7 +942,7 @@ works:
       © DACS, 2014
 
       AR00664
-    src: ../../media/joseph-beuys-ar00664-unter-spannung-1964.jpg
+    src: ../../media/joseph-beuys-ar00664-unter-spannung-1964.webp
   - inventorynumber: AR00666
     category: Works on paper 1962 - 1964
     title: Naturgeschichte, 1964-82
@@ -952,7 +952,7 @@ works:
       © DACS, 2014
 
       AR00666
-    src: ../../media/joseph-beuys-ar00666-naturgeschichte-1964-82.jpg
+    src: ../../media/joseph-beuys-ar00666-naturgeschichte-1964-82.webp
   - inventorynumber: AR00121
     category: Works on paper 1965 - 1967
     title: Houses of the Shaman, 1965
@@ -963,7 +963,7 @@ works:
       © DACS, 2014
 
       AR00121
-    src: ../../media/joseph-beuys-ar00121-houses-of-the-shaman-1965.jpg
+    src: ../../media/joseph-beuys-ar00121-houses-of-the-shaman-1965.webp
   - inventorynumber: AR00667
     category: Works on paper 1965 - 1967
     title: Sostanza Plastica, 1965
@@ -973,7 +973,7 @@ works:
       © DACS, 2014
 
       AR00667
-    src: ../../media/joseph-beuys-ar00667-sostanza-plastica-1965.jpg
+    src: ../../media/joseph-beuys-ar00667-sostanza-plastica-1965.webp
   - inventorynumber: AR00122
     category: Works on paper 1965 - 1967
     title: Dwarf (Self-Portrait), 1965
@@ -983,7 +983,7 @@ works:
       © DACS, 2014
 
       AR00122
-    src: ../../media/joseph-beuys-ar00122-dwarf-self-portrait-1965.jpg
+    src: ../../media/joseph-beuys-ar00122-dwarf-self-portrait-1965.webp
   - inventorynumber: AR00668
     category: Works on paper 1965 - 1967
     title: Intelligentia, 1965
@@ -993,7 +993,7 @@ works:
       © DACS, 2014
 
       AR00668
-    src: ../../media/joseph-beuys-ar00668-intelligentia-1965.jpg
+    src: ../../media/joseph-beuys-ar00668-intelligentia-1965.webp
   - inventorynumber: AR00669
     category: Works on paper 1965 - 1967
     title: Untitled, 1965
@@ -1003,7 +1003,7 @@ works:
       © DACS, 2014
 
       AR00669
-    src: ../../media/joseph-beuys-ar00669-untitled-1965.jpg
+    src: ../../media/joseph-beuys-ar00669-untitled-1965.webp
   - inventorynumber: AR00123
     category: Works on paper 1965 - 1967
     title: Granite in Arid Chalk, 1965
@@ -1013,7 +1013,7 @@ works:
       © DACS, 2014
 
       AR00123
-    src: ../../media/joseph-beuys-ar00123-granite-in-arid-chalk-1965.jpg
+    src: ../../media/joseph-beuys-ar00123-granite-in-arid-chalk-1965.webp
   - inventorynumber: AR00670
     category: Works on paper 1965 - 1967
     title: Filz-Aktion für eine Aktrice, 1965
@@ -1023,7 +1023,7 @@ works:
       © DACS, 2014
 
       AR00670
-    src: ../../media/joseph-beuys-ar00670-filz-aktion-fr-eine-aktrice-1965.jpg
+    src: ../../media/joseph-beuys-ar00670-filz-aktion-fr-eine-aktrice-1965.webp
   - inventorynumber: AR00671
     category: Works on paper 1965 - 1967
     title: Untitled, 1965
@@ -1033,7 +1033,7 @@ works:
       © DACS, 2014
 
       AR00671
-    src: ../../media/joseph-beuys-ar00671-untitled-1965.jpg
+    src: ../../media/joseph-beuys-ar00671-untitled-1965.webp
   - inventorynumber: AR00124
     category: Works on paper 1965 - 1967
     title: Partitur für Manresa, 1966
@@ -1043,7 +1043,7 @@ works:
       © DACS, 2014
 
       AR00124
-    src: ../../media/joseph-beuys-ar00124-partitur-fr-manresa-1966.jpg
+    src: ../../media/joseph-beuys-ar00124-partitur-fr-manresa-1966.webp
   - inventorynumber: AR00672
     category: Works on paper 1965 - 1967
     title: Whale Trap, 1966
@@ -1053,7 +1053,7 @@ works:
       © DACS, 2014
 
       AR00672
-    src: ../../media/joseph-beuys-ar00672-whale-trap-1966.jpg
+    src: ../../media/joseph-beuys-ar00672-whale-trap-1966.webp
   - inventorynumber: AR00676
     category: Works on paper 1965 - 1967
     title: Schmela, 1966
@@ -1063,7 +1063,7 @@ works:
       © DACS, 2014
 
       AR00676
-    src: ../../media/joseph-beuys-ar00676-schmela-1966.jpg
+    src: ../../media/joseph-beuys-ar00676-schmela-1966.webp
   - inventorynumber: AR00674
     category: Works on paper 1965 - 1967
     title: Partitur für Sibirische Symphonie, 1966
@@ -1074,7 +1074,7 @@ works:
       © DACS, 2014
 
       AR00674
-    src: ../../media/joseph-beuys-ar00674-partitur-fr-sibirische-symphonie-1966.jpg
+    src: ../../media/joseph-beuys-ar00674-partitur-fr-sibirische-symphonie-1966.webp
   - inventorynumber: AR00675
     category: Works on paper 1965 - 1967
     title: Der Atem, 1966
@@ -1084,7 +1084,7 @@ works:
       © DACS, 2014
 
       AR00675
-    src: ../../media/joseph-beuys-ar00675-der-atem-1966.jpg
+    src: ../../media/joseph-beuys-ar00675-der-atem-1966.webp
   - inventorynumber: AR00673
     category: Works on paper 1965 - 1967
     title: Object for MANRESA, 1966
@@ -1094,7 +1094,7 @@ works:
       © DACS, 2014
 
       AR00673
-    src: ../../media/joseph-beuys-ar00673-object-for-manresa-1966.jpg
+    src: ../../media/joseph-beuys-ar00673-object-for-manresa-1966.webp
   - inventorynumber: AR00678
     category: Works on paper 1965 - 1967
     title: Partitur, 1967
@@ -1105,7 +1105,7 @@ works:
       © DACS, 2014
 
       AR00678
-    src: ../../media/joseph-beuys-ar00678-partitur-1967.jpg
+    src: ../../media/joseph-beuys-ar00678-partitur-1967.webp
   - inventorynumber: AR00677
     category: Works on paper 1965 - 1967
     title: Deutsche Studentenpartei, 1967
@@ -1115,7 +1115,7 @@ works:
       © DACS, 2014
 
       AR00677
-    src: ../../media/joseph-beuys-ar00677-deutsche-studentenpartei-1967.jpg
+    src: ../../media/joseph-beuys-ar00677-deutsche-studentenpartei-1967.webp
   - inventorynumber: AR00679
     category: Works on paper 1968 - 1976
     title: For FOND II, 1968
@@ -1125,7 +1125,7 @@ works:
       © DACS, 2014
 
       AR00679
-    src: ../../media/joseph-beuys-ar00679-for-fond-ii-1968.jpg
+    src: ../../media/joseph-beuys-ar00679-for-fond-ii-1968.webp
   - inventorynumber: AL00202
     category: Works on paper 1968 - 1976
     title: Walk Only When You Feel; Your Walk Starts Revolution, 1969
@@ -1136,7 +1136,7 @@ works:
       © DACS, 2014
 
       AL00202 
-    src: ../../media/joseph-beuys-al00202-walk-only-when-you-feel-your-walk-starts-revolution-1969.jpg
+    src: ../../media/joseph-beuys-al00202-walk-only-when-you-feel-your-walk-starts-revolution-1969.webp
   - inventorynumber: AR00680
     category: Works on paper 1968 - 1976
     title: A Party for Animals, 1969
@@ -1146,7 +1146,7 @@ works:
       © DACS, 2014
 
       AR00680
-    src: ../../media/joseph-beuys-ar00680-a-party-for-animals-1969.jpg
+    src: ../../media/joseph-beuys-ar00680-a-party-for-animals-1969.webp
   - inventorynumber: AR00681
     category: Works on paper 1968 - 1976
     title: Young Blacksmith with his Work, 1971
@@ -1156,7 +1156,7 @@ works:
       © DACS, 2014
 
       AR00681
-    src: ../../media/joseph-beuys-ar00681-young-blacksmith-with-his-work-1971.jpg
+    src: ../../media/joseph-beuys-ar00681-young-blacksmith-with-his-work-1971.webp
   - inventorynumber: AR00682
     category: Works on paper 1968 - 1976
     title: Untitled, 1972
@@ -1166,7 +1166,7 @@ works:
       © DACS, 2014
 
       AR00682
-    src: ../../media/joseph-beuys-ar00682-untitled-1972.jpg
+    src: ../../media/joseph-beuys-ar00682-untitled-1972.webp
   - inventorynumber: AR00624
     category: Works on paper 1968 - 1976
     title: La Rivoluzione Siamo Noi, 1972
@@ -1176,7 +1176,7 @@ works:
       © DACS, 2014
 
       AR00624
-    src: ../../media/joseph-beuys-ar00624-la-rivoluzione-siamo-noi-1972.jpg
+    src: ../../media/joseph-beuys-ar00624-la-rivoluzione-siamo-noi-1972.webp
   - inventorynumber: AR00683
     category: Works on paper 1968 - 1976
     title: Score for Action with Transmitter (Felt) Receiver in the Mountains, 1973
@@ -1186,7 +1186,7 @@ works:
       © DACS, 2014
 
       AR00683
-    src: ../../media/joseph-beuys-ar00683-score-for-action-with-transmitter-felt-receiver-in-the-mountains-1973.jpg
+    src: ../../media/joseph-beuys-ar00683-score-for-action-with-transmitter-felt-receiver-in-the-mountains-1973.webp
   - inventorynumber: AR00125
     category: Works on paper 1968 - 1976
     title: Astral Chemical Goddess, 1974
@@ -1196,7 +1196,7 @@ works:
       © DACS, 2014
 
       AR00125
-    src: ../../media/joseph-beuys-ar00125-astral-chemical-goddess-1974.jpg
+    src: ../../media/joseph-beuys-ar00125-astral-chemical-goddess-1974.webp
   - inventorynumber: AR00126
     category: Works on paper 1968 - 1976
     title: Night in the Rafters, 1974
@@ -1206,7 +1206,7 @@ works:
       © DACS, 2014
 
       AR00126
-    src: ../../media/joseph-beuys-ar00126-night-in-the-rafters-1974.jpg
+    src: ../../media/joseph-beuys-ar00126-night-in-the-rafters-1974.webp
   - inventorynumber: AR00684-0
     category: Works on paper 1977 - 1985
     title: Untitled, 1984
@@ -1216,7 +1216,7 @@ works:
       © DACS, 2014
 
       AR00684
-    src: ../../media/joseph-beuys-ar00684-0-untitled-1984.jpg
+    src: ../../media/joseph-beuys-ar00684-0-untitled-1984.webp
   - inventorynumber: AR00127
     category: Works on paper 1968 - 1976
     title: The Woman with the Dog, 1975
@@ -1227,7 +1227,7 @@ works:
       © DACS, 2014
 
       AR00127
-    src: ../../media/joseph-beuys-ar00127-the-woman-with-the-dog-1975.jpg
+    src: ../../media/joseph-beuys-ar00127-the-woman-with-the-dog-1975.webp
   - inventorynumber: AR00128
     category: Works on paper 1968 - 1976
     title: Honey is Flowing in All Directions, 1976
@@ -1237,7 +1237,7 @@ works:
       © Robert Therrien / DACS, 2014
 
       AR00128
-    src: ../../media/joseph-beuys-ar00128-honey-is-flowing-in-all-directions-1976.jpg
+    src: ../../media/joseph-beuys-ar00128-honey-is-flowing-in-all-directions-1976.webp
   - inventorynumber: AR00601
     category: Works on paper 1968 - 1976
     title: Sekretarstasche, 1976
@@ -1247,7 +1247,7 @@ works:
       © DACS, 2014
 
       AR00601
-    src: ../../media/joseph-beuys-ar00601-sekretarstasche-1976.jpg
+    src: ../../media/joseph-beuys-ar00601-sekretarstasche-1976.webp
   - inventorynumber: AR00685
     category: Works on paper 1977 - 1985
     title: Electric Sphinx, 1977
@@ -1257,7 +1257,7 @@ works:
       © DACS, 2014
 
       AR00685
-    src: ../../media/joseph-beuys-ar00685-electric-sphinx-1977.jpg
+    src: ../../media/joseph-beuys-ar00685-electric-sphinx-1977.webp
   - inventorynumber: AR00093
     category: Photography
     title: Show Your Wound, 1977
@@ -1270,7 +1270,7 @@ works:
       © DACS, 2014
 
       AR00093
-    src: ../../media/joseph-beuys-ar00093-show-your-wound-1977.jpg
+    src: ../../media/joseph-beuys-ar00093-show-your-wound-1977.webp
   - inventorynumber: AR00129
     category: Works on paper 1977 - 1985
     title: The Shaman's Two Bags, 1977
@@ -1281,7 +1281,7 @@ works:
       © DACS, 2014
 
       AR00129
-    src: ../../media/joseph-beuys-ar00129-the-shamans-two-bags-1977.jpg
+    src: ../../media/joseph-beuys-ar00129-the-shamans-two-bags-1977.webp
   - inventorynumber: AR00686
     category: Works on paper 1977 - 1985
     title: Ausruf, 1978-83
@@ -1291,7 +1291,7 @@ works:
       © DACS, 2014
 
       AR00686
-    src: ../../media/joseph-beuys-ar00686-ausruf-1978-83.jpg
+    src: ../../media/joseph-beuys-ar00686-ausruf-1978-83.webp
   - inventorynumber: AR00687
     category: Works on paper 1977 - 1985
     title: Pyramidales Bild, 1979
@@ -1302,7 +1302,7 @@ works:
       © DACS, 2014
 
       AR00687
-    src: ../../media/joseph-beuys-ar00687-pyramidales-bild-1979.jpg
+    src: ../../media/joseph-beuys-ar00687-pyramidales-bild-1979.webp
   - inventorynumber: AR00688
     category: Works on paper 1977 - 1985
     title: Kampf, 1980
@@ -1312,7 +1312,7 @@ works:
       © DACS, 2014
 
       AR00688
-    src: ../../media/joseph-beuys-ar00688-kampf-1980.jpg
+    src: ../../media/joseph-beuys-ar00688-kampf-1980.webp
   - inventorynumber: AR00090
     category: Works on paper 1977 - 1985
     title: Drawing for Domenica delle Palme vitrine, 1981-5
@@ -1322,7 +1322,7 @@ works:
       © DACS, 2014
 
       AR00090
-    src: ../../media/joseph-beuys-ar00090-drawing-for-domenica-delle-palme-vitrine-1981-5.jpg
+    src: ../../media/joseph-beuys-ar00090-drawing-for-domenica-delle-palme-vitrine-1981-5.webp
   - inventorynumber: AR00689
     category: Works on paper 1977 - 1985
     title: Mit Filzplastik, 1981
@@ -1332,7 +1332,7 @@ works:
       © DACS, 2014
 
       AR00689
-    src: ../../media/joseph-beuys-ar00689-mit-filzplastik-1981.jpg
+    src: ../../media/joseph-beuys-ar00689-mit-filzplastik-1981.webp
   - inventorynumber: AL00197
     category: Works on paper 1977 - 1985
     title: To Mikis Theodorakis, 1982
@@ -1342,7 +1342,7 @@ works:
       © DACS, 2014
 
       AL00197
-    src: ../../media/joseph-beuys-al00197-to-mikis-theodorakis-1982.jpg
+    src: ../../media/joseph-beuys-al00197-to-mikis-theodorakis-1982.webp
   - inventorynumber: AR00690
     category: Works on paper 1977 - 1985
     title: Untitled, 1983
@@ -1353,7 +1353,7 @@ works:
       © DACS, 2014
 
       AR00690
-    src: ../../media/joseph-beuys-ar00690-untitled-1983.jpg
+    src: ../../media/joseph-beuys-ar00690-untitled-1983.webp
   - inventorynumber: AR00691
     category: Works on paper 1977 - 1985
     title: Red on Centre, 1984
@@ -1363,7 +1363,7 @@ works:
       © DACS, 2014
 
       AR00691
-    src: ../../media/joseph-beuys-ar00691-red-on-centre-1984.jpg
+    src: ../../media/joseph-beuys-ar00691-red-on-centre-1984.webp
   - inventorynumber: AR00692
     category: Works on paper 1977 - 1985
     title: Yellow on Centre, 1984
@@ -1373,7 +1373,7 @@ works:
       © DACS, 2014
 
       AR00692
-    src: ../../media/joseph-beuys-ar00692-yellow-on-centre-1984.jpg
+    src: ../../media/joseph-beuys-ar00692-yellow-on-centre-1984.webp
   - inventorynumber: AR00693
     category: Works on paper 1977 - 1985
     title: Blue on Centre, 1984
@@ -1383,7 +1383,7 @@ works:
       © DACS, 2014
 
       AR00693
-    src: ../../media/joseph-beuys-ar00693-blue-on-centre-1984.jpg
+    src: ../../media/joseph-beuys-ar00693-blue-on-centre-1984.webp
   - inventorynumber: AR00701
     category: Works on paper 1977 - 1985
     title: La Piantagione, 1984
@@ -1393,7 +1393,7 @@ works:
       © DACS, 2014
 
       AR00701
-    src: ../../media/joseph-beuys-ar00701-la-piantagione-1984.jpg
+    src: ../../media/joseph-beuys-ar00701-la-piantagione-1984.webp
 
 ---
 

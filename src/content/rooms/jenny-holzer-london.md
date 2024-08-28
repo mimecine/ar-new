@@ -4,14 +4,14 @@ artists:
   - jenny-holzer
 venue: tate-modern
 images:
-  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-0.jpg
-  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-1.jpg
-  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-2.jpg
-  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-3.jpg
-  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-4.jpg
-  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-5.jpg
-  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-6.jpg
-  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-7.jpg
+  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-0.webp
+  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-1.webp
+  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-2.webp
+  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-3.webp
+  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-4.webp
+  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-5.webp
+  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-6.webp
+  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-7.webp
 startdate: 2018-07-23
 enddate: 2019-07-01
 town: London

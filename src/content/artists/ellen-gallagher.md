@@ -1,6 +1,6 @@
 ---
 title: Ellen Gallagher
-featuredImage: ../../media/ellen-gallagher-featured.jpg
+featuredImage: ../../media/ellen-gallagher-featured.webp
 resources: []
 works:
   - inventorynumber: AR00066
@@ -12,7 +12,7 @@ works:
       © Ellen Gallagher
 
       AR00066
-    src: ../../media/ellen-gallagher-ar00066-paper-cup-1996.jpg
+    src: ../../media/ellen-gallagher-ar00066-paper-cup-1996.webp
   - inventorynumber: AR00067
     category: Painting
     title: Untitled, 1998
@@ -22,7 +22,7 @@ works:
       © Ellen Gallagher
 
       AR00067
-    src: ../../media/ellen-gallagher-ar00067-untitled-1998.jpg
+    src: ../../media/ellen-gallagher-ar00067-untitled-1998.webp
 
 ---
 

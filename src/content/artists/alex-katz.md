@@ -1,6 +1,6 @@
 ---
 title: Alex Katz
-featuredImage: ../../media/alex-katz-featured.jpg
+featuredImage: ../../media/alex-katz-featured.webp
 resources: []
 works:
   - inventorynumber: AL00188
@@ -13,7 +13,7 @@ works:
       © Alex Katz
 
       AL00188
-    src: ../../media/alex-katz-al00188-green-table-1996.jpg
+    src: ../../media/alex-katz-al00188-green-table-1996.webp
   - inventorynumber: AR00001
     category: Painting
     title: Pansies, 1967
@@ -23,7 +23,7 @@ works:
       © Alex Katz
 
       AR00001
-    src: ../../media/alex-katz-ar00001-pansies-1967.jpg
+    src: ../../media/alex-katz-ar00001-pansies-1967.webp
   - inventorynumber: AR00002
     category: Painting
     title: Tulips, 1969
@@ -33,7 +33,7 @@ works:
       © Alex Katz
 
       AR00002
-    src: ../../media/alex-katz-ar00002-tulips-1969.jpg
+    src: ../../media/alex-katz-ar00002-tulips-1969.webp
   - inventorynumber: AR00003
     category: Painting
     title: West Window, 1979
@@ -43,7 +43,7 @@ works:
       © Alex Katz
 
       AR00003
-    src: ../../media/alex-katz-ar00003-west-window-1979.jpg
+    src: ../../media/alex-katz-ar00003-west-window-1979.webp
   - inventorynumber: AR00017
     category: Painting
     title: Pink Sweater, 1981
@@ -53,7 +53,7 @@ works:
       © Alex Katz
 
       AR00017
-    src: ../../media/alex-katz-ar00017-pink-sweater-1981.jpg
+    src: ../../media/alex-katz-ar00017-pink-sweater-1981.webp
   - inventorynumber: AR00004
     category: Painting
     title: Lillies Against Yellow House, 1983
@@ -63,7 +63,7 @@ works:
       © Alex Katz
 
       AR00004
-    src: ../../media/alex-katz-ar00004-lillies-against-yellow-house-1983.jpg
+    src: ../../media/alex-katz-ar00004-lillies-against-yellow-house-1983.webp
   - inventorynumber: AR00018
     category: Painting
     title: Eli's Friend, 1985
@@ -73,7 +73,7 @@ works:
       © Alex Katz
 
       AR00018
-    src: ../../media/alex-katz-ar00018-elis-friend-1985.jpg
+    src: ../../media/alex-katz-ar00018-elis-friend-1985.webp
   - inventorynumber: AR01177
     category: Painting
     title: Full Moon, 1988
@@ -83,7 +83,7 @@ works:
       © Alex Katz
 
       AR01177
-    src: ../../media/alex-katz-ar01177-full-moon-1988.jpg
+    src: ../../media/alex-katz-ar01177-full-moon-1988.webp
   - inventorynumber: AR00005
     category: Painting
     title: Young Trees, 1989
@@ -93,7 +93,7 @@ works:
       © Alex Katz
 
       AR00005
-    src: ../../media/alex-katz-ar00005-young-trees-1989.jpg
+    src: ../../media/alex-katz-ar00005-young-trees-1989.webp
   - inventorynumber: AR01176
     category: Painting
     title: Black Brook, 1988
@@ -103,7 +103,7 @@ works:
       © Alex Katz
 
       AR01176
-    src: ../../media/alex-katz-ar01176-black-brook-1988.jpg
+    src: ../../media/alex-katz-ar01176-black-brook-1988.webp
   - inventorynumber: A035185
     category: Painting
     title: Gray Light, 1991
@@ -113,7 +113,7 @@ works:
       © Alex Katz
 
       A035185
-    src: ../../media/alex-katz-a035185-gray-light-1991.jpg
+    src: ../../media/alex-katz-a035185-gray-light-1991.webp
   - inventorynumber: AR00007
     category: Painting
     title: Ocean View, 1992
@@ -123,7 +123,7 @@ works:
       © Alex Katz
 
       AR00007
-    src: ../../media/alex-katz-ar00007-ocean-view-1992.jpg
+    src: ../../media/alex-katz-ar00007-ocean-view-1992.webp
   - inventorynumber: AR00006
     category: Painting
     title: "Daisies #2, 1992"
@@ -133,7 +133,7 @@ works:
       © Alex Katz
 
       AR00006
-    src: ../../media/alex-katz-ar00006-daisies-2-1992.jpg
+    src: ../../media/alex-katz-ar00006-daisies-2-1992.webp
   - inventorynumber: AR00008
     category: Painting
     title: Winter Branch, 1993
@@ -143,7 +143,7 @@ works:
       © Alex Katz
 
       AR00008
-    src: ../../media/alex-katz-ar00008-winter-branch-1993.jpg
+    src: ../../media/alex-katz-ar00008-winter-branch-1993.webp
   - inventorynumber: AR00009
     category: Painting
     title: Night Branch, 1994
@@ -153,7 +153,7 @@ works:
       © Alex Katz
 
       AR00009
-    src: ../../media/alex-katz-ar00009-night-branch-1994.jpg
+    src: ../../media/alex-katz-ar00009-night-branch-1994.webp
   - inventorynumber: AR00019
     category: Painting
     title: Kate, 1994
@@ -163,7 +163,7 @@ works:
       © Alex Katz
 
       AR00019
-    src: ../../media/alex-katz-ar00019-kate-1994.jpg
+    src: ../../media/alex-katz-ar00019-kate-1994.webp
   - inventorynumber: AR00020
     category: Painting
     title: Vincent, 1996
@@ -173,7 +173,7 @@ works:
       © Alex Katz
 
       AR00020
-    src: ../../media/alex-katz-ar00020-vincent-1996.jpg
+    src: ../../media/alex-katz-ar00020-vincent-1996.webp
   - inventorynumber: AR00011
     category: Painting
     title: 3PM, November, 1997
@@ -183,7 +183,7 @@ works:
       © Alex Katz
 
       AR00011
-    src: ../../media/alex-katz-ar00011-3pm-november-1997.jpg
+    src: ../../media/alex-katz-ar00011-3pm-november-1997.webp
   - inventorynumber: AR00010
     category: Painting
     title: West Palm Beach, 1997
@@ -193,7 +193,7 @@ works:
       © Alex Katz
 
       AR00010
-    src: ../../media/alex-katz-ar00010-west-palm-beach-1997.jpg
+    src: ../../media/alex-katz-ar00010-west-palm-beach-1997.webp
   - inventorynumber: AR00012
     category: Painting
     title: City Night, 1998
@@ -203,7 +203,7 @@ works:
       © Alex Katz
 
       AR00012
-    src: ../../media/alex-katz-ar00012-city-night-1998.jpg
+    src: ../../media/alex-katz-ar00012-city-night-1998.webp
   - inventorynumber: AR00013
     category: Painting
     title: "Green Shadow #2, 1998"
@@ -213,7 +213,7 @@ works:
       © Alex Katz
 
       AR00013
-    src: ../../media/alex-katz-ar00013-green-shadow-2-1998.jpg
+    src: ../../media/alex-katz-ar00013-green-shadow-2-1998.webp
   - inventorynumber: AR00014
     category: Painting
     title: Road, 1998
@@ -223,7 +223,7 @@ works:
       © Alex Katz
 
       AR00014
-    src: ../../media/alex-katz-ar00014-road-1998.jpg
+    src: ../../media/alex-katz-ar00014-road-1998.webp
   - inventorynumber: AR01246
     category: Painting
     title: West I, 1998
@@ -233,7 +233,7 @@ works:
       © Alex Katz
 
       AR01246
-    src: ../../media/alex-katz-ar01246-west-i-1998.jpg
+    src: ../../media/alex-katz-ar01246-west-i-1998.webp
   - inventorynumber: AR00015
     category: Painting
     title: Penobscot, 1999
@@ -243,7 +243,7 @@ works:
       © Alex Katz
 
       AR00015
-    src: ../../media/alex-katz-ar00015-penobscot-1999.jpg
+    src: ../../media/alex-katz-ar00015-penobscot-1999.webp
   - inventorynumber: AR00016
     category: Painting
     title: Grey Marine, 2000
@@ -253,7 +253,7 @@ works:
       © Alex Katz
 
       AR00016
-    src: ../../media/alex-katz-ar00016-grey-marine-2000.jpg
+    src: ../../media/alex-katz-ar00016-grey-marine-2000.webp
   - inventorynumber: A035184
     category: Painting
     title: Conversation, 2004
@@ -263,7 +263,7 @@ works:
       © Alex Katz
 
       A035184
-    src: ../../media/alex-katz-a035184-conversation-2004.jpg
+    src: ../../media/alex-katz-a035184-conversation-2004.webp
   - inventorynumber: A038202
     category: Painting
     title: Sunset I, 2008
@@ -273,7 +273,7 @@ works:
       © Alex Katz
 
       A038202
-    src: ../../media/alex-katz-a038202-sunset-i-2008.jpg
+    src: ../../media/alex-katz-a038202-sunset-i-2008.webp
   - inventorynumber: A035187
     category: Painting
     title: Street Scene, 2005
@@ -283,7 +283,7 @@ works:
       © Alex Katz
 
       A035187
-    src: ../../media/alex-katz-a035187-street-scene-2005.jpg
+    src: ../../media/alex-katz-a035187-street-scene-2005.webp
   - inventorynumber: A035186
     category: Painting
     title: " Pink Roses 2 (study), 2012"
@@ -293,7 +293,7 @@ works:
       © Alex Katz
 
       A035186
-    src: ../../media/alex-katz-a035186-pink-roses-2-study-2012.jpg
+    src: ../../media/alex-katz-a035186-pink-roses-2-study-2012.webp
   - inventorynumber: A035183
     category: Painting
     title: Untitled (landscape study), 2013
@@ -303,7 +303,7 @@ works:
       © Alex Katz
 
       A035183
-    src: ../../media/alex-katz-a035183-untitled-landscape-study-2013.jpg
+    src: ../../media/alex-katz-a035183-untitled-landscape-study-2013.webp
   - inventorynumber: A035188
     category: Painting
     title: White Band (Katherine), 2013
@@ -313,7 +313,7 @@ works:
       © Alex Katz
 
       A035188
-    src: ../../media/alex-katz-a035188-white-band-katherine-2013.jpg
+    src: ../../media/alex-katz-a035188-white-band-katherine-2013.webp
 
 ---
 

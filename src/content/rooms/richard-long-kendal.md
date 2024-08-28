@@ -4,10 +4,10 @@ artists:
   - richard-long
 venue: abbot-hall-art-gallery
 images:
-  - ../../media/richard-long-kendal-abbot-hall-art-gallery-2011-10-21-0.JPG
-  - ../../media/richard-long-kendal-abbot-hall-art-gallery-2011-10-21-1.jpg
-  - ../../media/richard-long-kendal-abbot-hall-art-gallery-2011-10-21-2.jpg
-  - ../../media/richard-long-kendal-abbot-hall-art-gallery-2011-10-21-3.jpg
+  - ../../media/richard-long-kendal-abbot-hall-art-gallery-2011-10-21-0.webp
+  - ../../media/richard-long-kendal-abbot-hall-art-gallery-2011-10-21-1.webp
+  - ../../media/richard-long-kendal-abbot-hall-art-gallery-2011-10-21-2.webp
+  - ../../media/richard-long-kendal-abbot-hall-art-gallery-2011-10-21-3.webp
 startdate: 2011-10-21
 enddate: 2011-12-17
 town: Kendal

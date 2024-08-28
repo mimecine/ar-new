@@ -4,11 +4,11 @@ artists:
   - andy-warhol
 venue: perth-museum-and-art-gallery
 images:
-  - ../../media/andy-warhol-perth-perth-museum-art-gallery-2010-04-17-0.jpeg
-  - ../../media/andy-warhol-perth-perth-museum-art-gallery-2010-04-17-1.jpeg
-  - ../../media/andy-warhol-perth-perth-museum-art-gallery-2010-04-17-2.jpeg
-  - ../../media/andy-warhol-perth-perth-museum-art-gallery-2010-04-17-3.jpeg
-  - ../../media/andy-warhol-perth-perth-museum-art-gallery-2010-04-17-4.jpg
+  - ../../media/andy-warhol-perth-perth-museum-art-gallery-2010-04-17-0.webp
+  - ../../media/andy-warhol-perth-perth-museum-art-gallery-2010-04-17-1.webp
+  - ../../media/andy-warhol-perth-perth-museum-art-gallery-2010-04-17-2.webp
+  - ../../media/andy-warhol-perth-perth-museum-art-gallery-2010-04-17-3.webp
+  - ../../media/andy-warhol-perth-perth-museum-art-gallery-2010-04-17-4.webp
 startdate: 2010-04-17
 enddate: 2010-10-23
 town: Perth

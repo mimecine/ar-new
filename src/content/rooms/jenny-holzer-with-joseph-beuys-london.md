@@ -5,8 +5,8 @@ artists:
   - joseph-beuys
 venue: tate-modern
 images:
-  - ../../media/jenny-holzer-with-joseph-beuys-london-tate-modern-2022-04-11-0.jpeg
-  - ../../media/jenny-holzer-with-joseph-beuys-london-tate-modern-2022-04-11-1.jpeg
+  - ../../media/jenny-holzer-with-joseph-beuys-london-tate-modern-2022-04-11-0.webp
+  - ../../media/jenny-holzer-with-joseph-beuys-london-tate-modern-2022-04-11-1.webp
 startdate: 2022-04-11
 enddate: 2024-05-19
 town: London

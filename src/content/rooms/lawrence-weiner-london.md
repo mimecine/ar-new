@@ -4,12 +4,12 @@ artists:
   - lawrence-weiner
 venue: tate-modern
 images:
-  - ../../media/lawrence-weiner-london-tate-modern-2012-09-27-0.jpg
-  - ../../media/lawrence-weiner-london-tate-modern-2012-09-27-1.jpg
-  - ../../media/lawrence-weiner-london-tate-modern-2012-09-27-2.jpg
-  - ../../media/lawrence-weiner-london-tate-modern-2012-09-27-3.jpg
-  - ../../media/lawrence-weiner-london-tate-modern-2012-09-27-4.jpg
-  - ../../media/lawrence-weiner-london-tate-modern-2012-09-27-5.jpg
+  - ../../media/lawrence-weiner-london-tate-modern-2012-09-27-0.webp
+  - ../../media/lawrence-weiner-london-tate-modern-2012-09-27-1.webp
+  - ../../media/lawrence-weiner-london-tate-modern-2012-09-27-2.webp
+  - ../../media/lawrence-weiner-london-tate-modern-2012-09-27-3.webp
+  - ../../media/lawrence-weiner-london-tate-modern-2012-09-27-4.webp
+  - ../../media/lawrence-weiner-london-tate-modern-2012-09-27-5.webp
 startdate: 2012-09-27
 enddate: 2015-01-31
 town: London

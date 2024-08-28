@@ -4,11 +4,11 @@ artists:
   - francesca-woodman
 venue: bodelwyddan-castle
 images:
-  - ../../media/francesca-woodman-denbigshire-bodelwyddan-castle-2014-04-05-0.jpg
-  - ../../media/francesca-woodman-denbigshire-bodelwyddan-castle-2014-04-05-1.jpg
-  - ../../media/francesca-woodman-denbigshire-bodelwyddan-castle-2014-04-05-2.jpg
-  - ../../media/francesca-woodman-denbigshire-bodelwyddan-castle-2014-04-05-3.jpg
-  - ../../media/francesca-woodman-denbigshire-bodelwyddan-castle-2014-04-05-4.jpg
+  - ../../media/francesca-woodman-denbigshire-bodelwyddan-castle-2014-04-05-0.webp
+  - ../../media/francesca-woodman-denbigshire-bodelwyddan-castle-2014-04-05-1.webp
+  - ../../media/francesca-woodman-denbigshire-bodelwyddan-castle-2014-04-05-2.webp
+  - ../../media/francesca-woodman-denbigshire-bodelwyddan-castle-2014-04-05-3.webp
+  - ../../media/francesca-woodman-denbigshire-bodelwyddan-castle-2014-04-05-4.webp
 startdate: 2014-04-05
 enddate: 2014-07-03
 town: Denbigshire

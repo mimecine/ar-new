@@ -4,13 +4,13 @@ artists:
   - louise-bourgeois
 venue: the-burton-at-bideford-art-gallery-and-museum
 images:
-  - ../../media/louise-bourgeois-bideford-the-burton-at-bideford-art-gallery-and-museum-2023-11-23-0.jpeg
-  - ../../media/louise-bourgeois-bideford-the-burton-at-bideford-art-gallery-and-museum-2023-11-23-1.jpeg
-  - ../../media/louise-bourgeois-bideford-the-burton-at-bideford-art-gallery-and-museum-2023-11-23-2.jpeg
-  - ../../media/louise-bourgeois-bideford-the-burton-at-bideford-art-gallery-and-museum-2023-11-23-3.jpeg
-  - ../../media/louise-bourgeois-bideford-the-burton-at-bideford-art-gallery-and-museum-2023-11-23-4.jpeg
-  - ../../media/louise-bourgeois-bideford-the-burton-at-bideford-art-gallery-and-museum-2023-11-23-5.jpeg
-  - ../../media/louise-bourgeois-bideford-the-burton-at-bideford-art-gallery-and-museum-2023-11-23-6.jpeg
+  - ../../media/louise-bourgeois-bideford-the-burton-at-bideford-art-gallery-and-museum-2023-11-23-0.webp
+  - ../../media/louise-bourgeois-bideford-the-burton-at-bideford-art-gallery-and-museum-2023-11-23-1.webp
+  - ../../media/louise-bourgeois-bideford-the-burton-at-bideford-art-gallery-and-museum-2023-11-23-2.webp
+  - ../../media/louise-bourgeois-bideford-the-burton-at-bideford-art-gallery-and-museum-2023-11-23-3.webp
+  - ../../media/louise-bourgeois-bideford-the-burton-at-bideford-art-gallery-and-museum-2023-11-23-4.webp
+  - ../../media/louise-bourgeois-bideford-the-burton-at-bideford-art-gallery-and-museum-2023-11-23-5.webp
+  - ../../media/louise-bourgeois-bideford-the-burton-at-bideford-art-gallery-and-museum-2023-11-23-6.webp
 startdate: 2023-11-23
 enddate: 2024-02-11
 town: Bideford

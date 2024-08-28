@@ -4,10 +4,10 @@ artists:
   - ellen-gallagher
 venue: tate-modern
 images:
-  - ../../media/ellen-gallagher-london-tate-modern-2018-11-19-0.jpg
-  - ../../media/ellen-gallagher-london-tate-modern-2018-11-19-1.jpg
-  - ../../media/ellen-gallagher-london-tate-modern-2018-11-19-2.jpg
-  - ../../media/ellen-gallagher-london-tate-modern-2018-11-19-3.jpg
+  - ../../media/ellen-gallagher-london-tate-modern-2018-11-19-0.webp
+  - ../../media/ellen-gallagher-london-tate-modern-2018-11-19-1.webp
+  - ../../media/ellen-gallagher-london-tate-modern-2018-11-19-2.webp
+  - ../../media/ellen-gallagher-london-tate-modern-2018-11-19-3.webp
 startdate: 2018-11-19
 enddate: 2019-11-01
 town: London

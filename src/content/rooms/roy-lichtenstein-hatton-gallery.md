@@ -4,11 +4,11 @@ artists:
   - roy-lichtenstein
 venue: hatton-gallery
 images:
-  - ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-0.jpg
-  - ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-1.jpg
-  - ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-2.jpg
-  - ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-3.jpg
-  - ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-4.jpg
+  - ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-0.webp
+  - ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-1.webp
+  - ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-2.webp
+  - ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-3.webp
+  - ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-4.webp
 startdate: 2019-09-28
 enddate: 2020-01-04
 town: Hatton Gallery

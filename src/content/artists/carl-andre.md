@@ -1,6 +1,6 @@
 ---
 title: Carl Andre
-featuredImage: ../../media/carl-andre-featured.jpg
+featuredImage: ../../media/carl-andre-featured.webp
 resources: []
 works:
   - inventorynumber: AR01265
@@ -14,7 +14,7 @@ works:
       AR01265
 
        
-    src: ../../media/carl-andre-ar01265-144-titanium-square-2011.jpg
+    src: ../../media/carl-andre-ar01265-144-titanium-square-2011.webp
 
 ---
 

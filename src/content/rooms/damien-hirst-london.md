@@ -4,10 +4,10 @@ artists:
   - damien-hirst
 venue: tate-britain
 images:
-  - ../../media/damien-hirst-london-tate-britain-2010-05-08-0.jpg
-  - ../../media/damien-hirst-london-tate-britain-2010-05-08-1.jpg
-  - ../../media/damien-hirst-london-tate-britain-2010-05-08-2.jpg
-  - ../../media/damien-hirst-london-tate-britain-2010-05-08-3.jpg
+  - ../../media/damien-hirst-london-tate-britain-2010-05-08-0.webp
+  - ../../media/damien-hirst-london-tate-britain-2010-05-08-1.webp
+  - ../../media/damien-hirst-london-tate-britain-2010-05-08-2.webp
+  - ../../media/damien-hirst-london-tate-britain-2010-05-08-3.webp
 startdate: 2010-05-08
 enddate: 2011-05-23
 town: London

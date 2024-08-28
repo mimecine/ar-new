@@ -4,11 +4,11 @@ artists:
   - richard-long
 venue: burton-art-gallery-and-museum
 images:
-  - ../../media/richard-long-bideford-burton-art-gallery-and-museum-2014-10-04-0.jpg
-  - ../../media/richard-long-bideford-burton-art-gallery-and-museum-2014-10-04-1.jpg
-  - ../../media/richard-long-bideford-burton-art-gallery-and-museum-2014-10-04-2.jpg
-  - ../../media/richard-long-bideford-burton-art-gallery-and-museum-2014-10-04-3.jpg
-  - ../../media/richard-long-bideford-burton-art-gallery-and-museum-2014-10-04-4.jpg
+  - ../../media/richard-long-bideford-burton-art-gallery-and-museum-2014-10-04-0.webp
+  - ../../media/richard-long-bideford-burton-art-gallery-and-museum-2014-10-04-1.webp
+  - ../../media/richard-long-bideford-burton-art-gallery-and-museum-2014-10-04-2.webp
+  - ../../media/richard-long-bideford-burton-art-gallery-and-museum-2014-10-04-3.webp
+  - ../../media/richard-long-bideford-burton-art-gallery-and-museum-2014-10-04-4.webp
 startdate: 2014-10-04
 enddate: 2015-01-10
 town: Bideford

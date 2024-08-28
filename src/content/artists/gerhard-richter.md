@@ -1,6 +1,6 @@
 ---
 title: Gerhard Richter
-featuredImage: ../../media/gerhard-richter-featured.jpg
+featuredImage: ../../media/gerhard-richter-featured.webp
 resources: []
 works:
   - inventorynumber: AR00345
@@ -12,7 +12,7 @@ works:
       © Gerhard Richter
 
       AR00345
-    src: ../../media/gerhard-richter-ar00345-gilbert-george-381-1-382-2-1975.jpg
+    src: ../../media/gerhard-richter-ar00345-gilbert-george-381-1-382-2-1975.webp
   - inventorynumber: AR00344
     category: Painting
     title: Brigid Polk (305),  1971
@@ -22,7 +22,7 @@ works:
       © Gerhard Richter
 
       AR00344
-    src: ../../media/gerhard-richter-ar00344-brigid-polk-305-1971.jpg
+    src: ../../media/gerhard-richter-ar00344-brigid-polk-305-1971.webp
   - inventorynumber: AR00183
     category: Sculpture
     title: Two Sculptures for a Room by Palermo,  1971
@@ -33,7 +33,7 @@ works:
       © Gerhard Richter
 
       AR00183
-    src: ../../media/gerhard-richter-ar00183-two-sculptures-for-a-room-by-palermo-1971.jpg
+    src: ../../media/gerhard-richter-ar00183-two-sculptures-for-a-room-by-palermo-1971.webp
   - inventorynumber: AR00025
     category: Painting
     title: 48 Portraits,  1971-98
@@ -44,7 +44,7 @@ works:
       © Gerhard Richter
 
       AR00025
-    src: ../../media/gerhard-richter-ar00025-48-portraits-1971-98.jpg
+    src: ../../media/gerhard-richter-ar00025-48-portraits-1971-98.webp
   - inventorynumber: AR00346
     category: Painting
     title: Untitled,  1985
@@ -54,7 +54,7 @@ works:
       © Gerhard Richter
 
       AR000346
-    src: ../../media/gerhard-richter-ar00346-untitled-1985.jpg
+    src: ../../media/gerhard-richter-ar00346-untitled-1985.webp
   - inventorynumber: AR00182
     category: Works on paper
     title: Self Portrait Standing, Three Times, 17.3.1991,  1991
@@ -65,7 +65,7 @@ works:
       © Gerhard Richter
 
       AR00182
-    src: ../../media/gerhard-richter-ar00182-self-portrait-standing-three-times-1731991-1991.jpg
+    src: ../../media/gerhard-richter-ar00182-self-portrait-standing-three-times-1731991-1991.webp
   - inventorynumber: AR00022
     category: Painting
     title: Mirror Painting Grey (735-2), 1991
@@ -75,7 +75,7 @@ works:
       © Gerhard Richter
 
       AR00022
-    src: ../../media/gerhard-richter-ar00022-mirror-painting-grey-735-2-1991.jpg
+    src: ../../media/gerhard-richter-ar00022-mirror-painting-grey-735-2-1991.webp
   - inventorynumber: AR00023
     category: Painting
     title: Corner Mirror, brown-blue (737-1, 737-2), 1991
@@ -85,7 +85,7 @@ works:
       © Gerhard Richter
 
       AR00023
-    src: ../../media/gerhard-richter-ar00023-corner-mirror-brown-blue-737-1-737-2-1991.jpg
+    src: ../../media/gerhard-richter-ar00023-corner-mirror-brown-blue-737-1-737-2-1991.webp
   - inventorynumber: AR00024
     category: Painting
     title: Corner Mirror, green-red (737-2A, 737-2B), 1991
@@ -95,7 +95,7 @@ works:
       © Gerhard Richter
 
       AR00024
-    src: ../../media/gerhard-richter-ar00024-corner-mirror-green-red-737-2a-737-2b-1991.jpg
+    src: ../../media/gerhard-richter-ar00024-corner-mirror-green-red-737-2a-737-2b-1991.webp
   - inventorynumber: AR00026
     category: Sculpture
     title: 11 Panes (886-5), 2004
@@ -106,7 +106,7 @@ works:
       © Gerhard Richter
 
       AR00026
-    src: ../../media/gerhard-richter-ar00026-11-panes-886-5-2004.jpg
+    src: ../../media/gerhard-richter-ar00026-11-panes-886-5-2004.webp
   - inventorynumber: AR00030
     category: Painting
     title: Abstract Painting (Grey) (880-3), 2002
@@ -116,7 +116,7 @@ works:
       © Gerhard Richter
 
       AR00030
-    src: ../../media/gerhard-richter-ar00030-abstract-painting-grey-880-3-2002.jpg
+    src: ../../media/gerhard-richter-ar00030-abstract-painting-grey-880-3-2002.webp
   - inventorynumber: AR00029
     category: Painting
     title: Abstract Painting (Silicate), 2002
@@ -126,7 +126,7 @@ works:
       © Gerhard Richter
 
       AR00029
-    src: ../../media/gerhard-richter-ar00029-abstract-painting-silicate-2002.jpg
+    src: ../../media/gerhard-richter-ar00029-abstract-painting-silicate-2002.webp
   - inventorynumber: AR00028
     category: Painting
     title: Abstract Painting (Skin) (887-3), 2004
@@ -136,7 +136,7 @@ works:
       © Gerhard Richter
 
       AR00028
-    src: ../../media/gerhard-richter-ar00028-abstract-painting-skin-887-3-2004.jpg
+    src: ../../media/gerhard-richter-ar00028-abstract-painting-skin-887-3-2004.webp
   - inventorynumber: AR00027
     category: Painting
     title: Abstract Painting (809-3), 1994
@@ -146,7 +146,7 @@ works:
       © Gerhard Richter
 
       AR00027
-    src: ../../media/gerhard-richter-ar00027-abstract-painting-809-3-1994.jpg
+    src: ../../media/gerhard-richter-ar00027-abstract-painting-809-3-1994.webp
 
 ---
 

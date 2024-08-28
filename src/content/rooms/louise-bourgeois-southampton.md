@@ -4,11 +4,11 @@ artists:
   - louise-bourgeois
 venue: southampton-city-art-gallery
 images:
-  - ../../media/louise-bourgeois-southampton-southampton-city-art-gallery-2015-01-16-0.jpg
-  - ../../media/louise-bourgeois-southampton-southampton-city-art-gallery-2015-01-16-1.jpg
-  - ../../media/louise-bourgeois-southampton-southampton-city-art-gallery-2015-01-16-2.jpg
-  - ../../media/louise-bourgeois-southampton-southampton-city-art-gallery-2015-01-16-3.jpg
-  - ../../media/louise-bourgeois-southampton-southampton-city-art-gallery-2015-01-16-4.jpg
+  - ../../media/louise-bourgeois-southampton-southampton-city-art-gallery-2015-01-16-0.webp
+  - ../../media/louise-bourgeois-southampton-southampton-city-art-gallery-2015-01-16-1.webp
+  - ../../media/louise-bourgeois-southampton-southampton-city-art-gallery-2015-01-16-2.webp
+  - ../../media/louise-bourgeois-southampton-southampton-city-art-gallery-2015-01-16-3.webp
+  - ../../media/louise-bourgeois-southampton-southampton-city-art-gallery-2015-01-16-4.webp
 startdate: 2015-01-16
 enddate: 2015-04-18
 town: Southampton

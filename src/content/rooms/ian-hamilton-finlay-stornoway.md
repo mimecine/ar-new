@@ -4,10 +4,10 @@ artists:
   - ian-hamilton-finlay
 venue: an-lanntair
 images:
-  - ../../media/ian-hamilton-finlay-stornoway-an-lanntair-2010-08-30-0.jpg
-  - ../../media/ian-hamilton-finlay-stornoway-an-lanntair-2010-08-30-1.jpg
-  - ../../media/ian-hamilton-finlay-stornoway-an-lanntair-2010-08-30-2.jpg
-  - ../../media/ian-hamilton-finlay-stornoway-an-lanntair-2010-08-30-3.jpg
+  - ../../media/ian-hamilton-finlay-stornoway-an-lanntair-2010-08-30-0.webp
+  - ../../media/ian-hamilton-finlay-stornoway-an-lanntair-2010-08-30-1.webp
+  - ../../media/ian-hamilton-finlay-stornoway-an-lanntair-2010-08-30-2.webp
+  - ../../media/ian-hamilton-finlay-stornoway-an-lanntair-2010-08-30-3.webp
 startdate: 2010-08-30
 enddate: 2010-11-01
 town: Stornoway

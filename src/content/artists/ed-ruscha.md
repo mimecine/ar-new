@@ -1,6 +1,6 @@
 ---
 title: Ed Ruscha
-featuredImage: ../../media/ed-ruscha-featured.jpg
+featuredImage: ../../media/ed-ruscha-featured.webp
 resources:
   - /sites/default/files/downloads/EdRuschaLearningResource.pdf
 works:
@@ -13,7 +13,7 @@ works:
       © Ed Ruscha
 
       AR00184
-    src: ../../media/ed-ruscha-ar00184-honk-1962.jpg
+    src: ../../media/ed-ruscha-ar00184-honk-1962.webp
   - inventorynumber: AR00050
     category: Works on paper
     title: "Standard Study #3, 1963"
@@ -23,7 +23,7 @@ works:
       © Ed Ruscha
 
       AR00050
-    src: ../../media/ed-ruscha-ar00050-standard-study-3-1963.jpg
+    src: ../../media/ed-ruscha-ar00050-standard-study-3-1963.webp
   - inventorynumber: AR00046
     category: Painting
     title: DANCE?, 1973
@@ -34,7 +34,7 @@ works:
       © Ed Ruscha
 
       AR00046
-    src: ../../media/ed-ruscha-ar00046-dance-1973.jpg
+    src: ../../media/ed-ruscha-ar00046-dance-1973.webp
   - inventorynumber: AR00052
     category: Works on paper
     title: "Miracle #64, 1975"
@@ -44,7 +44,7 @@ works:
       © Ed Ruscha
 
       AR00052
-    src: ../../media/ed-ruscha-ar00052-miracle-64-1975.jpg
+    src: ../../media/ed-ruscha-ar00052-miracle-64-1975.webp
   - inventorynumber: AR00051
     category: Works on paper
     title: MAD SCIENTIST, 1975
@@ -54,7 +54,7 @@ works:
       © Ed Ruscha
 
       AR00051
-    src: ../../media/ed-ruscha-ar00051-mad-scientist-1975.jpg
+    src: ../../media/ed-ruscha-ar00051-mad-scientist-1975.webp
   - inventorynumber: AR00053
     category: Works on paper
     title: I PLEAD INSANITY BECAUSE I'M JUST CRAZY ABOUT THAT LITTLE GIRL, 1976
@@ -64,7 +64,7 @@ works:
       © Ed Ruscha
 
       AR00053
-    src: ../../media/ed-ruscha-ar00053-i-plead-insanity-because-im-just-crazy-about-that-little-girl-1976.jpg
+    src: ../../media/ed-ruscha-ar00053-i-plead-insanity-because-im-just-crazy-about-that-little-girl-1976.webp
   - inventorynumber: AR00056
     category: Works on paper
     title: ARTISTS WHO DO BOOKS, 1976
@@ -74,7 +74,7 @@ works:
       © Ed Ruscha
 
       AR00056
-    src: ../../media/ed-ruscha-ar00056-artists-who-do-books-1976.jpg
+    src: ../../media/ed-ruscha-ar00056-artists-who-do-books-1976.webp
   - inventorynumber: AR00057
     category: Works on paper
     title: ARTISTS WHO MAKE "PIECES", 1976
@@ -84,7 +84,7 @@ works:
       © Ed Ruscha
 
       AR00057
-    src: ../../media/ed-ruscha-ar00057-artists-who-make-pieces-1976.jpg
+    src: ../../media/ed-ruscha-ar00057-artists-who-make-pieces-1976.webp
   - inventorynumber: AR00055
     category: Works on paper
     title: SMELLS LIKE BACK OF OLD HOT RADIO, 1975
@@ -94,7 +94,7 @@ works:
       © Ed Ruscha
 
       AR00055
-    src: ../../media/ed-ruscha-ar00055-smells-like-back-of-old-hot-radio-1975.jpg
+    src: ../../media/ed-ruscha-ar00055-smells-like-back-of-old-hot-radio-1975.webp
   - inventorynumber: AR00054
     category: Works on paper
     title: PRETTY EYES, ELECTRIC BILLS, 1976
@@ -104,7 +104,7 @@ works:
       © Ed Ruscha
 
       AR00054
-    src: ../../media/ed-ruscha-ar00054-pretty-eyes-electric-bills-1976.jpg
+    src: ../../media/ed-ruscha-ar00054-pretty-eyes-electric-bills-1976.webp
   - inventorynumber: AR00058
     category: Works on paper
     title: DIRTY BABY, 1977
@@ -114,7 +114,7 @@ works:
       © Ed Ruscha
 
       AR00058
-    src: ../../media/ed-ruscha-ar00058-dirty-baby-1977.jpg
+    src: ../../media/ed-ruscha-ar00058-dirty-baby-1977.webp
   - inventorynumber: AR00059
     category: Works on paper
     title: HOLLYWOOD TANTRUM, 1979
@@ -124,7 +124,7 @@ works:
       © Ed Ruscha
 
       AR00059
-    src: ../../media/ed-ruscha-ar00059-hollywood-tantrum-1979.jpg
+    src: ../../media/ed-ruscha-ar00059-hollywood-tantrum-1979.webp
   - inventorynumber: AR01126
     category: Painting
     title: The Music from the Balconies, 1984
@@ -134,7 +134,7 @@ works:
       © Ed Ruscha
 
       AR01126
-    src: ../../media/ed-ruscha-ar01126-the-music-from-the-balconies-1984.jpg
+    src: ../../media/ed-ruscha-ar01126-the-music-from-the-balconies-1984.webp
   - inventorynumber: AR00060
     category: Works on paper
     title: CROSSOVER DREAMS, 1991
@@ -144,7 +144,7 @@ works:
       © Ed Ruscha
 
       AR00060
-    src: ../../media/ed-ruscha-ar00060-crossover-dreams-1991.jpg
+    src: ../../media/ed-ruscha-ar00060-crossover-dreams-1991.webp
   - inventorynumber: AR00062
     category: Works on paper
     title: RED ROOSTER, 1996
@@ -154,7 +154,7 @@ works:
       © Ed Ruscha
 
       AR00062
-    src: ../../media/ed-ruscha-ar00062-red-rooster-1996.jpg
+    src: ../../media/ed-ruscha-ar00062-red-rooster-1996.webp
   - inventorynumber: AR00063
     category: Works on paper
     title: HOPE, 1998
@@ -164,7 +164,7 @@ works:
       © Ed Ruscha
 
       AR00063
-    src: ../../media/ed-ruscha-ar00063-hope-1998.jpg
+    src: ../../media/ed-ruscha-ar00063-hope-1998.webp
   - inventorynumber: AR00064
     category: Works on paper
     title: "THE END #40, 2003"
@@ -174,7 +174,7 @@ works:
       © Ed Ruscha
 
       AR00064
-    src: ../../media/ed-ruscha-ar00064-the-end-40-2003.jpg
+    src: ../../media/ed-ruscha-ar00064-the-end-40-2003.webp
   - inventorynumber: AR00047
     category: Painting
     title: Pay Nothing Until April, 2003
@@ -184,7 +184,7 @@ works:
       © Ed Ruscha
 
       AR00047
-    src: ../../media/ed-ruscha-ar00047-pay-nothing-until-april-2003.jpg
+    src: ../../media/ed-ruscha-ar00047-pay-nothing-until-april-2003.webp
   - inventorynumber: AR00061
     category: Works on paper
     title: SOAPY SMITH, 1996
@@ -194,7 +194,7 @@ works:
       © Ed Ruscha
 
       AR00061
-    src: ../../media/ed-ruscha-ar00061-soapy-smith-1996.jpg
+    src: ../../media/ed-ruscha-ar00061-soapy-smith-1996.webp
   - inventorynumber: AR00048
     category: Painting
     title: DAILY PLANET, 2003
@@ -204,7 +204,7 @@ works:
       © Ed Ruscha
 
       AR00048
-    src: ../../media/ed-ruscha-ar00048-daily-planet-2003.jpg
+    src: ../../media/ed-ruscha-ar00048-daily-planet-2003.webp
   - inventorynumber: AR00065
     category: Works on paper
     title: DEC. 30th, 2005
@@ -214,7 +214,7 @@ works:
       © Ed Ruscha
 
       AR00065
-    src: ../../media/ed-ruscha-ar00065-dec-30th-2005.jpg
+    src: ../../media/ed-ruscha-ar00065-dec-30th-2005.webp
   - inventorynumber: AR00596
     category: Painting
     title: The Final End, 1992
@@ -224,7 +224,7 @@ works:
       © Ed Ruscha
 
       AR00596
-    src: ../../media/ed-ruscha-ar00596-the-final-end-1992.jpg
+    src: ../../media/ed-ruscha-ar00596-the-final-end-1992.webp
   - inventorynumber: AR00049
     category: Painting
     title: BLVD.-AVE.-ST., 2006
@@ -234,7 +234,7 @@ works:
       © Ed Ruscha
 
       AR00049
-    src: ../../media/ed-ruscha-ar00049-blvd-ave-st-2006.jpg
+    src: ../../media/ed-ruscha-ar00049-blvd-ave-st-2006.webp
 
 ---
 

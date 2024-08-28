@@ -1,6 +1,6 @@
 ---
 title: Phyllida Barlow
-featuredImage: ../../media/phyllida-barlow-featured.jpg
+featuredImage: ../../media/phyllida-barlow-featured.webp
 resources: []
 works:
   - inventorynumber: AL00396
@@ -13,7 +13,7 @@ works:
       © Phyllida Barlow
 
       AL00396
-    src: ../../media/phyllida-barlow-al00396-untitled-awnings-2012.jpg
+    src: ../../media/phyllida-barlow-al00396-untitled-awnings-2012.webp
   - inventorynumber: AR01245
     category: Sculpture
     title: "untitled: brokenstage/hangingcontainer, 2012/2013"
@@ -24,7 +24,7 @@ works:
       © Phyllida Barlow
 
       AR01245
-    src: ../../media/phyllida-barlow-ar01245-untitled-brokenstagehangingcontainer-20122013.jpg
+    src: ../../media/phyllida-barlow-ar01245-untitled-brokenstagehangingcontainer-20122013.webp
   - inventorynumber: AR01228
     category: Sculpture
     title: "untitled: upturnedhouse2, 2012"
@@ -35,7 +35,7 @@ works:
       © Phyllida Barlow
 
       AR01228
-    src: ../../media/phyllida-barlow-ar01228-untitled-upturnedhouse2-2012.JPEG
+    src: ../../media/phyllida-barlow-ar01228-untitled-upturnedhouse2-2012.webp
   - inventorynumber: AR01232
     category: Sculpture
     title: "untitled: torque, 2015"
@@ -46,7 +46,7 @@ works:
       © Phyllida Barlow
 
       AR01232
-    src: ../../media/phyllida-barlow-ar01232-untitled-torque-2015.jpg
+    src: ../../media/phyllida-barlow-ar01232-untitled-torque-2015.webp
   - inventorynumber: AR01234
     category: Painting
     title: "untitled: black 2, 2014/2015"
@@ -56,7 +56,7 @@ works:
       © Phyllida Barlow
 
       AR01234
-    src: ../../media/phyllida-barlow-ar01234-untitled-black-2-20142015.JPEG
+    src: ../../media/phyllida-barlow-ar01234-untitled-black-2-20142015.webp
   - inventorynumber: AR01235
     category: Painting
     title: "untitled: black 3, 2014"
@@ -66,7 +66,7 @@ works:
       © Phyllida Barlow
 
       AR01235
-    src: ../../media/phyllida-barlow-ar01235-untitled-black-3-2014.JPEG
+    src: ../../media/phyllida-barlow-ar01235-untitled-black-3-2014.webp
   - inventorynumber: AR01236
     category: Painting
     title: "untitled: black 4, 2014"
@@ -76,7 +76,7 @@ works:
       © Phyllida Barlow
 
       AR01236
-    src: ../../media/phyllida-barlow-ar01236-untitled-black-4-2014.JPEG
+    src: ../../media/phyllida-barlow-ar01236-untitled-black-4-2014.webp
   - inventorynumber: AR01237
     category: Painting
     title: "untitled: black 5, 2015"
@@ -86,7 +86,7 @@ works:
       © Phyllida Barlow
 
       AR01237
-    src: ../../media/phyllida-barlow-ar01237-untitled-black-5-2015.JPEG
+    src: ../../media/phyllida-barlow-ar01237-untitled-black-5-2015.webp
   - inventorynumber: AR01238
     category: Painting
     title: "untitled: black 6, 2015"
@@ -96,7 +96,7 @@ works:
       © Phyllida Barlow
 
       AR01238
-    src: ../../media/phyllida-barlow-ar01238-untitled-black-6-2015.JPEG
+    src: ../../media/phyllida-barlow-ar01238-untitled-black-6-2015.webp
   - inventorynumber: AR01240
     category: Painting
     title: "untitled: black 8, 2015"
@@ -106,7 +106,7 @@ works:
       © Phyllida Barlow
 
       AR01240
-    src: ../../media/phyllida-barlow-ar01240-untitled-black-8-2015.JPEG
+    src: ../../media/phyllida-barlow-ar01240-untitled-black-8-2015.webp
   - inventorynumber: AR01241
     category: Painting
     title: "untitled: black 9, 2015"
@@ -116,7 +116,7 @@ works:
       © Phyllida Barlow
 
       AR01241
-    src: ../../media/phyllida-barlow-ar01241-untitled-black-9-2015.JPEG
+    src: ../../media/phyllida-barlow-ar01241-untitled-black-9-2015.webp
   - inventorynumber: AR01242
     category: Painting
     title: "untitled: black 10, 2015"
@@ -126,7 +126,7 @@ works:
       © Phyllida Barlow
 
       AR01242
-    src: ../../media/phyllida-barlow-ar01242-untitled-black-10-2015.JPEG
+    src: ../../media/phyllida-barlow-ar01242-untitled-black-10-2015.webp
   - inventorynumber: AR01243
     category: Painting
     title: "untitled: black 11, 2014"
@@ -136,7 +136,7 @@ works:
       © Phyllida Barlow
 
       AR01243
-    src: ../../media/phyllida-barlow-ar01243-untitled-black-11-2014.JPEG
+    src: ../../media/phyllida-barlow-ar01243-untitled-black-11-2014.webp
   - inventorynumber: AR01244
     category: Painting
     title: "untitled: black 12, 2014"
@@ -146,7 +146,7 @@ works:
       © Phyllida Barlow
 
       AR01244
-    src: ../../media/phyllida-barlow-ar01244-untitled-black-12-2014.JPEG
+    src: ../../media/phyllida-barlow-ar01244-untitled-black-12-2014.webp
 
 ---
 

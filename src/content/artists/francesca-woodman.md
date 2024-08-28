@@ -1,6 +1,6 @@
 ---
 title: Francesca Woodman
-featuredImage: ../../media/francesca-woodman-featured.jpg
+featuredImage: ../../media/francesca-woodman-featured.webp
 resources: []
 works:
   - inventorynumber: AR00347
@@ -13,7 +13,7 @@ works:
       © Courtesy of George and Betty Woodman
 
       AR00347
-    src: ../../media/francesca-woodman-ar00347-untitled-1975-80.jpg
+    src: ../../media/francesca-woodman-ar00347-untitled-1975-80.webp
   - inventorynumber: AR00348
     category: Photography
     title: Eel Series, Roma, May 1977 - August 1978
@@ -23,7 +23,7 @@ works:
       © Courtesy of George and Betty Woodman
 
       AR00348
-    src: ../../media/francesca-woodman-ar00348-eel-series-roma-may-1977-august-1978.jpg
+    src: ../../media/francesca-woodman-ar00348-eel-series-roma-may-1977-august-1978.webp
   - inventorynumber: AR00349
     category: Photography
     title: Space², Providence, Rhode Island, 1975-1978
@@ -33,7 +33,7 @@ works:
       © Courtesy of George and Betty Woodman
 
       AR00349
-    src: ../../media/francesca-woodman-ar00349-space-providence-rhode-island-1975-1978.jpg
+    src: ../../media/francesca-woodman-ar00349-space-providence-rhode-island-1975-1978.webp
   - inventorynumber: AR00350
     category: Photography
     title: Space², Providence, Rhode Island, 1975-1978
@@ -43,7 +43,7 @@ works:
       © Courtesy of George and Betty Woodman
 
       AR00350
-    src: ../../media/francesca-woodman-ar00350-space-providence-rhode-island-1975-1978.jpg
+    src: ../../media/francesca-woodman-ar00350-space-providence-rhode-island-1975-1978.webp
   - inventorynumber: AR00351
     category: Photography
     title: Untitled, 1975-80
@@ -53,7 +53,7 @@ works:
       © Courtesy of George and Betty Woodman
 
       AR00351
-    src: ../../media/francesca-woodman-ar00351-untitled-1975-80.jpg
+    src: ../../media/francesca-woodman-ar00351-untitled-1975-80.webp
   - inventorynumber: AR00352
     category: Photography
     title: Providence, Rhode Island, 1976
@@ -63,7 +63,7 @@ works:
       © Courtesy of George and Betty Woodman
 
       AR00352
-    src: ../../media/francesca-woodman-ar00352-providence-rhode-island-1976.jpg
+    src: ../../media/francesca-woodman-ar00352-providence-rhode-island-1976.webp
   - inventorynumber: AR00353
     category: Photography
     title: Italy, May 1977 - August 1978
@@ -73,7 +73,7 @@ works:
       © Courtesy of George and Betty Woodman
 
       AR00353
-    src: ../../media/francesca-woodman-ar00353-italy-may-1977-august-1978.jpg
+    src: ../../media/francesca-woodman-ar00353-italy-may-1977-august-1978.webp
   - inventorynumber: AR00354
     category: Photography
     title: From Angel Series, Roma, September 1977
@@ -83,7 +83,7 @@ works:
       © Courtesy of George and Betty Woodman
 
       AR00354
-    src: ../../media/francesca-woodman-ar00354-from-angel-series-roma-september-1977.jpg
+    src: ../../media/francesca-woodman-ar00354-from-angel-series-roma-september-1977.webp
   - inventorynumber: AR00355
     category: Photography
     title: Untitled, 1975-80
@@ -93,7 +93,7 @@ works:
       © Courtesy of George and Betty Woodman
 
       AR0355
-    src: ../../media/francesca-woodman-ar00355-untitled-1975-80.jpg
+    src: ../../media/francesca-woodman-ar00355-untitled-1975-80.webp
   - inventorynumber: AR00356
     category: Photography
     title: Untitled, 1975-80
@@ -103,7 +103,7 @@ works:
       © Courtesy of George and Betty Woodman
 
       AR00356
-    src: ../../media/francesca-woodman-ar00356-untitled-1975-80.jpg
+    src: ../../media/francesca-woodman-ar00356-untitled-1975-80.webp
   - inventorynumber: AR00357
     category: Photography
     title: Untitled, 1975-80
@@ -113,7 +113,7 @@ works:
       © Courtesy of George and Betty Woodman
 
       AR00357
-    src: ../../media/francesca-woodman-ar00357-untitled-1975-80.jpg
+    src: ../../media/francesca-woodman-ar00357-untitled-1975-80.webp
   - inventorynumber: AR00358
     category: Photography
     title: Untitled, 1975-80
@@ -123,7 +123,7 @@ works:
       © Courtesy of George and Betty Woodman
 
       AR00358
-    src: ../../media/francesca-woodman-ar00358-untitled-1975-80.jpg
+    src: ../../media/francesca-woodman-ar00358-untitled-1975-80.webp
   - inventorynumber: AR00359
     category: Photography
     title: Untitled, 1975-80
@@ -133,7 +133,7 @@ works:
       © Courtesy of George and Betty Woodman
 
       AR00359
-    src: ../../media/francesca-woodman-ar00359-untitled-1975-80.jpg
+    src: ../../media/francesca-woodman-ar00359-untitled-1975-80.webp
   - inventorynumber: AR00360
     category: Photography
     title: Untitled, 1975-80
@@ -144,7 +144,7 @@ works:
       © Courtesy of George and Betty Woodman
 
       AR00360
-    src: ../../media/francesca-woodman-ar00360-untitled-1975-80.jpg
+    src: ../../media/francesca-woodman-ar00360-untitled-1975-80.webp
   - inventorynumber: AR00361
     category: Photography
     title: Untitled, 1975-80
@@ -154,7 +154,7 @@ works:
       © Courtesy of George and Betty Woodman
 
       AR00361
-    src: ../../media/francesca-woodman-ar00361-untitled-1975-80.jpg
+    src: ../../media/francesca-woodman-ar00361-untitled-1975-80.webp
   - inventorynumber: AR00362
     category: Photography
     title: Untitled, 1975-80
@@ -164,7 +164,7 @@ works:
       © Courtesy of George and Betty Woodman
 
       AR00362
-    src: ../../media/francesca-woodman-ar00362-untitled-1975-80.jpg
+    src: ../../media/francesca-woodman-ar00362-untitled-1975-80.webp
   - inventorynumber: AR00363
     category: Photography
     title: Untitled, 1975-80
@@ -174,7 +174,7 @@ works:
       © Courtesy of George and Betty Woodman
 
       AR00363
-    src: ../../media/francesca-woodman-ar00363-untitled-1975-80.jpg
+    src: ../../media/francesca-woodman-ar00363-untitled-1975-80.webp
   - inventorynumber: AR00364
     category: Photography
     title: Untitled, c.1980
@@ -184,7 +184,7 @@ works:
       © Courtesy of George and Betty Woodman
 
       AR00364
-    src: ../../media/francesca-woodman-ar00364-untitled-c1980.jpg
+    src: ../../media/francesca-woodman-ar00364-untitled-c1980.webp
 
 ---
 

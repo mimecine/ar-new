@@ -4,12 +4,12 @@ artists:
   - phyllida-barlow
 venue: turner-contemporary
 images:
-  - ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-0.jpg
-  - ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-1.jpg
-  - ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-2.jpg
-  - ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-3.jpg
-  - ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-4.jpg
-  - ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-5.jpg
+  - ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-0.webp
+  - ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-1.webp
+  - ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-2.webp
+  - ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-3.webp
+  - ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-4.webp
+  - ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-5.webp
 startdate: 2017-05-27
 enddate: 2017-09-24
 town: Margate

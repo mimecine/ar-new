@@ -4,10 +4,10 @@ artists:
   - vija-celmins
 venue: tate-britain
 images:
-  - ../../media/vija-celmins-london-tate-britain-2012-05-07-0.jpg
-  - ../../media/vija-celmins-london-tate-britain-2012-05-07-1.jpg
-  - ../../media/vija-celmins-london-tate-britain-2012-05-07-2.jpg
-  - ../../media/vija-celmins-london-tate-britain-2012-05-07-3.jpg
+  - ../../media/vija-celmins-london-tate-britain-2012-05-07-0.webp
+  - ../../media/vija-celmins-london-tate-britain-2012-05-07-1.webp
+  - ../../media/vija-celmins-london-tate-britain-2012-05-07-2.webp
+  - ../../media/vija-celmins-london-tate-britain-2012-05-07-3.webp
 startdate: 2012-05-07
 enddate: 2013-04-30
 town: London

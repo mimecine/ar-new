@@ -13,12 +13,12 @@ artists:
   - louise-bourgeois
 venue: tate-modern
 images:
-  - ../../media/art-and-text-london-tate-modern-2023-02-27-0.jpeg
-  - ../../media/art-and-text-london-tate-modern-2023-02-27-1.jpeg
-  - ../../media/art-and-text-london-tate-modern-2023-02-27-2.jpeg
-  - ../../media/art-and-text-london-tate-modern-2023-02-27-3.jpeg
-  - ../../media/art-and-text-london-tate-modern-2023-02-27-4.jpeg
-  - ../../media/art-and-text-london-tate-modern-2023-02-27-5.jpeg
+  - ../../media/art-and-text-london-tate-modern-2023-02-27-0.webp
+  - ../../media/art-and-text-london-tate-modern-2023-02-27-1.webp
+  - ../../media/art-and-text-london-tate-modern-2023-02-27-2.webp
+  - ../../media/art-and-text-london-tate-modern-2023-02-27-3.webp
+  - ../../media/art-and-text-london-tate-modern-2023-02-27-4.webp
+  - ../../media/art-and-text-london-tate-modern-2023-02-27-5.webp
 startdate: 2023-02-27
 enddate: 2024-12-08
 town: London

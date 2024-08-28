@@ -1,6 +1,6 @@
 ---
 title: Robert Ryman
-featuredImage: ../../media/robert-ryman-featured.jpg
+featuredImage: ../../media/robert-ryman-featured.webp
 resources: []
 works:
   - inventorynumber: AR00343
@@ -13,7 +13,7 @@ works:
       © Robert Ryman
 
       AR00343
-    src: ../../media/robert-ryman-ar00343-untitled-bruxelles-1974.jpg
+    src: ../../media/robert-ryman-ar00343-untitled-bruxelles-1974.webp
 
 ---
 

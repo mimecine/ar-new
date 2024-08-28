@@ -4,11 +4,11 @@ artists:
   - don-mccullin
 venue: gracefield-arts-centre
 images:
-  - ../../media/don-mccullin-dumfries-gracefield-arts-centre-2017-08-26-0.jpg
-  - ../../media/don-mccullin-dumfries-gracefield-arts-centre-2017-08-26-1.jpg
-  - ../../media/don-mccullin-dumfries-gracefield-arts-centre-2017-08-26-2.jpg
-  - ../../media/don-mccullin-dumfries-gracefield-arts-centre-2017-08-26-3.jpg
-  - ../../media/don-mccullin-dumfries-gracefield-arts-centre-2017-08-26-4.jpg
+  - ../../media/don-mccullin-dumfries-gracefield-arts-centre-2017-08-26-0.webp
+  - ../../media/don-mccullin-dumfries-gracefield-arts-centre-2017-08-26-1.webp
+  - ../../media/don-mccullin-dumfries-gracefield-arts-centre-2017-08-26-2.webp
+  - ../../media/don-mccullin-dumfries-gracefield-arts-centre-2017-08-26-3.webp
+  - ../../media/don-mccullin-dumfries-gracefield-arts-centre-2017-08-26-4.webp
 startdate: 2017-08-26
 enddate: 2017-11-19
 town: Dumfries

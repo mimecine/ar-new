@@ -4,8 +4,8 @@ artists:
   - ellen-gallagher
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/ellen-gallagher-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-0.jpg
-  - ../../media/ellen-gallagher-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-1.jpg
+  - ../../media/ellen-gallagher-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-0.webp
+  - ../../media/ellen-gallagher-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-1.webp
 startdate: 2009-03-14
 enddate: 2009-11-08
 town: Edinburgh

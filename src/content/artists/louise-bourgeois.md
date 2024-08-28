@@ -1,6 +1,6 @@
 ---
 title: Louise Bourgeois
-featuredImage: ../../media/louise-bourgeois-featured.jpg
+featuredImage: ../../media/louise-bourgeois-featured.webp
 resources:
   - /sites/default/files/downloads/LouiseBourgeoisLearningResource.pdf
 works:
@@ -15,7 +15,7 @@ works:
       © The Easton Foundation/Licensed by DACS, Photo: Christopher Burke
 
       AL00227 (on long-term loan from Artist Rooms Foundation, 2011)
-    src: ../../media/louise-bourgeois-al00227-tits-1967.jpg
+    src: ../../media/louise-bourgeois-al00227-tits-1967.webp
   - inventorynumber: AL00356
     category: Sculpture
     title: Fallen Woman, 1981
@@ -25,7 +25,7 @@ works:
       © Louise Bourgeois
 
       AL00356
-    src: ../../media/louise-bourgeois-al00356-fallen-woman-1981.jpg
+    src: ../../media/louise-bourgeois-al00356-fallen-woman-1981.webp
   - inventorynumber: AL00228
     category: Sculpture
     title: Nature Study, 1986
@@ -37,7 +37,7 @@ works:
       © The Easton Foundation/Licensed by DACS, Photo: Christopher Burke
 
       AL00228 (on long-term loan from Artist Rooms Foundation, 2011)
-    src: ../../media/louise-bourgeois-al00228-nature-study-1986.jpg
+    src: ../../media/louise-bourgeois-al00228-nature-study-1986.webp
   - inventorynumber: AL00398
     category: Sculpture
     title: Untitled, 1996
@@ -47,7 +47,7 @@ works:
       © Louise Bourgeois
 
       AL00398
-    src: ../../media/louise-bourgeois-al00398-untitled-1996.jpg
+    src: ../../media/louise-bourgeois-al00398-untitled-1996.webp
   - inventorynumber: A039019
     category: Works on paper
     title: La mère à couper le cordon, 1986
@@ -57,7 +57,7 @@ works:
       © The Easton Foundation/Licensed by DACS
 
       A039019
-    src: ../../media/louise-bourgeois-a039019-la-mre-couper-le-cordon-1986.jpg
+    src: ../../media/louise-bourgeois-a039019-la-mre-couper-le-cordon-1986.webp
   - inventorynumber: AL00349
     category: Works on paper
     title: Triptych for the Red Room, 1994
@@ -70,7 +70,7 @@ works:
       Photo: Christopher Burke, © The Easton Foundation/Licensed by DACS
 
       AL00349 (on long-term loan)
-    src: ../../media/louise-bourgeois-al00349-triptych-for-the-red-room-1994.jpg
+    src: ../../media/louise-bourgeois-al00349-triptych-for-the-red-room-1994.webp
   - inventorynumber: AL00340
     category: Works on paper
     title: Home for Runaway Girls, 1994
@@ -90,7 +90,7 @@ works:
       © The Easton Foundation/Licensed by DACS
 
       A039020
-    src: ../../media/louise-bourgeois-a039020-the-five-magic-words-2002.jpg
+    src: ../../media/louise-bourgeois-a039020-the-five-magic-words-2002.webp
   - inventorynumber: A039021
     category: Works on paper
     title: Self Portrait, 2003
@@ -100,7 +100,7 @@ works:
       © The Easton Foundation/Licensed by DACS
 
       A039021
-    src: ../../media/louise-bourgeois-a039021-self-portrait-2003.jpg
+    src: ../../media/louise-bourgeois-a039021-self-portrait-2003.webp
   - inventorynumber: A039022
     category: Works on paper
     title: Key Hole, 2005
@@ -110,7 +110,7 @@ works:
       © The Easton Foundation/Licensed by DACS
 
       A039022
-    src: ../../media/louise-bourgeois-a039022-key-hole-2005.jpg
+    src: ../../media/louise-bourgeois-a039022-key-hole-2005.webp
   - inventorynumber: AL00344
     category: Sculpture
     title: Couple I, 1996
@@ -122,7 +122,7 @@ works:
       © The Easton Foundation/Licensed by DACS, Photo: Christopher Burke
 
       AL00344 (on long-term loan from Artist Rooms Foundation)
-    src: ../../media/louise-bourgeois-al00344-couple-i-1996.jpg
+    src: ../../media/louise-bourgeois-al00344-couple-i-1996.webp
   - inventorynumber: AL00229
     category: Sculpture
     title: Single II, 1996
@@ -134,7 +134,7 @@ works:
       © The Easton Foundation/Licensed by DACS
 
       AL00229 (on long-term loan from Artist Rooms Foundation, 2011)
-    src: ../../media/louise-bourgeois-al00229-single-ii-1996.jpg
+    src: ../../media/louise-bourgeois-al00229-single-ii-1996.webp
   - inventorynumber: AL00346
     category: Works on paper
     title: Spirals, 2005
@@ -144,7 +144,7 @@ works:
       Photo: Marcus Leith; © The Easton Foundation/Licensed by DACS
 
       AL00346 (on long-term loan from Artist Rooms Foundation)
-    src: ../../media/louise-bourgeois-al00346-spirals-2005.jpg
+    src: ../../media/louise-bourgeois-al00346-spirals-2005.webp
   - inventorynumber: AL00230
     category: Sculpture
     title: Cell XIV (Portrait), 2000
@@ -156,7 +156,7 @@ works:
       © The Easton Foundation/Licensed by DACS, Photo: Christopher Burke
 
       AL00230 (on long-term loan from Artist Rooms Foundation, 2011)
-    src: ../../media/louise-bourgeois-al00230-cell-xiv-portrait-2000.jpg
+    src: ../../media/louise-bourgeois-al00230-cell-xiv-portrait-2000.webp
   - inventorynumber: A036089
     category: Sculpture
     title: Legs, 2001
@@ -166,7 +166,7 @@ works:
       @ Louise Bourgeois
 
       A036089
-    src: ../../media/louise-bourgeois-a036089-legs-2001.jpg
+    src: ../../media/louise-bourgeois-a036089-legs-2001.webp
   - inventorynumber: AL00342
     category: Sculpture
     title: Eyes, 2001-5
@@ -176,7 +176,7 @@ works:
       © The Easton Foundation/Licensed by DACS
 
       AL00342
-    src: ../../media/louise-bourgeois-al00342-eyes-2001-5.jpg
+    src: ../../media/louise-bourgeois-al00342-eyes-2001-5.webp
   - inventorynumber: AL00343
     category: Sculpture
     title: Give or Take, 2002
@@ -188,7 +188,7 @@ works:
       © The Easton Foundation/Licensed by DACS, Photo: Christopher Burke
 
       AL00343 (on long-term loan from Artist Rooms Foundation)
-    src: ../../media/louise-bourgeois-al00343-give-or-take-2002.jpg
+    src: ../../media/louise-bourgeois-al00343-give-or-take-2002.webp
   - inventorynumber: AL00345
     category: Works on paper
     title: 10 AM is When You Come To Me,  2006
@@ -198,7 +198,7 @@ works:
       © The Easton Foundation/Licensed by DACS
 
       AL00345 (on long-term loan from Artist Rooms Foundation)
-    src: ../../media/louise-bourgeois-al00345-10-am-is-when-you-come-to-me-2006.jpg
+    src: ../../media/louise-bourgeois-al00345-10-am-is-when-you-come-to-me-2006.webp
   - inventorynumber: AL00348
     category: Works on paper
     title: Femme, 2007
@@ -213,7 +213,7 @@ works:
       ​
 
       AL00348
-    src: ../../media/louise-bourgeois-al00348-femme-2007.jpg
+    src: ../../media/louise-bourgeois-al00348-femme-2007.webp
   - inventorynumber: AL00357
     category: Works on paper
     title: À L’Infini,  2008-2009
@@ -224,7 +224,7 @@ works:
       © The Easton Foundation/Licensed by DACS
 
       AL00357
-    src: ../../media/louise-bourgeois-al00357-linfini-2008-2009.jpeg
+    src: ../../media/louise-bourgeois-al00357-linfini-2008-2009.webp
   - inventorynumber: AL00341
     category: Sculpture
     title: I am Afraid, 2009
@@ -236,7 +236,7 @@ works:
       © The Easton Foundation/Licensed by DACS
 
       AL00341 (on long-term loan from Artist Rooms Foundation)
-    src: ../../media/louise-bourgeois-al00341-i-am-afraid-2009.jpg
+    src: ../../media/louise-bourgeois-al00341-i-am-afraid-2009.webp
   - inventorynumber: AL00358
     category: Sculpture
     title: Untitled, 2010
@@ -247,7 +247,7 @@ works:
       © The Easton Foundation/Licensed by DACS
 
       AL00358
-    src: ../../media/louise-bourgeois-al00358-untitled-2010.jpg
+    src: ../../media/louise-bourgeois-al00358-untitled-2010.webp
   - inventorynumber: AL00397
     category: Painting
     title: Untitled, 1946-1947
@@ -257,7 +257,7 @@ works:
       © Louise Bourgeois
 
       AL00397
-    src: ../../media/louise-bourgeois-al00397-untitled-1946-1947.jpg
+    src: ../../media/louise-bourgeois-al00397-untitled-1946-1947.webp
 
 ---
 

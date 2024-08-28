@@ -4,10 +4,10 @@ artists:
   - diane-arbus
 venue: nottingham-contemporary
 images:
-  - ../../media/diane-arbus-nottingham-nottingham-contemporary-2010-07-24-0.jpeg
-  - ../../media/diane-arbus-nottingham-nottingham-contemporary-2010-07-24-1.jpeg
-  - ../../media/diane-arbus-nottingham-nottingham-contemporary-2010-07-24-2.jpeg
-  - ../../media/diane-arbus-nottingham-nottingham-contemporary-2010-07-24-3.jpeg
+  - ../../media/diane-arbus-nottingham-nottingham-contemporary-2010-07-24-0.webp
+  - ../../media/diane-arbus-nottingham-nottingham-contemporary-2010-07-24-1.webp
+  - ../../media/diane-arbus-nottingham-nottingham-contemporary-2010-07-24-2.webp
+  - ../../media/diane-arbus-nottingham-nottingham-contemporary-2010-07-24-3.webp
 startdate: 2010-07-24
 enddate: 2010-09-26
 town: Nottingham

@@ -4,14 +4,14 @@ artists:
   - joseph-beuys
 venue: leeds-art-gallery
 images:
-  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-0.jpg
-  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-1.jpg
-  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-2.jpg
-  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-3.jpg
-  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-4.jpg
-  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-5.jpg
-  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-6.jpg
-  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-7.jpg
+  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-0.webp
+  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-1.webp
+  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-2.webp
+  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-3.webp
+  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-4.webp
+  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-5.webp
+  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-6.webp
+  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-7.webp
 startdate: 2017-10-13
 enddate: 2018-01-21
 town: Leeds

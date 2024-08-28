@@ -4,10 +4,10 @@ artists:
   - phyllida-barlow
 venue: tate-modern
 images:
-  - ../../media/phyllida-barlow-london-tate-modern-2021-08-23-0.jpg
-  - ../../media/phyllida-barlow-london-tate-modern-2021-08-23-1.jpg
-  - ../../media/phyllida-barlow-london-tate-modern-2021-08-23-2.jpg
-  - ../../media/phyllida-barlow-london-tate-modern-2021-08-23-3.jpg
+  - ../../media/phyllida-barlow-london-tate-modern-2021-08-23-0.webp
+  - ../../media/phyllida-barlow-london-tate-modern-2021-08-23-1.webp
+  - ../../media/phyllida-barlow-london-tate-modern-2021-08-23-2.webp
+  - ../../media/phyllida-barlow-london-tate-modern-2021-08-23-3.webp
 startdate: 2021-08-23
 enddate: 2022-07-31
 town: London

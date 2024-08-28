@@ -4,10 +4,10 @@ artists:
   - andy-warhol
 venue: wolverhampton-art-gallery
 images:
-  - ../../media/andy-warhol-wolverhampton-wolverhampton-art-gallery-2009-03-28-0.JPG
-  - ../../media/andy-warhol-wolverhampton-wolverhampton-art-gallery-2009-03-28-1.JPG
-  - ../../media/andy-warhol-wolverhampton-wolverhampton-art-gallery-2009-03-28-2.JPG
-  - ../../media/andy-warhol-wolverhampton-wolverhampton-art-gallery-2009-03-28-3.JPG
+  - ../../media/andy-warhol-wolverhampton-wolverhampton-art-gallery-2009-03-28-0.webp
+  - ../../media/andy-warhol-wolverhampton-wolverhampton-art-gallery-2009-03-28-1.webp
+  - ../../media/andy-warhol-wolverhampton-wolverhampton-art-gallery-2009-03-28-2.webp
+  - ../../media/andy-warhol-wolverhampton-wolverhampton-art-gallery-2009-03-28-3.webp
 startdate: 2009-03-28
 enddate: 2009-09-21
 town: Wolverhampton

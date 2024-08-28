@@ -4,13 +4,13 @@ artists:
   - martin-creed
 venue: harris-museum
 images:
-  - ../../media/martin-creed-preston-harris-museum-2017-01-27-0.jpg
-  - ../../media/martin-creed-preston-harris-museum-2017-01-27-1.jpg
-  - ../../media/martin-creed-preston-harris-museum-2017-01-27-2.jpg
-  - ../../media/martin-creed-preston-harris-museum-2017-01-27-3.jpg
-  - ../../media/martin-creed-preston-harris-museum-2017-01-27-4.jpg
-  - ../../media/martin-creed-preston-harris-museum-2017-01-27-5.jpg
-  - ../../media/martin-creed-preston-harris-museum-2017-01-27-6.jpg
+  - ../../media/martin-creed-preston-harris-museum-2017-01-27-0.webp
+  - ../../media/martin-creed-preston-harris-museum-2017-01-27-1.webp
+  - ../../media/martin-creed-preston-harris-museum-2017-01-27-2.webp
+  - ../../media/martin-creed-preston-harris-museum-2017-01-27-3.webp
+  - ../../media/martin-creed-preston-harris-museum-2017-01-27-4.webp
+  - ../../media/martin-creed-preston-harris-museum-2017-01-27-5.webp
+  - ../../media/martin-creed-preston-harris-museum-2017-01-27-6.webp
 startdate: 2017-01-27
 enddate: 2017-06-03
 town: Preston

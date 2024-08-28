@@ -4,9 +4,9 @@ artists:
   - joseph-beuys
 venue: tate-modern
 images:
-  - ../../media/joseph-beuys-london-tate-modern-2010-08-10-0.jpg
-  - ../../media/joseph-beuys-london-tate-modern-2010-08-10-1.jpg
-  - ../../media/joseph-beuys-london-tate-modern-2010-08-10-2.jpg
+  - ../../media/joseph-beuys-london-tate-modern-2010-08-10-0.webp
+  - ../../media/joseph-beuys-london-tate-modern-2010-08-10-1.webp
+  - ../../media/joseph-beuys-london-tate-modern-2010-08-10-2.webp
 startdate: 2010-08-10
 enddate: 2015-09-27
 town: London

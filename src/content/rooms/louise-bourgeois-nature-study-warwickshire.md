@@ -4,11 +4,11 @@ artists:
   - louise-bourgeois
 venue: compton-verney
 images:
-  - ../../media/louise-bourgeois-nature-study-warwickshire-compton-verney-2024-07-06-0.jpeg
-  - ../../media/louise-bourgeois-nature-study-warwickshire-compton-verney-2024-07-06-1.jpeg
-  - ../../media/louise-bourgeois-nature-study-warwickshire-compton-verney-2024-07-06-2.jpeg
-  - ../../media/louise-bourgeois-nature-study-warwickshire-compton-verney-2024-07-06-3.jpeg
-  - ../../media/louise-bourgeois-nature-study-warwickshire-compton-verney-2024-07-06-4.jpeg
+  - ../../media/louise-bourgeois-nature-study-warwickshire-compton-verney-2024-07-06-0.webp
+  - ../../media/louise-bourgeois-nature-study-warwickshire-compton-verney-2024-07-06-1.webp
+  - ../../media/louise-bourgeois-nature-study-warwickshire-compton-verney-2024-07-06-2.webp
+  - ../../media/louise-bourgeois-nature-study-warwickshire-compton-verney-2024-07-06-3.webp
+  - ../../media/louise-bourgeois-nature-study-warwickshire-compton-verney-2024-07-06-4.webp
 startdate: 2024-07-06
 enddate: 2024-10-06
 town: Warwickshire

@@ -1,6 +1,6 @@
 ---
 title: Georg Baselitz
-featuredImage: ../../media/georg-baselitz-featured.jpg
+featuredImage: ../../media/georg-baselitz-featured.webp
 resources: []
 works:
   - inventorynumber: AR00031
@@ -12,7 +12,7 @@ works:
       © Georg Baselitz
 
       AR00031
-    src: ../../media/georg-baselitz-ar00031-volkstanz-marode-1989.jpg
+    src: ../../media/georg-baselitz-ar00031-volkstanz-marode-1989.webp
   - inventorynumber: AR00032
     category: Painting
     title: Wo ist der gelbe Milchkrug, Frau Vogel?, 1989
@@ -22,7 +22,7 @@ works:
       © Georg Baselitz
 
       AR00032
-    src: ../../media/georg-baselitz-ar00032-wo-ist-der-gelbe-milchkrug-frau-vogel-1989.jpg
+    src: ../../media/georg-baselitz-ar00032-wo-ist-der-gelbe-milchkrug-frau-vogel-1989.webp
 
 ---
 

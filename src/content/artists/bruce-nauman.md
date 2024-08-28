@@ -1,6 +1,6 @@
 ---
 title: Bruce Nauman
-featuredImage: ../../media/bruce-nauman-featured.jpg
+featuredImage: ../../media/bruce-nauman-featured.webp
 resources: []
 works:
   - inventorynumber: A038280
@@ -18,7 +18,7 @@ works:
 
 
       A038280
-    src: ../../media/bruce-nauman-a038280-run-from-fear-fun-from-rear-1972.jpg
+    src: ../../media/bruce-nauman-a038280-run-from-fear-fun-from-rear-1972.webp
   - inventorynumber: AR00044
     category: Installation
     title: Changing Light Corridor with Rooms, 1971
@@ -31,7 +31,7 @@ works:
 
 
       AR00044
-    src: ../../media/bruce-nauman-ar00044-changing-light-corridor-with-rooms-1971.jpg
+    src: ../../media/bruce-nauman-ar00044-changing-light-corridor-with-rooms-1971.webp
   - inventorynumber: AR00607
     category: Sculpture
     title: La Brea/Art Tips/Rat Spit/Tar Pits, 1972
@@ -43,7 +43,7 @@ works:
 
 
       AR00607
-    src: ../../media/bruce-nauman-ar00607-la-breaart-tipsrat-spittar-pits-1972.jpg
+    src: ../../media/bruce-nauman-ar00607-la-breaart-tipsrat-spittar-pits-1972.webp
   - inventorynumber: AR00180
     category: Sculpture
     title: "Enforced Perspective: Allegory and Symbolism, 1975"
@@ -55,7 +55,7 @@ works:
 
 
       AR00180
-    src: ../../media/bruce-nauman-ar00180-enforced-perspective-allegory-and-symbolism-1975.jpg
+    src: ../../media/bruce-nauman-ar00180-enforced-perspective-allegory-and-symbolism-1975.webp
   - inventorynumber: AL00399
     category: Sculpture
     title: Double Poke In the Eye II 1985
@@ -70,7 +70,7 @@ works:
 
 
       AL00399
-    src: ../../media/bruce-nauman-al00399-double-poke-in-the-eye-ii-1985.jpg
+    src: ../../media/bruce-nauman-al00399-double-poke-in-the-eye-ii-1985.webp
   - inventorynumber: AR00578
     category: Works on paper
     title: Untitled (Drawing for Enforced Perspective), 1975
@@ -82,7 +82,7 @@ works:
 
 
       AR00578
-    src: ../../media/bruce-nauman-ar00578-untitled-drawing-for-enforced-perspective-1975.jpg
+    src: ../../media/bruce-nauman-ar00578-untitled-drawing-for-enforced-perspective-1975.webp
   - inventorynumber: AR00577
     category: Video
     title: "Violent Incident: Man-Woman Segment, 1986"
@@ -95,7 +95,7 @@ works:
 
 
       AR00577
-    src: ../../media/bruce-nauman-ar00577-violent-incident-man-woman-segment-1986.jpg
+    src: ../../media/bruce-nauman-ar00577-violent-incident-man-woman-segment-1986.webp
   - inventorynumber: AR00580
     category: Sculpture
     title: Untitled (Hand Circle),  1996
@@ -108,7 +108,7 @@ works:
 
 
       AR00580
-    src: ../../media/bruce-nauman-ar00580-untitled-hand-circle-1996.jpg
+    src: ../../media/bruce-nauman-ar00580-untitled-hand-circle-1996.webp
   - inventorynumber: AR00579
     category: Video
     title: Raw Material Washing Hands, Normal (A of A/B); Raw Material Washing
@@ -123,7 +123,7 @@ works:
 
 
       AR00579
-    src: ../../media/bruce-nauman-ar00579-raw-material-washing-hands-normal-a-of-ab-raw-material-washing-hands-normal-b-of-ab-1996.jpg
+    src: ../../media/bruce-nauman-ar00579-raw-material-washing-hands-normal-a-of-ab-raw-material-washing-hands-normal-b-of-ab-1996.webp
   - inventorynumber: AR00575
     category: Sculpture
     title: Partial Truth, 1997
@@ -135,7 +135,7 @@ works:
 
 
       AR00575
-    src: ../../media/bruce-nauman-ar00575-partial-truth-1997.jpg
+    src: ../../media/bruce-nauman-ar00575-partial-truth-1997.webp
   - inventorynumber: AR00576
     category: Video
     title: Setting a Good Corner (Allegory and Metaphor), 1999
@@ -147,7 +147,7 @@ works:
 
 
       AR00576
-    src: ../../media/bruce-nauman-ar00576-setting-a-good-corner-allegory-and-metaphor-1999.jpg
+    src: ../../media/bruce-nauman-ar00576-setting-a-good-corner-allegory-and-metaphor-1999.webp
 
 ---
 

@@ -4,8 +4,8 @@ artists:
   - andy-warhol
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/andy-warhol-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-0.jpg
-  - ../../media/andy-warhol-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-1.jpg
+  - ../../media/andy-warhol-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-0.webp
+  - ../../media/andy-warhol-edinburgh-scottish-national-gallery-of-modern-art-2009-03-14-1.webp
 startdate: 2009-03-14
 enddate: 2009-11-08
 town: Edinburgh

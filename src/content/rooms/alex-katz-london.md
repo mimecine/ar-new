@@ -4,9 +4,9 @@ artists:
   - alex-katz
 venue: tate-modern
 images:
-  - ../../media/alex-katz-london-tate-modern-2014-04-26-0.jpg
-  - ../../media/alex-katz-london-tate-modern-2014-04-26-1.jpg
-  - ../../media/alex-katz-london-tate-modern-2014-04-26-2.jpg
+  - ../../media/alex-katz-london-tate-modern-2014-04-26-0.webp
+  - ../../media/alex-katz-london-tate-modern-2014-04-26-1.webp
+  - ../../media/alex-katz-london-tate-modern-2014-04-26-2.webp
 startdate: 2014-04-26
 enddate: 2014-11-30
 town: London

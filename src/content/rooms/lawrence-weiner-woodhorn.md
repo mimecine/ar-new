@@ -4,9 +4,9 @@ artists:
   - lawrence-weiner
 venue: woodhorn-museum
 images:
-  - ../../media/lawrence-weiner-woodhorn-woodhorn-museum-2014-10-25-0.jpg
-  - ../../media/lawrence-weiner-woodhorn-woodhorn-museum-2014-10-25-1.jpg
-  - ../../media/lawrence-weiner-woodhorn-woodhorn-museum-2014-10-25-2.jpg
+  - ../../media/lawrence-weiner-woodhorn-woodhorn-museum-2014-10-25-0.webp
+  - ../../media/lawrence-weiner-woodhorn-woodhorn-museum-2014-10-25-1.webp
+  - ../../media/lawrence-weiner-woodhorn-woodhorn-museum-2014-10-25-2.webp
 startdate: 2014-10-25
 enddate: 2015-04-19
 town: Woodhorn

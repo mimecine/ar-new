@@ -4,7 +4,7 @@ artists:
   - robert-therrien
 venue: tate-modern
 images:
-  - ../../media/robert-therrien-london-tate-modern-2009-04-29-0.jpg
+  - ../../media/robert-therrien-london-tate-modern-2009-04-29-0.webp
 startdate: 2009-04-29
 enddate: 2010-01-01
 town: London

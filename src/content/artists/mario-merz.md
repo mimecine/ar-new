@@ -1,6 +1,6 @@
 ---
 title: Mario Merz
-featuredImage: ../../media/mario-merz-featured.jpg
+featuredImage: ../../media/mario-merz-featured.webp
 resources: []
 works:
   - inventorynumber: AR00608
@@ -12,7 +12,7 @@ works:
       © The estate of Mario Merz
 
       AR00608
-    src: ../../media/mario-merz-ar00608-lingotto-1968.jpg
+    src: ../../media/mario-merz-ar00608-lingotto-1968.webp
   - inventorynumber: AR00598
     category: Sculpture
     title: Che Fare?, 1968-73
@@ -22,7 +22,7 @@ works:
       © The estate of Mario Merz
 
       AR00598
-    src: ../../media/mario-merz-ar00598-che-fare-1968-73.jpg
+    src: ../../media/mario-merz-ar00598-che-fare-1968-73.webp
 
 ---
 

@@ -4,13 +4,13 @@ artists:
   - andy-warhol
 venue: whitworth-art-gallery
 images:
-  - ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-0.jpg
-  - ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-1.jpg
-  - ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-2.jpg
-  - ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-3.jpg
-  - ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-4.jpg
-  - ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-5.jpg
-  - ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-6.jpg
+  - ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-0.webp
+  - ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-1.webp
+  - ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-2.webp
+  - ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-3.webp
+  - ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-4.webp
+  - ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-5.webp
+  - ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-6.webp
 startdate: 2016-11-19
 enddate: 2017-04-16
 town: Manchester

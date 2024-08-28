@@ -4,9 +4,9 @@ artists:
   - jenny-holzer
 venue: the-lightbox
 images:
-  - ../../media/jenny-holzer-surrey-the-lightbox-2009-11-14-0.jpg
-  - ../../media/jenny-holzer-surrey-the-lightbox-2009-11-14-1.JPG
-  - ../../media/jenny-holzer-surrey-the-lightbox-2009-11-14-2.jpg
+  - ../../media/jenny-holzer-surrey-the-lightbox-2009-11-14-0.webp
+  - ../../media/jenny-holzer-surrey-the-lightbox-2009-11-14-1.webp
+  - ../../media/jenny-holzer-surrey-the-lightbox-2009-11-14-2.webp
 startdate: 2009-11-14
 enddate: 2010-02-14
 town: Surrey

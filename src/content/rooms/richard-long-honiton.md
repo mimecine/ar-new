@@ -4,12 +4,12 @@ artists:
   - richard-long
 venue: thelma-hulbert-gallery
 images:
-  - ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-0.jpg
-  - ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-1.jpg
-  - ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-2.jpg
-  - ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-3.jpg
-  - ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-4.jpg
-  - ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-5.jpg
+  - ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-0.webp
+  - ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-1.webp
+  - ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-2.webp
+  - ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-3.webp
+  - ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-4.webp
+  - ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-5.webp
 startdate: 2020-02-22
 enddate: 2020-05-23
 town: Honiton

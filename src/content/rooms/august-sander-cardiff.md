@@ -4,16 +4,16 @@ artists:
   - august-sander
 venue: national-museum-cardiff
 images:
-  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-0.jpg
-  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-1.jpg
-  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-2.jpg
-  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-3.jpg
-  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-4.jpg
-  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-5.jpg
-  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-6.jpg
-  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-7.jpg
-  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-8.jpg
-  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-9.jpg
+  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-0.webp
+  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-1.webp
+  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-2.webp
+  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-3.webp
+  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-4.webp
+  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-5.webp
+  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-6.webp
+  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-7.webp
+  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-8.webp
+  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-9.webp
 startdate: 2019-10-26
 enddate: 2020-03-01
 town: Cardiff

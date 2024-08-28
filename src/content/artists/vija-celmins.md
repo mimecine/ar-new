@@ -1,6 +1,6 @@
 ---
 title: Vija Celmins
-featuredImage: ../../media/vija-celmins-featured.jpg
+featuredImage: ../../media/vija-celmins-featured.webp
 resources:
   - /sites/default/files/downloads/VijaCelminsLearningResource.pdf
 works:
@@ -13,7 +13,7 @@ works:
       © Vija Celmins
 
       AR00162
-    src: ../../media/vija-celmins-ar00162-untitled-desert-galaxy-1974.jpg
+    src: ../../media/vija-celmins-ar00162-untitled-desert-galaxy-1974.webp
   - inventorynumber: AR00467
     category: Works on paper 1980s
     title: Drypoint - Ocean Surface, 1983
@@ -23,7 +23,7 @@ works:
       © Vija Celmins
 
       AR00467
-    src: ../../media/vija-celmins-ar00467-drypoint-ocean-surface-1983.jpg
+    src: ../../media/vija-celmins-ar00467-drypoint-ocean-surface-1983.webp
   - inventorynumber: AR00468
     category: Works on paper 1980s
     title: December 1984, 1985
@@ -33,7 +33,7 @@ works:
       © Vija Celmins
 
       AR00468
-    src: ../../media/vija-celmins-ar00468-december-1984-1985.jpg
+    src: ../../media/vija-celmins-ar00468-december-1984-1985.webp
   - inventorynumber: AR00481
     category: Works on paper 1980s
     title: Jupiter Moon – Constellation, 1983
@@ -44,7 +44,7 @@ works:
       © Vija Celmins
 
       AR00481
-    src: ../../media/vija-celmins-ar00481-jupiter-moon-constellation-1983.jpg
+    src: ../../media/vija-celmins-ar00481-jupiter-moon-constellation-1983.webp
   - inventorynumber: AR00605
     category: Works on paper 1970s
     title: Galaxy, 1975
@@ -54,7 +54,7 @@ works:
       © Vija Celmins
 
       AR00605
-    src: ../../media/vija-celmins-ar00605-galaxy-1975.jpg
+    src: ../../media/vija-celmins-ar00605-galaxy-1975.webp
   - inventorynumber: AR00606
     category: Works on paper 1980s
     title: Constellation – Uccello, 1983
@@ -64,7 +64,7 @@ works:
       © Vija Celmins
 
       AR00606
-    src: ../../media/vija-celmins-ar00606-constellation-uccello-1983.jpg
+    src: ../../media/vija-celmins-ar00606-constellation-uccello-1983.webp
   - inventorynumber: AR01161
     category: Works on paper 1980s
     title: Alliance, 1983
@@ -74,7 +74,7 @@ works:
       © Vija Celmins
 
       AR01161
-    src: ../../media/vija-celmins-ar01161-alliance-1983.jpg
+    src: ../../media/vija-celmins-ar01161-alliance-1983.webp
   - inventorynumber: AR00469
     category: Works on paper 1980s
     title: Concentric Bearings A, 1984
@@ -84,7 +84,7 @@ works:
       © Vija Celmins
 
       AR00469
-    src: ../../media/vija-celmins-ar00469-concentric-bearings-a-1984.jpg
+    src: ../../media/vija-celmins-ar00469-concentric-bearings-a-1984.webp
   - inventorynumber: AR00470
     category: Works on paper 1980s
     title: Concentric Bearings D, 1985
@@ -95,7 +95,7 @@ works:
       © Vija Celmins
 
       AR00470
-    src: ../../media/vija-celmins-ar00470-concentric-bearings-d-1985.jpg
+    src: ../../media/vija-celmins-ar00470-concentric-bearings-d-1985.webp
   - inventorynumber: AR00482
     category: Works on paper 1980s
     title: Concentric Bearings B, 1984
@@ -106,7 +106,7 @@ works:
       © Vija Celmins
 
       AR00482
-    src: ../../media/vija-celmins-ar00482-concentric-bearings-b-1984.jpg
+    src: ../../media/vija-celmins-ar00482-concentric-bearings-b-1984.webp
   - inventorynumber: AR00483
     category: Works on paper 1980s
     title: Concentric Bearings C, 1984
@@ -117,7 +117,7 @@ works:
       © Vija Celmins
 
       AR00483
-    src: ../../media/vija-celmins-ar00483-concentric-bearings-c-1984.jpg
+    src: ../../media/vija-celmins-ar00483-concentric-bearings-c-1984.webp
   - inventorynumber: AR00484
     category: Works on paper 1990s
     title: Ocean Surface Woodcut, 1992
@@ -127,7 +127,7 @@ works:
       © Vija Celmins
 
       AR00484
-    src: ../../media/vija-celmins-ar00484-ocean-surface-woodcut-1992.jpg
+    src: ../../media/vija-celmins-ar00484-ocean-surface-woodcut-1992.webp
   - inventorynumber: AR00480
     category: Works on paper 1990s
     title: Night Sky Woodcut, 1997
@@ -137,7 +137,7 @@ works:
       © Vija Celmins
 
       AR00480
-    src: ../../media/vija-celmins-ar00480-night-sky-woodcut-1997.jpg
+    src: ../../media/vija-celmins-ar00480-night-sky-woodcut-1997.webp
   - inventorynumber: AR00163
     category: Works on paper 1990s
     title: "Night Sky #19, 1998"
@@ -147,7 +147,7 @@ works:
       © Vija Celmins
 
       AR00163
-    src: ../../media/vija-celmins-ar00163-night-sky-19-1998.jpg
+    src: ../../media/vija-celmins-ar00163-night-sky-19-1998.webp
   - inventorynumber: AR00164
     category: Works on paper 1990s
     title: "Web #1, 1999"
@@ -157,7 +157,7 @@ works:
       © Vija Celmins
 
       AR00164
-    src: ../../media/vija-celmins-ar00164-web-1-1999.jpg
+    src: ../../media/vija-celmins-ar00164-web-1-1999.webp
   - inventorynumber: AR00472
     category: Works on paper 1990s
     title: Untitled (Source Materials), 1999
@@ -167,7 +167,7 @@ works:
       © Vija Celmins
 
       AR00472
-    src: ../../media/vija-celmins-ar00472-untitled-source-materials-1999.jpg
+    src: ../../media/vija-celmins-ar00472-untitled-source-materials-1999.webp
   - inventorynumber: AR00471
     category: Works on paper 1980s
     title: Mount Holyoke, 1987
@@ -177,7 +177,7 @@ works:
       © Vija Celmins
 
       AR00471
-    src: ../../media/vija-celmins-ar00471-mount-holyoke-1987.jpg
+    src: ../../media/vija-celmins-ar00471-mount-holyoke-1987.webp
   - inventorynumber: AR00473
     category: Works on paper 2000s
     title: Ocean Surface Wood Engraving, 2000
@@ -187,7 +187,7 @@ works:
       © Vija Celmins
 
       AR00473
-    src: ../../media/vija-celmins-ar00473-ocean-surface-wood-engraving-2000.jpg
+    src: ../../media/vija-celmins-ar00473-ocean-surface-wood-engraving-2000.webp
   - inventorynumber: AR00476
     category: Works on paper 2000s
     title: Untitled (Web 1), 2001
@@ -197,7 +197,7 @@ works:
       © Vija Celmins
 
       AR00476
-    src: ../../media/vija-celmins-ar00476-untitled-web-1-2001.jpg
+    src: ../../media/vija-celmins-ar00476-untitled-web-1-2001.webp
   - inventorynumber: AR00477
     category: Works on paper 2000s
     title: Untitled (Web 2), 2001
@@ -207,7 +207,7 @@ works:
       © Vija Celmins
 
       AR00477
-    src: ../../media/vija-celmins-ar00477-untitled-web-2-2001.jpg
+    src: ../../media/vija-celmins-ar00477-untitled-web-2-2001.webp
   - inventorynumber: AR00474
     category: Works on paper 2000s
     title: Night Sky 1 Reversed, 2002
@@ -218,7 +218,7 @@ works:
       © Vija Celmins
 
       AR00474
-    src: ../../media/vija-celmins-ar00474-night-sky-1-reversed-2002.jpg
+    src: ../../media/vija-celmins-ar00474-night-sky-1-reversed-2002.webp
   - inventorynumber: AR00475
     category: Works on paper 2000s
     title: Night Sky 2 Reversed, 2002
@@ -229,7 +229,7 @@ works:
       © Vija Celmins
 
       AR00475
-    src: ../../media/vija-celmins-ar00475-night-sky-2-reversed-2002.jpg
+    src: ../../media/vija-celmins-ar00475-night-sky-2-reversed-2002.webp
   - inventorynumber: AR00479
     category: Works on paper 2000s
     title: Untitled (Web 4), 2002
@@ -240,7 +240,7 @@ works:
       © Vija Celmins
 
       AR00479
-    src: ../../media/vija-celmins-ar00479-untitled-web-4-2002.jpg
+    src: ../../media/vija-celmins-ar00479-untitled-web-4-2002.webp
   - inventorynumber: AR00478
     category: Works on paper 2000s
     title: Untitled (Web 3), 2002
@@ -251,7 +251,7 @@ works:
       © Vija Celmins
 
       AR00478
-    src: ../../media/vija-celmins-ar00478-untitled-web-3-2002.jpg
+    src: ../../media/vija-celmins-ar00478-untitled-web-3-2002.webp
   - inventorynumber: AR00485
     category: Works on paper 2000s
     title: Night Sky 3, 2002
@@ -261,7 +261,7 @@ works:
       © Vija Celmins
 
       AR00485
-    src: ../../media/vija-celmins-ar00485-night-sky-3-2002.jpg
+    src: ../../media/vija-celmins-ar00485-night-sky-3-2002.webp
   - inventorynumber: AR01160
     category: Works on paper 2010s
     title: Starfield, 2010
@@ -271,7 +271,7 @@ works:
       © Vija Celmins
 
       AR01160
-    src: ../../media/vija-celmins-ar01160-starfield-2010.jpg
+    src: ../../media/vija-celmins-ar01160-starfield-2010.webp
   - inventorynumber: AR01155
     category: Works on paper 2010s
     title: Web Ladder, 2010
@@ -281,7 +281,7 @@ works:
       © Vija Celmins
 
       AR01155
-    src: ../../media/vija-celmins-ar01155-web-ladder-2010.jpeg
+    src: ../../media/vija-celmins-ar01155-web-ladder-2010.webp
   - inventorynumber: AR01156
     category: Works on paper 2010s
     title: Divided Night Sky, 2010
@@ -291,7 +291,7 @@ works:
       © Vija Celmins
 
       AR01156
-    src: ../../media/vija-celmins-ar01156-divided-night-sky-2010.jpg
+    src: ../../media/vija-celmins-ar01156-divided-night-sky-2010.webp
   - inventorynumber: AR01157
     category: Works on paper 2010s
     title: Reverse Galaxy, 2010
@@ -302,7 +302,7 @@ works:
       © Vija Celmins
 
       AR01157
-    src: ../../media/vija-celmins-ar01157-reverse-galaxy-2010.jpg
+    src: ../../media/vija-celmins-ar01157-reverse-galaxy-2010.webp
   - inventorynumber: AR01158
     category: Works on paper 2010s
     title: Falling Stars, 2010
@@ -312,7 +312,7 @@ works:
       © Vija Celmins
 
       AR01158
-    src: ../../media/vija-celmins-ar01158-falling-stars-2010.jpg
+    src: ../../media/vija-celmins-ar01158-falling-stars-2010.webp
   - inventorynumber: AR01159
     category: Works on paper 2010s
     title: Dark Galaxy, 2010
@@ -322,7 +322,7 @@ works:
       © Vija Celmins
 
       AR01159
-    src: ../../media/vija-celmins-ar01159-dark-galaxy-2010.jpg
+    src: ../../media/vija-celmins-ar01159-dark-galaxy-2010.webp
 
 ---
 

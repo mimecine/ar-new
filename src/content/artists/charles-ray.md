@@ -1,6 +1,6 @@
 ---
 title: Charles Ray
-featuredImage: ../../media/charles-ray-featured.jpg
+featuredImage: ../../media/charles-ray-featured.webp
 resources: []
 works:
   - inventorynumber: AR00342
@@ -13,7 +13,7 @@ works:
       © Charles Ray
 
       AR00342
-    src: ../../media/charles-ray-ar00342-plank-piece-i-ii-1973.jpg
+    src: ../../media/charles-ray-ar00342-plank-piece-i-ii-1973.webp
 
 ---
 

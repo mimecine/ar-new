@@ -4,10 +4,10 @@ artists:
   - robert-mapplethorpe
 venue: aberystwyth-arts-centre
 images:
-  - ../../media/robert-mapplethorpe-aberystwyth-aberystwyth-arts-centre-2015-08-07-0.jpg
-  - ../../media/robert-mapplethorpe-aberystwyth-aberystwyth-arts-centre-2015-08-07-1.jpg
-  - ../../media/robert-mapplethorpe-aberystwyth-aberystwyth-arts-centre-2015-08-07-2.jpg
-  - ../../media/robert-mapplethorpe-aberystwyth-aberystwyth-arts-centre-2015-08-07-3.jpg
+  - ../../media/robert-mapplethorpe-aberystwyth-aberystwyth-arts-centre-2015-08-07-0.webp
+  - ../../media/robert-mapplethorpe-aberystwyth-aberystwyth-arts-centre-2015-08-07-1.webp
+  - ../../media/robert-mapplethorpe-aberystwyth-aberystwyth-arts-centre-2015-08-07-2.webp
+  - ../../media/robert-mapplethorpe-aberystwyth-aberystwyth-arts-centre-2015-08-07-3.webp
 startdate: 2015-08-07
 enddate: 2015-11-07
 town: Aberystwyth

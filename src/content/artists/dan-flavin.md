@@ -1,6 +1,6 @@
 ---
 title: Dan Flavin
-featuredImage: ../../media/dan-flavin-featured.jpg
+featuredImage: ../../media/dan-flavin-featured.webp
 resources: []
 works:
   - inventorynumber: AL00350
@@ -20,7 +20,7 @@ works:
 
 
        
-    src: ../../media/dan-flavin-al00350-untitled-to-don-judd-colorist-1-5-1987.jpg
+    src: ../../media/dan-flavin-al00350-untitled-to-don-judd-colorist-1-5-1987.webp
 
 ---
 

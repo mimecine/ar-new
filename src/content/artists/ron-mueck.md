@@ -1,6 +1,6 @@
 ---
 title: Ron Mueck
-featuredImage: ../../media/ron-mueck-featured.jpg
+featuredImage: ../../media/ron-mueck-featured.webp
 resources: []
 works:
   - inventorynumber: AR00035
@@ -12,7 +12,7 @@ works:
       © Ron Mueck
 
       AR00035
-    src: ../../media/ron-mueck-ar00035-mask-iii-2005.jpg
+    src: ../../media/ron-mueck-ar00035-mask-iii-2005.webp
   - inventorynumber: AR00033
     category: Sculpture
     title: Spooning Couple, 2005
@@ -22,7 +22,7 @@ works:
       © Ron Mueck
 
       AR00033
-    src: ../../media/ron-mueck-ar00033-spooning-couple-2005.jpg
+    src: ../../media/ron-mueck-ar00033-spooning-couple-2005.webp
   - inventorynumber: AR00034
     category: Sculpture
     title: Wild Man, 2005
@@ -32,7 +32,7 @@ works:
       © Ron Mueck
 
       AR00034
-    src: ../../media/ron-mueck-ar00034-wild-man-2005.jpg
+    src: ../../media/ron-mueck-ar00034-wild-man-2005.webp
 
 ---
 

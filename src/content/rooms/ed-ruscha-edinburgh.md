@@ -4,11 +4,11 @@ artists:
   - ed-ruscha
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/ed-ruscha-edinburgh-scottish-national-gallery-of-modern-art-2017-04-29-0.jpg
-  - ../../media/ed-ruscha-edinburgh-scottish-national-gallery-of-modern-art-2017-04-29-1.jpg
-  - ../../media/ed-ruscha-edinburgh-scottish-national-gallery-of-modern-art-2017-04-29-2.jpg
-  - ../../media/ed-ruscha-edinburgh-scottish-national-gallery-of-modern-art-2017-04-29-3.jpg
-  - ../../media/ed-ruscha-edinburgh-scottish-national-gallery-of-modern-art-2017-04-29-4.jpg
+  - ../../media/ed-ruscha-edinburgh-scottish-national-gallery-of-modern-art-2017-04-29-0.webp
+  - ../../media/ed-ruscha-edinburgh-scottish-national-gallery-of-modern-art-2017-04-29-1.webp
+  - ../../media/ed-ruscha-edinburgh-scottish-national-gallery-of-modern-art-2017-04-29-2.webp
+  - ../../media/ed-ruscha-edinburgh-scottish-national-gallery-of-modern-art-2017-04-29-3.webp
+  - ../../media/ed-ruscha-edinburgh-scottish-national-gallery-of-modern-art-2017-04-29-4.webp
 startdate: 2017-04-29
 enddate: 2018-04-29
 town: Edinburgh

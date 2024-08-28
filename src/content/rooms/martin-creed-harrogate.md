@@ -3,13 +3,13 @@ title: Martin Creed, Harrogate
 artists: []
 venue: mercer-harrogate
 images:
-  - ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-0.jpeg
-  - ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-1.jpeg
-  - ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-2.jpeg
-  - ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-3.jpeg
-  - ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-4.jpeg
-  - ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-5.jpeg
-  - ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-6.jpeg
+  - ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-0.webp
+  - ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-1.webp
+  - ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-2.webp
+  - ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-3.webp
+  - ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-4.webp
+  - ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-5.webp
+  - ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-6.webp
 startdate: 2023-04-01
 enddate: 2023-06-02
 town: Harrogate

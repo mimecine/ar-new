@@ -1,6 +1,6 @@
 ---
 title: Jenny Holzer
-featuredImage: ../../media/jenny-holzer-featured.jpg
+featuredImage: ../../media/jenny-holzer-featured.webp
 resources: []
 works:
   - inventorynumber: AR00082
@@ -12,7 +12,7 @@ works:
       © 2014 Jenny Holzer, member/Artists Rights Society (ARS), New York
 
       AR00082
-    src: ../../media/jenny-holzer-ar00082-blue-purple-tilt-2007.jpg
+    src: ../../media/jenny-holzer-ar00082-blue-purple-tilt-2007.webp
   - inventorynumber: AR00083
     category: Painting
     title: Protect Protect, 2007
@@ -22,7 +22,7 @@ works:
       © 2014 Jenny Holzer, member/Artists Rights Society (ARS), New York
 
       AR00083
-    src: ../../media/jenny-holzer-ar00083-protect-protect-2007.jpg
+    src: ../../media/jenny-holzer-ar00083-protect-protect-2007.webp
   - inventorynumber: AR00084
     category: Painting
     title: Shape the Battlespace, 2007
@@ -32,7 +32,7 @@ works:
       © 2014 Jenny Holzer, member/Artists Rights Society (ARS), New York
 
       AR0084
-    src: ../../media/jenny-holzer-ar00084-shape-the-battlespace-2007.jpg
+    src: ../../media/jenny-holzer-ar00084-shape-the-battlespace-2007.webp
   - inventorynumber: AR01132
     category: Painting
     title: Phase I...Running Start Shape the Battlespace pewter, 2007
@@ -48,7 +48,7 @@ works:
 
 
       AR01132
-    src: ../../media/jenny-holzer-ar01132-phase-irunning-start-shape-the-battlespace-pewter-2007.jpg
+    src: ../../media/jenny-holzer-ar01132-phase-irunning-start-shape-the-battlespace-pewter-2007.webp
   - inventorynumber: AR01133
     category: Painting
     title: Phase II...Running Start Decisive Operations violet, 2007
@@ -64,7 +64,7 @@ works:
 
 
       AR01133
-    src: ../../media/jenny-holzer-ar01133-phase-iirunning-start-decisive-operations-violet-2007.jpg
+    src: ../../media/jenny-holzer-ar01133-phase-iirunning-start-decisive-operations-violet-2007.webp
   - inventorynumber: AR01134
     category: Painting
     title: Force at End of Phase III (If Required) violet, 2007
@@ -80,7 +80,7 @@ works:
 
 
       AR01134
-    src: ../../media/jenny-holzer-ar01134-force-at-end-of-phase-iii-if-required-violet-2007.jpg
+    src: ../../media/jenny-holzer-ar01134-force-at-end-of-phase-iii-if-required-violet-2007.webp
   - inventorynumber: AR01135
     category: Painting
     title: Phase III - Decisive Operations violet, 2007
@@ -96,7 +96,7 @@ works:
 
 
       AR01135
-    src: ../../media/jenny-holzer-ar01135-phase-iii-decisive-operations-violet-2007.jpg
+    src: ../../media/jenny-holzer-ar01135-phase-iii-decisive-operations-violet-2007.webp
   - inventorynumber: AR01271
     category: Sculpture
     title: They're Breathing
@@ -106,7 +106,7 @@ works:
       © Jenny Holzer
 
       AR01271
-    src: ../../media/jenny-holzer-ar01271-theyre-breathing.jpg
+    src: ../../media/jenny-holzer-ar01271-theyre-breathing.webp
   - inventorynumber: AR01269
     category: Sculpture
     title: You Enemy
@@ -116,7 +116,7 @@ works:
       © Jenny Holzer
 
       AR01269
-    src: ../../media/jenny-holzer-ar01269-you-enemy.JPG
+    src: ../../media/jenny-holzer-ar01269-you-enemy.webp
   - inventorynumber: AR01270
     category: Sculpture
     title: I Placed My Feet
@@ -126,7 +126,7 @@ works:
       © Jenny Holzer
 
       AR01270
-    src: ../../media/jenny-holzer-ar01270-i-placed-my-feet.jpg
+    src: ../../media/jenny-holzer-ar01270-i-placed-my-feet.webp
   - inventorynumber: AR01268
     category: Sculpture
     title: The Beauty Worshipped
@@ -136,7 +136,7 @@ works:
       © Jenny Holzer
 
       AR01268
-    src: ../../media/jenny-holzer-ar01268-the-beauty-worshipped.JPG
+    src: ../../media/jenny-holzer-ar01268-the-beauty-worshipped.webp
 
 ---
 

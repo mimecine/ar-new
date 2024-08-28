@@ -1,6 +1,6 @@
 ---
 title: Richard Hamilton
-featuredImage: ../../media/richard-hamilton-featured.jpg
+featuredImage: ../../media/richard-hamilton-featured.webp
 resources: []
 works:
   - inventorynumber: AR00141
@@ -13,7 +13,7 @@ works:
       © Richard Hamilton
 
       AR00141
-    src: ../../media/richard-hamilton-ar00141-four-self-portraits-05381-1990.jpg
+    src: ../../media/richard-hamilton-ar00141-four-self-portraits-05381-1990.webp
 
 ---
 

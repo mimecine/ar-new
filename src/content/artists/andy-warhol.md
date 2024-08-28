@@ -1,6 +1,6 @@
 ---
 title: Andy Warhol
-featuredImage: ../../media/andy-warhol-featured.jpg
+featuredImage: ../../media/andy-warhol-featured.webp
 resources: []
 works:
   - inventorynumber: AR00230
@@ -14,7 +14,7 @@ works:
 
 
       AR00230
-    src: ../../media/andy-warhol-ar00230-alexandre-iolas-1972.jpg
+    src: ../../media/andy-warhol-ar00230-alexandre-iolas-1972.webp
   - inventorynumber: AR00039
     category: Painting
     title: Man Ray, 1974
@@ -26,7 +26,7 @@ works:
 
 
       AR0039
-    src: ../../media/andy-warhol-ar00039-man-ray-1974.jpg
+    src: ../../media/andy-warhol-ar00039-man-ray-1974.webp
   - inventorynumber: AR00040
     category: Painting
     title: Gilbert and George, 1975
@@ -38,7 +38,7 @@ works:
 
 
       AR00040
-    src: ../../media/andy-warhol-ar00040-gilbert-and-george-1975.jpg
+    src: ../../media/andy-warhol-ar00040-gilbert-and-george-1975.webp
   - inventorynumber: AR00609
     category: Painting
     title: Skulls, 1976
@@ -50,7 +50,7 @@ works:
 
 
       AR00609
-    src: ../../media/andy-warhol-ar00609-skulls-1976.jpg
+    src: ../../media/andy-warhol-ar00609-skulls-1976.webp
   - inventorynumber: AR00610
     category: Painting
     title: Self-Portrait with Skull, 1978
@@ -62,7 +62,7 @@ works:
 
 
       AR00610
-    src: ../../media/andy-warhol-ar00610-self-portrait-with-skull-1978.jpg
+    src: ../../media/andy-warhol-ar00610-self-portrait-with-skull-1978.webp
   - inventorynumber: AR00503
     category: Painting
     title: Self-Portrait Strangulation, 1978
@@ -74,7 +74,7 @@ works:
 
 
       AR00503
-    src: ../../media/andy-warhol-ar00503-self-portrait-strangulation-1978.jpg
+    src: ../../media/andy-warhol-ar00503-self-portrait-strangulation-1978.webp
   - inventorynumber: AR00501
     category: Painting
     title: Self-Portrait, 1978
@@ -86,7 +86,7 @@ works:
 
 
       AR00501
-    src: ../../media/andy-warhol-ar00501-self-portrait-1978.jpg
+    src: ../../media/andy-warhol-ar00501-self-portrait-1978.webp
   - inventorynumber: AR00587
     category: Painting
     title: Joseph Beuys, 1980
@@ -98,7 +98,7 @@ works:
 
 
       AR00587
-    src: ../../media/andy-warhol-ar00587-joseph-beuys-1980.jpg
+    src: ../../media/andy-warhol-ar00587-joseph-beuys-1980.webp
   - inventorynumber: AR00231
     category: Painting
     title: Gun, 1981
@@ -110,7 +110,7 @@ works:
 
 
       AR00231
-    src: ../../media/andy-warhol-ar00231-gun-1981.jpg
+    src: ../../media/andy-warhol-ar00231-gun-1981.webp
   - inventorynumber: AR00502
     category: Painting
     title: Dollar Sign, 1981
@@ -122,7 +122,7 @@ works:
 
 
       AR00502
-    src: ../../media/andy-warhol-ar00502-dollar-sign-1981.jpg
+    src: ../../media/andy-warhol-ar00502-dollar-sign-1981.webp
   - inventorynumber: AR00232
     category: Painting
     title: Robert Mapplethorpe, 1983
@@ -134,7 +134,7 @@ works:
 
 
       AR00232
-    src: ../../media/andy-warhol-ar00232-robert-mapplethorpe-1983.jpg
+    src: ../../media/andy-warhol-ar00232-robert-mapplethorpe-1983.webp
   - inventorynumber: AR00611
     category: Painting
     title: Camouflage, 1986
@@ -146,7 +146,7 @@ works:
 
 
       AR00611
-    src: ../../media/andy-warhol-ar00611-camouflage-1986.jpg
+    src: ../../media/andy-warhol-ar00611-camouflage-1986.webp
   - inventorynumber: AR00233
     category: Painting
     title: Hamburger, 1985-6
@@ -159,7 +159,7 @@ works:
 
 
       AR00233
-    src: ../../media/andy-warhol-ar00233-hamburger-1985-6.jpg
+    src: ../../media/andy-warhol-ar00233-hamburger-1985-6.webp
   - inventorynumber: AR00239
     category: Painting
     title: Christ $9.98 (negative and positive), 1985-6
@@ -171,7 +171,7 @@ works:
 
 
       AR00239
-    src: ../../media/andy-warhol-ar00239-christ-998-negative-and-positive-1985-6.jpg
+    src: ../../media/andy-warhol-ar00239-christ-998-negative-and-positive-1985-6.webp
   - inventorynumber: AR00588
     category: Painting
     title: Paratrooper Boots, 1985-6
@@ -184,7 +184,7 @@ works:
 
 
       AR00588
-    src: ../../media/andy-warhol-ar00588-paratrooper-boots-1985-6.jpg
+    src: ../../media/andy-warhol-ar00588-paratrooper-boots-1985-6.webp
   - inventorynumber: AR00236
     category: Painting
     title: Are You Different?, c.1985-6
@@ -197,7 +197,7 @@ works:
 
 
       AR00236
-    src: ../../media/andy-warhol-ar00236-are-you-different-c1985-6.jpg
+    src: ../../media/andy-warhol-ar00236-are-you-different-c1985-6.webp
   - inventorynumber: AR00237
     category: Painting
     title: Energy - Power, c.1985-6
@@ -210,7 +210,7 @@ works:
 
 
       AR00237
-    src: ../../media/andy-warhol-ar00237-energy-power-c1985-6.jpg
+    src: ../../media/andy-warhol-ar00237-energy-power-c1985-6.webp
   - inventorynumber: AR00235
     category: Painting
     title: Map of Eastern U.S.S.R. Missile Bases, c.1985-6
@@ -222,7 +222,7 @@ works:
 
 
       AR00235
-    src: ../../media/andy-warhol-ar00235-map-of-eastern-ussr-missile-bases-c1985-6.jpg
+    src: ../../media/andy-warhol-ar00235-map-of-eastern-ussr-missile-bases-c1985-6.webp
   - inventorynumber: AR00234
     category: Painting
     title: Repent and Sin No More!, 1985-6
@@ -234,7 +234,7 @@ works:
 
 
       AR00234
-    src: ../../media/andy-warhol-ar00234-repent-and-sin-no-more-1985-6.jpg
+    src: ../../media/andy-warhol-ar00234-repent-and-sin-no-more-1985-6.webp
   - inventorynumber: AR00238
     category: Painting
     title: The Mark of the Beast, c.1985-6
@@ -247,7 +247,7 @@ works:
 
 
       AR00238
-    src: ../../media/andy-warhol-ar00238-the-mark-of-the-beast-c1985-6.jpg
+    src: ../../media/andy-warhol-ar00238-the-mark-of-the-beast-c1985-6.webp
   - inventorynumber: AR00299
     category: Stitched Photographs
     title: Male Nude, 1987
@@ -259,7 +259,7 @@ works:
 
 
       AR00299
-    src: ../../media/andy-warhol-ar00299-male-nude-1987.jpg
+    src: ../../media/andy-warhol-ar00299-male-nude-1987.webp
   - inventorynumber: AR00300
     category: Stitched Photographs
     title: Male Nude, 1987
@@ -271,7 +271,7 @@ works:
 
 
       AR00300
-    src: ../../media/andy-warhol-ar00300-male-nude-1987.jpg
+    src: ../../media/andy-warhol-ar00300-male-nude-1987.webp
   - inventorynumber: AR00301
     category: Stitched Photographs
     title: Male Nude, 1987
@@ -283,7 +283,7 @@ works:
 
 
       AR00301
-    src: ../../media/andy-warhol-ar00301-male-nude-1987.jpg
+    src: ../../media/andy-warhol-ar00301-male-nude-1987.webp
   - inventorynumber: AR00298
     category: Stitched Photographs
     title: Male Nude, 1987
@@ -295,7 +295,7 @@ works:
 
 
       AR00298
-    src: ../../media/andy-warhol-ar00298-male-nude-1987.jpg
+    src: ../../media/andy-warhol-ar00298-male-nude-1987.webp
   - inventorynumber: AR00293
     category: Stitched Photographs
     title: Cadaver, 1986
@@ -307,7 +307,7 @@ works:
 
 
       AR00293
-    src: ../../media/andy-warhol-ar00293-cadaver-1986.jpg
+    src: ../../media/andy-warhol-ar00293-cadaver-1986.webp
   - inventorynumber: AR00297
     category: Stitched Photographs
     title: Trash Cans, 1986
@@ -319,7 +319,7 @@ works:
 
 
       AR00297
-    src: ../../media/andy-warhol-ar00297-trash-cans-1986.jpg
+    src: ../../media/andy-warhol-ar00297-trash-cans-1986.webp
   - inventorynumber: AR00290
     category: Stitched Photographs
     title: Grace Jones
@@ -331,7 +331,7 @@ works:
 
 
       AR00290
-    src: ../../media/andy-warhol-ar00290-grace-jones.jpg
+    src: ../../media/andy-warhol-ar00290-grace-jones.webp
   - inventorynumber: AR00295
     category: Stitched Photographs
     title: Sunday Brunch, 1986
@@ -344,7 +344,7 @@ works:
 
 
       AR00295
-    src: ../../media/andy-warhol-ar00295-sunday-brunch-1986.jpg
+    src: ../../media/andy-warhol-ar00295-sunday-brunch-1986.webp
   - inventorynumber: AR00296
     category: Stitched Photographs
     title: No Parking, 1986
@@ -357,7 +357,7 @@ works:
 
 
       AR00296
-    src: ../../media/andy-warhol-ar00296-no-parking-1986.jpg
+    src: ../../media/andy-warhol-ar00296-no-parking-1986.webp
   - inventorynumber: AR00294
     category: Stitched Photographs
     title: Venus in Shell, 1986
@@ -370,7 +370,7 @@ works:
 
 
       AR00294
-    src: ../../media/andy-warhol-ar00294-venus-in-shell-1986.jpg
+    src: ../../media/andy-warhol-ar00294-venus-in-shell-1986.webp
   - inventorynumber: AR00291
     category: Stitched Photographs
     title: Grace being painted by Keith, 1986
@@ -383,7 +383,7 @@ works:
 
 
       AR00291
-    src: ../../media/andy-warhol-ar00291-grace-being-painted-by-keith-1986.jpg
+    src: ../../media/andy-warhol-ar00291-grace-being-painted-by-keith-1986.webp
   - inventorynumber: AR00288
     category: Stitched Photographs
     title: Dissection Class, 1986
@@ -396,7 +396,7 @@ works:
 
 
       AR00288
-    src: ../../media/andy-warhol-ar00288-dissection-class-1986.jpg
+    src: ../../media/andy-warhol-ar00288-dissection-class-1986.webp
   - inventorynumber: AR00292
     category: Stitched Photographs
     title: Cough, 1986
@@ -409,7 +409,7 @@ works:
 
 
       AR00292
-    src: ../../media/andy-warhol-ar00292-cough-1986.jpg
+    src: ../../media/andy-warhol-ar00292-cough-1986.webp
   - inventorynumber: AR00289
     category: Stitched Photographs
     title: I am blind, 1986
@@ -421,7 +421,7 @@ works:
 
 
       AR00289
-    src: ../../media/andy-warhol-ar00289-i-am-blind-1986.jpg
+    src: ../../media/andy-warhol-ar00289-i-am-blind-1986.webp
   - inventorynumber: AR00286
     category: Stitched Photographs
     title: Self-Portrait, 1976-86
@@ -434,7 +434,7 @@ works:
 
 
       AR00286
-    src: ../../media/andy-warhol-ar00286-self-portrait-1976-86.jpg
+    src: ../../media/andy-warhol-ar00286-self-portrait-1976-86.webp
   - inventorynumber: AR00287
     category: Stitched Photographs
     title: Statue of Liberty, 1986
@@ -447,7 +447,7 @@ works:
 
 
       AR00287
-    src: ../../media/andy-warhol-ar00287-statue-of-liberty-1986.jpg
+    src: ../../media/andy-warhol-ar00287-statue-of-liberty-1986.webp
   - inventorynumber: AR00316
     category: Polaroids
     title: Gilbert and George, 1976
@@ -459,7 +459,7 @@ works:
 
 
       AR00316
-    src: ../../media/andy-warhol-ar00316-gilbert-and-george-1976.jpg
+    src: ../../media/andy-warhol-ar00316-gilbert-and-george-1976.webp
   - inventorynumber: AR00317
     category: Polaroids
     title: Gilbert and George, 1976
@@ -471,7 +471,7 @@ works:
 
 
       AR00317
-    src: ../../media/andy-warhol-ar00317-gilbert-and-george-1976.jpg
+    src: ../../media/andy-warhol-ar00317-gilbert-and-george-1976.webp
   - inventorynumber: AR00305
     category: Polaroids
     title: Self-Portrait with Hand to Cheek,  1977-8
@@ -483,7 +483,7 @@ works:
 
 
       AR00305
-    src: ../../media/andy-warhol-ar00305-self-portrait-with-hand-to-cheek-1977-8.jpg
+    src: ../../media/andy-warhol-ar00305-self-portrait-with-hand-to-cheek-1977-8.webp
   - inventorynumber: AR00304
     category: Polaroids
     title: Self-Portrait in Blue Shirt, 1977-8
@@ -495,7 +495,7 @@ works:
 
 
       AR00304
-    src: ../../media/andy-warhol-ar00304-self-portrait-in-blue-shirt-1977-8.jpg
+    src: ../../media/andy-warhol-ar00304-self-portrait-in-blue-shirt-1977-8.webp
   - inventorynumber: AR00303
     category: Polaroids
     title: Self-Portrait in Interview T-shirt,  1977-8
@@ -507,7 +507,7 @@ works:
 
 
       AR00303
-    src: ../../media/andy-warhol-ar00303-self-portrait-in-interview-t-shirt-1977-8.jpg
+    src: ../../media/andy-warhol-ar00303-self-portrait-in-interview-t-shirt-1977-8.webp
   - inventorynumber: AR00302
     category: Polaroids
     title: Self-Portrait in Dark Suit,  1977-8
@@ -519,7 +519,7 @@ works:
 
 
       AR00302
-    src: ../../media/andy-warhol-ar00302-self-portrait-in-dark-suit-1977-8.jpg
+    src: ../../media/andy-warhol-ar00302-self-portrait-in-dark-suit-1977-8.webp
   - inventorynumber: AR00307
     category: Polaroids
     title: Self-Portrait in a Dark Suit and Plaid Shirt,  1981
@@ -531,7 +531,7 @@ works:
 
 
       AR00307
-    src: ../../media/andy-warhol-ar00307-self-portrait-in-a-dark-suit-and-plaid-shirt-1981.jpg
+    src: ../../media/andy-warhol-ar00307-self-portrait-in-a-dark-suit-and-plaid-shirt-1981.webp
   - inventorynumber: AR00306
     category: Polaroids
     title: Self-Portrait in Dark Suit and Plaid Shirt,  1981
@@ -543,7 +543,7 @@ works:
 
 
       AR00306
-    src: ../../media/andy-warhol-ar00306-self-portrait-in-dark-suit-and-plaid-shirt-1981.jpg
+    src: ../../media/andy-warhol-ar00306-self-portrait-in-dark-suit-and-plaid-shirt-1981.webp
   - inventorynumber: AR00311
     category: Polaroids
     title: Self-Portrait in Profile with Shadow,  1981
@@ -555,7 +555,7 @@ works:
 
 
       AR00311
-    src: ../../media/andy-warhol-ar00311-self-portrait-in-profile-with-shadow-1981.jpg
+    src: ../../media/andy-warhol-ar00311-self-portrait-in-profile-with-shadow-1981.webp
   - inventorynumber: AR00308
     category: Polaroids
     title: Self-Portrait with Platinum Bouffant Wig,  1981
@@ -567,7 +567,7 @@ works:
 
 
       AR00308
-    src: ../../media/andy-warhol-ar00308-self-portrait-with-platinum-bouffant-wig-1981.jpg
+    src: ../../media/andy-warhol-ar00308-self-portrait-with-platinum-bouffant-wig-1981.webp
   - inventorynumber: AR00309
     category: Polaroids
     title: Self-Portrait with Reddish Blonde Wig,  1981
@@ -579,7 +579,7 @@ works:
 
 
       AR00309
-    src: ../../media/andy-warhol-ar00309-self-portrait-with-reddish-blonde-wig-1981.jpg
+    src: ../../media/andy-warhol-ar00309-self-portrait-with-reddish-blonde-wig-1981.webp
   - inventorynumber: AR00310
     category: Polaroids
     title: Self-Portrait with Platinum Pageboy Wig,  1981
@@ -591,7 +591,7 @@ works:
 
 
       AR00310
-    src: ../../media/andy-warhol-ar00310-self-portrait-with-platinum-pageboy-wig-1981.jpg
+    src: ../../media/andy-warhol-ar00310-self-portrait-with-platinum-pageboy-wig-1981.webp
   - inventorynumber: AR00312
     category: Polaroids
     title: Self-Portrait with Fright Wig,  1986
@@ -603,7 +603,7 @@ works:
 
 
       AR00312
-    src: ../../media/andy-warhol-ar00312-self-portrait-with-fright-wig-1986.jpg
+    src: ../../media/andy-warhol-ar00312-self-portrait-with-fright-wig-1986.webp
   - inventorynumber: AR00313
     category: Polaroids
     title: Self-Portrait with Fright Wig,  1986
@@ -615,7 +615,7 @@ works:
 
 
       AR00313
-    src: ../../media/andy-warhol-ar00313-self-portrait-with-fright-wig-1986.jpg
+    src: ../../media/andy-warhol-ar00313-self-portrait-with-fright-wig-1986.webp
   - inventorynumber: AR00314
     category: Polaroids
     title: Self-Portrait with Fright Wig,  1986
@@ -627,7 +627,7 @@ works:
 
 
       AR00314
-    src: ../../media/andy-warhol-ar00314-self-portrait-with-fright-wig-1986.jpg
+    src: ../../media/andy-warhol-ar00314-self-portrait-with-fright-wig-1986.webp
   - inventorynumber: AR00315
     category: Polaroids
     title: Self-Portrait with Fright Wig,  1986
@@ -639,7 +639,7 @@ works:
 
 
       AR00315
-    src: ../../media/andy-warhol-ar00315-self-portrait-with-fright-wig-1986.jpg
+    src: ../../media/andy-warhol-ar00315-self-portrait-with-fright-wig-1986.webp
   - inventorynumber: AR00265
     category: Works on paper (1948 - 53)
     title: Cano, 1948
@@ -651,7 +651,7 @@ works:
 
 
       AR00265
-    src: ../../media/andy-warhol-ar00265-cano-1948.jpg
+    src: ../../media/andy-warhol-ar00265-cano-1948.webp
   - inventorynumber: AR00589
     category: Works on paper (1948 - 53)
     title: A Field of Blue Children,  1951-2
@@ -663,7 +663,7 @@ works:
 
 
       AR00589
-    src: ../../media/andy-warhol-ar00589-a-field-of-blue-children-1951-2.jpg
+    src: ../../media/andy-warhol-ar00589-a-field-of-blue-children-1951-2.webp
   - inventorynumber: AR00240
     category: Works on paper (1948 - 53)
     title: "\"The Nation's Nightmare\",  1951"
@@ -675,7 +675,7 @@ works:
 
 
       AR00240
-    src: ../../media/andy-warhol-ar00240-the-nations-nightmare-1951.jpg
+    src: ../../media/andy-warhol-ar00240-the-nations-nightmare-1951.webp
   - inventorynumber: AR00261
     category: Works on paper (1948 - 53)
     title: '"Pistols for Two",  1951'
@@ -687,7 +687,7 @@ works:
 
 
       AR00261
-    src: ../../media/andy-warhol-ar00261-pistols-for-two-1951.jpg
+    src: ../../media/andy-warhol-ar00261-pistols-for-two-1951.webp
   - inventorynumber: AR00241
     category: Works on paper (1948 - 53)
     title: Embracing Couple with Marbleised Background,  1952
@@ -699,7 +699,7 @@ works:
 
 
       AR00241
-    src: ../../media/andy-warhol-ar00241-embracing-couple-with-marbleised-background-1952.jpg
+    src: ../../media/andy-warhol-ar00241-embracing-couple-with-marbleised-background-1952.webp
   - inventorynumber: AR00242
     category: Works on paper (1948 - 53)
     title: Female Bust, Two Children with Marbleised Background,  1952
@@ -711,7 +711,7 @@ works:
 
 
       AR00242
-    src: ../../media/andy-warhol-ar00242-female-bust-two-children-with-marbleised-background-1952.jpg
+    src: ../../media/andy-warhol-ar00242-female-bust-two-children-with-marbleised-background-1952.webp
   - inventorynumber: AR00244
     category: Works on paper (1948 - 53)
     title: '"The Runaway Pigeon",  1953'
@@ -723,7 +723,7 @@ works:
 
 
       AR00244
-    src: ../../media/andy-warhol-ar00244-the-runaway-pigeon-1953.jpg
+    src: ../../media/andy-warhol-ar00244-the-runaway-pigeon-1953.webp
   - inventorynumber: AR00246
     category: Works on paper (1948 - 53)
     title: Musical Notes and Sprite Faces,  1953
@@ -735,7 +735,7 @@ works:
 
 
       AR00246
-    src: ../../media/andy-warhol-ar00246-musical-notes-and-sprite-faces-1953.jpg
+    src: ../../media/andy-warhol-ar00246-musical-notes-and-sprite-faces-1953.webp
   - inventorynumber: AR00266
     category: Works on paper (1948 - 53)
     title: '"The Runaway Pigeon",  1953'
@@ -747,7 +747,7 @@ works:
 
 
       AR00266
-    src: ../../media/andy-warhol-ar00266-the-runaway-pigeon-1953.jpg
+    src: ../../media/andy-warhol-ar00266-the-runaway-pigeon-1953.webp
   - inventorynumber: AR00245
     category: Works on paper (1948 - 53)
     title: '"A Hand of Bridge",  1953'
@@ -759,7 +759,7 @@ works:
 
 
       AR00245
-    src: ../../media/andy-warhol-ar00245-a-hand-of-bridge-1953.jpg
+    src: ../../media/andy-warhol-ar00245-a-hand-of-bridge-1953.webp
   - inventorynumber: AR00243
     category: Works on paper (1948 - 53)
     title: '"The Runaway Pigeon",  1953'
@@ -771,7 +771,7 @@ works:
 
 
       AR00243
-    src: ../../media/andy-warhol-ar00243-the-runaway-pigeon-1953.jpg
+    src: ../../media/andy-warhol-ar00243-the-runaway-pigeon-1953.webp
   - inventorynumber: AR00248
     category: Works on paper (1954 - 55)
     title: Chess Player, 1954
@@ -783,7 +783,7 @@ works:
 
 
       AR00248
-    src: ../../media/andy-warhol-ar00248-chess-player-1954.jpg
+    src: ../../media/andy-warhol-ar00248-chess-player-1954.webp
   - inventorynumber: AR00247
     category: Works on paper (1954 - 55)
     title: '"Town and Country",  1954'
@@ -795,7 +795,7 @@ works:
 
 
       AR00247
-    src: ../../media/andy-warhol-ar00247-town-and-country-1954.jpg
+    src: ../../media/andy-warhol-ar00247-town-and-country-1954.webp
   - inventorynumber: AR00260
     category: Works on paper (1954 - 55)
     title: Young Man with Heart,  1954
@@ -807,7 +807,7 @@ works:
 
 
       AR00260
-    src: ../../media/andy-warhol-ar00260-young-man-with-heart-1954.jpg
+    src: ../../media/andy-warhol-ar00260-young-man-with-heart-1954.webp
   - inventorynumber: AR00249
     category: Works on paper (1954 - 55)
     title: Happy Butterfly Day,  1955
@@ -819,7 +819,7 @@ works:
 
 
       AR00249
-    src: ../../media/andy-warhol-ar00249-happy-butterfly-day-1955.jpg
+    src: ../../media/andy-warhol-ar00249-happy-butterfly-day-1955.webp
   - inventorynumber: AR00250
     category: Works on paper (1954 - 55)
     title: Tondo (Butterflies), 1955
@@ -831,7 +831,7 @@ works:
 
 
       AR00250
-    src: ../../media/andy-warhol-ar00250-tondo-butterflies-1955.jpg
+    src: ../../media/andy-warhol-ar00250-tondo-butterflies-1955.webp
   - inventorynumber: AR00251
     category: Works on paper (1954 - 55)
     title: Blue Shoe,  1955
@@ -843,7 +843,7 @@ works:
 
 
       AR00251
-    src: ../../media/andy-warhol-ar00251-blue-shoe-1955.jpg
+    src: ../../media/andy-warhol-ar00251-blue-shoe-1955.webp
   - inventorynumber: AR00259
     category: Works on paper (1954 - 55)
     title: Foot with Cat,  1955-57
@@ -855,7 +855,7 @@ works:
 
 
       AR00259
-    src: ../../media/andy-warhol-ar00259-foot-with-cat-1955-57.jpg
+    src: ../../media/andy-warhol-ar00259-foot-with-cat-1955-57.webp
   - inventorynumber: AR00271
     category: Works on paper (1954 - 55)
     title: Boy with Flowers,  1955-57
@@ -867,7 +867,7 @@ works:
 
 
       AR00271
-    src: ../../media/andy-warhol-ar00271-boy-with-flowers-1955-57.jpg
+    src: ../../media/andy-warhol-ar00271-boy-with-flowers-1955-57.webp
   - inventorynumber: AR00272
     category: Works on paper (1954 - 55)
     title: Resting Boy,  1955-57
@@ -879,7 +879,7 @@ works:
 
 
       AR00272
-    src: ../../media/andy-warhol-ar00272-resting-boy-1955-57.jpg
+    src: ../../media/andy-warhol-ar00272-resting-boy-1955-57.webp
   - inventorynumber: AR00262
     category: Works on paper (1954 - 55)
     title: '"The Summer Dancers",  1955'
@@ -891,7 +891,7 @@ works:
 
 
       AR00262
-    src: ../../media/andy-warhol-ar00262-the-summer-dancers-1955.jpg
+    src: ../../media/andy-warhol-ar00262-the-summer-dancers-1955.webp
   - inventorynumber: AR00263
     category: Works on paper (1954 - 55)
     title: '"The Summer Dancers",  1955'
@@ -903,7 +903,7 @@ works:
 
 
       AR00263
-    src: ../../media/andy-warhol-ar00263-the-summer-dancers-1955.jpg
+    src: ../../media/andy-warhol-ar00263-the-summer-dancers-1955.webp
   - inventorynumber: AR00591
     category: Works on paper (1956 - 58)
     title: Boy with Thumb in Mouth,  1956
@@ -915,7 +915,7 @@ works:
 
 
       AR00591
-    src: ../../media/andy-warhol-ar00591-boy-with-thumb-in-mouth-1956.jpg
+    src: ../../media/andy-warhol-ar00591-boy-with-thumb-in-mouth-1956.webp
   - inventorynumber: AR00590
     category: Works on paper (1954 - 55)
     title: Boy Licking his Lips,  1956
@@ -927,7 +927,7 @@ works:
 
 
       AR00590
-    src: ../../media/andy-warhol-ar00590-boy-licking-his-lips-1956.jpg
+    src: ../../media/andy-warhol-ar00590-boy-licking-his-lips-1956.webp
   - inventorynumber: AR00268
     category: Works on paper (1956 - 58)
     title: Shoes and Roses,  1956
@@ -939,7 +939,7 @@ works:
 
 
       AR00268
-    src: ../../media/andy-warhol-ar00268-shoes-and-roses-1956.jpg
+    src: ../../media/andy-warhol-ar00268-shoes-and-roses-1956.webp
   - inventorynumber: AR00269
     category: Works on paper (1956 - 58)
     title: Male Torso,  1956
@@ -951,7 +951,7 @@ works:
 
 
       AR00269
-    src: ../../media/andy-warhol-ar00269-male-torso-1956.jpg
+    src: ../../media/andy-warhol-ar00269-male-torso-1956.webp
   - inventorynumber: AR00281
     category: Works on paper (1956 - 58)
     title: Woman with Hat,  1957
@@ -963,7 +963,7 @@ works:
 
 
       AR00281
-    src: ../../media/andy-warhol-ar00281-woman-with-hat-1957.jpg
+    src: ../../media/andy-warhol-ar00281-woman-with-hat-1957.webp
   - inventorynumber: AR00252
     category: Works on paper (1956 - 58)
     title: Baboon,  1957
@@ -975,7 +975,7 @@ works:
 
 
       AR00252
-    src: ../../media/andy-warhol-ar00252-baboon-1957.jpg
+    src: ../../media/andy-warhol-ar00252-baboon-1957.webp
   - inventorynumber: AR00253
     category: Works on paper (1956 - 58)
     title: Hand Holding Glass with Daffodil,  1957
@@ -987,7 +987,7 @@ works:
 
 
       AR00253
-    src: ../../media/andy-warhol-ar00253-hand-holding-glass-with-daffodil-1957.jpg
+    src: ../../media/andy-warhol-ar00253-hand-holding-glass-with-daffodil-1957.webp
   - inventorynumber: AR00612
     category: Works on paper (1956 - 58)
     title: Instruments with Hands,  1957
@@ -999,7 +999,7 @@ works:
 
 
       AR00612
-    src: ../../media/andy-warhol-ar00612-instruments-with-hands-1957.jpg
+    src: ../../media/andy-warhol-ar00612-instruments-with-hands-1957.webp
   - inventorynumber: AR00264
     category: Works on paper (1956 - 58)
     title: '"Here Lies the Heart",  1957'
@@ -1011,7 +1011,7 @@ works:
 
 
       AR00264
-    src: ../../media/andy-warhol-ar00264-here-lies-the-heart-1957.jpg
+    src: ../../media/andy-warhol-ar00264-here-lies-the-heart-1957.webp
   - inventorynumber: AR00267
     category: Works on paper (1956 - 58)
     title: Christmas Sewing Theme,  1957
@@ -1023,7 +1023,7 @@ works:
 
 
       AR00267
-    src: ../../media/andy-warhol-ar00267-christmas-sewing-theme-1957.jpg
+    src: ../../media/andy-warhol-ar00267-christmas-sewing-theme-1957.webp
   - inventorynumber: AR00282
     category: Works on paper (1956 - 58)
     title: Head of a Girl and Children,  1958-61
@@ -1035,7 +1035,7 @@ works:
 
 
       AR00282
-    src: ../../media/andy-warhol-ar00282-head-of-a-girl-and-children-1958-61.jpg
+    src: ../../media/andy-warhol-ar00282-head-of-a-girl-and-children-1958-61.webp
   - inventorynumber: AR00258
     category: Works on paper (1956 - 58)
     title: Foot with Flowers,  1958
@@ -1047,7 +1047,7 @@ works:
 
 
       AR00258
-    src: ../../media/andy-warhol-ar00258-foot-with-flowers-1958.jpg
+    src: ../../media/andy-warhol-ar00258-foot-with-flowers-1958.webp
   - inventorynumber: AR00254
     category: Works on paper (1956 - 58)
     title: Hot Air Balloon,  1958
@@ -1059,7 +1059,7 @@ works:
 
 
       AR00254
-    src: ../../media/andy-warhol-ar00254-hot-air-balloon-1958.jpg
+    src: ../../media/andy-warhol-ar00254-hot-air-balloon-1958.webp
   - inventorynumber: AR00273
     category: Works on paper (1956 - 58)
     title: Abstract Stencilled Images,  1958
@@ -1071,7 +1071,7 @@ works:
 
 
       AR00273
-    src: ../../media/andy-warhol-ar00273-abstract-stencilled-images-1958.jpg
+    src: ../../media/andy-warhol-ar00273-abstract-stencilled-images-1958.webp
   - inventorynumber: AR00274
     category: Works on paper (1956 - 58)
     title: Head with Flowers,  1958
@@ -1083,7 +1083,7 @@ works:
 
 
       AR00274
-    src: ../../media/andy-warhol-ar00274-head-with-flowers-1958.jpg
+    src: ../../media/andy-warhol-ar00274-head-with-flowers-1958.webp
   - inventorynumber: AR00270
     category: Works on paper (1956 - 58)
     title: Six Handbags,  1958
@@ -1095,7 +1095,7 @@ works:
 
 
       AR00270
-    src: ../../media/andy-warhol-ar00270-six-handbags-1958.jpg
+    src: ../../media/andy-warhol-ar00270-six-handbags-1958.webp
   - inventorynumber: AR00277
     category: Works on paper (1959 - 81)
     title: Boy with Stars and Stripes,  1959
@@ -1107,7 +1107,7 @@ works:
 
 
       AR00277
-    src: ../../media/andy-warhol-ar00277-boy-with-stars-and-stripes-1959.jpg
+    src: ../../media/andy-warhol-ar00277-boy-with-stars-and-stripes-1959.webp
   - inventorynumber: AR00278
     category: Works on paper (1959 - 81)
     title: Fashion Accessories,  1959
@@ -1119,7 +1119,7 @@ works:
 
 
       AR00278
-    src: ../../media/andy-warhol-ar00278-fashion-accessories-1959.jpg
+    src: ../../media/andy-warhol-ar00278-fashion-accessories-1959.webp
   - inventorynumber: AR00255
     category: Works on paper (1959 - 81)
     title: Ice Cream Dessert,  1959
@@ -1131,7 +1131,7 @@ works:
 
 
       AR00255
-    src: ../../media/andy-warhol-ar00255-ice-cream-dessert-1959.jpg
+    src: ../../media/andy-warhol-ar00255-ice-cream-dessert-1959.webp
   - inventorynumber: AR00275
     category: Works on paper (1959 - 81)
     title: Head with Red Gloves and Butterfly,  1959
@@ -1143,7 +1143,7 @@ works:
 
 
       AR00275
-    src: ../../media/andy-warhol-ar00275-head-with-red-gloves-and-butterfly-1959.jpg
+    src: ../../media/andy-warhol-ar00275-head-with-red-gloves-and-butterfly-1959.webp
   - inventorynumber: AR00280
     category: Works on paper (1959 - 81)
     title: Hats,  1959
@@ -1155,7 +1155,7 @@ works:
 
 
       AR00280
-    src: ../../media/andy-warhol-ar00280-hats-1959.jpg
+    src: ../../media/andy-warhol-ar00280-hats-1959.webp
   - inventorynumber: AR00283
     category: Works on paper (1959 - 81)
     title: People , 1960-62
@@ -1167,7 +1167,7 @@ works:
 
 
       AR00283
-    src: ../../media/andy-warhol-ar00283-people-1960-62.jpg
+    src: ../../media/andy-warhol-ar00283-people-1960-62.webp
   - inventorynumber: AR00284
     category: Works on paper (1959 - 81)
     title: Man and Woman and Two Chairs,  1960-62
@@ -1179,7 +1179,7 @@ works:
 
 
       AR00284
-    src: ../../media/andy-warhol-ar00284-man-and-woman-and-two-chairs-1960-62.jpg
+    src: ../../media/andy-warhol-ar00284-man-and-woman-and-two-chairs-1960-62.webp
   - inventorynumber: AR00257
     category: Works on paper (1959 - 81)
     title: Stars and Half Moons,  1960
@@ -1191,7 +1191,7 @@ works:
 
 
       AR00257
-    src: ../../media/andy-warhol-ar00257-stars-and-half-moons-1960.jpg
+    src: ../../media/andy-warhol-ar00257-stars-and-half-moons-1960.webp
   - inventorynumber: AR00256
     category: Works on paper (1959 - 81)
     title: '"The Wonderful World of Fleming Joffe",  1960'
@@ -1203,7 +1203,7 @@ works:
 
 
       AR00256
-    src: ../../media/andy-warhol-ar00256-the-wonderful-world-of-fleming-joffe-1960.jpg
+    src: ../../media/andy-warhol-ar00256-the-wonderful-world-of-fleming-joffe-1960.webp
   - inventorynumber: AR00285
     category: Works on paper (1959 - 81)
     title: Female Figures and Fashion Accessories,  1960
@@ -1215,7 +1215,7 @@ works:
 
 
       AR00285
-    src: ../../media/andy-warhol-ar00285-female-figures-and-fashion-accessories-1960.jpg
+    src: ../../media/andy-warhol-ar00285-female-figures-and-fashion-accessories-1960.webp
   - inventorynumber: AR00279
     category: Works on paper (1959 - 81)
     title: Shoe and Handbag,  1960
@@ -1227,7 +1227,7 @@ works:
 
 
       AR00279
-    src: ../../media/andy-warhol-ar00279-shoe-and-handbag-1960.jpg
+    src: ../../media/andy-warhol-ar00279-shoe-and-handbag-1960.webp
   - inventorynumber: AR00276
     category: Works on paper (1959 - 81)
     title: Rooster with Coca Cola Bottle,  1960
@@ -1239,7 +1239,7 @@ works:
 
 
       AR00276
-    src: ../../media/andy-warhol-ar00276-rooster-with-coca-cola-bottle-1960.jpg
+    src: ../../media/andy-warhol-ar00276-rooster-with-coca-cola-bottle-1960.webp
   - inventorynumber: AR00592
     category: Works on paper (1959 - 81)
     title: David Hockney,  1974
@@ -1251,7 +1251,7 @@ works:
 
 
       AR00592
-    src: ../../media/andy-warhol-ar00592-david-hockney-1974.jpg
+    src: ../../media/andy-warhol-ar00592-david-hockney-1974.webp
   - inventorynumber: AR00593
     category: Works on paper (1959 - 81)
     title: Mick Jagger, 1975
@@ -1263,7 +1263,7 @@ works:
 
 
       AR00593
-    src: ../../media/andy-warhol-ar00593-mick-jagger-1975.jpg
+    src: ../../media/andy-warhol-ar00593-mick-jagger-1975.webp
   - inventorynumber: AR00594
     category: Works on paper (1959 - 81)
     title: The Shadow,  1981
@@ -1275,7 +1275,7 @@ works:
 
 
       AR00594
-    src: ../../media/andy-warhol-ar00594-the-shadow-1981.jpg
+    src: ../../media/andy-warhol-ar00594-the-shadow-1981.webp
   - inventorynumber: AR00595
     category: Works on paper (1959 - 81)
     title: Tongue in Ear,  1980
@@ -1287,7 +1287,7 @@ works:
 
 
       AR00595
-    src: ../../media/andy-warhol-ar00595-tongue-in-ear-1980.jpg
+    src: ../../media/andy-warhol-ar00595-tongue-in-ear-1980.webp
 
 ---
 

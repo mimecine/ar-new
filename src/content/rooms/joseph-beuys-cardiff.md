@@ -4,11 +4,11 @@ artists:
   - joseph-beuys
 venue: national-gallery-wales
 images:
-  - ../../media/joseph-beuys-cardiff-national-gallery-wales-2011-10-22-0.jpg
-  - ../../media/joseph-beuys-cardiff-national-gallery-wales-2011-10-22-1.jpg
-  - ../../media/joseph-beuys-cardiff-national-gallery-wales-2011-10-22-2.jpg
-  - ../../media/joseph-beuys-cardiff-national-gallery-wales-2011-10-22-3.jpg
-  - ../../media/joseph-beuys-cardiff-national-gallery-wales-2011-10-22-4.jpg
+  - ../../media/joseph-beuys-cardiff-national-gallery-wales-2011-10-22-0.webp
+  - ../../media/joseph-beuys-cardiff-national-gallery-wales-2011-10-22-1.webp
+  - ../../media/joseph-beuys-cardiff-national-gallery-wales-2011-10-22-2.webp
+  - ../../media/joseph-beuys-cardiff-national-gallery-wales-2011-10-22-3.webp
+  - ../../media/joseph-beuys-cardiff-national-gallery-wales-2011-10-22-4.webp
 startdate: 2011-10-22
 enddate: 2012-01-08
 town: Cardiff

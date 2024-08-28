@@ -4,15 +4,15 @@ artists:
   - ron-mueck
 venue: wolverhampton-art-gallery
 images:
-  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-0.jpg
-  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-1.jpg
-  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-2.jpg
-  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-3.jpg
-  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-4.jpg
-  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-5.jpg
-  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-6.jpg
-  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-7.jpg
-  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-8.jpg
+  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-0.webp
+  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-1.webp
+  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-2.webp
+  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-3.webp
+  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-4.webp
+  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-5.webp
+  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-6.webp
+  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-7.webp
+  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-8.webp
 startdate: 2013-07-20
 enddate: 2013-11-02
 town: Wolverhampton

@@ -4,27 +4,27 @@ artists:
   - jannis-kounellis
 venue: tate-modern
 images:
-  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-0.jpeg
-  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-1.jpeg
-  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-2.jpeg
-  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-3.jpeg
-  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-4.jpeg
-  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-5.jpeg
-  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-6.jpeg
-  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-7.jpeg
-  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-8.jpeg
-  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-9.jpeg
-  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-10.jpeg
-  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-11.jpeg
-  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-12.jpeg
-  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-13.jpeg
-  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-14.jpeg
-  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-15.jpeg
-  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-16.jpeg
-  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-17.jpeg
-  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-18.jpeg
-  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-19.jpeg
-  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-20.jpeg
+  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-0.webp
+  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-1.webp
+  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-2.webp
+  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-3.webp
+  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-4.webp
+  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-5.webp
+  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-6.webp
+  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-7.webp
+  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-8.webp
+  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-9.webp
+  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-10.webp
+  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-11.webp
+  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-12.webp
+  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-13.webp
+  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-14.webp
+  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-15.webp
+  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-16.webp
+  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-17.webp
+  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-18.webp
+  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-19.webp
+  - ../../media/jannis-kounellis-london-tate-modern-2023-07-24-20.webp
 startdate: 2023-07-24
 enddate: 2024-09-08
 town: London

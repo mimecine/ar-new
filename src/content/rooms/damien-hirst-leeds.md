@@ -4,11 +4,11 @@ artists:
   - damien-hirst
 venue: leeds-art-gallery
 images:
-  - ../../media/damien-hirst-leeds-leeds-art-gallery-2011-06-15-0.jpg
-  - ../../media/damien-hirst-leeds-leeds-art-gallery-2011-06-15-1.jpg
-  - ../../media/damien-hirst-leeds-leeds-art-gallery-2011-06-15-2.jpg
-  - ../../media/damien-hirst-leeds-leeds-art-gallery-2011-06-15-3.jpg
-  - ../../media/damien-hirst-leeds-leeds-art-gallery-2011-06-15-4.jpg
+  - ../../media/damien-hirst-leeds-leeds-art-gallery-2011-06-15-0.webp
+  - ../../media/damien-hirst-leeds-leeds-art-gallery-2011-06-15-1.webp
+  - ../../media/damien-hirst-leeds-leeds-art-gallery-2011-06-15-2.webp
+  - ../../media/damien-hirst-leeds-leeds-art-gallery-2011-06-15-3.webp
+  - ../../media/damien-hirst-leeds-leeds-art-gallery-2011-06-15-4.webp
 startdate: 2011-06-15
 enddate: 2011-10-30
 town: Leeds

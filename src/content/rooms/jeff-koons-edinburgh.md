@@ -4,10 +4,10 @@ artists:
   - jeff-koons
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/jeff-koons-edinburgh-scottish-national-gallery-of-modern-art-2011-03-19-0.jpg
-  - ../../media/jeff-koons-edinburgh-scottish-national-gallery-of-modern-art-2011-03-19-1.jpg
-  - ../../media/jeff-koons-edinburgh-scottish-national-gallery-of-modern-art-2011-03-19-2.jpg
-  - ../../media/jeff-koons-edinburgh-scottish-national-gallery-of-modern-art-2011-03-19-3.jpg
+  - ../../media/jeff-koons-edinburgh-scottish-national-gallery-of-modern-art-2011-03-19-0.webp
+  - ../../media/jeff-koons-edinburgh-scottish-national-gallery-of-modern-art-2011-03-19-1.webp
+  - ../../media/jeff-koons-edinburgh-scottish-national-gallery-of-modern-art-2011-03-19-2.webp
+  - ../../media/jeff-koons-edinburgh-scottish-national-gallery-of-modern-art-2011-03-19-3.webp
 startdate: 2011-03-19
 enddate: 2011-07-03
 town: Edinburgh

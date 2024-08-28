@@ -1,6 +1,6 @@
 ---
 title: Richard Long
-featuredImage: ../../media/richard-long-featured.jpg
+featuredImage: ../../media/richard-long-featured.webp
 resources: []
 works:
   - inventorynumber: AR00142
@@ -13,7 +13,7 @@ works:
       © Richard Long
 
       AR00142
-    src: ../../media/richard-long-ar00142-a-line-made-by-walking-1967.jpg
+    src: ../../media/richard-long-ar00142-a-line-made-by-walking-1967.webp
   - inventorynumber: AL00183
     category: Framed Works
     title: England, 1967
@@ -23,7 +23,7 @@ works:
       © Richard Long
 
       AL00183
-    src: ../../media/richard-long-al00183-england-1967.jpg
+    src: ../../media/richard-long-al00183-england-1967.webp
   - inventorynumber: AL00210
     category: Framed Works
     title: England, 1968
@@ -33,7 +33,7 @@ works:
       © Richard Long
 
       AL00210
-    src: ../../media/richard-long-al00210-england-1968.jpg
+    src: ../../media/richard-long-al00210-england-1968.webp
   - inventorynumber: AL00184
     category: Framed Works
     title: A Sculpture Left by the Tide, 1970
@@ -43,7 +43,7 @@ works:
       © Richard Long
 
       AL00184
-    src: ../../media/richard-long-al00184-a-sculpture-left-by-the-tide-1970.jpg
+    src: ../../media/richard-long-al00184-a-sculpture-left-by-the-tide-1970.webp
   - inventorynumber: AL00214
     category: Framed Works
     title: Silbury Hill, 1970-1
@@ -54,7 +54,7 @@ works:
       © Richard Long
 
       AL00214
-    src: ../../media/richard-long-al00214-silbury-hill-1970-1.jpg
+    src: ../../media/richard-long-al00214-silbury-hill-1970-1.webp
   - inventorynumber: AL00215
     category: Framed Works
     title: Connemara Sculpture,   1971
@@ -65,7 +65,7 @@ works:
       © Richard Long
 
       AL00215
-    src: ../../media/richard-long-al00215-connemara-sculpture-1971.jpg
+    src: ../../media/richard-long-al00215-connemara-sculpture-1971.webp
   - inventorynumber: AL001851
     category: Framed Works
     title: Three Places, 1972
@@ -75,7 +75,7 @@ works:
       © Richard Long
 
       AL00185
-    src: ../../media/richard-long-al001851-three-places-1972.jpg
+    src: ../../media/richard-long-al001851-three-places-1972.webp
   - inventorynumber: AL001852
     category: Framed Works
     title: Three Places, 1972
@@ -85,7 +85,7 @@ works:
       © Richard Long
 
       AL00185
-    src: ../../media/richard-long-al001852-three-places-1972.jpg
+    src: ../../media/richard-long-al001852-three-places-1972.webp
   - inventorynumber: AL001853
     category: Framed Works
     title: Three Places, 1972
@@ -95,7 +95,7 @@ works:
       © Richard Long
 
       AL00185
-    src: ../../media/richard-long-al001853-three-places-1972.jpg
+    src: ../../media/richard-long-al001853-three-places-1972.webp
   - inventorynumber: AL00189
     category: Framed Works
     title: A Line of Sticks in Somerset, 1974
@@ -106,7 +106,7 @@ works:
       © Richard Long
 
       AL00189
-    src: ../../media/richard-long-al00189-a-line-of-sticks-in-somerset-1974.jpg
+    src: ../../media/richard-long-al00189-a-line-of-sticks-in-somerset-1974.webp
   - inventorynumber: AL002161
     category: Framed Works
     title: A 25 Day Walk in Nepal, 1975
@@ -117,7 +117,7 @@ works:
       © Richard Long
 
       AL00216
-    src: ../../media/richard-long-al002161-a-25-day-walk-in-nepal-1975.jpg
+    src: ../../media/richard-long-al002161-a-25-day-walk-in-nepal-1975.webp
   - inventorynumber: AL002162
     category: Framed Works
     title: A 25 Day Walk in Nepal, 1975
@@ -128,7 +128,7 @@ works:
       © Richard Long
 
       AL00216
-    src: ../../media/richard-long-al002162-a-25-day-walk-in-nepal-1975.jpg
+    src: ../../media/richard-long-al002162-a-25-day-walk-in-nepal-1975.webp
   - inventorynumber: AL002163
     category: Framed Works
     title: A 25 Day Walk in Nepal, 1975
@@ -139,7 +139,7 @@ works:
       © Richard Long
 
       AL00216
-    src: ../../media/richard-long-al002163-a-25-day-walk-in-nepal-1975.jpg
+    src: ../../media/richard-long-al002163-a-25-day-walk-in-nepal-1975.webp
   - inventorynumber: AL00203
     category: Framed Works
     title: A Circle in Ireland, 1975
@@ -149,7 +149,7 @@ works:
       © Richard Long
 
       AL00203
-    src: ../../media/richard-long-al00203-a-circle-in-ireland-1975.jpg
+    src: ../../media/richard-long-al00203-a-circle-in-ireland-1975.webp
   - inventorynumber: AL00217
     category: Framed Works
     title: Stepping Stones, 1976
@@ -159,7 +159,7 @@ works:
       © Richard Long
 
       AL00217
-    src: ../../media/richard-long-al00217-stepping-stones-1976.jpg
+    src: ../../media/richard-long-al00217-stepping-stones-1976.webp
   - inventorynumber: A045016
     category: Framed Works
     title: A Circle in Alaska, 1977
@@ -169,7 +169,7 @@ works:
       © Richard Long
 
       A045016
-    src: ../../media/richard-long-a045016-a-circle-in-alaska-1977.jpg
+    src: ../../media/richard-long-a045016-a-circle-in-alaska-1977.webp
   - inventorynumber: AL00218
     category: Framed Works
     title: A Circle in Africa,   1978
@@ -180,7 +180,7 @@ works:
       © Richard Long
 
       AL00218
-    src: ../../media/richard-long-al00218-a-circle-in-africa-1978.jpg
+    src: ../../media/richard-long-al00218-a-circle-in-africa-1978.webp
   - inventorynumber: AR00144
     category: Books
     title: River Avon Book , 1979
@@ -190,7 +190,7 @@ works:
       © Richard Long
 
       AR00144
-    src: ../../media/richard-long-ar00144-river-avon-book-1979.jpg
+    src: ../../media/richard-long-ar00144-river-avon-book-1979.webp
   - inventorynumber: AL00204
     category: Framed Works
     title: A Line in Japan, 1979
@@ -200,7 +200,7 @@ works:
       © Richard Long
 
       AL00204
-    src: ../../media/richard-long-al00204-a-line-in-japan-1979.jpg
+    src: ../../media/richard-long-al00204-a-line-in-japan-1979.webp
   - inventorynumber: AR00615
     category: Sculpture
     title: Somerset Willow Line, 1980
@@ -210,7 +210,7 @@ works:
       © Richard Long
 
       AR00615
-    src: ../../media/richard-long-ar00615-somerset-willow-line-1980.jpg
+    src: ../../media/richard-long-ar00615-somerset-willow-line-1980.webp
   - inventorynumber: AR00616
     category: Framed Works
     title: River Avon Mud drawings, Ten mud-dipped papers, 1988
@@ -220,7 +220,7 @@ works:
       © Richard Long
 
       AR00616
-    src: ../../media/richard-long-ar00616-river-avon-mud-drawings-ten-mud-dipped-papers-1988.jpg
+    src: ../../media/richard-long-ar00616-river-avon-mud-drawings-ten-mud-dipped-papers-1988.webp
   - inventorynumber: AR00599
     category: Books
     title: Nile (Papers of River Muds), 1990
@@ -230,7 +230,7 @@ works:
       © Richard Long
 
       AR00599
-    src: ../../media/richard-long-ar00599-nile-papers-of-river-muds-1990.jpg
+    src: ../../media/richard-long-ar00599-nile-papers-of-river-muds-1990.webp
   - inventorynumber: AL00207
     category: Framed Works
     title: 60 Minute Walk,   1990
@@ -240,7 +240,7 @@ works:
       © Richard Long
 
       AL00207
-    src: ../../media/richard-long-al00207-60-minute-walk-1990.jpg
+    src: ../../media/richard-long-al00207-60-minute-walk-1990.webp
   - inventorynumber: AL00208
     category: Framed Works
     title: Black Dust Hand Line,    1990
@@ -250,7 +250,7 @@ works:
       © Richard Long
 
       AL00208
-    src: ../../media/richard-long-al00208-black-dust-hand-line-1990.jpg
+    src: ../../media/richard-long-al00208-black-dust-hand-line-1990.webp
   - inventorynumber: AL00206
     category: Framed Works
     title: Linea de Sonido,  1991
@@ -260,7 +260,7 @@ works:
       © Richard Long
 
       AL00206
-    src: ../../media/richard-long-al00206-linea-de-sonido-1991.jpg
+    src: ../../media/richard-long-al00206-linea-de-sonido-1991.webp
   - inventorynumber: A045019
     category: Framed Works
     title: Concentric Days, 1996
@@ -270,7 +270,7 @@ works:
       © Richard Long
 
       A045019
-    src: ../../media/richard-long-a045019-concentric-days-1996.jpg
+    src: ../../media/richard-long-a045019-concentric-days-1996.webp
   - inventorynumber: AL00211
     category: Framed Works
     title: Cairngorm Stones,  2001
@@ -280,7 +280,7 @@ works:
       © Richard Long
 
       AL00211
-    src: ../../media/richard-long-al00211-cairngorm-stones-2001.jpg
+    src: ../../media/richard-long-al00211-cairngorm-stones-2001.webp
   - inventorynumber: AR00703
     category: Sculpture
     title: Cornish Slate Ellipse,   2009
@@ -290,7 +290,7 @@ works:
       © Richard Long
 
       AR00703
-    src: ../../media/richard-long-ar00703-cornish-slate-ellipse-2009.jpg
+    src: ../../media/richard-long-ar00703-cornish-slate-ellipse-2009.webp
 
 ---
 

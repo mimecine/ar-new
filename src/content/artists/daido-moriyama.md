@@ -1,6 +1,6 @@
 ---
 title: Daido Moriyama
-featuredImage: ../../media/daido-moriyama-featured.jpg
+featuredImage: ../../media/daido-moriyama-featured.webp
 resources: []
 works:
   - inventorynumber: AR01264
@@ -12,7 +12,7 @@ works:
       © Daido Moriyama
 
       AR01264
-    src: ../../media/daido-moriyama-ar01264-hokkaido-1979-produced-2017.jpg
+    src: ../../media/daido-moriyama-ar01264-hokkaido-1979-produced-2017.webp
 
 ---
 

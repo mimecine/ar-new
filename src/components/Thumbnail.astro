@@ -11,7 +11,7 @@ const { src, alt, title, href, width, widths, sizes, class: className, ...props 
         <div class="w-full bg-gray-100 h-64 flex justify-center items-center">
             {src && <Image
                 width={width || undefined}
-                widths={widths || [360]}
+                widths={widths || [360, 1600]}
                 x-widths={widths || [360, 1600]}
                 sizes={sizes||`360px`}
                 src={src}

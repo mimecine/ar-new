@@ -4,11 +4,11 @@ artists:
   - lawrence-weiner
 venue: tate-modern
 images:
-  - ../../media/lawrence-weiner-london-tate-modern-2023-02-27-0.jpeg
-  - ../../media/lawrence-weiner-london-tate-modern-2023-02-27-1.jpeg
-  - ../../media/lawrence-weiner-london-tate-modern-2023-02-27-2.jpeg
-  - ../../media/lawrence-weiner-london-tate-modern-2023-02-27-3.jpeg
-  - ../../media/lawrence-weiner-london-tate-modern-2023-02-27-4.jpeg
+  - ../../media/lawrence-weiner-london-tate-modern-2023-02-27-0.webp
+  - ../../media/lawrence-weiner-london-tate-modern-2023-02-27-1.webp
+  - ../../media/lawrence-weiner-london-tate-modern-2023-02-27-2.webp
+  - ../../media/lawrence-weiner-london-tate-modern-2023-02-27-3.webp
+  - ../../media/lawrence-weiner-london-tate-modern-2023-02-27-4.webp
 startdate: 2023-02-27
 enddate: 2024-12-08
 town: London

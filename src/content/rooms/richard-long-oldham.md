@@ -4,11 +4,11 @@ artists:
   - richard-long
 venue: gallery-oldham
 images:
-  - ../../media/richard-long-oldham-gallery-oldham-2018-05-27-0.jpg
-  - ../../media/richard-long-oldham-gallery-oldham-2018-05-27-1.jpg
-  - ../../media/richard-long-oldham-gallery-oldham-2018-05-27-2.jpg
-  - ../../media/richard-long-oldham-gallery-oldham-2018-05-27-3.jpg
-  - ../../media/richard-long-oldham-gallery-oldham-2018-05-27-4.jpg
+  - ../../media/richard-long-oldham-gallery-oldham-2018-05-27-0.webp
+  - ../../media/richard-long-oldham-gallery-oldham-2018-05-27-1.webp
+  - ../../media/richard-long-oldham-gallery-oldham-2018-05-27-2.webp
+  - ../../media/richard-long-oldham-gallery-oldham-2018-05-27-3.webp
+  - ../../media/richard-long-oldham-gallery-oldham-2018-05-27-4.webp
 startdate: 2018-05-27
 enddate: 2018-09-16
 town: Oldham

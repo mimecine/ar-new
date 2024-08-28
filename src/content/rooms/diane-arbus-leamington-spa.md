@@ -4,13 +4,13 @@ artists:
   - diane-arbus
 venue: leamington-spa-art-gallery-and-museum
 images:
-  - ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-0.jpg
-  - ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-1.jpg
-  - ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-2.jpg
-  - ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-3.jpg
-  - ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-4.jpg
-  - ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-5.jpg
-  - ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-6.jpg
+  - ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-0.webp
+  - ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-1.webp
+  - ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-2.webp
+  - ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-3.webp
+  - ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-4.webp
+  - ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-5.webp
+  - ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-6.webp
 startdate: 2019-09-20
 enddate: 2019-12-01
 town: Leamington Spa

@@ -1,6 +1,6 @@
 ---
 title: Jeff Koons
-featuredImage: ../../media/jeff-koons-featured.jpg
+featuredImage: ../../media/jeff-koons-featured.webp
 resources:
   - /sites/default/files/downloads/JEFFKOONSLEARNINGRESOURCE.pdf
 works:
@@ -15,7 +15,7 @@ works:
       © Jeff Koons
 
       AR00077
-    src: ../../media/jeff-koons-ar00077-new-hoover-convertibles-green-red-brown-new-shelton-wetdry-10-gallon-displaced-doubledecker-1981-7.jpg
+    src: ../../media/jeff-koons-ar00077-new-hoover-convertibles-green-red-brown-new-shelton-wetdry-10-gallon-displaced-doubledecker-1981-7.webp
   - inventorynumber: AR00078
     category: Sculpture
     title: Encased - Four Rows, 1983-93
@@ -25,7 +25,7 @@ works:
       © Jeff Koons
 
       AR00078
-    src: ../../media/jeff-koons-ar00078-encased-four-rows-1983-93.jpg
+    src: ../../media/jeff-koons-ar00078-encased-four-rows-1983-93.webp
   - inventorynumber: AR00494
     category: Sculpture
     title: Winter Bears, 1988
@@ -35,7 +35,7 @@ works:
       © Jeff Koons
 
       AR00494
-    src: ../../media/jeff-koons-ar00494-winter-bears-1988.jpg
+    src: ../../media/jeff-koons-ar00494-winter-bears-1988.webp
   - inventorynumber: AR00081
     category: Works on paper
     title: Art Magazine Ads (Art in America; Arts; Flash Art; and, Art Forum), 1988-9
@@ -45,7 +45,7 @@ works:
       © Jeff Koons
 
       AR00081
-    src: ../../media/jeff-koons-ar00081-art-magazine-ads-art-in-america-arts-flash-art-and-art-forum-1988-9.jpg
+    src: ../../media/jeff-koons-ar00081-art-magazine-ads-art-in-america-arts-flash-art-and-art-forum-1988-9.webp
   - inventorynumber: AR00080
     category: Works on paper
     title: Made in Heaven, 1989
@@ -55,7 +55,7 @@ works:
       © Jeff Koons
 
       AR00080
-    src: ../../media/jeff-koons-ar00080-made-in-heaven-1989.jpg
+    src: ../../media/jeff-koons-ar00080-made-in-heaven-1989.webp
   - inventorynumber: AR00597
     category: Sculpture
     title: Bourgeois Bust - Jeff and Ilona, 1991
@@ -65,7 +65,7 @@ works:
       © Jeff Koons
 
       AR00597
-    src: ../../media/jeff-koons-ar00597-bourgeois-bust-jeff-and-ilona-1991.jpg
+    src: ../../media/jeff-koons-ar00597-bourgeois-bust-jeff-and-ilona-1991.webp
   - inventorynumber: AR00076
     category: Sculpture
     title: Mound of Flowers, 1991
@@ -75,7 +75,7 @@ works:
       © Jeff Koons
 
       AR00076
-    src: ../../media/jeff-koons-ar00076-mound-of-flowers-1991.jpg
+    src: ../../media/jeff-koons-ar00076-mound-of-flowers-1991.webp
   - inventorynumber: AR00079
     category: Sculpture
     title: Caterpillar (with chains), 2002
@@ -85,7 +85,7 @@ works:
       © Jeff Koons
 
       AR00079
-    src: ../../media/jeff-koons-ar00079-caterpillar-with-chains-2002.jpg
+    src: ../../media/jeff-koons-ar00079-caterpillar-with-chains-2002.webp
   - inventorynumber: AR00493
     category: Sculpture
     title: WALRUS (Purple), 1999
@@ -95,7 +95,7 @@ works:
       © Jeff Koons
 
       AR00493
-    src: ../../media/jeff-koons-ar00493-walrus-purple-1999.jpg
+    src: ../../media/jeff-koons-ar00493-walrus-purple-1999.webp
   - inventorynumber: AR00492
     category: Sculpture
     title: PONY (Blue), 1999
@@ -105,7 +105,7 @@ works:
       © Jeff Koons
 
       AR00492
-    src: ../../media/jeff-koons-ar00492-pony-blue-1999.jpg
+    src: ../../media/jeff-koons-ar00492-pony-blue-1999.webp
   - inventorynumber: AR00487
     category: Sculpture
     title: MONKEY (Red-Orange), 1999
@@ -115,7 +115,7 @@ works:
       © Jeff Koons
 
       AR00487
-    src: ../../media/jeff-koons-ar00487-monkey-red-orange-1999.jpg
+    src: ../../media/jeff-koons-ar00487-monkey-red-orange-1999.webp
   - inventorynumber: AR00490
     category: Sculpture
     title: HIPPO (green), 1999
@@ -125,7 +125,7 @@ works:
       © Jeff Koons
 
       AR00490
-    src: ../../media/jeff-koons-ar00490-hippo-green-1999.jpg
+    src: ../../media/jeff-koons-ar00490-hippo-green-1999.webp
   - inventorynumber: AR00486
     category: Sculpture
     title: GOAT (Ice Blue), 1999
@@ -135,7 +135,7 @@ works:
       © Jeff Koons
 
       AR00486
-    src: ../../media/jeff-koons-ar00486-goat-ice-blue-1999.jpg
+    src: ../../media/jeff-koons-ar00486-goat-ice-blue-1999.webp
   - inventorynumber: AR01147
     category: Sculpture
     title: GIRAFFE (red), 1999
@@ -145,7 +145,7 @@ works:
       © Jeff Koons
 
       AR01147
-    src: ../../media/jeff-koons-ar01147-giraffe-red-1999.jpg
+    src: ../../media/jeff-koons-ar01147-giraffe-red-1999.webp
   - inventorynumber: AR00491
     category: Sculpture
     title: ELEPHANT (gold), 1999
@@ -155,7 +155,7 @@ works:
       © Jeff Koons
 
       AR00491
-    src: ../../media/jeff-koons-ar00491-elephant-gold-1999.jpg
+    src: ../../media/jeff-koons-ar00491-elephant-gold-1999.webp
   - inventorynumber: AR00488
     category: Sculpture
     title: DONKEY (blue-green), 1999
@@ -165,7 +165,7 @@ works:
       ​© Jeff Koons
 
       AR00488
-    src: ../../media/jeff-koons-ar00488-donkey-blue-green-1999.jpg
+    src: ../../media/jeff-koons-ar00488-donkey-blue-green-1999.webp
   - inventorynumber: AR00489
     category: Sculpture
     title: BEAR (blue), 1999
@@ -175,7 +175,7 @@ works:
       © Jeff Koons
 
       AR00489
-    src: ../../media/jeff-koons-ar00489-bear-blue-1999.jpg
+    src: ../../media/jeff-koons-ar00489-bear-blue-1999.webp
 
 ---
 

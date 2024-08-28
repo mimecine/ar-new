@@ -4,10 +4,10 @@ artists:
   - damien-hirst
 venue: the-new-art-gallery
 images:
-  - ../../media/damien-hirst-walsall-the-new-art-gallery-2012-10-06-0.jpg
-  - ../../media/damien-hirst-walsall-the-new-art-gallery-2012-10-06-1.jpg
-  - ../../media/damien-hirst-walsall-the-new-art-gallery-2012-10-06-2.jpg
-  - ../../media/damien-hirst-walsall-the-new-art-gallery-2012-10-06-3.jpg
+  - ../../media/damien-hirst-walsall-the-new-art-gallery-2012-10-06-0.webp
+  - ../../media/damien-hirst-walsall-the-new-art-gallery-2012-10-06-1.webp
+  - ../../media/damien-hirst-walsall-the-new-art-gallery-2012-10-06-2.webp
+  - ../../media/damien-hirst-walsall-the-new-art-gallery-2012-10-06-3.webp
 startdate: 2012-10-06
 enddate: 2013-10-27
 town: Walsall

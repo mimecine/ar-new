@@ -4,9 +4,9 @@ artists:
   - lawrence-weiner
 venue: tate-st-ives
 images:
-  - ../../media/lawrence-weiner-cornwall-tate-st-ives-2009-05-16-0.jpg
-  - ../../media/lawrence-weiner-cornwall-tate-st-ives-2009-05-16-1.jpg
-  - ../../media/lawrence-weiner-cornwall-tate-st-ives-2009-05-16-2.jpg
+  - ../../media/lawrence-weiner-cornwall-tate-st-ives-2009-05-16-0.webp
+  - ../../media/lawrence-weiner-cornwall-tate-st-ives-2009-05-16-1.webp
+  - ../../media/lawrence-weiner-cornwall-tate-st-ives-2009-05-16-2.webp
 startdate: 2009-05-16
 enddate: 2009-09-27
 town: Cornwall
