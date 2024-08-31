@@ -24,27 +24,67 @@ works:
 
       AR00050
     src: ../../media/ed-ruscha-ar00050-standard-study-3-1963.webp
-  - inventorynumber: AR00046
-    category: Painting
-    title: DANCE?, 1973
-    info: 1973,  Coffee, egg white, mustard and graphite on canvas,  1372 x 1520 x
-      29 mm
-    year: "1973"
+  - inventorynumber: A032213
+    category: Works on paper
+    title: Twentysix Gasoline Stations, 1970
+    info: 1970, Lithograph on white Arches paper, 41 x 51 cm, A/P
+    year: "1970"
     credit: |-
       © Ed Ruscha
 
-      AR00046
-    src: ../../media/ed-ruscha-ar00046-dance-1973.webp
-  - inventorynumber: AR00052
+      A032213
+    src: ../../media/ed-ruscha-a032213-twentysix-gasoline-stations-1970.webp
+  - inventorynumber: A032214
     category: Works on paper
-    title: "Miracle #64, 1975"
-    info: 1975,  Zinc oxide and pastel on paper,  1013 x 765 mm
+    title: Sin, 1970
+    info: 1970, Screenprint on Louvain Opaque Cover paper, 49 x 67 cm, No. 70/150
+    year: "1970"
+    credit: |-
+      © Ed Ruscha
+
+      A032214
+    src: ../../media/ed-ruscha-a032214-sin-1970.webp
+  - inventorynumber: A032215
+    category: Works on paper
+    title: America, Her Best Product, 1974
+    info: 1974, Lithograph on Rives BFK paper, 81 x 60 cm, No. 124/125
+    year: "1974"
+    credit: |-
+      © Ed Ruscha
+
+      A032215
+    src: ../../media/ed-ruscha-a032215-america-her-best-product-1974.webp
+  - inventorynumber: A032216
+    category: Works on paper
+    title: You Know the Old Story, 1975
+    info: 1975, Lithograph on white Arches paper, 76 x 56 cm, No. 9/20
     year: "1975"
     credit: |-
       © Ed Ruscha
 
-      AR00052
-    src: ../../media/ed-ruscha-ar00052-miracle-64-1975.webp
+      A032216
+    src: ../../media/ed-ruscha-a032216-you-know-the-old-story-1975.webp
+  - inventorynumber: A032217
+    category: Works on paper
+    title: There’s No Job Too Small, 1975
+    info: 1975. Lithograph on white Arches paper, 76 x 56 cm, No. 14/20
+    year: 1975. Lithograph on white Arches paper
+    credit: |-
+      © Ed Ruscha
+
+      A032217
+    src: ../../media/ed-ruscha-a032217-theres-no-job-too-small-1975.webp
+  - inventorynumber: A032218
+    category: Works on paper
+    title: Mr. Ray, 1975
+    info: 1975, Offset lithograph on cream-coloured paper, 35 x 51 cm, Edition of
+      100, A/P
+    year: "1975"
+    credit: |-
+      © Ed Ruscha
+
+      A032218
+    src: ../../media/ed-ruscha-a032218-mr-ray-1975.webp
   - inventorynumber: AR00051
     category: Works on paper
     title: MAD SCIENTIST, 1975
@@ -55,6 +95,26 @@ works:
 
       AR00051
     src: ../../media/ed-ruscha-ar00051-mad-scientist-1975.webp
+  - inventorynumber: AR00052
+    category: Works on paper
+    title: "Miracle #64, 1975"
+    info: 1975,  Zinc oxide and pastel on paper,  1013 x 765 mm
+    year: "1975"
+    credit: |-
+      © Ed Ruscha
+
+      AR00052
+    src: ../../media/ed-ruscha-ar00052-miracle-64-1975.webp
+  - inventorynumber: AR00055
+    category: Works on paper
+    title: SMELLS LIKE BACK OF OLD HOT RADIO, 1975
+    info: 1976,  Pastel on paper,  587 x 740 mm
+    year: "1976"
+    credit: |-
+      © Ed Ruscha
+
+      AR00055
+    src: ../../media/ed-ruscha-ar00055-smells-like-back-of-old-hot-radio-1975.webp
   - inventorynumber: AR00053
     category: Works on paper
     title: I PLEAD INSANITY BECAUSE I'M JUST CRAZY ABOUT THAT LITTLE GIRL, 1976
@@ -65,6 +125,16 @@ works:
 
       AR00053
     src: ../../media/ed-ruscha-ar00053-i-plead-insanity-because-im-just-crazy-about-that-little-girl-1976.webp
+  - inventorynumber: AR00054
+    category: Works on paper
+    title: PRETTY EYES, ELECTRIC BILLS, 1976
+    info: 1976,  Pastel and graphite on paper,  574 x 721 mm
+    year: "1976"
+    credit: |-
+      © Ed Ruscha
+
+      AR00054
+    src: ../../media/ed-ruscha-ar00054-pretty-eyes-electric-bills-1976.webp
   - inventorynumber: AR00056
     category: Works on paper
     title: ARTISTS WHO DO BOOKS, 1976
@@ -85,26 +155,6 @@ works:
 
       AR00057
     src: ../../media/ed-ruscha-ar00057-artists-who-make-pieces-1976.webp
-  - inventorynumber: AR00055
-    category: Works on paper
-    title: SMELLS LIKE BACK OF OLD HOT RADIO, 1975
-    info: 1976,  Pastel on paper,  587 x 740 mm
-    year: "1976"
-    credit: |-
-      © Ed Ruscha
-
-      AR00055
-    src: ../../media/ed-ruscha-ar00055-smells-like-back-of-old-hot-radio-1975.webp
-  - inventorynumber: AR00054
-    category: Works on paper
-    title: PRETTY EYES, ELECTRIC BILLS, 1976
-    info: 1976,  Pastel and graphite on paper,  574 x 721 mm
-    year: "1976"
-    credit: |-
-      © Ed Ruscha
-
-      AR00054
-    src: ../../media/ed-ruscha-ar00054-pretty-eyes-electric-bills-1976.webp
   - inventorynumber: AR00058
     category: Works on paper
     title: DIRTY BABY, 1977
@@ -125,16 +175,107 @@ works:
 
       AR00059
     src: ../../media/ed-ruscha-ar00059-hollywood-tantrum-1979.webp
-  - inventorynumber: AR01126
-    category: Painting
-    title: The Music from the Balconies, 1984
-    info: 1984,  Oil paint on canvas,  2515 x 2057 mm
-    year: "1984"
+  - inventorynumber: A032219
+    category: >2+
+      
+          
+              Girls, 1982
+          
+          
+              
+                  
+                      
+                          1982, Lithograph on Arches 88 paper, 64 x 86 cm, Edition of 40, A/P 6/13
+                          
+                              View large version
+                          
+                      
+
+                          
+              
+                
+        
+          
+          
+          
+        
+
+
+         
+
+                  
+
+              
+          
+    title: Girls, 1982
+    info: 1982, Lithograph on Arches 88 paper, 64 x 86 cm, Edition of 40, A/P 6/13
+    year: "1982"
     credit: |-
       © Ed Ruscha
 
-      AR01126
-    src: ../../media/ed-ruscha-ar01126-the-music-from-the-balconies-1984.webp
+      A032219
+    src: ../../media/ed-ruscha-a032219-girls-1982.webp
+  - inventorynumber: A032220
+    category: Works on paper
+    title: Rabbit, 1986
+    info: 1986, Lithograph on Arches roll paper, 114 x 86 cm, No. 14/30
+    year: "1986"
+    credit: |-
+      © Ed Ruscha
+
+      A032220
+    src: ../../media/ed-ruscha-a032220-rabbit-1986.webp
+  - inventorynumber: A032225
+    category: Works on paper
+    title: Flipping, Kicking, Howling, 1988
+    info: 1988, Eight two-colour etchings, Each 51 x 41 cm, No. 34/35
+    year: "1988"
+    credit: |-
+      © Ed Ruscha
+
+      A032225
+    src: ../../media/ed-ruscha-a032225-flipping-kicking-howling-1988.webp
+  - inventorynumber: A032221
+    category: >2+
+      
+          
+              Girls, 1982
+          
+          
+              
+                  
+                      
+                          1982, Lithograph on Arches 88 paper, 64 x 86 cm, Edition of 40, A/P 6/13
+                          
+                              View large version
+                          
+                      
+
+                          
+              
+                
+        
+          
+          
+          
+        
+
+
+         
+
+                  
+
+              
+          
+    title: OK (State I), 1990
+    info: 1990, Lithograph on 300-gram white Rives BFK paper, 50 x 58 cm, Edition of
+      25, A/P
+    year: "1990"
+    credit: |-
+      © Ed Ruscha
+
+      A032221
+    src: ../../media/ed-ruscha-a032221-ok-state-i-1990.webp
   - inventorynumber: AR00060
     category: Works on paper
     title: CROSSOVER DREAMS, 1991
@@ -145,6 +286,36 @@ works:
 
       AR00060
     src: ../../media/ed-ruscha-ar00060-crossover-dreams-1991.webp
+  - inventorynumber: A032222
+    category: Works on paper
+    title: US, 1995
+    info: 1995, Mixografia technique on handmade paper, 60 x 82 cm, No. 13/75
+    year: "1995"
+    credit: |-
+      © Ed Ruscha
+
+      A032222
+    src: ../../media/ed-ruscha-a032222-us-1995.webp
+  - inventorynumber: A032223
+    category: Works on paper
+    title: Dog, 1995
+    info: 1995, Mixografia technique on handmade paper, 70 x 98 cm, No. 65/75
+    year: "1995"
+    credit: |-
+      © Ed Ruscha
+
+      A032223
+    src: ../../media/ed-ruscha-a032223-dog-1995.webp
+  - inventorynumber: AR00061
+    category: Works on paper
+    title: SOAPY SMITH, 1996
+    info: 1996,  Acrylic paint on paper,  366 x 290 mm
+    year: "1996"
+    credit: |-
+      © Ed Ruscha
+
+      AR00061
+    src: ../../media/ed-ruscha-ar00061-soapy-smith-1996.webp
   - inventorynumber: AR00062
     category: Works on paper
     title: RED ROOSTER, 1996
@@ -165,6 +336,27 @@ works:
 
       AR00063
     src: ../../media/ed-ruscha-ar00063-hope-1998.webp
+  - inventorynumber: A032209
+    category: Works on paper
+    title: Country Cityscapes Series, 2001
+    info: 2001, Six four-colour photogravures  with silkscreened text, 46 x 36 cm,
+      A/P 7/10
+    year: "2001"
+    credit: |-
+      © Ed Ruscha
+
+      A032209
+    src: ../../media/ed-ruscha-a032209-country-cityscapes-series-2001.webp
+  - inventorynumber: A032227
+    category: Works on paper
+    title: Seven soft ground etchings, 2001
+    info: 2001, Seven soft ground etchings, 20 x 24 cm, No. 28/45
+    year: "2001"
+    credit: |-
+      © Ed Ruscha
+
+      A032227
+    src: ../../media/ed-ruscha-a032227-seven-soft-ground-etchings-2001.webp
   - inventorynumber: AR00064
     category: Works on paper
     title: "THE END #40, 2003"
@@ -175,36 +367,16 @@ works:
 
       AR00064
     src: ../../media/ed-ruscha-ar00064-the-end-40-2003.webp
-  - inventorynumber: AR00047
-    category: Painting
-    title: Pay Nothing Until April, 2003
-    info: 2003,  Acrylic paint on canvas,  1527 x 1525 x 40 mm
-    year: "2003"
-    credit: |-
-      © Ed Ruscha
-
-      AR00047
-    src: ../../media/ed-ruscha-ar00047-pay-nothing-until-april-2003.webp
-  - inventorynumber: AR00061
+  - inventorynumber: A032226
     category: Works on paper
-    title: SOAPY SMITH, 1996
-    info: 1996,  Acrylic paint on paper,  366 x 290 mm
-    year: "1996"
+    title: Blank Signs Series, 2004
+    info: 2004, Four etchings with aquatint, 32 x 31 cm, No. 15/35
+    year: "2004"
     credit: |-
       © Ed Ruscha
 
-      AR00061
-    src: ../../media/ed-ruscha-ar00061-soapy-smith-1996.webp
-  - inventorynumber: AR00048
-    category: Painting
-    title: DAILY PLANET, 2003
-    info: 2003,  Acrylic paint on canvas,  1529 x 1529 x 40 mm
-    year: "2003"
-    credit: |-
-      © Ed Ruscha
-
-      AR00048
-    src: ../../media/ed-ruscha-ar00048-daily-planet-2003.webp
+      A032226
+    src: ../../media/ed-ruscha-a032226-blank-signs-series-2004.webp
   - inventorynumber: AR00065
     category: Works on paper
     title: DEC. 30th, 2005
@@ -215,6 +387,57 @@ works:
 
       AR00065
     src: ../../media/ed-ruscha-ar00065-dec-30th-2005.webp
+  - inventorynumber: A032210
+    category: Works on paper
+    title: Motor City Suite, 2009
+    info: 2009, Seven aquatint etchings, 26 x 24 cm, Trial prrof
+    year: "2009"
+    credit: |-
+      © Ed Ruscha
+
+      A032210
+    src: ../../media/ed-ruscha-a032210-motor-city-suite-2009.webp
+  - inventorynumber: A032211
+    category: Works on paper
+    title: Bliss Bucket, 2010
+    info: 2010, Six-colour lithograph , 71 x 71 cm, Edition of 50, A/P
+    year: "2010"
+    credit: |-
+      © Ed Ruscha
+
+      A032211
+    src: ../../media/ed-ruscha-a032211-bliss-bucket-2010.webp
+  - inventorynumber: A036084
+    category: Works on paper
+    title: Liberty, 2011
+    info: 2011, Lithograph, 66 x 51 cm, Edition of 75,  A/P 5
+    year: "2011"
+    credit: |-
+      © Ed Ruscha
+
+      A036084
+    src: ../../media/ed-ruscha-a036084-liberty-2011.webp
+  - inventorynumber: AR00046
+    category: Painting
+    title: DANCE?, 1973
+    info: 1973,  Coffee, egg white, mustard and graphite on canvas,  1372 x 1520 x
+      29 mm
+    year: "1973"
+    credit: |-
+      © Ed Ruscha
+
+      AR00046
+    src: ../../media/ed-ruscha-ar00046-dance-1973.webp
+  - inventorynumber: AR01126
+    category: Painting
+    title: The Music from the Balconies, 1984
+    info: 1984,  Oil paint on canvas,  2515 x 2057 mm
+    year: "1984"
+    credit: |-
+      © Ed Ruscha
+
+      AR01126
+    src: ../../media/ed-ruscha-ar01126-the-music-from-the-balconies-1984.webp
   - inventorynumber: AR00596
     category: Painting
     title: The Final End, 1992
@@ -225,6 +448,26 @@ works:
 
       AR00596
     src: ../../media/ed-ruscha-ar00596-the-final-end-1992.webp
+  - inventorynumber: AR00047
+    category: Painting
+    title: Pay Nothing Until April, 2003
+    info: 2003,  Acrylic paint on canvas,  1527 x 1525 x 40 mm
+    year: "2003"
+    credit: |-
+      © Ed Ruscha
+
+      AR00047
+    src: ../../media/ed-ruscha-ar00047-pay-nothing-until-april-2003.webp
+  - inventorynumber: AR00048
+    category: Painting
+    title: DAILY PLANET, 2003
+    info: 2003,  Acrylic paint on canvas,  1529 x 1529 x 40 mm
+    year: "2003"
+    credit: |-
+      © Ed Ruscha
+
+      AR00048
+    src: ../../media/ed-ruscha-ar00048-daily-planet-2003.webp
   - inventorynumber: AR00049
     category: Painting
     title: BLVD.-AVE.-ST., 2006

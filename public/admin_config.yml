@@ -37,6 +37,7 @@ collections:
         fields: 
           - { label: Image, name: src, widget: image }
           - { label: Title, name: title, widget: string, required: false }
+          - { label: Year, name: year, widget: "datetime", time_format: false, format: 'yyyy', required: false }
           - { label: Group, name: group, widget: string, required: false }
           - { label: "Catalog Number", name: inventorynumber, widget: string, required: false }
           - { label: "Description", name: "info", widget: "text", required: false }
@@ -154,7 +155,7 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - {label: "Layout", name: "layout", widget: "hidden", default: "../layouts/Main.astro"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "../layouts/Page.astro"}
       - { label: "Hidden", name: "hidden", widget: "boolean", default: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - label: "Artists"

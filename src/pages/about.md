@@ -1,15 +1,13 @@
 ---
 title: About
-layout: ../layouts/Main.astro
+layout: ../layouts/Page.astro
 hidden: false
 artists:
   - jannis-kounellis
 rooms:
   - jannis-kounellis-london-tate-modern
 ---
-![Artist Rooms](/src/media/-DSC0674.jpg)
-Through ARTIST ROOMS, important works of art can be seen by visitors across the United Kingdom. Since the touring programme began in 2009, nearly 50 million people have visited more than 180 exhibitions at over 85 museums and galleries, from Penzance to the Hebrides, and from Belfast to Llandudno.
-
+![](/src/media/jannis-kounellis-ar00068-untitled-1960-1998.webp)
 ARTIST ROOMS gives young people across the UK the chance to get involved in creative projects, discover more about art and artists, and learn new skills.
 
 The ARTIST ROOMS programme and collection is managed by Tate and National Galleries of Scotland with the support of Art Fund, Henry Moore Foundation and using public funding by the National Lottery through Arts Council England and Creative Scotland. Its founding collection was established through The d'Offay Donation in 2008 with the assistance of the National Heritage Memorial Fund, Art Fund and the Scottish and British Governments.

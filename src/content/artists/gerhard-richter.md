@@ -66,6 +66,28 @@ works:
 
       AR00182
     src: ../../media/gerhard-richter-ar00182-self-portrait-standing-three-times-1731991-1991.webp
+  - inventorynumber: A040006
+    category: Works on paper
+    title: Betty, 1991
+    info: 1991, Offset print on card, framed, 96 x 66 cm, Edition of 25, Exhibition
+      copy 2/3
+    year: "1991"
+    credit: |-
+      © Gerhard Richter
+
+      A040006
+    src: ../../media/gerhard-richter-a040006-betty-1991.webp
+  - inventorynumber: A038079
+    category: Works on paper
+    title: September, 2009
+    info: "2009, Digital inkjet print mounted between  two plates of glass, 52 x 72
+      cm (sheet), 66 x 90 cm (glass), 40 copies plus proof, Exhibition copy, "
+    year: "2009"
+    credit: |-
+      © Gerhard Richter
+
+      A038079
+    src: ../../media/gerhard-richter-a038079-september-2009.webp
   - inventorynumber: AR00022
     category: Painting
     title: Mirror Painting Grey (735-2), 1991

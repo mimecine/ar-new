@@ -15,6 +15,26 @@ works:
 
       AR01137
     src: ../../media/robert-mapplethorpe-ar01137-david-hockney-1973.webp
+  - inventorynumber: MAP-1877
+    category: Photography 1973 to 1977
+    title: Self-Portrait,1975
+    info: 1975, Gelatin silver print, 50.5 x 40.3 cm
+    year: "1975"
+    credit: |-
+      © Robert Mapplethorpe
+
+      MAP 1877
+    src: ../../media/robert-mapplethorpe-map-1877-self-portrait1975.webp
+  - inventorynumber: MAP-138
+    category: Photography 1973 to 1977
+    title: Self-Portrait, 1975
+    info: 1975, Gelatin silver print, 50.5 x 39.7 cm
+    year: "1975"
+    credit: |-
+      © Robert Mapplethorpe
+
+      MAP 138
+    src: ../../media/robert-mapplethorpe-map-138-self-portrait-1975.webp
   - inventorynumber: AR00209
     category: Photography 1973 to 1977
     title: John McKendry, 1975
@@ -425,6 +445,16 @@ works:
 
       AR00218
     src: ../../media/robert-mapplethorpe-ar00218-lawrence-weiner-1982.webp
+  - inventorynumber: A033368
+    category: Photography 1981 to 1983
+    title: Self-Portrait, 1982
+    info: 1982, Gelatin silver print, 50.8 x 40.6 cm
+    year: "1982"
+    credit: |-
+      © Robert Mapplethorpe
+
+      A033368
+    src: ../../media/robert-mapplethorpe-a033368-self-portrait-1982.webp
   - inventorynumber: AR00155
     category: Photography 1981 to 1983
     title: Doris Saatchi, 1983
@@ -588,6 +618,16 @@ works:
 
       AR00221
     src: ../../media/robert-mapplethorpe-ar00221-frogs-1984.webp
+  - inventorynumber: A033371
+    category: Photography 1984 to 1986
+    title: White Gauze, 1984
+    info: 1984, Gelatin silver print, 50.8 x 40.6 cm
+    year: "1984"
+    credit: |-
+      © Robert Mapplethorpe
+
+      A033371
+    src: ../../media/robert-mapplethorpe-a033371-white-gauze-1984.webp
   - inventorynumber: AR00152
     category: Photography 1984 to 1986
     title: Francesco Clemente, 1985
@@ -639,6 +679,26 @@ works:
 
       AR00217
     src: ../../media/robert-mapplethorpe-ar00217-roy-lichtenstein-1985.webp
+  - inventorynumber: A033370
+    category: Photography 1984 to 1986
+    title: Self-Portrait, 1985
+    info: 1985, Gelatin silver print, 50.8 x 40.6 cm
+    year: "1985"
+    credit: |-
+      © Robert Mapplethorpe
+
+      A033370
+    src: ../../media/robert-mapplethorpe-a033370-self-portrait-1985.webp
+  - inventorynumber: MAP-1583
+    category: Photography 1984 to 1986
+    title: Self-Portrait, 1985
+    info: 1985, Gelatin silver print, 50.5 x 40.3 cm
+    year: "1985"
+    credit: |-
+      © Robert Mapplethorpe
+
+      MAP 1583
+    src: ../../media/robert-mapplethorpe-map-1583-self-portrait-1985.webp
   - inventorynumber: AR00220
     category: Photography 1984 to 1986
     title: Andy Warhol, 1986
@@ -731,6 +791,26 @@ works:
 
       AR000145
     src: ../../media/robert-mapplethorpe-ar00145-self-portrait-1988.webp
+  - inventorynumber: MAP-1931
+    category: Photography 1987 to 1989
+    title: Self-Portrait, 1988
+    info: 1988, Gelatin silver print, 61 x 50.8 cm
+    year: "1988"
+    credit: |-
+      © Robert Mapplethorpe
+
+      MAP 1931
+    src: ../../media/robert-mapplethorpe-map-1931-self-portrait-1988.webp
+  - inventorynumber: A033372
+    category: Photography 1987 to 1989
+    title: Tarantula, 1988
+    info: 1988, Gelatin silver print, 61 x 50.8 cm
+    year: "1988"
+    credit: |-
+      © Robert Mapplethorpe
+
+      A033372
+    src: ../../media/robert-mapplethorpe-a033372-tarantula-1988.webp
   - inventorynumber: AR01146
     category: Photography 1987 to 1989
     title: Leaf, 1989
@@ -741,6 +821,66 @@ works:
 
       AR01146
     src: ../../media/robert-mapplethorpe-ar01146-leaf-1989.webp
+  - inventorynumber: A033365
+    category: Photography 1973 to 1977
+    title: Pictures / Self-Portrait, 1977
+    info: 1977, Vintage gelatin silver print, 50.8 x 40.6 cm
+    year: "1977"
+    credit: |-
+      © Robert Mapplethorpe
+
+      A033365
+    src: ../../media/robert-mapplethorpe-a033365-pictures-self-portrait-1977.webp
+  - inventorynumber: A033366
+    category: Photography 1973 to 1977
+    title: Pictures / Self-Portrait, 1977
+    info: 1977, Vintage gelatin silver print, 50.8 x 40.6 cm
+    year: "1977"
+    credit: |-
+      © Robert Mapplethorpe
+
+      A033366
+    src: ../../media/robert-mapplethorpe-a033366-pictures-self-portrait-1977.webp
+  - inventorynumber: A033367
+    category: Photography 1978 to 1980
+    title: Self-Portrait, 1980
+    info: 1980, Gelatin silver print, 50.8 x 40.6 cm
+    year: "1980"
+    credit: |-
+      © Robert Mapplethorpe
+
+      A033367
+    src: ../../media/robert-mapplethorpe-a033367-self-portrait-1980.webp
+  - inventorynumber: A033369
+    category: Photography 1981 to 1983
+    title: Self-Portrait, 1983
+    info: 1983, Gelatin silver print, 50.8 x 40.6 cm
+    year: "1983"
+    credit: |-
+      © Robert Mapplethorpe
+
+      A033369
+    src: ../../media/robert-mapplethorpe-a033369-self-portrait-1983.webp
+  - inventorynumber: MAP-385
+    category: Photography 1978 to 1980
+    title: Self-Portrait, 1980
+    info: 1980, Gelatin silver print, 50.5 x 40.3 cm
+    year: "1980"
+    credit: |-
+      © Robert Mapplethorpe
+
+      MAP 385
+    src: ../../media/robert-mapplethorpe-map-385-self-portrait-1980.webp
+  - inventorynumber: MAP-1645
+    category: Photography 1984 to 1986
+    title: Self-Portrait, 1986
+    info: 1986, Gelatin silver print, 63.2 x 50.5 cm
+    year: "1986"
+    credit: |-
+      © Robert Mapplethorpe
+
+      MAP 1645
+    src: ../../media/robert-mapplethorpe-map-1645-self-portrait-1986.webp
 
 ---
 

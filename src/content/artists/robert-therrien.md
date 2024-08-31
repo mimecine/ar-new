@@ -71,6 +71,16 @@ works:
 
       AR00128
     src: ../../media/robert-therrien-ar01128-no-title-beard-cart-2004.webp
+  - inventorynumber: A038281
+    category: Sculpture
+    title: No title (hands and tambourines), 2009
+    info: 2009, Graphite and ink on board,  101.6 x 81.3 cm
+    year: "2009"
+    credit: |-
+      © Robert Therrien
+
+      A038281
+    src: ../../media/robert-therrien-a038281-no-title-hands-and-tambourines-2009.webp
   - inventorynumber: AR01127
     category: Sculpture
     title: No Title (Stacked Plates),  2010
@@ -81,6 +91,16 @@ works:
 
       AR01127
     src: ../../media/robert-therrien-ar01127-no-title-stacked-plates-2010.webp
+  - inventorynumber: A038307
+    category: Sculpture
+    title: Soapy (yellow), 2017
+    info: 2017, Plastic, 15.2 x 30.5 x 58.4 cm
+    year: "2017"
+    credit: |-
+      © Robert Therrien
+
+      A038307
+    src: ../../media/robert-therrien-a038307-soapy-yellow-2017.webp
 
 ---
 

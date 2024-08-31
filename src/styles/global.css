@@ -90,9 +90,9 @@ body {
 	@apply text-sm lg:text-xl
 }
 main {
-	max-width: calc(100% - 2em);
+	x-max-width: calc(100% - 2em);
 	margin: auto;
-	padding: 3em 1em;
+	x-padding: 3em 1em;
 }
 h1,
 h2,
@@ -181,7 +181,7 @@ hr {
 		font-size: 18px;
 	}
 	main {
-		padding: 1em;
+		x-padding: 1em;
 	}
 }
 

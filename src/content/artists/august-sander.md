@@ -1073,6 +1073,16 @@ works:
 
       AL00074
     src: ../../media/august-sander-al00074-dorfschullehrer-1921.webp
+  - inventorynumber: A045022
+    category: Photography 1920 - 1924
+    title: Bäueliche Braut , 1922
+    info: 1922, Gelatin silver print, 48 x 38 cm, Printed 1990
+    year: "1922"
+    credit: |-
+      © August Sander
+
+      A045022
+    src: ../../media/august-sander-a045022-bueliche-braut-1922.webp
   - inventorynumber: AL00075
     category: Photography 1927 - 1929
     title: Jungelehrer, c.1928

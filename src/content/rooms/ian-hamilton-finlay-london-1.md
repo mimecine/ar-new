@@ -2,21 +2,16 @@
 title: Ian Hamilton Finlay, London
 artists:
   - ian-hamilton-finlay
-venue: tate-modern
+venue: tate-britain
 images:
-  - ../../media/ian-hamilton-finlay-london-tate-modern-2023-02-27-0.webp
-  - ../../media/ian-hamilton-finlay-london-tate-modern-2023-02-27-1.webp
-  - ../../media/ian-hamilton-finlay-london-tate-modern-2023-02-27-2.webp
-  - ../../media/ian-hamilton-finlay-london-tate-modern-2023-02-27-3.webp
-startdate: 2023-02-27
-enddate: 2024-12-08
+  - ../../media/ian-hamilton-finlay-london-tate-britain-2009-03-02-0.webp
+startdate: 2009-03-02
+enddate: 2010-01-30
 town: London
-url: https://www.tate.org.uk/
+url: http://www.tate.org.uk/visit/tate-britain
 
 ---
 
-Scottish artist Ian Hamilton Finlay created the poem-objects in this room between the 1960s and 1990s. They focus on maritime themes like boats, fishing and seafaring. The sea was a recurring source of inspiration for Finlay. He was born in The Bahamas and lived for a brief but formative time on Rousay, one of the Scottish Orkney Islands. Even when he moved to the countryside near Edinburgh he was never far from a body of water - such as the ponds in his celebrated garden, Little Sparta, in Dunsyre.
+This ARTIST ROOM featured Ian Hamilton Finlay’s monumental one-room installation 'Sailing Dinghy' (1996), which comprises a full-sized sailing boat and poem. The boat, which Hamilton Finlay sailed himself, measures over five metres tall and four metres wide, while a poem forms a ‘key’ that describes the parts of the boat and evokes its movement.
 
-Finlay began his career publishing plays, short stories and poems in the mid-1950s. His early works were important contributions to the development of concrete poetry, a form of visual poetry where the arrangement of words and letters is as significant as their meaning. Finlay published his first collection of concrete poems in 1963, and at the end of the 1960s he began making sculptures. The works on display here illustrate these two practices. They generate poetic associations by juxtaposing words, images and materials.
-
-Finlay often collaborated with other artists and craftspeople, who he always credited in his publications and exhibitions. In 1961, he founded the Wild Hawthorn Press. This publishing company produced versions of many of Finlay’s artworks across a range of mediums. Included here are a series of screenprinted ceramic tiles, suggesting ways to experience visual poetry in a domestic environment. The use of tiles in kitchen and bathroom ‘wet rooms’ also playfully chimes with their maritime subject matter.
+His work, often collaborative and in a wide variety of materials, is a unique blend of art and poetry - this installation combined his love of ships and the sea with his love of literature and the potency of words.

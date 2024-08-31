@@ -56,6 +56,21 @@ works:
 
       AR00180
     src: ../../media/bruce-nauman-ar00180-enforced-perspective-allegory-and-symbolism-1975.webp
+  - inventorynumber: A038279
+    category: Sculpture
+    title: Human Nature / Knows Doesn't Know, 1983 / 1986
+    info: Neon tubing with clear glass tubing suspension frames 229 x 229 x 37 cm
+    year: Neon tubing with clear glass tubing suspension frames 229 x 229 x 37 cm
+    credit: >-
+      © Bruce Nauman
+
+
+      Froehlich Collection, Stuttgart. Exhibition copy courtesy of Artist Rooms
+      Foundation
+
+
+      A038279
+    src: ../../media/bruce-nauman-a038279-human-nature-knows-doesnt-know-1983-1986.webp
   - inventorynumber: AL00399
     category: Sculpture
     title: Double Poke In the Eye II 1985
