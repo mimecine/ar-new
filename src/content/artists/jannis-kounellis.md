@@ -18,7 +18,7 @@ works:
     title: Untitled, 1960-1998
     info: 1960-98,  Steel panel, enamel on paper on 2 canvases, fabric, coal, 3
       metal hooks and metal rod,  2000 x 1800 x 460 mm
-    year: 1960-98
+    year: "1960"
     credit: |-
       © Jannis Kounellis
 
@@ -49,7 +49,7 @@ works:
     title: Coal Sculpture with Wall of Coloured Glass, 1990-2005
     info: 1990-2005,  Glass, steel, coal and paraffin lamp,  4250 x 1270 x 2550 mm
       (variable)
-    year: 1990-2005
+    year: "1990"
     credit: |-
       © Jannis Kounellis
 
@@ -122,7 +122,7 @@ works:
     title: Untitled (Coffee), 1989-91
     info: 1989-91,  Metal, glass, etching on paper, coffee beans and lead,  653 x
       455 x 77 mm
-    year: 1989-91
+    year: "1989"
     credit: |-
       © Jannis Kounellis
 

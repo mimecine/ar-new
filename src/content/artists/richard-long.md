@@ -49,7 +49,7 @@ works:
     title: Silbury Hill, 1970-1
     info: 1970-1,  Photograph, gelatin silver print on paper, typed text and
       postcard,  516 x 417 mm
-    year: 1970-1
+    year: "1970"
     credit: |-
       © Richard Long
 

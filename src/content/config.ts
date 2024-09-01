@@ -19,6 +19,7 @@ const artists = defineCollection({
             info: z.string().optional(),
             credit: z.string().optional(),
             category: z.string().optional(),
+            year: z.coerce.number().optional(),
             src: image(),
           })
         )

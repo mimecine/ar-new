@@ -60,7 +60,7 @@ works:
     category: Sculpture
     title: Human Nature / Knows Doesn't Know, 1983 / 1986
     info: Neon tubing with clear glass tubing suspension frames 229 x 229 x 37 cm
-    year: Neon tubing with clear glass tubing suspension frames 229 x 229 x 37 cm
+    year: "1983"
     credit: >-
       © Bruce Nauman
 
@@ -131,7 +131,7 @@ works:
     info: "1996  Video, 2 monitors, colour and sound  Overall display dimensions
       variable. Duration (channel 1): 55 min,46 sec; duration (channel 2): 55
       min, 56 sec"
-    year: 1996  Video
+    year: "1996"
     credit: >-
       © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
       London

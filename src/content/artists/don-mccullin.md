@@ -212,7 +212,7 @@ works:
     category: Photography 1970s
     title: Palestinians Training in Beirut,  Mid–1970s
     info: Mid–1970s, printed 2013,  Photograph on paper, 508 x 610 mm
-    year: Mid–1970s
+    year: "1970"
     credit: |-
       © Don McCullin
 
@@ -243,7 +243,7 @@ works:
     category: Photography 1970s
     title: Palestinians Training in West Beirut,  1970s
     info: 1970s, printed 2013,  Photograph on paper,  508 x 610 mm
-    year: 1970s
+    year: "1970"
     credit: |-
       © Don McCullin
 
@@ -407,7 +407,6 @@ works:
     category: Date unknown
     title: South Africa, Zambia
     info: Date not known,  Photograph on paper,  610 x 508 mm
-    year: Date not known
     credit: |-
       © Don McCullin
 

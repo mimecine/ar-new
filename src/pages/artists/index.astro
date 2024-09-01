@@ -4,6 +4,8 @@ import { Image } from "astro:assets";
 import Main from "../../layouts/Main.astro";
 import Thumbnail from "../../components/Thumbnail.astro";
 import FormattedDate from "../../components/FormattedDate.astro";
+import settings from "../../_data/artists_settings.json" with { type: "json" };
+import { marked } from "marked";
 
 let artists = await getCollection("artists");
 artists = artists
@@ -17,11 +19,18 @@ artists = artists
 
 <Main title="The Artists">
   <main>
+    {
+      settings.intro && (
+        <section class="intro pb-12">
+          <div set:html={marked.parse(settings.intro)} />
+        </section>
+      )
+    }
     <section>
-      <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 justify-between" xclass="flex flex-wrap gap-3 justify-between">
+      <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between">
         {
           artists.map((artist) => (
-            <li xclass="w-full md:w-1/3 lg:w-1/4 xl:w-1/5 xxl:w-1/6 p-4">
+            <li>
               <a href={`/artists/${artist.slug}`}>
                 <Thumbnail
                   src={artist.data.featuredImage}
@@ -39,5 +48,10 @@ artists = artists
 
       </ul>
     </section>
+    { settings.outro && (
+      <section class="outro pb-12">
+        <div set:html={marked.parse(settings.outro)} />
+      </section>
+    )}
   </main>
 </Main>

@@ -28,6 +28,34 @@ for (let i = 0; i < grid_tail_size.length; i++) {
   grid_tail_size[i] = i;
 }
 ---
+<style>
+  xdialog {
+  transition: display .2s allow-discrete, overlay .2s allow-discrete;
+
+  animation: close 0.2s forwards;
+  &[open] {
+    animation: open 0.2s forwards;
+  }
+}
+
+@keyframes open {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes xclose {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+</style>
 <Main
   title={room.data.title.replace(/,[^,]+$/, "")}
   x-data="{open: false}"
@@ -35,10 +63,10 @@ for (let i = 0; i < grid_tail_size.length; i++) {
   <main>
     <section class="w-full">
       <div>
-        <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 justify-between">
+        <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between">
           {
             room.data.images?.map((image, i) => (
-              <li class="thb" data-index={i}
+              <li class="cursor-pointer"
                 x-data={`{slide:'slide${i}'}`}
                 @click.prevent="$refs.dialog.showModal();$refs[slide].scrollIntoView({behavior:'instant'});   open=!open;">
                 <Thumbnail
@@ -88,7 +116,7 @@ for (let i = 0; i < grid_tail_size.length; i++) {
   <dialog
   id="dialog"
   x-ref="dialog"
-  class="w-screen h-screen inset-0 z-[600] opacity-0 pointer-events-none transition-opacity duration-500 open:opacity-100 open:pointer-events-auto bg-gray-100 backdrop:bg-gray-800 backdrop:opacity-60"
+  class="w-screen h-screen inset-0 z-[600] pointer-events-none open:pointer-events-auto bg-gray-100 backdrop:bg-transparent"
   role="dialog"
   aria-modal="true">
   <div

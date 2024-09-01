@@ -8,7 +8,7 @@ works:
     title: Untitled, 1975-80
     info: 1975-80,  Photograph, gelatin silver print on paper, on ink on paper,  109
       x 109 mm
-    year: 1975-80
+    year: "1975"
     credit: |-
       © Courtesy of George and Betty Woodman
 
@@ -18,7 +18,7 @@ works:
     category: Photography
     title: Eel Series, Roma, May 1977 - August 1978
     info: 1977-8,  Photograph, gelatin silver print, 219 x 219 mm
-    year: 1977-8
+    year: "1977"
     credit: |-
       © Courtesy of George and Betty Woodman
 
@@ -28,7 +28,7 @@ works:
     category: Photography
     title: Space², Providence, Rhode Island, 1975-1978
     info: 1975-8,  Photograph, gelatin silver print on paper, 139 x 139 mm
-    year: 1975-8
+    year: "1975"
     credit: |-
       © Courtesy of George and Betty Woodman
 
@@ -38,7 +38,7 @@ works:
     category: Photography
     title: Space², Providence, Rhode Island, 1975-1978
     info: 1975-8,  Photograph, gelatin silver print on paper,  140 x 140 mm
-    year: 1975-8
+    year: "1975"
     credit: |-
       © Courtesy of George and Betty Woodman
 
@@ -48,7 +48,7 @@ works:
     category: Photography
     title: Untitled, 1975-80
     info: 1975-80,  Photograph, gelatin silver print on paper,  141 x 140 mm
-    year: 1975-80
+    year: "1975"
     credit: |-
       © Courtesy of George and Betty Woodman
 
@@ -68,7 +68,7 @@ works:
     category: Photography
     title: Italy, May 1977 - August 1978
     info: 1977-8,  Photograph, gelatin silver print on paper,  143 x 158 mm
-    year: 1977-8
+    year: "1977"
     credit: |-
       © Courtesy of George and Betty Woodman
 
@@ -88,7 +88,7 @@ works:
     category: Photography
     title: Untitled, 1975-80
     info: 1975-80, Photograph, gelatin silver print on paper, 128 x 128 mm
-    year: 1975-80
+    year: "1975"
     credit: |-
       © Courtesy of George and Betty Woodman
 
@@ -98,7 +98,7 @@ works:
     category: Photography
     title: Untitled, 1975-80
     info: 1975-80,  Photograph, gelatin silver print on paper and ink,  144 x 144 mm
-    year: 1975-80
+    year: "1975"
     credit: |-
       © Courtesy of George and Betty Woodman
 
@@ -108,7 +108,7 @@ works:
     category: Photography
     title: Untitled, 1975-80
     info: 1975-80,  Photograph, gelatin silver print on paper and ink,  144 x 144 mm
-    year: 1975-80
+    year: "1975"
     credit: |-
       © Courtesy of George and Betty Woodman
 
@@ -118,7 +118,7 @@ works:
     category: Photography
     title: Untitled, 1975-80
     info: 1975-80, Photograph, gelatin silver print on paper, 140 x 140 mm
-    year: 1975-80
+    year: "1975"
     credit: |-
       © Courtesy of George and Betty Woodman
 
@@ -128,7 +128,7 @@ works:
     category: Photography
     title: Untitled, 1975-80
     info: 1975-80,  Photograph, gelatin silver print on paper,  156 x 156 mm
-    year: 1975-80
+    year: "1975"
     credit: |-
       © Courtesy of George and Betty Woodman
 
@@ -139,7 +139,7 @@ works:
     title: Untitled, 1975-80
     info: 1975-80,  Photograph, gelatin silver print on paper, on ink on paper,  143
       x 143 mm
-    year: 1975-80
+    year: "1975"
     credit: |-
       © Courtesy of George and Betty Woodman
 
@@ -149,7 +149,7 @@ works:
     category: Photography
     title: Untitled, 1975-80
     info: 1975-80,  Photograph, gelatin silver print on paper,  135 x 135 mm
-    year: 1975-80
+    year: "1975"
     credit: |-
       © Courtesy of George and Betty Woodman
 
@@ -159,7 +159,7 @@ works:
     category: Photography
     title: Untitled, 1975-80
     info: 1975-80,  Photograph, gelatin silver print on paper,  98 x 105 mm
-    year: 1975-80
+    year: "1975"
     credit: |-
       © Courtesy of George and Betty Woodman
 
@@ -169,7 +169,7 @@ works:
     category: Photography
     title: Untitled, 1975-80
     info: 1975-80, Photograph, gelatin silver print on paper,  152 x 152 mm
-    year: 1975-80
+    year: "1975"
     credit: |-
       © Courtesy of George and Betty Woodman
 
@@ -179,7 +179,7 @@ works:
     category: Photography
     title: Untitled, c.1980
     info: c.1980,  Photograph, gelatin silver print on paper,  171 x 165 mm
-    year: c.1980
+    year: "1980"
     credit: |-
       © Courtesy of George and Betty Woodman
 

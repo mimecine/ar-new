@@ -152,7 +152,7 @@ works:
     title: Hamburger, 1985-6
     info: "1985-6, Acrylic paint and silkscreen on 2 canvases, ea: 1832 x 2037 x 33
       mm"
-    year: 1985-6
+    year: "1985"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -164,7 +164,7 @@ works:
     category: Painting
     title: Christ $9.98 (negative and positive), 1985-6
     info: 1985-6, Acrylic paint and silkscreen on 2 canvases, 510 x 410 x 20 mm
-    year: 1985-6
+    year: "1985"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -177,7 +177,7 @@ works:
     title: Paratrooper Boots, 1985-6
     info: "1985-6, Acrylic paint and silkscreen on 2 canvases, ea: 2034 x 1476 x 33
       mm"
-    year: 1985-6
+    year: "1985"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -190,7 +190,7 @@ works:
     title: Are You Different?, c.1985-6
     info: "c.1985-6, Acrylic paint and silkscreen on 2 canvases, ea: 510 x 410 x 20
       mm"
-    year: c.1985-6
+    year: "1985"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -203,7 +203,7 @@ works:
     title: Energy - Power, c.1985-6
     info: "c.1985-6, Acrylic paint and silkscreen on 2 canvases, ea: 662 x 509 x 21
       mm"
-    year: c.1985-6
+    year: "1985"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -215,7 +215,7 @@ works:
     category: Painting
     title: Map of Eastern U.S.S.R. Missile Bases, c.1985-6
     info: c.1985-6, Acrylic paint and silkscreen on canvas, 1830 x 2032 x 32 mm
-    year: c.1985-6
+    year: "1985"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -227,7 +227,7 @@ works:
     category: Painting
     title: Repent and Sin No More!, 1985-6
     info: 1985-6, Acrylic paint and silkscreen on 2 canvases, 2034 x 1781 x 33 mm
-    year: 1985-6
+    year: "1985"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -240,7 +240,7 @@ works:
     title: The Mark of the Beast, c.1985-6
     info: "c.1985-6, Acrylic paint and silkscreen on 2 canvases, ea: 510 x 408 x 19
       mm"
-    year: c.1985-6
+    year: "1985"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -427,7 +427,7 @@ works:
     title: Self-Portrait, 1976-86
     info: 1976-86,  6 photographs, gelatin silver print on paper and thread,  698 x
       804 mm
-    year: 1976-86
+    year: "1976"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -476,7 +476,7 @@ works:
     category: Polaroids
     title: Self-Portrait with Hand to Cheek,  1977-8
     info: 1977-8,  Photograph, colour, Polaroid on paper,  96 x 72 mm
-    year: 1977-8
+    year: "1977"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -488,7 +488,7 @@ works:
     category: Polaroids
     title: Self-Portrait in Blue Shirt, 1977-8
     info: 1977-8,  Photograph, colour, Polaroid on paper,  93 x 73 mm
-    year: 1977-8
+    year: "1977"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -500,7 +500,7 @@ works:
     category: Polaroids
     title: Self-Portrait in Interview T-shirt,  1977-8
     info: 1977-8,  Photograph, colour, Polaroid, on paper,  95 x 72 mm
-    year: 1977-8
+    year: "1977"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -512,7 +512,7 @@ works:
     category: Polaroids
     title: Self-Portrait in Dark Suit,  1977-8
     info: 1977-8,  Photograph, colour, Polaroid on paper,  94 x 72 mm
-    year: 1977-8
+    year: "1977"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -656,7 +656,7 @@ works:
     category: Works on paper (1948 - 53)
     title: A Field of Blue Children,  1951-2
     info: 1951-2,  Ink and dye on paper,  625 x 480 mm
-    year: 1951-2
+    year: "1951"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -848,7 +848,7 @@ works:
     category: Works on paper (1954 - 55)
     title: Foot with Cat,  1955-57
     info: 1955-57,  Ink on paper,  424 x 350 mm
-    year: 1955-57
+    year: "1955"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -860,7 +860,7 @@ works:
     category: Works on paper (1954 - 55)
     title: Boy with Flowers,  1955-57
     info: 1955-57,  Ink on paper,  425 x 351 mm
-    year: 1955-57
+    year: "1955"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -872,7 +872,7 @@ works:
     category: Works on paper (1954 - 55)
     title: Resting Boy,  1955-57
     info: 1955-57,  Ink on paper,  418 x 345 mm
-    year: 1955-57
+    year: "1955"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -1016,7 +1016,7 @@ works:
     category: Works on paper (1956 - 58)
     title: Christmas Sewing Theme,  1957
     info: 1957  Ink and dye on paper  390 x 230 mm
-    year: 1957  Ink and dye on paper  390 x 230 mm
+    year: "1957"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -1028,7 +1028,7 @@ works:
     category: Works on paper (1956 - 58)
     title: Head of a Girl and Children,  1958-61
     info: 1958-61,  Graphite and gouache on paper,  735 x 580 mm
-    year: 1958-61
+    year: "1958"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -1100,7 +1100,7 @@ works:
     category: Works on paper (1959 - 81)
     title: Boy with Stars and Stripes,  1959
     info: 1957,  Ink, gold leaf, graphite and gouache on paper,  450 x 711 mm
-    year: "1957"
+    year: "1959"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -1160,7 +1160,7 @@ works:
     category: Works on paper (1959 - 81)
     title: People , 1960-62
     info: 1960-62,  Graphite, dye and gouache on paper,  585 x 735 mm
-    year: 1960-62
+    year: "1960"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -1172,7 +1172,7 @@ works:
     category: Works on paper (1959 - 81)
     title: Man and Woman and Two Chairs,  1960-62
     info: 1960-62,  Graphite and gouache on paper,  583 x 735 mm
-    year: 1960-62
+    year: "1960"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London
@@ -1196,7 +1196,7 @@ works:
     category: Works on paper (1959 - 81)
     title: '"The Wonderful World of Fleming Joffe",  1960'
     info: 1960  Ink and snakeskin on paper, 480 x 340 mm
-    year: 1960  Ink and snakeskin on paper
+    year: "1960"
     credit: >-
       © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
       Rights Society (ARS), New York and DACS, London

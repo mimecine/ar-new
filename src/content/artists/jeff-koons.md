@@ -10,7 +10,7 @@ works:
       Displaced Doubledecker, 1981-7
     info: 1981-7,  4 vacuum cleaners, Perspex and fluorescent lights,  2510 x 1370 x
       715 mm
-    year: 1981-7
+    year: "1981"
     credit: |-
       © Jeff Koons
 
@@ -20,7 +20,7 @@ works:
     category: Sculpture
     title: Encased - Four Rows, 1983-93
     info: 1983-93,  Glass, steel, plastic and basketballs,  2032 x 1400 x 432 mm
-    year: 1983-93
+    year: "1983"
     credit: |-
       © Jeff Koons
 
@@ -40,7 +40,7 @@ works:
     category: Works on paper
     title: Art Magazine Ads (Art in America; Arts; Flash Art; and, Art Forum), 1988-9
     info: 1988-9,  Lithograph on paper,  915 x 712 mm
-    year: 1988-9
+    year: "1988"
     credit: |-
       © Jeff Koons
 

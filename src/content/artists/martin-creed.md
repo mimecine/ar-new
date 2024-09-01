@@ -17,7 +17,7 @@ works:
     category: Paintings
     title: Work No. 1102, 2011
     info: 2011,  Acrylic paint on canvas,  610 x 457 mm
-    year: "2011"
+    year: "1102"
     credit: >-
       © Martin Creed
 
@@ -45,7 +45,7 @@ works:
     category: Paintings
     title: Work No. 1103, 2011
     info: 2011, Oil paint on canvas, 610 x 457 mm
-    year: "2011"
+    year: "1103"
     credit: >-
       © Martin Creed
 
@@ -61,7 +61,7 @@ works:
     category: Paintings
     title: Work No. 1104, 2011
     info: 2011,  Acrylic paint on canvas,  610 x 457 mm
-    year: "2011"
+    year: "1104"
     credit: >-
       © Martin Creed
 
@@ -77,7 +77,7 @@ works:
     category: Paintings
     title: Work No. 1105, 2011
     info: 2011,  Acrylic paint on canvas,  610 x 457 mm
-    year: "2011"
+    year: "1105"
     credit: >-
       © Martin Creed
 
@@ -93,7 +93,7 @@ works:
     category: Paintings
     title: Work No. 1340, 2012
     info: 2012, Emulsion on wall, dimensions variable
-    year: "2012"
+    year: "1340"
     credit: |-
       © Martin Creed
 
@@ -119,7 +119,7 @@ works:
     category: Paintings
     title: Work No. 1582, 2013
     info: 2013 , Acrylic and pencil on paper, 36 x 36 cm
-    year: 2013 , Acrylic and pencil on paper, 36 x 36 cm
+    year: "1582"
     credit: |-
       © Martin Creed
 

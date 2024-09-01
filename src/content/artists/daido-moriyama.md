@@ -7,7 +7,7 @@ works:
     category: Photography
     title: Hokkaido 1979, produced 2017
     info: 2017, Slideshow
-    year: "2017"
+    year: "1979"
     credit: |-
       © Daido Moriyama
 

@@ -28,7 +28,7 @@ works:
     category: Works on paper 1980s
     title: December 1984, 1985
     info: 1985,  Mezzotint on paper,  407 x 388 mm
-    year: "1985"
+    year: "1984"
     credit: |-
       © Vija Celmins
 
@@ -246,7 +246,7 @@ works:
     title: Untitled (Web 3), 2002
     info: 2002 , Aquatint with burnishing, scraping and drypoint on paper,  380 x
       482 mm
-    year: "2002 "
+    year: "2002"
     credit: |-
       © Vija Celmins
 

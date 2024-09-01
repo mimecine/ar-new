@@ -7,7 +7,7 @@ type Props = HTMLAttributes<'img'>;
 const { src, alt, title, href, width, widths, sizes, class: className, ...props } = Astro.props;
 
 ---
-    <div class="h-full p-2" >
+    <div class="xh-full" >
         <div class="w-full bg-gray-100 h-64 flex justify-center items-center">
             {src && <Image
                 width={width || undefined}

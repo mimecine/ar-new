@@ -21,7 +21,7 @@ works:
     info: "2000-7,  Organ, radio, telephone, wall clock, grill, kitchen utensils,
       clothes, shoes and other materials,  displayed (internal room dimensions):
       2438 x 1956 x 2667 mm"
-    year: 2000-7
+    year: "2000"
     credit: |-
       © Robert Therrien
 

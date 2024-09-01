@@ -43,9 +43,9 @@
     "typescript": "^5.5.4"
   },
   "devDependencies": {
-    "@iconify-json/material-symbols": "^1.1.89",
-    "@iconify-json/material-symbols-light": "^1.1.29",
-    "@iconify-json/mdi": "^1.1.68",
+    "@iconify-json/material-symbols": "^1.2.0",
+    "@iconify-json/material-symbols-light": "^1.2.0",
+    "@iconify-json/mdi": "^1.2.0",
     "@tailwindcss/forms": "^0.5.8",
     "@tailwindcss/typography": "^0.5.15",
     "concurrently": "^8.2.2",

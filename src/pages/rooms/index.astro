@@ -25,13 +25,13 @@ rooms = rooms
   <main>
     {
       settings.intro && (
-        <section class="intro p-6 pb-12">
+        <section class="intro pb-12">
           <div set:html={marked.parse(settings.intro)} />
         </section>
       )
     }
     <section>
-      <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 justify-between" xclass="flex flex-wrap gap-3 justify-between">
+      <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between" xclass="flex flex-wrap gap-3 justify-between">
         {
           rooms
             .filter((room) => !room.data.hidden)
@@ -61,7 +61,7 @@ rooms = rooms
       </ul>
     </section>    {
       settings.outro && (
-        <section class="outro p-6 pb-12">
+        <section class="outro pb-12">
           <div set:html={marked.parse(settings.outro)} />
         </section>
       )

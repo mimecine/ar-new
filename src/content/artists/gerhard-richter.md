@@ -39,7 +39,7 @@ works:
     title: 48 Portraits,  1971-98
     info: "1971-98,  48 photographs, black and white, on paper between Perspex and
       aluminium board,  each: 688 x 540 x 28 mm"
-    year: 1971-98
+    year: "1971"
     credit: |-
       © Gerhard Richter
 
@@ -49,7 +49,7 @@ works:
     category: Painting
     title: Untitled,  1985
     info: 1985  Oil paint on paper  592 x 853 mm
-    year: 1985  Oil paint on paper  592 x 853 mm
+    year: "1985"
     credit: |-
       © Gerhard Richter
 

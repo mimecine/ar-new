@@ -102,7 +102,7 @@ works:
     category: Works on paper
     title: Über uns der gestirnte Himmel, in uns das moralische Gesetz, 1969/2010
     info: 1969/2010,  Photograph, black and white, on paper with paint,  630 x 832 mm
-    year: 1969/2010
+    year: "1969"
     credit: |-
       © Anselm Kiefer
 
@@ -112,7 +112,7 @@ works:
     category: Works on paper
     title: Das moralische Gesetz in uns, der gestimte Himmel über uns, 1969/2010
     info: 1969/2010,  Photograph, black and white, on paper with paint,  765 x 585 mm
-    year: 1969/2010
+    year: "1969"
     credit: |-
       © Anselm Kiefer
 

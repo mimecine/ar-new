@@ -73,7 +73,7 @@ works:
     title: The Pharmacist's Creed, 1997-8
     info: 1997-8, Lightbox with two sheets of laminated glass in painted metal
       frame, 2700 x 1613 x 100 mm
-    year: 1997-8
+    year: "1997"
     credit: >-
       © Damien Hirst and Science Ltd. All rights reserved, DACS 2015.  Photo:
       Prudence Cuming Associates Ltd
@@ -85,7 +85,7 @@ works:
     category: Painting
     title: Grey Periodic Table, 1997-2004
     info: 1997-2004, Acrylic paint on canvas, 2925 x 4185 x 50 mm
-    year: 1997-2004
+    year: "1997"
     credit: |-
       © Damien Hirst and Science Ltd. All rights reserved, DACS 2015.
 

@@ -8,7 +8,7 @@ works:
     title: Dial H-I-S-T-O-R-Y, Inflight, 1997-2001
     info: 1997-2001,  Video, projection, colour and sound (stereo) and printed
       papers,  overall display dimensions variable
-    year: 1997-2001
+    year: "1997"
     credit: |-
       © Johan Grimonprez
 

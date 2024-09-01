@@ -52,7 +52,7 @@ works:
     category: Works on paper
     title: La mère à couper le cordon, 1986
     info: ""
-    year: ""
+    year: "1986"
     credit: |-
       © The Easton Foundation/Licensed by DACS
 
@@ -85,7 +85,7 @@ works:
     category: Works on paper
     title: The Five Magic Words, 2002
     info: Ink on paper, 25.4 x 25.4 cm
-    year: Ink on paper
+    year: "2002"
     credit: |-
       © The Easton Foundation/Licensed by DACS
 
@@ -95,7 +95,7 @@ works:
     category: Works on paper
     title: Self Portrait, 2003
     info: Fabric, thread and pencil on paper, 52.4 x 34 cm
-    year: Fabric
+    year: "2003"
     credit: |-
       © The Easton Foundation/Licensed by DACS
 
@@ -105,7 +105,7 @@ works:
     category: Works on paper
     title: Key Hole, 2005
     info: ""
-    year: ""
+    year: "2005"
     credit: |-
       © The Easton Foundation/Licensed by DACS
 
@@ -171,7 +171,7 @@ works:
     category: Sculpture
     title: Eyes, 2001-5
     info: 2001-2005,  Pink marble, 229 x 508 x 279 mm
-    year: 2001-2005
+    year: "2001"
     credit: |-
       © The Easton Foundation/Licensed by DACS
 
@@ -219,7 +219,7 @@ works:
     title: À L’Infini,  2008-2009
     info: "2008-2009  Etching and mixed media on paper, suite of 16 parts,  Each
       part: 1016 x 1524 mm"
-    year: 2008-2009  Etching and mixed media on paper
+    year: "2008"
     credit: |-
       © The Easton Foundation/Licensed by DACS
 
@@ -252,7 +252,7 @@ works:
     category: Painting
     title: Untitled, 1946-1947
     info: 1946-1947, Oil on canvas,  66 x 112 cm
-    year: 1946-1947
+    year: "1946"
     credit: |-
       © Louise Bourgeois
 

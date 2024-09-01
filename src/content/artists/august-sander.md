@@ -8,7 +8,7 @@ works:
     title: Der erdgebundene Mensch, 1910
     info: 1910; printed 1953,  Archetypes Portfolio,  Photograph, gelatin silver
       print on paper,  258 x 189 mm
-    year: 1910; printed 1953
+    year: "1910"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -21,7 +21,7 @@ works:
     title: Der Philosoph, 1913
     info: 1913; printed 1953,  Archetypes Portfolio,  Photograph, gelatin silver
       print on paper,  258 x 190 mm
-    year: 1913; printed 1953
+    year: "1913"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -34,7 +34,7 @@ works:
     title: Der Stürmer oder Revoluntionär, 1925
     info: 1925; printed 1953,  Archetypes Portfolio,  Photograph, gelatin silver
       print on paper,  258 x 189 mm
-    year: 1925; printed 1953
+    year: "1925"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -60,7 +60,7 @@ works:
     title: Der erdgebundene Mensch, 1912
     info: 1912; printed 1953,  Archetypes Portfolio,  Photograph, gelatin silver
       print on paper,  258 x 190 mm
-    year: 1912; printed 1953
+    year: "1912"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -73,7 +73,7 @@ works:
     title: Die Philosophin, 1913
     info: 1913; printed 1953,  Archetypes Portfolio,  Photograph, gelatin silver
       print on paper,  259 x 184 mm
-    year: 1913; printed 1953
+    year: "1913"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -86,7 +86,7 @@ works:
     title: Der Stümerin oder Revoluntionärin, 1912
     info: 1912; printed 1953,  The Archetypes Portfolio,  Photograph, gelatin silver
       print on paper,  258 x 190 mm
-    year: 1912; printed 1953
+    year: "1912"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -99,7 +99,7 @@ works:
     title: Die Weise, 1913
     info: 1913; printed 1953,  The Archetypes Portfolio,  Photograph, gelatin silver
       print on paper,  259 x 190 mm
-    year: 1913; printed 1953
+    year: "1913"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -112,7 +112,7 @@ works:
     title: Die Frau im fortgeshrittenen Intellekt, 1914
     info: 1914; printed 1953,  The Archetypes Portfolio,  Photograph, gelatin silver
       print on paper,  258 x 189 mm
-    year: 1914; printed 1953
+    year: "1914"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -125,7 +125,7 @@ works:
     title: Bauernpaar - Zucht und Harmonie, 1912
     info: 1912; printed 1953,  The Archetypes Portfolio,  Photograph, gelatin silver
       print on paper,  258 x 187 mm
-    year: 1912; printed 1953
+    year: "1912"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -138,7 +138,7 @@ works:
     title: Bauernpaar - Zucht und Harmonie, 1912
     info: 1912; printed 1953,  The Archetypes Portfolio,  Photograph, gelatin silver
       print on paper,  259 x 190 mm
-    year: 1912; printed 1953
+    year: "1912"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -151,7 +151,7 @@ works:
     title: Die Familie in der Generation, 1912
     info: 1912; printed 1953,  The Archetypes Portfolio,  Photograph, gelatin silver
       print on paper,  182 x 258 mm
-    year: 1912; printed 1953
+    year: "1912"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -177,7 +177,7 @@ works:
     title: Jungbauer, 1912-13
     info: 1912-13, printed 1990,  Photograph, gelatin silver print on paper,  257 x
       201 mm
-    year: 1912-13
+    year: "1912"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -203,7 +203,7 @@ works:
     title: Farm Children, 1913
     info: c.1913, printed 1991,  Photograph, gelatin silver print on paper,  490 x
       390 x 30 mm
-    year: c.1913
+    year: "1913"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -216,7 +216,7 @@ works:
     title: Farm Girl, 1910
     info: c.1910, printed 1990,  Photograph, gelatin silver print on paper, 490 x
       390 x 30 mm
-    year: c.1910
+    year: "1910"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -242,7 +242,7 @@ works:
     title: Witwe mit ihren Söhnen, c.1921
     info: c.1921, printed 1990,  Photograph, gelatin silver print on paper,  258 x
       190 mm
-    year: c.1921
+    year: "1921"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -255,7 +255,7 @@ works:
     title: Grandmother and Granddaughter, 1911-14
     info: 1911-14, printed 1990,  Photograph, gelatin silver print on paper,  490 x
       390 x 30 mm
-    year: 1911-14
+    year: "1911"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -294,7 +294,7 @@ works:
     title: Bauer bei der Feldarbeit, c.1930
     info: c. 1930, printed 1990,  Photograph, gelatin silver print on paper,  259 x
       198 mm
-    year: c. 1930
+    year: "1930"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -320,7 +320,7 @@ works:
     title: Bauernpaar am Spinnrad, 1925-30
     info: 1925-30, printed 1990,  Photograph, gelatin silver print on paper,  260 x
       186 mm
-    year: 1925-30
+    year: "1925"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -333,7 +333,7 @@ works:
     title: Bauernpaar, c.1932
     info: c.1932, printed 1990,  Photograph, gelatin silver print on paper,  262 x
       187 mm
-    year: c.1932
+    year: "1932"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -398,7 +398,7 @@ works:
     title: Jockey, c.1930
     info: c.1930, printed 1990,  Photograph, gelatin silver print on paper,  258 x
       185 mm
-    year: c.1930
+    year: "1930"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -437,7 +437,7 @@ works:
     title: Schmied, c.1930
     info: c.1930, printed 1990,  Photograph, gelatin silver print on paper,  258 x
       199 mm
-    year: c.1930
+    year: "1930"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -463,7 +463,7 @@ works:
     title: Industrieller, c.1924
     info: c.1924, printed 1990,  Photograph, gelatin silver print on paper,  260 x
       191 mm
-    year: c.1924
+    year: "1924"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -476,7 +476,7 @@ works:
     title: Industrieller, c.1936
     info: c.1936, printed 1990,  Photograph, gelatin silver print on paper,  260 x
       192 mm
-    year: c.1936
+    year: "1936"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -502,7 +502,7 @@ works:
     title: Grobschmiede, 1928
     info: 1926, printed 1990,  Photograph, gelatin silver print on paper,  259 x 199
       mm
-    year: "1926"
+    year: "1928"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -553,7 +553,7 @@ works:
     title: Geistearbeiter des Proletariats, c.1925
     info: c.1925, printed 1990,  Photograph, gelatin silver print on paper,  258 x
       207 mm
-    year: c.1925
+    year: "1925"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -579,7 +579,7 @@ works:
     title: Ingenieur und Werbeleiter, c.1925
     info: c.1925, printed 1990,  Photograph, gelatin silver print on paper,  259 x
       208 mm
-    year: c.1925
+    year: "1925"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -592,7 +592,7 @@ works:
     title: Lackarbeiter, c.1930
     info: c.1930, printed 1990,  Photograph, gelatin silver print on paper,  260 x
       190 mm
-    year: c.1930
+    year: "1930"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -618,7 +618,7 @@ works:
     title: The Painter Otto Dix and his Wife Martha, 1925/6
     info: 1925/6, printed 1991,  Photograph, gelatin silver print on paper,  490 x
       390 x 30 mm
-    year: 1925/6
+    year: "1925"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -631,7 +631,7 @@ works:
     title: Malerehepaar [Marta Hegemann und Anton Räderscheidt], c.1925
     info: c.1925, printed 1990,  Photograph, gelatin silver print on paper,  261 x
       155 mm
-    year: c.1925
+    year: "1925"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -644,7 +644,7 @@ works:
     title: Mutter und Sohn, 1925-30
     info: 1925-30, printed 1990,  Photograph, gelatin silver print on paper,  258 x
       195 mm
-    year: 1925-30
+    year: "1925"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -670,7 +670,7 @@ works:
     title: Dorfpfarrer mit Familie, 1920-5
     info: 1920-5, printed 1990,  Photograph, gelatin silver print on paper,  251 x
       224 mm
-    year: 1920-5
+    year: "1920"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -709,7 +709,7 @@ works:
     title: Frau eines Malers [Helene Abelen], 1926
     info: c.1926, printed 1994,  Photograph, gelatin silver print on paper,  257 x
       187 mm
-    year: c.1926
+    year: "1926"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -799,7 +799,7 @@ works:
     title: Philosoph [Max Scheler], c.1925
     info: c.1925, printed 1990,  Photograph, gelatins ilver print on paper,  258 x
       188 m
-    year: c.1925
+    year: "1925"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -812,7 +812,7 @@ works:
     title: Staatsanwalt, c.1931
     info: c.1931, printed 1990,  Photograph, gelatin silver print on paper,  252 x
       207 mm
-    year: c.1931
+    year: "1931"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -890,7 +890,7 @@ works:
     title: Rechtsanwalt und Kunstsammler [Josef Haubrich], 1931
     info: c.1931, printed 1990,  Photograph, gelatin silver print on paper,  255 x
       185 mm
-    year: c.1931
+    year: "1931"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -903,7 +903,7 @@ works:
     title: Soldat, 1940
     info: c.1940, printed 1990,  Photograph, gelatin silver print on paper,  259 x
       190 mm
-    year: c.1940
+    year: "1940"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -916,7 +916,7 @@ works:
     title: Unteroffizier, 1944
     info: c.1944, printed 1990,  Photograph, gelatin silver print on paper,  258 x
       191 mm
-    year: c.1944
+    year: "1944"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -929,7 +929,7 @@ works:
     title: Nationalsozialist, 1937/8
     info: 1937/8, printed 1990,  Photograph, gelatin silver print on paper, 258 x
       154 mm
-    year: 1937/8
+    year: "1937"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -945,7 +945,7 @@ works:
     title: Nationalsozialist, c.1935
     info: c.1935, printed 1990,  Photograph, gelatin silver print on paper, 252 x
       188 mm
-    year: c.1935
+    year: "1935"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -958,7 +958,7 @@ works:
     title: Member of the Hitler Youth, 1941
     info: c.1941, printed 1990,  Photograph, gelatin silver print on paper, 259 x
       185 mm
-    year: c.1941
+    year: "1941"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -1000,7 +1000,7 @@ works:
     title: National Socialist, Head of Department of Culture, c.1937
     info: 1938, printed 1990,  Photograph, gelatin silver print on paper, 160 x 192
       mm
-    year: "1938"
+    year: "1937"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -1013,7 +1013,7 @@ works:
     title: Kolonial - und Farbwarenhändler, c.1929
     info: c.1929, printed 1990,  Photograph, gelatin silver print on paper, 262 x
       188 mm
-    year: c.1929
+    year: "1929"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -1026,7 +1026,7 @@ works:
     title: Großherzog [Ernst Ludwig von Hessen und bei Rhein], c.1930
     info: c.1930, printed 1990,  Photograph, gelatin silver print on paper, 258 x
       193 mm
-    year: c.1930
+    year: "1930"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -1052,7 +1052,7 @@ works:
     title: Frau Pastor, c.1920
     info: c.1920, printed 1990,  Photograph, gelatin silver print on paper, 258 x
       198 mm
-    year: c.1920
+    year: "1920"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -1088,7 +1088,7 @@ works:
     title: Jungelehrer, c.1928
     info: c.1928, printed 1990,  Photograph, gelatin silver print on paper, 258 x
       192 mm
-    year: c.1928
+    year: "1928"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -1167,7 +1167,7 @@ works:
     title: Schrifsteller und Theaterkritiker [Franz Paul Brückner], c.1926
     info: c.1926, printed 1990,  Photograph, gelatin silver print on paper, 260 x
       194 mm
-    year: c.1926
+    year: "1926"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -1180,7 +1180,7 @@ works:
     title: Fahrender Komödiant, 1928-30
     info: 1928-30, printed 1990,  Photograph, gelatin silver print on paper, 257 x
       177 mm
-    year: 1928-30
+    year: "1928"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -1219,7 +1219,7 @@ works:
     title: Maler und Bildhauer [Otto Freundlich], c.1925
     info: c.1925, printed 1990,  Photograph, gelatin silver print on paper, 260 x
       188 mm
-    year: c.1925
+    year: "1925"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014
@@ -1297,7 +1297,7 @@ works:
     title: Composer [Paul Hindemith], c.1925
     info: c.1925, printed 1990,  Photograph, gelatin silver print on paper, 259 x
       181 mm
-    year: c.1925
+    year: "1925"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
       Cologne; DACS, London, 2014

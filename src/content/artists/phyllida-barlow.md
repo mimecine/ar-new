@@ -19,7 +19,7 @@ works:
     title: "untitled: brokenstage/hangingcontainer, 2012/2013"
     info: 2012/2013, Softwood, hardboard, plywood, PVA, sand, cement, paint, metal
       and rubber, 122 x 493 x 230 cm
-    year: 2012/2013
+    year: "2012"
     credit: |-
       © Phyllida Barlow
 
@@ -51,7 +51,7 @@ works:
     category: Painting
     title: "untitled: black 2, 2014/2015"
     info: 2014/2015, Acrylic paint on paper 56 x 76.5 cm
-    year: 2014/2015
+    year: "2014"
     credit: |-
       © Phyllida Barlow
 

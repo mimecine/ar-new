@@ -68,7 +68,7 @@ works:
     category: Works on paper
     title: There’s No Job Too Small, 1975
     info: 1975. Lithograph on white Arches paper, 76 x 56 cm, No. 14/20
-    year: 1975. Lithograph on white Arches paper
+    year: "1975"
     credit: |-
       © Ed Ruscha
 
@@ -109,7 +109,7 @@ works:
     category: Works on paper
     title: SMELLS LIKE BACK OF OLD HOT RADIO, 1975
     info: 1976,  Pastel on paper,  587 x 740 mm
-    year: "1976"
+    year: "1975"
     credit: |-
       © Ed Ruscha
 

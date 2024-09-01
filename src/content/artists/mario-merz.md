@@ -17,7 +17,7 @@ works:
     category: Sculpture
     title: Che Fare?, 1968-73
     info: 1968-73,  Aluminium, wax and neon lights,  125 x 668 x 191 mm
-    year: 1968-73
+    year: "1968"
     credit: |-
       © The estate of Mario Merz
 

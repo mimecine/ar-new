@@ -89,7 +89,7 @@ c.queue([
                           .pop().toUpperCase();
                         const title = $("h2", el).first().text();
                         const info = $("p.info", el).first().text();
-                        const year = info.replace(/,.*$/, "");
+                        const year = [title,info].join().match(/\d{4}/)?.slice(0)[0]; 
                         const credit = $(".details p", el)
                           .map(function () {
                             return $(this).text();

@@ -258,7 +258,7 @@ works:
     category: Painting
     title: Conversation, 2004
     info: 2004. Oil on canvas, 9.5 x 30.5 cm
-    year: 2004. Oil on canvas
+    year: "2004"
     credit: |-
       © Alex Katz
 

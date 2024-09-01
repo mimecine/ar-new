@@ -7,7 +7,7 @@ works:
     category: Sculpture
     title: "Wall Drawing #1136, 2004"
     info: 2004,  Paint on wall,  Overall display dimensions variable
-    year: "2004"
+    year: "1136"
     credit: |-
       © Sol LeWitt
 

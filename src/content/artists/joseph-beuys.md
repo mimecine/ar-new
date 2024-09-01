@@ -7,7 +7,7 @@ works:
     category: Sculpture
     title: Langhaus, 1953-62
     info: 1953-62,  Wood, glass, felt, oil paint and paper,  1830 x 1545 x 640 mm
-    year: 1953-62
+    year: "1953"
     credit: |-
       © DACS, 2014
 
@@ -17,7 +17,7 @@ works:
     category: Sculpture
     title: Hirschdenkmal, 1958-65
     info: 1958-65,  Wood, iron and copper,  925 x 1280 x 2575 mm
-    year: 1958-65
+    year: "1958"
     credit: |-
       © DACS, 2014
 
@@ -27,7 +27,7 @@ works:
     category: Sculpture
     title: Tisch mit Aggregat, 1958-65
     info: 1958-85,  Wood, accumulator, clay and wire, 985 x 580 x 565 cm
-    year: 1958-85
+    year: "1958"
     credit: |-
       © DACS, 2014
 
@@ -48,7 +48,7 @@ works:
     title: Fettstuhl, 1964-85
     info: 1964-85,  Wood, glass, metal, fabric, paint, fat and thermometer,  1830 x
       1550 x 640 mm
-    year: 1964-85
+    year: "1964"
     credit: |-
       © DACS, 2014
 
@@ -68,7 +68,7 @@ works:
     category: Sculpture
     title: Damp Value, 1964-75
     info: 1964-75,  Graphite on paper, paint on glass and wire,  811 x 591 x 31 mm
-    year: 1964-75
+    year: "1964"
     credit: |-
       © DACS, 2014
 
@@ -108,7 +108,7 @@ works:
     category: Sculpture
     title: Hases Blut, 1974-7
     info: 1974-7,  Graphite, blood and stamp on aluminium plate,  795 x 1077 x 51 mm
-    year: 1974-7
+    year: "1974"
     credit: |-
       © DACS, 2014
 
@@ -128,7 +128,7 @@ works:
     category: Photography
     title: Zeige deine Wunde, 1977-84
     info: 1977-84,  Photographic negative,  327 x 450 mm
-    year: 1977-84
+    year: "1977"
     credit: |-
       © DACS, 2014
 
@@ -212,7 +212,7 @@ works:
     category: Photography
     title: Coyote I, 1980
     info: 1980  Photograph, black and white, on canvas with oil paint  452 x 702 mm
-    year: 1980  Photograph
+    year: "1980"
     credit: |-
       © DACS, 2014  
 
@@ -252,7 +252,7 @@ works:
     category: Works on paper 1945 - 1953
     title: Dove, Food, Rainbow, 1949
     info: 1949  Graphite and watercolour on card  207 x 297 mm
-    year: 1949  Graphite and watercolour on card  207 x 297 mm
+    year: "1949"
     credit: |-
       © DACS, 2014
 
@@ -292,7 +292,7 @@ works:
     category: Works on paper 1945 - 1953
     title: Weird Sister, 1953-62
     info: 1953-62,  Graphite and oil paint on acetate,  391 x 474 mm
-    year: 1953-62
+    year: "1953"
     credit: |-
       © DACS, 2014
 
@@ -312,7 +312,7 @@ works:
     category: Works on paper 1945 - 1953
     title: The Centrifugal Forces of the Mountains, 1953
     info: 1953  Graphite on paper, 3 parts  286 x 210 mm
-    year: 1953  Graphite on paper
+    year: "1953"
     credit: |-
       © DACS, 2014
 
@@ -364,7 +364,7 @@ works:
     category: Works on paper 1954 - 1956
     title: 2 rote Fische, 1954
     info: 1954  Watercolour on paper  399 x 466 mm
-    year: 1954  Watercolour on paper  399 x 466 mm
+    year: "1954"
     credit: |-
       © DACS, 2014
 
@@ -374,7 +374,7 @@ works:
     category: Works on paper 1954 - 1956
     title: Aus dem Leben der Bienen, 1954
     info: 1954  Watercolour on paper  502 x 685 mm
-    year: 1954  Watercolour on paper  502 x 685 mm
+    year: "1954"
     credit: |-
       © DACS, 2014
 
@@ -384,7 +384,7 @@ works:
     category: Works on paper 1954 - 1956
     title: Badezimmer der Circe, 1954-8
     info: 1954-8  Watercolour and gold paint on paper and board  213 x 304 mm
-    year: 1954-8  Watercolour and gold paint on paper and board  213 x 304 mm
+    year: "1954"
     credit: |-
       © DACS, 2014
 
@@ -404,7 +404,7 @@ works:
     category: Works on paper 1954 - 1956
     title: Untitled, 1955
     info: 1955  Leaf and lime on cardboard  302 x 244 mm
-    year: 1955  Leaf and lime on cardboard  302 x 244 mm
+    year: "1955"
     credit: |-
       © DACS, 2014
 
@@ -414,7 +414,7 @@ works:
     category: Works on paper 1954 - 1956
     title: Actress, 1956
     info: 1956  Crayon and watercolour on paper  252 x 200 mm
-    year: 1956  Crayon and watercolour on paper  252 x 200 mm
+    year: "1956"
     credit: |-
       © DACS, 2014
 
@@ -445,7 +445,7 @@ works:
     title: Brightly-Lit Stag Chair, 1957-71
     info: 1957-71,  2 works on paper, oil paint, graphite and masking tape,  1390 x
       963 mm
-    year: 1957-71
+    year: "1957"
     credit: |-
       © DACS, 2014
 
@@ -545,7 +545,7 @@ works:
     category: Works on paper 1957 - 1958
     title: Jungfrau (Holz), 1958
     info: 1958  Oil paint on paper  180 x 237 mm
-    year: 1958  Oil paint on paper  180 x 237 mm
+    year: "1958"
     credit: |-
       © DACS, 2014
 
@@ -565,7 +565,7 @@ works:
     category: Works on paper 1957 - 1958
     title: Untitled, 1958
     info: 1958  Oil and collage on paper  210 x 297 mm
-    year: 1958  Oil and collage on paper  210 x 297 mm
+    year: "1958"
     credit: |-
       © DACS, 2014
 
@@ -597,7 +597,7 @@ works:
     title: Untitled, 1959-60
     info: 1959-60,  Graphite and oil paint on paper mounted between Perspex in zinc
       frame,  200 x 292 mm
-    year: 1959-60
+    year: "1959"
     credit: |-
       © DACS, 2014
 
@@ -607,7 +607,7 @@ works:
     category: Works on paper 1959 - 1961
     title: Untitled, 1959
     info: 1959  Graphite, oil paint and typescript on paper  210 x 297 mm
-    year: 1959  Graphite
+    year: "1959"
     credit: |-
       © DACS, 2014
 
@@ -647,7 +647,7 @@ works:
     category: Works on paper 1959 - 1961
     title: 2 Schafsköpfe, 1961-75
     info: 1961-75,  2 works on paper, oil paint and fat,  755 x 774 mm
-    year: 1961-75
+    year: "1961"
     credit: |-
       © DACS, 2014
 
@@ -772,7 +772,7 @@ works:
     title: Runrig, 1962-72
     info: "1962-72,  3 works on paper, oil paint, on board,  support (upper): 197 x
       161 mm support (centre): 197 x 174 mm support (lower): 197 x 197 m"
-    year: 1962-72
+    year: "1962"
     credit: |-
       © DACS, 2014
 
@@ -814,7 +814,7 @@ works:
     info: "1963-4,  4 works on printed paper, oil paint,  support (upper left): 292
       x 407 mm support (lower left): 296 x 408 mm support (centre): 304 x 225 mm
       support (right): 575 x 402 mm"
-    year: 1963-4
+    year: "1963"
     credit: |-
       © DACS, 2014
 
@@ -927,7 +927,7 @@ works:
     category: Works on paper 1962 - 1964
     title: Motor 4, 1964-80
     info: 1964-80,  Mixed media,  344 x 184 mm
-    year: 1964-80
+    year: "1964"
     credit: |-
       © DACS, 2014
 
@@ -947,7 +947,7 @@ works:
     category: Works on paper 1962 - 1964
     title: Naturgeschichte, 1964-82
     info: 1964-82,  Household paint, shellac and sand on board,  333 x 366 mm
-    year: 1964-82
+    year: "1964"
     credit: |-
       © DACS, 2014
 
@@ -1038,7 +1038,7 @@ works:
     category: Works on paper 1965 - 1967
     title: Partitur für Manresa, 1966
     info: 1966 , Paper and graphite on paper,  209 x 296 mm
-    year: "1966 "
+    year: "1966"
     credit: |-
       © DACS, 2014
 
@@ -1089,7 +1089,7 @@ works:
     category: Works on paper 1965 - 1967
     title: Object for MANRESA, 1966
     info: 1966  Cardboard and string  447 x 311 mm
-    year: 1966  Cardboard and string  447 x 311 mm
+    year: "1966"
     credit: |-
       © DACS, 2014
 
@@ -1286,7 +1286,7 @@ works:
     category: Works on paper 1977 - 1985
     title: Ausruf, 1978-83
     info: 1978-83,  Oil paint and ink on printed paper,  479 x 199 mm
-    year: 1978-83
+    year: "1978"
     credit: |-
       © DACS, 2014
 
@@ -1317,7 +1317,7 @@ works:
     category: Works on paper 1977 - 1985
     title: Drawing for Domenica delle Palme vitrine, 1981-5
     info: 1981-5,  Graphite on paper,  210 x 296 mm
-    year: 1981-5
+    year: "1981"
     credit: |-
       © DACS, 2014
 
