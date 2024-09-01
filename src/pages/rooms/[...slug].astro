@@ -28,7 +28,6 @@ for (let i = 0; i < grid_tail_size.length; i++) {
   grid_tail_size[i] = i;
 }
 ---
-
 <Main
   title={room.data.title.replace(/,[^,]+$/, "")}
   x-data="{open: false}"
@@ -39,9 +38,9 @@ for (let i = 0; i < grid_tail_size.length; i++) {
         <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 justify-between">
           {
             room.data.images?.map((image, i) => (
-              <li
+              <li class="thb" data-index={i}
                 x-data={`{slide:'slide${i}'}`}
-                @click.prevent="document.getElementById(slide).scrollIntoView({behavior:'instant'}); $refs.dialog.showModal();  open=!open;">
+                @click.prevent="$refs.dialog.showModal();$refs[slide].scrollIntoView({behavior:'instant'});   open=!open;">
                 <Thumbnail
                   src={image}
                   alt={room.data.title}
@@ -106,7 +105,7 @@ for (let i = 0; i < grid_tail_size.length; i++) {
     <button
       @click="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider;  $refs.slider.scrollBy({left: -clientWidth, behavior:'smooth'});"
       @keyup.left.window="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: -clientWidth, behavior:'smooth'});"
-      class="hidden lg:visible absolute left-0 top-1/2 leading-none focus-visible:outline-none z-10"
+      class="invisible lg:visible absolute left-0 top-1/2 leading-none focus-visible:outline-none z-10"
       ><Icon
         name="material-symbols-light:chevron-left"
         class="size-6 lg:size-12"
@@ -115,7 +114,7 @@ for (let i = 0; i < grid_tail_size.length; i++) {
     <button
       @click="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: clientWidth, behavior:'smooth'});"
       @keyup.right.window="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: clientWidth, behavior:'smooth'});"
-      class="hidden lg:visible absolute right-0 top-1/2 leading-none focus-visible:outline-none z-10"
+      class="invisible lg:visible absolute right-0 top-1/2 leading-none focus-visible:outline-none z-10"
       ><Icon
         name="material-symbols-light:chevron-right"
         class="size-6 lg:size-12"

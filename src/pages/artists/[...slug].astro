@@ -65,13 +65,12 @@ const films = all_films.filter((film) =>
 
       <div>
         {sortedWorks.length && <h2 class="py-6">Works</h2>}
-        <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 justify-between" xclass="flex flex-wrap gap-3 justify-between">
+        <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 justify-between">
           {
             sortedWorks.map((work, i) => (
               <li
                 x-data={`{slide:'slide${i}'}`}
-                xclass="w-full md:w-1/3 lg:w-1/4 xl:w-1/5 xxl:w-1/6 p-0 md:p-4"
-                @click.prevent="document.getElementById(slide).scrollIntoView({behavior:'instant'}); $refs.dialog.showModal();  open=!open;">
+                @click.prevent="$refs.dialog.showModal();$refs[slide].scrollIntoView({behavior:'instant'});   open=!open;">
                 <Thumbnail src={work.src} alt={work.title} title={work.title}>
                   <div class="h-full">
                     {work.title && <h5 class="text-balance">{work.title}</h5>}
