@@ -89,31 +89,34 @@ const films = all_films.filter((film) =>
           aria-modal="true">
           <div
             x-ref="slider"
-            class="flex overflow-x-scroll items-start h-full snap-x snap-mandatory scroll-smooth">
+            @scrollend="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider;$refs.button_prev.classList.toggle('opacity-10',scrollLeft === 0); $refs.button_next.classList.toggle('opacity-10',scrollLeft+clientWidth === scrollWidth);"
+            class="flex overflow-x-scroll items-start h-full snap-x snap-mandatory scroll-smooth select-none">
             <button
               @click="$refs.dialog.close(); open=!open;"
               class="absolute leading-none right-2 top-2 focus-visible:outline-none z-10"
               ><Icon
                 name="material-symbols-light:close"
-                class="size-6 lg:size-12"
+                class="size-12 lg:size-12"
               /></button
             >
             <button
+              x-ref="button_prev"
               @click="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider;  $refs.slider.scrollBy({left: -clientWidth, behavior:'smooth'});"
               @keyup.left.window="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: -clientWidth, behavior:'smooth'});"
-              class="absolute left-0 top-1/2 leading-none focus-visible:outline-none z-10"
+              class="absolute left-0 top-1/2 leading-none focus-visible:outline-none z-10 opacity-10 invisible md:visible"
               ><Icon
                 name="material-symbols-light:chevron-left"
-                class="size-6 lg:size-12"
+                class="size-8 lg:size-20"
               /></button
             >
             <button
+              x-ref="button_next"
               @click="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: clientWidth, behavior:'smooth'});"
               @keyup.right.window="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: clientWidth, behavior:'smooth'});"
-              class="absolute right-0 top-1/2 leading-none focus-visible:outline-none z-10"
+              class="absolute right-0 top-1/2 leading-none focus-visible:outline-none z-10 invisible md:visible"
               ><Icon
                 name="material-symbols-light:chevron-right"
-                class="size-6 lg:size-12"
+                class="size-8 lg:size-20"
               /></button
             >
 

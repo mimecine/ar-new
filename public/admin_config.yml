@@ -156,7 +156,6 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: Image, name: image, widget: image }
       - { label: "Layout", name: "layout", widget: "hidden", default: "../layouts/Page.astro"}
       - { label: "Hidden", name: "hidden", widget: "boolean", default: false }
       - { label: "Body", name: "body", widget: "markdown" }
