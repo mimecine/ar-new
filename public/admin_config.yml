@@ -150,6 +150,7 @@ collections:
     name: "pages"
     preview_path: "{{slug}}"
     folder: "src/pages"
+    public_folder: ../media
     create: true
     editor:
       preview: true

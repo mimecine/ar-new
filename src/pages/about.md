@@ -1,6 +1,6 @@
 ---
 title: About
-image: /src/media/jannis-kounellis-ar00072-untitled-1993.webp
+image: ../media/jannis-kounellis-ar00072-untitled-1993.webp
 layout: ../layouts/Page.astro
 hidden: false
 artists:
@@ -8,7 +8,9 @@ artists:
 rooms:
   - jannis-kounellis-london-tate-modern
 ---
- ARTIST ROOMS gives young people across the UK the chance to get involved in creative projects, discover more about art and artists, and learn new skills.
+![A starry night sky.](../media/jannis-kounellis-ar00072-untitled-1993.webp)
+
+ARTIST ROOMS gives young people across the UK the chance to get involved in creative projects, discover more about art and artists, and learn new skills.
 
 The ARTIST ROOMS programme and collection is managed by Tate and National Galleries of Scotland with the support of Art Fund, Henry Moore Foundation and using public funding by the National Lottery through Arts Council England and Creative Scotland. Its founding collection was established through The d'Offay Donation in 2008 with the assistance of the National Heritage Memorial Fund, Art Fund and the Scottish and British Governments.
 
