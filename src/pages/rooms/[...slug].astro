@@ -122,7 +122,7 @@ for (let i = 0; i < grid_tail_size.length; i++) {
   <div
     x-ref="slider"
     @scrollend="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider;$refs.button_prev.classList.toggle('opacity-10',scrollLeft === 0); $refs.button_next.classList.toggle('opacity-10',scrollLeft+clientWidth === scrollWidth);"
-    class="flex overflow-x-scroll items-start h-full snap-x snap-mandatory scroll-smooth select-none">
+    class="flex overflow-x-scroll items-start h-full snap-x snap-mandatory scroll-smooth select-text">
             <button
               @click="$refs.dialog.close(); open=!open;"
               class="absolute leading-none right-2 top-2 focus-visible:outline-none z-10"
