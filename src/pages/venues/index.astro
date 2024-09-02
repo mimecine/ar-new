@@ -27,7 +27,7 @@ const artists = await getCollection("artists");
                 .sort((a, b) => { return a.data.startdate - b.data.startdate; })
                 .map(room => (
                   <a class="room" href={`/rooms/${room.slug}`}>
-                     {room.data.title.replace(/,[^,]+$/,'')} <span class="italic text-sm">({room.data.startdate.getFullYear()})</span> ;
+                     {room.data.title.replace(/,[^,]+$/,'')}&nbsp;<span class="italic text-sm">({room.data.startdate.getFullYear()})</span>&nbsp;;
                   </a>
                   ))}
           </li>
