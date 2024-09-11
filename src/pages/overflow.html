@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      div {
+        outline: 1px solid black;
+        overflow: hidden;
+        width: 300px;
+        padding: 1em;
+        margin: 1em;
+      }
+      .frame {
+        height: 200px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="one" class="frame" data-flow-into="two">
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia, modi ad
+      ex, dolore laboriosam quis eius animi voluptatem id in odit. Temporibus,
+      quas! Quod itaque iure voluptates neque ex a. Lorem, ipsum dolor sit amet
+      consectetur adipisicing elit. Quia, modi ad ex, dolore laboriosam quis
+      eius animi voluptatem id in odit. Temporibus, quas! Quod itaque iure
+      voluptates neque ex a. Lorem, ipsum dolor sit amet consectetur adipisicing
+      elit. Quia, modi ad ex, dolore laboriosam quis eius animi voluptatem id in
+      odit. Temporibus, quas! Quod itaque iure voluptates neque ex a. Lorem,
+      ipsum dolor sit amet consectetur adipisicing elit. Quia, modi ad ex,
+      dolore laboriosam quis eius animi voluptatem id in odit. Temporibus, quas!
+      Quod itaque iure voluptates neque ex a.
+
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia, modi ad
+      ex, dolore laboriosam quis eius animi voluptatem id in odit. Temporibus,
+      quas! Quod itaque iure voluptates neque ex a. Lorem, ipsum dolor sit amet
+      consectetur adipisicing elit. Quia, modi ad ex, dolore laboriosam quis
+      eius animi voluptatem id in odit. Temporibus, quas! Quod itaque iure
+      voluptates neque ex a. Lorem, ipsum dolor sit amet consectetur adipisicing
+      elit. Quia, modi ad ex, dolore laboriosam quis eius animi voluptatem id in
+      odit. Temporibus, quas! Quod itaque iure voluptates neque ex a. Lorem,
+      ipsum dolor sit amet consectetur adipisicing elit. Quia, modi ad ex,
+      dolore laboriosam quis eius animi voluptatem id in odit. Temporibus, quas!
+      Quod itaque iure voluptates neque ex a.
+
+    </div>
+    <div id="two" class="frame" data-flow-into="three"></div>
+    <div id="three" class="frame" data-flow-into="four"></div>
+    <div id="four" class="frame"></div>
+  </body>
+  <script>
+    function isVisible(text, element) {
+      let rect = element.getBoundingClientRect();
+      let testElement = element.cloneNode(true);
+      testElement.innerText = text;
+      testElement.style.visibility = "hidden";
+      testElement.style.height = "initial";
+      testElement.style.overflow = "auto";
+
+      element.parentNode.insertBefore(testElement, element);
+      let testRect = testElement.getBoundingClientRect();
+      document.body.removeChild(testElement);
+
+      return testRect.height < rect.height;
+    }
+
+    document.querySelectorAll("[data-flow-into]").forEach((element) => {
+      let next = document.querySelector("#" + element.dataset.flowInto);
+      let words = element.innerText.split(" ");
+      let index = 1;
+      while (
+        index <= words.length &&
+        isVisible(words.slice(0, index).join(" "), element)
+      ) {
+        index++;
+      }
+      element.innerText = words.slice(0, index-1 ).join(" ");
+
+      if (next && index-1 < words.length) {
+        next.innerText = words.slice(index-1).join(" ");
+        console.log(next.dataset.flowInto, words.length);
+      } else {
+      }
+    });
+  </script>
+</html>
