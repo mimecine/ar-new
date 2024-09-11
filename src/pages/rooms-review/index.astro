@@ -1,7 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import { Image } from "astro:assets";
-import Main from "../../layouts/Main.astro";
+import MainReview from "../../layouts/MainReview.astro";
 import FormattedDate from "../../components/FormattedDate.astro";
 import Thumbnail from "../../components/Thumbnail.astro";
 
@@ -21,7 +21,7 @@ rooms = rooms
   });
 ---
 
-<Main title="The Rooms / James Review">
+<MainReview title="The Rooms / James Review">
   <main>
     {
       settings.intro && (
@@ -68,5 +68,5 @@ rooms = rooms
     }
 
   </main>
-</Main>
+</MainReview>
 <style is:global> :root * { @apply !text-red-700} </style>
