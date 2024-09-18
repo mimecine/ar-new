@@ -22,7 +22,7 @@ const artist = Astro.props;
 
 let sortedWorks = artist.data.works
 .sort((a, b) => {
-  return b.category.toLowerCase() == 'sculpture' ? 1:0 || a.category.localeCompare(b.category) ||  a.year - b.year || a.title.split(",").pop().localeCompare(b.title.split(",").pop());
+  return b.category.toLowerCase() == 'sculpture' ? 1:0 || b.category.toLowerCase() == 'painting' ? 1:0 || a.category.localeCompare(b.category) ||  a.year - b.year || a.title.split(",").pop().localeCompare(b.title.split(",").pop());
 }); // needs mod to sort by year
 
 const { Content } = await artist.render();
@@ -42,9 +42,9 @@ const films = all_films.filter((film) =>
 ---
 
 <Main title={`${artist.data.title}`} x-data="{ open: false }">
-  <main>
+  <main class="">
     <section>
-      <div class="flex flex-wrap">
+      <div class="flex flex-wrap pb-12">
         <div class="md:w-1/2 xpx-4">
           {
             artist.data.featuredImage && (
@@ -64,18 +64,35 @@ const films = all_films.filter((film) =>
       </div>
 
       <div>
-        {sortedWorks.length > 0 && <h2 class="py-6">Works</h2>}
+        {sortedWorks.length > 0 && (
+        <div class="flex flex-row gap-4 items-baseline">
+          <h2 id="works">Works</h2>
+        <>{rooms.length > 0 && (<h2 class="xpy-6 text-2xl"><a href="#rooms">Rooms</a></h2>)}</>
+        <>{films.length > 0 && <h2 class="xpy-6 text-2xl"><a href="#films">Films</a></h2>}</>
+      </div>
+
+        <div class="xtext-sm pb-6">
+          {sortedWorks.map(w => w.category).filter((value, index, array) => array.indexOf(value) === index).map((category,i,arr) => (
+            <>{ i !== 0 && <span> / </span>}</>
+            <>{ arr.length > 1 && <a href={`#${category}`} class="cursor-pointer hover:italic"> 
+              {category}
+            </a>}</>
+
+            ))}
+        </div>
+        )}
         <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between">
           {
             sortedWorks.map((work, i) => (
-              <li class="cursor-pointer"
+              <li class="cursor-pointer" id={work.category}
                 x-data={`{slide:'slide${i}'}`}
-                @click.prevent="$refs.dialog.showModal();$refs[slide].scrollIntoView({behavior:'instant'});   open=!open;">
-                <Thumbnail src={work.src} alt={work.title} title={work.title}>
+                @click="$refs.dialog.showModal();$refs[slide].scrollIntoView({behavior:'instant'}); open=!open;">
+                <a href={`#[${i}]${work.title}`} id={`[${i}]${work.title}`}><Thumbnail src={work.src} alt={work.title} title={work.title} data-category={work.category}>
                   <div class="h-full">
                     {work.title && <h5 class="text-balance">{work.title}</h5>}
+                    <p class="text-sm my-[-0.5rem] italic">{work.category}</p>
                   </div>
-                </Thumbnail>
+                </Thumbnail></a>
               </li>
             ))
           }
@@ -144,7 +161,7 @@ const films = all_films.filter((film) =>
                   </div>
                   <div class="absolute bottom-0 p-2 items-center justify-evenly w-full grid md:grid-flow-col gap-x-8">
                     <div class="font-normal">{work.title}</div>
-                    <div class="text-gray-400">{work.category}: {work.info}</div>
+                    <div class="text-gray-400">{work.info}</div>
                     {/* <div class="italic text-gray-400">{work.credit.replace(new RegExp(work.inventorynumber,"i"),'')}</div> */}
                     <div class="italic text-gray-400">
                       {work.credit.split("\n")[0]}
@@ -161,7 +178,12 @@ const films = all_films.filter((film) =>
         </dialog>
 
         <div>
-          {rooms.length > 0 && <h2 class="py-6">Rooms</h2>}
+          {rooms.length > 0 && 
+          <div class="flex flex-row gap-4 items-baseline">
+            <h2 class="py-6 " id="rooms">Rooms</h2>
+            <>{sortedWorks.length > 0 && (<h2 class="py-6 text-2xl"><a href="#works">Works</a></h2>)}</>
+            <>{films.length > 0 && <h2 class="py-6 text-2xl"><a href="#films">Films</a></h2>}</>
+        </div> }
 
           <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between">
             {rooms
@@ -198,10 +220,14 @@ const films = all_films.filter((film) =>
           </ul>
         </div>
 
-        {films.length > 0 && (
             <div>
-              <h2 class="py-6">Films</h2>
-              <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between">
+          {films.length > 0 && 
+          <div class="flex flex-row gap-4 items-baseline">
+            <h2 class="py-6 " id="films">Films</h2>
+            <>{sortedWorks.length > 0 && (<h2 class="py-6 text-2xl"><a href="#works">Works</a></h2>)}</>
+            <>{films.length > 0 && <h2 class="py-6 text-2xl"><a href="#rooms">Rooms</a></h2>}</>
+          </div> }
+            <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between">
                 {films.map((film) => (
                   <li class="film cursor-pointer">
                     <Video
@@ -218,9 +244,25 @@ const films = all_films.filter((film) =>
                 ))}
               </ul>
             </div>
-          )
-        }
       </div>
     </section>
   </main>
 </Main>
+<style>
+  html {
+    @apply scroll-smooth focus:outline-none active:outline-none;
+  }
+  h2[id] {
+    @apply scroll-m-12 lg:scroll-m-20;
+  }
+  li[id], a[id] {
+    @apply scroll-m-32 lg:scroll-m-52
+  }
+  a:target {
+    @apply block animate-pulse ;
+    animation-iteration-count: 3;
+  }
+  :focus, :active {
+    @apply outline-gray-400;
+  }
+</style>
