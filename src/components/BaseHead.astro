@@ -49,11 +49,11 @@ const { title, description, image = "/logo-lg.png" } = Astro.props;
   }
 </style>
 <script>
-  import Alpine from "alpinejs";
-  document.addEventListener("astro:after-preparation", () => {
+  // import Alpine from "alpinejs";
+  document.addEventListener("xastro:after-preparation", () => {
     Alpine.stopObservingMutations();
   });
-  document.addEventListener("astro:page-load", () => {
+  document.addEventListener("xastro:page-load", () => {
     document.dispatchEvent(new Event("alpine:init"));
     Alpine.initTree(document.documentElement);
     Alpine.startObservingMutations();

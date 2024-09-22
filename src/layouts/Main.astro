@@ -1,8 +1,8 @@
 ---
 import { ViewTransitions } from "astro:transitions";
-import BaseHead from "../components/BaseHead.astro";
-import Footer from "../components/Footer.astro";
-import HeaderLink from "../components/HeaderLink.astro";
+import BaseHead from "@src/components/BaseHead.astro";
+import Footer from "@src/components/Footer.astro";
+import HeaderLink from "@src/components/HeaderLink.astro";
 import { Icon } from "astro-icon/components";
 import { fade } from 'astro:transitions';
 
@@ -25,7 +25,7 @@ title = title || frontmatter?.title || "Untitled";
     <BaseHead title={title} />
     <ViewTransitions />
   </head>
-  <body class="h-lvh w-lvw grid grid-rows-[1fr,auto] bg-[--main-background]">
+  <body class="h-lvh w-lvw grid grid-rows-[1fr,auto] bg-[--main-background]" x-data="{portfolio:$persist([]),hello:14}">
     <nav
       class="flex items-center justify-between fixed px-2 h-14 lg:h-28 lg:px-4 py-2 lg:pt-4 lg:pb-2 border-b border-gray-500 bg-[--main-background] w-full z-[500]"
     >
@@ -66,7 +66,7 @@ title = title || frontmatter?.title || "Untitled";
         >
 
         <div
-          x-data="{ open: false }"
+          x-data="{ open: false}"
           class="*:bg-[--main-background] *:z-[500000] z-[500000]"
         >
           <h1 x-on:click="open = ! open" class="block lg:hidden text-[1.5rem]">
@@ -99,3 +99,4 @@ title = title || frontmatter?.title || "Untitled";
     <Footer />
   </body>
 </html>
+

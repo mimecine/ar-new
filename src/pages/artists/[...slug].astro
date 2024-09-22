@@ -1,11 +1,11 @@
 ---
 import { type CollectionEntry, getCollection, getEntry } from "astro:content";
 import { Image } from "astro:assets";
-import Main from "../../layouts/Main.astro";
+import Main from "@src/layouts/Main.astro";
 import { Icon } from "astro-icon/components";
-import Thumbnail from "../../components/Thumbnail.astro";
-import FormattedDate from "../../components/FormattedDate.astro";
-import Video from "../../components/Video.astro";
+import Thumbnail from "@src/components/Thumbnail.astro";
+import FormattedDate from "@src/components/FormattedDate.astro";
+import Video from "@src/components/Video.astro";
 
 export async function getStaticPaths() {
   let artists = await getCollection("artists");
@@ -143,7 +143,7 @@ const films = all_films.filter((film) =>
                 x-ref={`slide${_i}`}
                 id={`slide${_i}`}
                 class="relative flex-none w-full h-full p-2 grid grid-rows-[1fr,auto,auto] items-center justify-center snap-x snap-center text-sm font-thin">
-                  <div class="w-full h-[80vh] items-center content-center justify-center" >
+                  <div class="w-full h-[80vh] items-center content-center justify-center">
                     <Image
                       src={work.src}
                       alt={work.title}
@@ -167,9 +167,10 @@ const films = all_films.filter((film) =>
                       {work.credit.split("\n")[0]}
                     </div>
                     <div class="uppercase italic font-normal">
-                      #{work.inventorynumber}
+                      #{work.inventorynumber} <span 
+                        @click.prevent={`work = ${JSON.stringify(work)}; work.artist = '${artist.data.title}'; work.image = document.querySelector('#slide${_i} img').src; if(true || !portfolio.some(w => w.inventorynumber === work.inventorynumber)){portfolio.push(work)}`} 
+                        class="text-gray-400 text-2xl cursor-pointer"> + </span>
                     </div>
-                    {/* <div class="text-xs">{work.category}</div> */}
                   </div>
                 </div>
               ))

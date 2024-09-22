@@ -7,6 +7,8 @@ import FormattedDate from "@src/components/FormattedDate.astro";
 import settings from "@src/_data/artists_settings.json" with { type: "json" };
 import { marked } from "marked";
 
+
+
 let artists = await getCollection("artists");
 artists = artists
   .filter((artist) => !artist.data.hidden)
@@ -31,7 +33,7 @@ artists = artists
         {
           artists.map((artist) => (
             <li>
-              <a href={`/artists/${artist.slug}`}>
+              <a href={`./${artist.slug}`}>
                 <Thumbnail
                   src={artist.data.featuredImage}
                   alt={artist.data.title}

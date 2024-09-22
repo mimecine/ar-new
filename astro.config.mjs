@@ -10,5 +10,5 @@ import pagefind from "astro-pagefind";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://artistrooms.org',
-  integrations: [mdx(), sitemap(), tailwind(), alpinejs(), icon(), pagefind(),]
+  integrations: [mdx(), sitemap(), tailwind(), alpinejs({entrypoint:'/src/alpine-entry.ts'}), icon(), pagefind(),]
 });
