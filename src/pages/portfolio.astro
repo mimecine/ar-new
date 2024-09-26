@@ -2,11 +2,11 @@
 import Main from "@src/layouts/Main.astro";
 ---
 <Main title="Portfolio" x-data="{ open: false}">
-  <main class="">
-    <section>
-      <template x-for="(work, index) in portfolio.distinct('title')" :key="index">
+  <main class=" h-full">
+    <section class="h-full">
+      <template x-for="(work, index) in portfolio" :key="index">
         <div class="flex flex-wrap pb-12 break-before-page">
-          <img :src="work.image" alt="" class="work w-1/2 max-h-1/2 object-contain">
+          <img :src="work.image" alt="" class="work h-[8in] object-contain">
           <div class="w-full px-4">
             <p x-text="work.title" class="text-2xl font-bold"></p>
             <span class="font-bold" x-text="work.artist"></span>,
@@ -14,10 +14,12 @@ import Main from "@src/layouts/Main.astro";
             <span x-text="work.category"></span>, 
             <span x-text="work.credit.replace(new RegExp(work.inventorynumber,'i'),'').trim()"></span>, 
             <span x-text="work.inventorynumber" class="font-bold italic"></span>
-              
+            <p class="print:hidden text-red-500 focus:font-bold"><button @click="delete portfolio.splice(index,1)">[ remove ]</button></p>
+            <div class="h-[1in] bg-gray-100 print:bg-inherit border print:border-none border-black p-2 focus-visible:!outline-transparent print:ring-0 ring-red-400" contenteditable>
           </div>
         </div>
       </template>
+      <div x-show="!portfolio.length" class="grid place-items-center w-full h-full italic">You have no works in your portfolio.</div>
     </section>
   </main>
 </Main>
@@ -37,7 +39,12 @@ Array.prototype.distinct = function (key) {
 <style is:global>
   @media print {
     @page {
-      margin: 0;
+      size: A4;
+      margin-top: 2cm !important;
+      body { margin:20mm; height: 100%;}
+      @bottom-right {
+        content: "©" + new Date().getFullYear() + " ARTIST ROOMS FOUNDATION";
+      }
     }
     .print-only {
       display: block;
@@ -46,12 +53,11 @@ Array.prototype.distinct = function (key) {
       display: none;
     }
     nav {
-      @apply bg-transparent border-b-0;
-      position: relative;
-      top: 0;
-      background-color: transparent !important;
-      border-bottom-width: 0 !important;
-    } 
+      @apply bg-transparent border-b-0 !absolute top-5 max-h-20  ;
+    }
+    footer {
+      @apply bg-transparent border-t-0 !relative bottom-5 max-h-20  w-full;
+    }
     img.work {
       padding-top: 10em !important;
     }

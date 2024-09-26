@@ -64,6 +64,9 @@ title = title || frontmatter?.title || "Untitled";
         <HeaderLink href="/about" class="!hidden lg:!inline-block"
           >About</HeaderLink
         >
+        <HeaderLink href="/portfolio" class="!hidden lg:!inline-block text-red-500" :class="{'lg:!hidden':portfolio.length==0}"
+          >Portfolio</HeaderLink
+        >
 
         <div
           x-data="{ open: false}"
@@ -87,6 +90,7 @@ title = title || frontmatter?.title || "Untitled";
             <HeaderLink href="/venues">Venues</HeaderLink>
             <HeaderLink href="/map" data-astro-reload>Map</HeaderLink>
             <HeaderLink href="/about">About</HeaderLink>
+            <HeaderLink href="/portfolio" class="text-red-500" :class="{'!hidden':portfolio.length==0}">Portfolio</HeaderLink>
           </div>
         </div>
       </div>
@@ -99,4 +103,13 @@ title = title || frontmatter?.title || "Untitled";
     <Footer />
   </body>
 </html>
+<style is:global>
+  :root {
+    cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="%23444444" stroke="%23FFFFFF" stroke-width="1"></circle></svg>') 12 12, auto;
+  }
+  a, button, .cursor-pointer {
+    cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="%23FF0000" stroke="%23FFFFFF" stroke-width="2"></circle></svg>') 12 12, auto !important;
+  }
+
+</style>
 

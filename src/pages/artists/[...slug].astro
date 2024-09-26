@@ -169,7 +169,7 @@ const films = all_films.filter((film) =>
                     <div class="uppercase italic font-normal">
                       #{work.inventorynumber} <span 
                         @click.prevent={`work = ${JSON.stringify(work)}; work.artist = '${artist.data.title}'; work.image = document.querySelector('#slide${_i} img').src; if(true || !portfolio.some(w => w.inventorynumber === work.inventorynumber)){portfolio.push(work)}`} 
-                        class="text-gray-400 text-2xl cursor-pointer"> + </span>
+                        class="text-gray-400 text-2xl cursor-pointer active:text-green-500 active:text-4xl"> + </span>
                     </div>
                   </div>
                 </div>
