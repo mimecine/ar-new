@@ -3,7 +3,7 @@ import Main from "../layouts/Main.astro";
 // edit map: https://umap.openstreetmap.fr/en/map/anonymous-edit/1030519:C1Kw6cUMqXnU6KZloIwgBKMk87isAZ9LdWPvlmxYaoA
 // https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png
 
-import { getCollection } from "astro:content";
+import { getCollection, getEntry } from "astro:content";
 const venues = (await getCollection("venues"))
   .filter( (a) => !a.data.hidden )
   .sort(
@@ -11,6 +11,23 @@ const venues = (await getCollection("venues"))
   );
 const rooms = await getCollection("rooms")
 const artists = await getCollection("artists");
+
+const years = {};
+let year = 2000;
+let venue = "";
+
+rooms.sort((a,b)=>{return a.data.startdate.getFullYear() - b.data.startdate.getFullYear() || a.data.venue.localeCompare(b.data.venue)}).map( async room => {
+  let year = room.data.startdate.getFullYear().toString();
+  //let venue = (await getEntry("venues", room.data.venue)).data.title;
+  //console.log(year, venue);
+  let venue = `${venues.find(v => v.slug == room.data.venue)?.data.title}, ${venues.find(v => v.slug == room.data.venue)?.data.town}`;
+  let town = venues.find(v => v.slug == room.data.venue)?.data.town;
+  if(!years[year]) years[year] = {};
+  if(!years[year][venue]) years[year][venue] = [];
+  years[year][venue].push(room.data.title.replace(/,[^,]+$/,''));
+})
+console.log(years);
+
 ---
 
 <Main title="The Poster">
@@ -21,7 +38,30 @@ const artists = await getCollection("artists");
         </div>
       </div>
 
-      <section class="py-4">
+      <section class="py-4 break-before-page">
+        <h3 class="pl-4 py-8">Artist Rooms Displays by Year</h3>
+        <ul class="">
+          {Object.keys(years).sort().map( (year, i, arr) => (
+              <li class="venue p-4 break-inside-avoid">
+                    <h4 class="title" text-pretty text-xl>Rooms on display in {year}</h4>
+                    <div class=" columns-1 md:columns-2 lg:columns-3 xl:columns-4 xxl:columns-5">
+                    {Object.keys(years[year]).sort((a,b) => { a.localeCompare(b)}).map( (venue, i, arr) => (
+                      <p class=""><span class="text-lg">{venue}</span><br/>
+                            {years[year][venue].map( (room, i, arr) => (
+                              <a class="room" href={`/rooms/${room.replace(/,[^,]+$/,'; ')}`}>
+                                {room}; 
+                              </a>
+                              ))}
+                      </p>
+                    ))} 
+                    </div>
+              </li>
+          ))}
+        </ul>
+      </section>
+
+      <section class="py-4 break-before-page">
+        <h3 class="pl-4 py-8">Artist Rooms Participating Venues</h3>
         <ul class="columns-1 md:columns-2 lg:columns-3 xl:columns-4 xxl:columns-5">
           {venues.map( venue => (
               <li class="venue p-4 break-inside-avoid">
@@ -32,14 +72,14 @@ const artists = await getCollection("artists");
                     })
                     .map(room => (
                       <a class="room" href={`/rooms/${room.slug}`}>
-                        {room.data.title.replace(/,[^,]+$/,'; ')}
+                        <span class="italic">{room.data.startdate.getFullYear()}:</span> {room.data.title.replace(/,[^,]+$/,'; ')}
                       </a>
                       ))}
               </li>
           ))}
         </ul>
       </section>
-    
+
   <link
     rel="stylesheet"
     href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"
