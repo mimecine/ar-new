@@ -2,7 +2,7 @@
 import Main from "@src/layouts/Main.astro";
 ---
 <Main title="Portfolio" x-data="{ open: false}">
-  <main class=" h-full">
+  <main data-pagefind-ignore class=" h-full">
     <section class="h-full">
       <template x-for="(work, index) in portfolio" :key="index">
         <div class="flex flex-wrap pb-12 break-before-page">
