@@ -25,7 +25,7 @@ const { Content } = await film.render();
 const artists = await getCollection("artists");
 ---
 
-<Main title={`Artist Rooms - ${film.data.title}`}>
+<Main title={`Artist Rooms - ${film.data.title}`} data-pagefind-meta={`title:ARTIST - ${film.data.title}`}>
   <main>
     <section class="grid w-full place-items-center">
       <div class="w-full h-full aspect-video">

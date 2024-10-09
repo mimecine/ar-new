@@ -41,7 +41,7 @@ const films = all_films.filter((film) =>
 );
 ---
 
-<Main title={`${artist.data.title}`} x-data="{ open: false }" data-pagefind-meta={`title:ARTIST - ${room.data.title.replace(/,[^,]+$/, "")}`}>
+<Main title={`${artist.data.title}`} x-data="{ open: false }" data-pagefind-meta={`title:ARTIST - ${artist.data.title}`}>
   <main class="">
     <section>
       <div class="flex flex-wrap pb-12">
