@@ -3,26 +3,6 @@ title: Ron Mueck
 featuredImage: ../../media/ron-mueck-featured.webp
 resources: []
 works:
-  - inventorynumber: AR00035
-    category: Sculpture
-    title: Mask III, 2005
-    info: 2005, mixed media,  1550 x 1320 x 1130 mm
-    year: "2005"
-    credit: |-
-      © Ron Mueck
-
-      AR00035
-    src: ../../media/ron-mueck-ar00035-mask-iii-2005.webp
-  - inventorynumber: AR00033
-    category: Sculpture
-    title: Spooning Couple, 2005
-    info: 2005,  Mixed media,  1165 x 1040 x 790 mm
-    year: "2005"
-    credit: |-
-      © Ron Mueck
-
-      AR00033
-    src: ../../media/ron-mueck-ar00033-spooning-couple-2005.webp
   - inventorynumber: AR00034
     category: Sculpture
     title: Wild Man, 2005
@@ -33,6 +13,26 @@ works:
 
       AR00034
     src: ../../media/ron-mueck-ar00034-wild-man-2005.webp
+  - inventorynumber: AR00033
+    category: Sculpture
+    title: Spooning Couple, 2005
+    info: 2005,  Mixed media,  1165 x 1040 x 790 mm
+    year: "2005"
+    credit: |-
+      © Ron Mueck
+
+      AR00033
+    src: ../../media/ron-mueck-ar00033-spooning-couple-2005.webp
+  - inventorynumber: AR00035
+    category: Sculpture
+    title: Mask III, 2005
+    info: 2005, mixed media,  1550 x 1320 x 1130 mm
+    year: "2005"
+    credit: |-
+      © Ron Mueck
+
+      AR00035
+    src: ../../media/ron-mueck-ar00035-mask-iii-2005.webp
 
 ---
 

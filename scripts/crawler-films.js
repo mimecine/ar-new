@@ -41,11 +41,10 @@ c.queue([
           .forEach(function (element) {
             const nextUrl = new URL($(element).prop("href"), baseUrl);
             if (
-              nextUrl.pathname.indexOf(baseUrl.pathname) !== -1 &&
-              !seen[nextUrl.pathname]
+              nextUrl.pathname.indexOf('/media') !== -1 &&
+              !seen[nextUrl.href]
             ) {
-              console.log(nextUrl.href, nextUrl.pathname);
-              seen[nextUrl.pathname] = true;
+              seen[nextUrl.href] = true;
               c.queue({
                 uri: nextUrl.href,
                 callback: (error, res, done) => {
@@ -54,20 +53,27 @@ c.queue([
                   } else {
                     const $ = res.$;
 
-                    let artists = $('.accordion__row').toArray()
-                    .map(row => { 
-                        return { 
-                            artist: $('.js-accordion__header',row).first().text(), 
-                            films: $('article',row).toArray()
-                                .map(film=> { 
-                                    return { 
-                                        url: $('[data-video-url]',film).first().attr('data-video-url'), 
-                                        title: $('h2',film).first().text() 
-                                    } 
-                                })
-                        }
-                    })
-                    pages.push(artists);
+                    const title = $("h1").first().text();
+                    const body = $(".o-video__intro p")
+                      .map(function () {
+                        return $(this).text();
+                      })
+                      .toArray()
+                      .join("\n\n");
+                    const duration = $(".o-video__intro--duration h3").text().replace("Duration: ", "");
+                    const url = $(".o-video__video iframe")
+                      .first()
+                      .attr("src");
+                    const artists = [$('a[href^="/artists/"][title^="Find out more about"]')
+                      .first().text().replace('Find out more about ','')];
+
+                    pages.push({
+                      title,
+                      body,
+                      url,
+                      duration,
+                      artists,
+                    });
                   }
                   done();
                 },
@@ -82,11 +88,24 @@ c.queue([
 
 c.on("drain", () => {
   if (pages.length) console.log("x", pages.length);
-  if (pages.length)
+  const artists = [];
+  const uniqueArtists = [...new Set(pages.map((page) => page.artists).flat())].sort((a,b)=>a.split(' ').pop().localeCompare(b.split(' ').pop()));
+  // console.log(uniqueArtists);
+  uniqueArtists.forEach((artist) => {
+    const films = pages.filter((page) => page.artists.includes(artist));
+    artists.push({
+      artist,
+      films,
+    });
+  })
+  console.log(artists);
+
+
+
     fs.writeFileSync(
       "./scripts/pages-films.json",
       JSON.stringify(
-        {artists:pages[0]},
+        {'artists':artists},
         null,
         2
       )

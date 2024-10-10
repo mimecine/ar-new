@@ -15,7 +15,7 @@ works:
 
       AR01137
     src: ../../media/robert-mapplethorpe-ar01137-david-hockney-1973.webp
-  - inventorynumber: MAP-1877
+  - inventorynumber: AL00388
     category: Photography 1973 to 1977
     title: Self-Portrait,1975
     info: 1975, Gelatin silver print, 50.5 x 40.3 cm
@@ -23,9 +23,9 @@ works:
     credit: |-
       © Robert Mapplethorpe
 
-      MAP 1877
-    src: ../../media/robert-mapplethorpe-map-1877-self-portrait1975.webp
-  - inventorynumber: MAP-138
+      AL00388
+    src: ../../media/robert-mapplethorpe-al00388-self-portrait1975.webp
+  - inventorynumber: AL00387
     category: Photography 1973 to 1977
     title: Self-Portrait, 1975
     info: 1975, Gelatin silver print, 50.5 x 39.7 cm
@@ -33,8 +33,8 @@ works:
     credit: |-
       © Robert Mapplethorpe
 
-      MAP 138
-    src: ../../media/robert-mapplethorpe-map-138-self-portrait-1975.webp
+      AL00387
+    src: ../../media/robert-mapplethorpe-al00387-self-portrait-1975.webp
   - inventorynumber: AR00209
     category: Photography 1973 to 1977
     title: John McKendry, 1975
@@ -689,7 +689,7 @@ works:
 
       A033370
     src: ../../media/robert-mapplethorpe-a033370-self-portrait-1985.webp
-  - inventorynumber: MAP-1583
+  - inventorynumber: AL00390
     category: Photography 1984 to 1986
     title: Self-Portrait, 1985
     info: 1985, Gelatin silver print, 50.5 x 40.3 cm
@@ -697,8 +697,8 @@ works:
     credit: |-
       © Robert Mapplethorpe
 
-      MAP 1583
-    src: ../../media/robert-mapplethorpe-map-1583-self-portrait-1985.webp
+      AL00390
+    src: ../../media/robert-mapplethorpe-al00390-self-portrait-1985.webp
   - inventorynumber: AR00220
     category: Photography 1984 to 1986
     title: Andy Warhol, 1986
@@ -791,7 +791,7 @@ works:
 
       AR000145
     src: ../../media/robert-mapplethorpe-ar00145-self-portrait-1988.webp
-  - inventorynumber: MAP-1931
+  - inventorynumber: AR01226
     category: Photography 1987 to 1989
     title: Self-Portrait, 1988
     info: 1988, Gelatin silver print, 61 x 50.8 cm
@@ -799,8 +799,8 @@ works:
     credit: |-
       © Robert Mapplethorpe
 
-      MAP 1931
-    src: ../../media/robert-mapplethorpe-map-1931-self-portrait-1988.webp
+      AR01226
+    src: ../../media/robert-mapplethorpe-ar01226-self-portrait-1988.webp
   - inventorynumber: A033372
     category: Photography 1987 to 1989
     title: Tarantula, 1988
@@ -861,7 +861,7 @@ works:
 
       A033369
     src: ../../media/robert-mapplethorpe-a033369-self-portrait-1983.webp
-  - inventorynumber: MAP-385
+  - inventorynumber: AL00389
     category: Photography 1978 to 1980
     title: Self-Portrait, 1980
     info: 1980, Gelatin silver print, 50.5 x 40.3 cm
@@ -869,9 +869,9 @@ works:
     credit: |-
       © Robert Mapplethorpe
 
-      MAP 385
-    src: ../../media/robert-mapplethorpe-map-385-self-portrait-1980.webp
-  - inventorynumber: MAP-1645
+      AL00389
+    src: ../../media/robert-mapplethorpe-al00389-self-portrait-1980.webp
+  - inventorynumber: AL00391
     category: Photography 1984 to 1986
     title: Self-Portrait, 1986
     info: 1986, Gelatin silver print, 63.2 x 50.5 cm
@@ -879,8 +879,8 @@ works:
     credit: |-
       © Robert Mapplethorpe
 
-      MAP 1645
-    src: ../../media/robert-mapplethorpe-map-1645-self-portrait-1986.webp
+      AL00391
+    src: ../../media/robert-mapplethorpe-al00391-self-portrait-1986.webp
 
 ---
 

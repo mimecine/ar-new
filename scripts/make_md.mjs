@@ -179,10 +179,12 @@ async function makeFilmsMD() {
     for (const f of a.films) {
       f.artists = [slugify(a.artist)];
       let path = `./src/content/films/${slugify(f.title)}.md`;
+      let body = f.body;
+      delete f.body;
       let fm = yaml.stringify(f);
 
       try {
-        fs.writeFileSync(path, `---\n${fm}\n---\n\n`);
+        fs.writeFileSync(path, `---\n${fm}\n---\n\n${body}`);
       } catch (e) {
         console.log(e);
       }

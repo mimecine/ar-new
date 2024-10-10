@@ -36,12 +36,14 @@ const artists = await getCollection("artists");
           class="w-full aspect-video"
           >
           {
-            film.data.artists &&
-              film.data.artists.map((artist) => (
+            film.data.artists && <>
+            ON: {              film.data.artists.map((artist) => (
                 <a class="artist" href={`/artists/${artist}`}>
                   {artists.find((a) => a.slug == artist)?.data.title}
                 </a>
               ))
+            }
+            </>
           }
           <Content />
         </Video>

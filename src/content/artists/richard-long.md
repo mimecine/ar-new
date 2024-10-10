@@ -3,6 +3,16 @@ title: Richard Long
 featuredImage: ../../media/richard-long-featured.webp
 resources: []
 works:
+  - inventorynumber: AR00615
+    category: Sculpture
+    title: Somerset Willow Line, 1980
+    info: 1980,  Willow wood,  5029 x 1523 mm
+    year: "1980"
+    credit: |-
+      © Richard Long
+
+      AR00615
+    src: ../../media/richard-long-ar00615-somerset-willow-line-1980.webp
   - inventorynumber: AR00142
     category: Framed Works
     title: A Line Made by Walking, 1967
@@ -201,16 +211,6 @@ works:
 
       AL00204
     src: ../../media/richard-long-al00204-a-line-in-japan-1979.webp
-  - inventorynumber: AR00615
-    category: Sculpture
-    title: Somerset Willow Line, 1980
-    info: 1980,  Willow wood,  5029 x 1523 mm
-    year: "1980"
-    credit: |-
-      © Richard Long
-
-      AR00615
-    src: ../../media/richard-long-ar00615-somerset-willow-line-1980.webp
   - inventorynumber: AR00616
     category: Framed Works
     title: River Avon Mud drawings, Ten mud-dipped papers, 1988
