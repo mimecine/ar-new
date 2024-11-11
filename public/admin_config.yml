@@ -6,8 +6,11 @@ backend:
 #   repo: "mimecine/ar-new"
 
 media_folder: "src/media"
+
+# #static cms
 media_library:
   max_file_size: 1000000000
+
 site_url: https://artistrooms.netlify.app
 display_url: https://artistrooms.netlify.app
 logo_url: https://artistrooms.netlify.app/favicon.svg
@@ -60,11 +63,15 @@ collections:
     folder: "src/content/rooms"
     create: true
     summary: "{{title}} / {{startdate | date('yyyy')}} @ {{venue | upper}}  {{hidden | ternary('---**HIDDEN**', '')}}"
+    # # static cms
     sortable_fields: 
       fields: ["title","venue","startdate","enddate","hidden"]
       default:
         field: "enddate"
-        direction: Descending    
+        direction: Descending
+    # # decap cms
+    # sortable_fields: ["title","venue","startdate","enddate","hidden"]
+
     editor:
       preview: false
     fields:

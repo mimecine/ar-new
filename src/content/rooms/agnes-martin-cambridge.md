@@ -1,18 +1,18 @@
 ---
 title: Agnes Martin, Cambridge
+hidden: false
+startdate: 2010-05-15
+enddate: 2010-07-11
 artists:
   - agnes-martin
+url: http://www.kettlesyard.co.uk/
 venue: kettles-yard
+town: Cambridge
 images:
   - ../../media/agnes-martin-cambridge-kettles-yard-2010-05-15-0.webp
   - ../../media/agnes-martin-cambridge-kettles-yard-2010-05-15-1.webp
   - ../../media/agnes-martin-cambridge-kettles-yard-2010-05-15-2.webp
   - ../../media/agnes-martin-cambridge-kettles-yard-2010-05-15-3.webp
-startdate: 2010-05-15
-enddate: 2010-07-11
-town: Cambridge
-url: http://www.kettlesyard.co.uk/
-
 ---
 
 The Canadian-American artist Agnes Martin was among the most important painters and drawers of her generation, with her simultaneously restrained and expressive work often thought of as a bridge between the schools of Abstract Expressionism and Minimalism that dominated painterly practice in the decades following the Second World War.
