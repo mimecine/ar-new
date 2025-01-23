@@ -26,6 +26,7 @@
     "@fontsource-variable/fredoka": "^5.1.0",
     "@googlemaps/google-maps-services-js": "^3.4.0",
     "@types/alpinejs": "^3.13.10",
+    "@unpic/astro": "^1.0.0",
     "alpinejs": "^3.14.3",
     "astro": "4.15.12",
     "astro-embed": "^0.6.2",

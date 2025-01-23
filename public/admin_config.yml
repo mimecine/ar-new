@@ -49,6 +49,7 @@ collections:
           - { label: "Catalog Number", name: inventorynumber, widget: string, required: false }
           - { label: "Description", name: "info", widget: "text", required: false }
           - { label: "Copyright", name: "credit", widget: "text", required: false }
+          # - { label: "Copyright", name: "copyright", widget: "text", required: false }
       - label: "Resources"
         label_singular: "Resource"
         name: "resources"
@@ -77,8 +78,9 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Hidden", name: "hidden", widget: "boolean", default: false }
-      - { label: "Start", name: "startdate", widget: "datetime", date_format: 'dd.MM.yyyy', time_format: false, format: 'yyyy-MM-dd'}
-      - { label: "End", name: "enddate", widget: "datetime", date_format: 'dd.MM.yyyy', time_format: false, format: 'yyyy-MM-dd', required: false, default: 2030-01-01 }
+      - { label: "Start", name: "startdate", widget: "datetime", date_format: 'yyyy-MM-dd', time_format: false, format: 'yyyy-MM-dd', required: true}
+      - { label: "End (set next if no ending date)", name: "enddate", widget: "datetime", date_format: 'yyyy-MM-dd', time_format: false, format: 'yyyy-MM-dd', required: true}
+      - { label: "Open ended", name: "ongoing", widget: "boolean", default: false }
       - { label: "Priority", name: "priority", widget: "number", required: false, default: 0 }
       - label: "Artists"
         name: "artists"

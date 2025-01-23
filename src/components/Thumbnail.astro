@@ -7,8 +7,8 @@ type Props = HTMLAttributes<'img'>;
 const { src, alt, title, href, width, widths, sizes, class: className, ...props } = Astro.props;
 
 ---
-    <div class="xh-full" >
-        <div class="w-full bg-gray-100 h-64 flex justify-center items-center">
+    <div class="h-full" >
+        <div class={`w-full bg-gray-100 h-64 flex justify-center items-center ${className}`}>
             {src && <Image
                 width={width || undefined}
                 widths={widths || [360, 1600]}
@@ -16,7 +16,8 @@ const { src, alt, title, href, width, widths, sizes, class: className, ...props 
                 sizes={sizes||`360px`}
                 src={src}
                 alt={alt || ""}
-                class="max-w-full h-full w-auto object-contain p-2"
+                class={`max-w-full h-full w-auto object-contain p-2`}
+                
                 {...props}
                 /> 
             }

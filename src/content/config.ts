@@ -41,6 +41,7 @@ const rooms = defineCollection({
       images: z.array(image()).optional(),
       startdate: z.coerce.date().optional(),
       enddate: z.coerce.date().optional(),
+      ongoing: z.boolean().optional(),
     }),
 });
 
