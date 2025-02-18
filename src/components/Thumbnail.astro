@@ -4,11 +4,11 @@ import type { HTMLAttributes } from 'astro/types';
 
 type Props = HTMLAttributes<'img'>;
 
-const { src, alt, title, href, width, widths, sizes, class: className, ...props } = Astro.props;
+const { src, alt, title, loading, href, width, widths, sizes, class: className, ...props } = Astro.props;
 
 ---
     <div class="h-full" >
-        <div class={`w-full bg-gray-100 h-64 flex justify-center items-center ${className}`}>
+        <div class={`w-full bg-gray-100 h-64 flex justify-center items-center bg-no-repeat bg-center bg-[url('/SvgSpinners180RingWithBg.svg')] ${className}`}>
             {src && <Image
                 width={width || undefined}
                 widths={widths || [360, 1600]}
@@ -16,7 +16,9 @@ const { src, alt, title, href, width, widths, sizes, class: className, ...props 
                 sizes={sizes||`360px`}
                 src={src}
                 alt={alt || ""}
-                class={`max-w-full h-full w-auto object-contain p-2`}
+                // loading={loading || "lazy"}
+                class={`max-w-full h-full w-auto object-contain p-2 opacity-0 transition-opacity duration-500`}
+                onload="this.classList.remove('opacity-0')"
                 
                 {...props}
                 /> 

@@ -66,14 +66,16 @@ for (let i = 0; i < grid_tail_size.length; i++) {
       <div>
         <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between">
           {
-            room.data.images?.map((image, i) => (
+            room.data.images?.map((image, index) => (
               <li class="cursor-pointer"
-                x-data={`{slide:'slide${i}'}`}
+                x-data={`{slide:'slide${index}'}`}
                 @click.prevent="$refs.dialog.showModal();$refs[slide].scrollIntoView({behavior:'instant'});   open=!open;">
                 <Thumbnail
                   src={image}
                   alt={room.data.title}
                   title={room.data.title}
+                  loading={index >= 8 ? `lazy`:`eager`}
+
                 />
               </li>
             ))

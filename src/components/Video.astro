@@ -42,7 +42,7 @@ try {
   class="h-full cursor-pointer"
   onclick="this.querySelector('dialog').showModal()"
 >
-  <div class="w-full bg-gray-200 xh-64 flex justify-center items-center">
+  <div class="w-full bg-gray-200 h-64 flex justify-center items-center bg-no-repeat bg-center bg-[url('/SvgSpinners180RingWithBg.svg')]">
     {
       thumb && (
         <Image
@@ -50,7 +50,8 @@ try {
           height={height}
           src={thumb}
           alt={title}
-          class="max-w-full h-full w-auto object-contain p-2"
+          class="max-w-full h-full w-auto object-contain p-2 opacity-0 transition-opacity duration-500 "
+          onload="this.classList.remove('opacity-0')"
           {...props}
         />
       )

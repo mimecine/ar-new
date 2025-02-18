@@ -45,15 +45,19 @@ const films = all_films.filter((film) =>
   <main class="">
     <section>
       <div class="flex flex-wrap pb-12">
-        <div class="md:w-1/2 xpx-4">
+        <div class="md:w-1/2" >
           {
             artist.data.featuredImage && (
               <Image
+                width={artist.data.featuredImage.width}
+                height={artist.data.featuredImage.height}
                 widths={[360, 1600]}
                 sizes={`(max-width: 360px) 360px, 1600px`}
                 src={artist.data.featuredImage}
                 alt={artist.data.title}
-                class="xp-4 p-2 bg-gray-200 xpx-0 xpy-4 xmd:px-6 xmd:py-0 max-w-full w-auto object-cover"
+                loading="eager"
+                class="xp-4 p-2 bg-gray-200 xpx-0 xpy-4 xmd:px-6 xmd:py-0 max-w-full w-auto object-cover opacity-0 transition-opacity duration-500"
+                onload="this.classList.remove('opacity-0')"
               />
             )
           }
@@ -83,16 +87,18 @@ const films = all_films.filter((film) =>
         )}
         <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between">
           {
-            sortedWorks.map((work, i) => (
+            sortedWorks.map((work, index) => (
               <li class="cursor-pointer" id={work.category}
-                x-data={`{slide:'slide${i}'}`}
+                x-data={`{slide:'slide${index}'}`}
                 @click="$refs.dialog.showModal();$refs[slide].scrollIntoView({behavior:'instant'}); open=!open;">
-                <a href={`#[${i}]${work.title}`} id={`[${i}]${work.title}`}><Thumbnail src={work.src} alt={work.title} title={work.title} data-category={work.category}>
+                <a href={`#[${index}]${work.title}`} id={`[${index}]${work.title}`}>
+                  <Thumbnail src={work.src} alt={work.title} title={work.title} data-category={work.category} loading={index >= 8 ? `lazy`:`eager`}>
                   <div class="h-full">
                     {work.title && <h5 class="text-balance">{work.title}</h5>}
                     <p class="text-sm my-[-0.5rem] italic">{work.category}</p>
                   </div>
-                </Thumbnail></a>
+                  </Thumbnail>
+                </a>
               </li>
             ))
           }
@@ -143,7 +149,7 @@ const films = all_films.filter((film) =>
                 x-ref={`slide${_i}`}
                 id={`slide${_i}`}
                 class="relative flex-none w-full h-full p-2 grid grid-rows-[1fr,auto,auto] items-center justify-center snap-x snap-center text-sm font-thin">
-                  <div class="w-full h-[80vh] items-center content-center justify-center">
+                  <div class="w-full h-[80vh] items-center content-center justify-center bg-no-repeat bg-center bg-[url('/SvgSpinners180RingWithBg.svg')]">
                     <Image
                       src={work.src}
                       alt={work.title}
@@ -156,7 +162,8 @@ const films = all_films.filter((film) =>
                       data-info={work.info}
                       data-credit={work.credit}
                       data-category={work.category}
-                      class="object-contain max-w-full max-h-full "
+                      class="object-contain max-w-full max-h-full opacity-0 transition-opacity duration-500 "
+                      onload="this.classList.remove('opacity-0')"
                     />
                   </div>
                   <div class="absolute bottom-0 p-2 items-center justify-evenly w-full grid md:grid-flow-col gap-x-8">

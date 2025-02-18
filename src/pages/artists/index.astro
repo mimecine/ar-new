@@ -29,13 +29,14 @@ artists = artists
     <section>
       <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between">
         {
-          artists.map((artist) => (
+          artists.map((artist, index) => (
             <li>
               <a href={`/artists/${artist.slug}`}>
                 <Thumbnail
                   src={artist.data.featuredImage}
                   alt={artist.data.title}
                   title={artist.data.title}
+                  loading={index >= 8 ? `lazy`:`eager`}
                 >
                   <div class="h-full">
                     <h5 class=" text-balance">{artist.data.title}</h5>
