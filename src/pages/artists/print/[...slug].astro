@@ -51,31 +51,31 @@ const films = all_films.filter((film) =>
               <Image
                 width={artist.data.featuredImage.width}
                 height={artist.data.featuredImage.height}
-                widths={[360, 800]}
-                sizes={`(max-width: 360px) 360px, 800px`}
+                widths={[360, 1600]}
+                sizes={`(max-width: 360px) 360px, 1600px`}
                 src={artist.data.featuredImage}
                 alt={artist.data.title}
                 loading="eager"
-                class="mb-4 p-2 bg-gray-200 max-w-full w-auto object-cover opacity-0 transition-opacity duration-500"
+                class="xp-4 p-2 bg-gray-200 xpx-0 xpy-4 xmd:px-6 xmd:py-0 max-w-full w-auto object-cover opacity-0 transition-opacity duration-500"
                 onload="this.classList.remove('opacity-0')"
               />
             )
           }
         </div>
-        <div class="md:w-1/2 md:px-4 mt-2">
+        <div class="md:w-1/2 md:px-4">
           <Content />
         </div>
       </div>
 
-      <div>
+      <div class="break-before-page">
         {sortedWorks.length > 0 && (
         <div class="flex flex-row gap-4 items-baseline">
           <h2 id="works">Works</h2>
-        <>{rooms.length > 0 && (<h2 class="xpy-6 text-2xl"><a href="#rooms">Rooms</a></h2>)}</>
-        <>{films.length > 0 && <h2 class="xpy-6 text-2xl"><a href="#films">Films</a></h2>}</>
-      </div>
+          <>{rooms.length > 0 && (<h2 class="xpy-6 text-2xl print:hidden"><a href="#rooms">Rooms</a></h2>)}</>
+          <>{films.length > 0 && <h2 class="xpy-6 text-2xl print:hidden"><a href="#films">Films</a></h2>}</>
+        </div>
 
-        <div class="xtext-sm pb-6">
+        <div class="xtext-sm pb-6 print:hidden">
           {sortedWorks.map(w => w.category).filter((value, index, array) => array.indexOf(value) === index).map((category,i,arr) => (
             <>{ i !== 0 && <span> / </span>}</>
             <>{ arr.length > 1 && <a href={`#${category}`} class="cursor-pointer hover:italic"> 
@@ -107,19 +107,18 @@ const films = all_films.filter((film) =>
         <dialog
           id="dialog"
           x-ref="dialog"
-          @keydown.escape.window="$refs.dialog.close(); open=!open;"
           class="w-screen h-screen inset-0 z-[600] opacity-0 pointer-events-none transition-opacity duration-500 open:opacity-100 open:pointer-events-auto bg-gray-100 backdrop:bg-gray-800 backdrop:opacity-60"
           role="dialog"
           aria-modal="true">
           <div
             x-ref="slider"
             @scrollend="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider;$refs.button_prev.classList.toggle('opacity-10',scrollLeft === 0); $refs.button_next.classList.toggle('opacity-10',scrollLeft+clientWidth === scrollWidth);"
-            class="flex overflow-x-scroll items-start h-full snap-x snap-mandatory scroll-smooth select-text focus-visible:outline-none">
+            class="flex overflow-x-scroll items-start h-full snap-x snap-mandatory scroll-smooth select-text">
             <button
               @click="$refs.dialog.close(); open=!open;"
-              class="absolute leading-none right-2 top-2 p-28 pr-0 pt-0 focus-visible:outline-none z-10"
+              class="absolute leading-none right-2 top-2 focus-visible:outline-none z-10"
               ><Icon
-                name="material-symbols-light:close-rounded"
+                name="material-symbols-light:close"
                 class="size-12 lg:size-12"
               /></button
             >
@@ -127,20 +126,20 @@ const films = all_films.filter((film) =>
               x-ref="button_prev"
               @click="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider;  $refs.slider.scrollBy({left: -clientWidth, behavior:'smooth'});"
               @keyup.left.window="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: -clientWidth, behavior:'smooth'});"
-              class="absolute left-0 top-[30vh] bottom-[30vh] mt-auto p-28 pl-0 leading-none focus-visible:outline-none z-10 opacity-10 invisible md:visible"
+              class="absolute left-0 top-1/2 leading-none focus-visible:outline-none z-10 opacity-10 invisible md:visible"
               ><Icon
-                name="material-symbols-light:arrow-back-ios-rounded"
-                class="size-8 lg:size-8"
+                name="material-symbols-light:chevron-left"
+                class="size-8 lg:size-20"
               /></button
             >
             <button
               x-ref="button_next"
               @click="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: clientWidth, behavior:'smooth'});"
               @keyup.right.window="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: clientWidth, behavior:'smooth'});"
-              class="absolute right-0 top-[30vh] bottom-[30vh] mt-auto p-28 pr-0 leading-none focus-visible:outline-none z-10 invisible md:visible"
+              class="absolute right-0 top-1/2 leading-none focus-visible:outline-none z-10 invisible md:visible"
               ><Icon
-                name="material-symbols-light:arrow-forward-ios-rounded"
-                class="size-8 lg:size-8"
+                name="material-symbols-light:chevron-right"
+                class="size-8 lg:size-20"
               /></button
             >
 
@@ -186,12 +185,12 @@ const films = all_films.filter((film) =>
           </div>
         </dialog>
 
-        <div>
+        <div class="break-before-page">
           {rooms.length > 0 && 
           <div class="flex flex-row gap-4 items-baseline">
             <h2 class="py-6 " id="rooms">Rooms</h2>
-            <>{sortedWorks.length > 0 && (<h2 class="py-6 text-2xl"><a href="#works">Works</a></h2>)}</>
-            <>{films.length > 0 && <h2 class="py-6 text-2xl"><a href="#films">Films</a></h2>}</>
+            <>{sortedWorks.length > 0 && (<h2 class="py-6 text-2xl print:hidden"><a href="#works">Works</a></h2>)}</>
+            <>{films.length > 0 && <h2 class="py-6 text-2xl print:hidden"><a href="#films">Films</a></h2>}</>
         </div> }
 
           <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between">
@@ -229,12 +228,12 @@ const films = all_films.filter((film) =>
           </ul>
         </div>
 
-            <div>
+            <div  class="break-before-page">
           {films.length > 0 && 
           <div class="flex flex-row gap-4 items-baseline">
             <h2 class="py-6 " id="films">Films</h2>
-            <>{sortedWorks.length > 0 && (<h2 class="py-6 text-2xl"><a href="#works">Works</a></h2>)}</>
-            <>{films.length > 0 && <h2 class="py-6 text-2xl"><a href="#rooms">Rooms</a></h2>}</>
+            <>{sortedWorks.length > 0 && (<h2 class="py-6 text-2xl print:hidden"><a href="#works">Works</a></h2>)}</>
+            <>{films.length > 0 && <h2 class="py-6 text-2xl print:hidden"><a href="#rooms">Rooms</a></h2>}</>
           </div> }
             <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between">
                 {films.map((film) => (
@@ -258,7 +257,7 @@ const films = all_films.filter((film) =>
   </main>
 </Main>
 <style>
-  /* html {
+  html {
     @apply scroll-smooth focus:outline-none active:outline-none;
   }
   h2[id] {
@@ -270,5 +269,8 @@ const films = all_films.filter((film) =>
   a:target {
     @apply block animate-pulse ;
     animation-iteration-count: 3;
-  } */
+  }
+  :focus, :active {
+    @apply outline-gray-400;
+  }
 </style>
