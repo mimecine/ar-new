@@ -1,0 +1,185 @@
+---
+import { type CollectionEntry, getCollection } from "astro:content";
+import { Image } from "astro:assets";
+import MainReview from "../../layouts/MainReview.astro";
+import FormattedDate from "../../components/FormattedDate.astro";
+import Thumbnail from "../../components/Thumbnail.astro";
+import { Icon } from "astro-icon/components";
+
+export async function getStaticPaths() {
+  let rooms = await getCollection("rooms");
+  return rooms
+    .filter((room) => room.data.hidden !== true)
+    .map((room) => ({
+      params: { slug: room.slug },
+      props: room,
+    }));
+}
+type Props = CollectionEntry<"rooms">;
+
+const room = Astro.props;
+const { Content } = await room.render();
+
+const artists = await getCollection("artists");
+const venues = await getCollection("venues");
+
+const grid_tail_size = new Array(4 - (room.data.images.length % 4));
+for (let i = 0; i < grid_tail_size.length; i++) {
+  grid_tail_size[i] = i;
+}
+---
+<style>
+  xdialog {
+  transition: display .2s allow-discrete, overlay .2s allow-discrete;
+
+  animation: close 0.2s forwards;
+  &[open] {
+    animation: open 0.2s forwards;
+  }
+}
+
+@keyframes open {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes xclose {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+</style>
+<MainReview
+  title={`${room.data.title.replace(/,[^,]+$/, "")} / James Review`}
+  x-data="{open: false}"
+  x-id="['slide']">
+  <main data-pagefind-ignore>
+    <section class="w-full">
+      <div>
+        <ul class="grid grid-cols-1 xmd:grid-cols-2 xlg:grid-cols-4 gap-6 justify-between">
+          {
+            room.data.images?.map((image, i) => (
+              <li class="cursor-pointer"
+                x-data={`{slide:'slide${i}'}`}
+                @xclick.prevent="$refs.dialog.showModal();$refs[slide].scrollIntoView({behavior:'instant'});   open=!open;">
+                <Image
+              src={image}
+              alt={room.data.title}
+              title={room.data.title}
+              widths={[360, 1600]}
+              sizes={`(max-width: 360px) 360px, ${image.width}px`}
+              x-widths={[360, 1600]}
+              x-sizes={`(max-width: 360px) 360px, ${image.width}px`}
+              class="object-contain max-w-full max-h-full "
+            />
+            <div>{room.data.title} #{i}</div>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+
+      <h2>
+        {venues.find((a) => a.slug == room.data.venue)?.data.title}, {
+          venues.find((a) => a.slug == room.data.venue)?.data.town
+        }
+      </h2>
+
+      <h4>
+        <FormattedDate date={room.data.startdate} /> - {
+          (room.data.enddate && <FormattedDate date={room.data.enddate} />) ||
+            `ONGOING`
+        }
+      </h4>
+      <div class="max-w-4xl">
+        <Content />
+      </div>
+      <div class="max-w-4xl">
+        <h4>
+          Read about the artist{room.data.artists.length > 1 && "s"}:
+        </h4>
+        {
+          room.data.artists.map((artist, a, i) => (
+            <>
+              <a href={`/artists-review/${artist}`}>
+                {artists.find((a) => a.slug == artist)?.data.title}
+              </a>
+              {i.length - 1 > a && <span>, </span>}
+            </>
+          ))
+        }
+      </div>
+    </section>
+  </main>
+
+  <dialog
+  id="dialog"
+  x-ref="dialog"
+  class="w-screen h-screen inset-0 z-[600] pointer-events-none open:pointer-events-auto bg-gray-100 backdrop:bg-transparent"
+  role="dialog"
+  aria-modal="true">
+  <div
+    x-ref="slider"
+    @scrollend="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider;$refs.button_prev.classList.toggle('opacity-10',scrollLeft === 0); $refs.button_next.classList.toggle('opacity-10',scrollLeft+clientWidth === scrollWidth);"
+    class="flex overflow-x-scroll items-start h-full snap-x snap-mandatory scroll-smooth select-text">
+            <button
+              @click="$refs.dialog.close(); open=!open;"
+              class="absolute leading-none right-2 top-2 focus-visible:outline-none z-10"
+              ><Icon
+                name="material-symbols-light:close"
+                class="size-12 lg:size-12"
+              /></button
+            >
+            <button
+              x-ref="button_prev"
+              @click="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider;  $refs.slider.scrollBy({left: -clientWidth, behavior:'smooth'});"
+              @keyup.left.window="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: -clientWidth, behavior:'smooth'});"
+              class="absolute left-0 top-1/2 leading-none focus-visible:outline-none z-10 opacity-10 invisible md:visible"
+              ><Icon
+                name="material-symbols-light:chevron-left"
+                class="size-8 lg:size-20"
+              /></button
+            >
+            <button
+              x-ref="button_next"
+              @click="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: clientWidth, behavior:'smooth'});"
+              @keyup.right.window="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: clientWidth, behavior:'smooth'});"
+              class="absolute right-0 top-1/2 leading-none focus-visible:outline-none z-10 invisible md:visible"
+              ><Icon
+                name="material-symbols-light:chevron-right"
+                class="size-8 lg:size-20"
+              /></button
+            >
+
+    {
+      room.data.images?.map((image, i) => (
+        <div
+          x-ref={`slide${i}`}
+          id={`slide${i}`}
+          class="relative flex-none w-full h-full p-2 grid grid-rows-[1fr,auto,auto] items-center content-center justify-center snap-x snap-center text-sm font-thin">
+          <div class="w-full h-[80vh] items-center content-center justify-center">
+            <Image
+              src={image}
+              alt={room.data.title}
+              title={room.data.title}
+              widths={[360, 1600]}
+              sizes={`(max-width: 360px) 360px, ${image.width}px`}
+              x-widths={[360, 1600]}
+              x-sizes={`(max-width: 360px) 360px, ${image.width}px`}
+              class="object-contain max-w-full max-h-full "
+            />
+          </div>
+        </div>
+      ))
+    }
+  </div>
+</dialog>
+
+</MainReview>

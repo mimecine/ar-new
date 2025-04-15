@@ -1,0 +1,28 @@
+---
+import { getCollection } from "astro:content";
+import { Image } from "astro:assets";
+import Main from '../../layouts/Main.astro';
+
+let articles = await getCollection("news")
+articles = articles
+.filter( (a) => !a.data.hidden )
+.sort(
+  (a, b) => { return a.data.title.localeCompare(b.data.title); }
+);
+
+---
+<Main title="The News">
+<main>
+  <section>
+    <ul class="columns-1 md:columns-2 lg:columns-3 xl:columns-4 xxl:columns-5">
+      {articles.map( article => (
+          <li class="venue p-4 break-inside-avoid">
+                <h4 class="title" text-pretty text-xl>
+                  <a href={`/news/${article.slug}`}>{article.data.title}</a>
+                </h4>
+          </li>
+      ))}
+    </ul>
+  </section>
+</main>
+</Main>

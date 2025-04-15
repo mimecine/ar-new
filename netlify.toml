@@ -1,0 +1,5 @@
+[build]
+  publish = "dist"
+  command = "bun run build"
+[[plugins]]
+  package = "./netlify_plugins/astro_cache"

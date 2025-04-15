@@ -1,0 +1,57 @@
+---
+import { getCollection } from "astro:content";
+import { Image } from "astro:assets";
+import MainReview from "../../layouts/MainReview.astro";
+import Thumbnail from "../../components/Thumbnail.astro";
+import FormattedDate from "../../components/FormattedDate.astro";
+import settings from "../../_data/artists_settings.json" with { type: "json" };
+import { marked } from "marked";
+
+let artists = await getCollection("artists");
+artists = artists
+  .filter((artist) => !artist.data.hidden)
+  .sort((a, b) => {
+    let a_last = a.data.title.replace(/^[a-z]+\s+\&?/i, "").trim();
+    let b_last = b.data.title.replace(/^[a-z]+\s+\&?/i, "").trim();
+    return a_last.localeCompare(b_last);
+  });
+---
+
+<MainReview title="The Artists / James Review">
+  <main data-pagefind-ignore>
+    {
+      settings.intro && (
+        <section class="intro pb-12">
+          <div set:html={marked.parse(settings.intro)} />
+        </section>
+      )
+    }
+    <section>
+      <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between">
+        {
+          artists.map((artist) => (
+            <li>
+              <a href={`${Astro.url.pathname}/${artist.slug}`}>
+                <Thumbnail
+                  src={artist.data.featuredImage}
+                  alt={artist.data.title}
+                  title={artist.data.title}
+                >
+                  <div class="h-full">
+                    <h5 class=" text-balance">{artist.data.title}</h5>
+                  </div>
+                </Thumbnail>
+              </a>
+            </li>
+          ))
+        }
+
+      </ul>
+    </section>
+    { settings.outro && (
+      <section class="outro pb-12">
+        <div set:html={marked.parse(settings.outro)} />
+      </section>
+    )}
+  </main>
+</MainReview>

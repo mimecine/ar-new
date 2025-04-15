@@ -1,0 +1,144 @@
+---
+import { type CollectionEntry, getCollection, getEntry } from "astro:content";
+import { Image } from "astro:assets";
+import Main from "@src/layouts/Main.astro";
+import { Icon } from "astro-icon/components";
+import Thumbnail from "@src/components/Thumbnail.astro";
+import FormattedDate from "@src/components/FormattedDate.astro";
+import Video from "@src/components/Video.astro";
+
+export async function getStaticPaths() {
+  let artists = await getCollection("artists");
+  return artists
+    .filter((artist) => artist.data.hidden !== true)
+    .map((artist) => ({
+      params: { slug: artist.slug },
+      props: artist,
+    }));
+}
+type Props = CollectionEntry<"artists">;
+
+const artist = Astro.props;
+
+let sortedWorks = artist.data.works
+.sort((a, b) => {
+  return b.category.toLowerCase() == 'sculpture' ? 1:0 || b.category.toLowerCase() == 'painting' ? 1:0 || a.category.localeCompare(b.category) ||  a.year - b.year || a.title.split(",").pop().localeCompare(b.title.split(",").pop());
+}); // needs mod to sort by year
+
+const { Content } = await artist.render();
+
+const all_rooms = await getCollection("rooms");
+const rooms = all_rooms
+  .filter((room) => room.data.artists.includes(artist.slug))
+  .filter((room) => !room.data.hidden);
+for (let room of rooms) {
+  room.data._venue = await getEntry("venues", room.data.venue);
+}
+
+const all_films = await getCollection("films");
+const films = all_films.filter((film) =>
+  film.data.artists.includes(artist.slug)
+);
+---
+
+<Main title={`${artist.data.title}`} x-data="{ open: false }" data-pagefind-meta={`title:ARTIST - ${artist.data.title}`}>
+  <main class="">
+    <section>
+      <div class="flex flex-wrap pb-12">
+        <div class="md:w-1/2" >
+          {
+            artist.data.featuredImage && (
+              <Image
+                width={artist.data.featuredImage.width}
+                height={artist.data.featuredImage.height}
+                widths={[360, 1600]}
+                sizes={`(max-width: 360px) 360px, 1600px`}
+                src={artist.data.featuredImage}
+                alt={artist.data.title}
+                loading="eager"
+                class="mb-4 p-2 bg-gray-200 max-w-full w-auto object-cover opacity-0 transition-opacity duration-500"
+                onload="this.classList.remove('opacity-0')"
+              />
+            )
+          }
+        </div>
+        <div class="md:w-1/2 md:px-4 mt-2">
+          <Content />
+        </div>
+      </div>
+
+      <div class="break-before-page">
+        {sortedWorks.length > 0 && (
+        <div class="flex flex-row gap-4 items-baseline">
+          <h2 id="works">Works</h2>
+          <>{rooms.length > 0 && (<h2 class="xpy-6 text-2xl print:hidden"><a href="#rooms">Rooms</a></h2>)}</>
+          <>{films.length > 0 && <h2 class="xpy-6 text-2xl print:hidden"><a href="#films">Films</a></h2>}</>
+        </div>
+
+        <div class="xtext-sm pb-6 print:hidden">
+          {sortedWorks.map(w => w.category).filter((value, index, array) => array.indexOf(value) === index).map((category,i,arr) => (
+            <>{ i !== 0 && <span> / </span>}</>
+            <>{ arr.length > 1 && <a href={`#${category}`} class="cursor-pointer hover:italic"> 
+              {category}
+            </a>}</>
+
+            ))}
+        </div>
+        )}
+
+
+        <ul class="grid xdivide-y xdivide-gray-500 justify-between ">
+          {
+            sortedWorks.map((work, index) => (
+              <li class="cursor-pointer py-4" id={work.category}
+                x-data={`{slide:'slide${index}'}`}
+                @click="$refs.dialog.showModal();$refs[slide].scrollIntoView({behavior:'instant'}); open=!open;"
+                >
+                <a href={`#[${index}]${work.title}`} id={`[${index}]${work.title}`}>
+                  <div class="h-full grid grid-cols-[auto,1fr] gap-4">
+                  <div class="h-24 w-24"><Thumbnail width={192} widths={[192]} src={work.src} alt={work.title} title={work.title} data-category={work.category} loading={index >= 8 ? `lazy`:`eager`} 
+                  class:list="!max-h-24 !m-0 !max-w-24 !bg-none"></Thumbnail></div>
+<div class="my-auto">{artist.data.title} 	&#9672; {work.title} 	&#9672; {work.category} 	&#9672; {work.year}  </div>                  
+                  </div>
+                  </Thumbnail>
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+
+
+      </div>
+    </section>
+  </main>
+</Main>
+<style>
+  html {
+    @apply scroll-smooth focus:outline-none active:outline-none;
+  }
+  h2[id] {
+    @apply scroll-m-12 lg:scroll-m-20;
+  }
+  li[id], a[id] {
+    @apply scroll-m-32 lg:scroll-m-52
+  }
+  a:target {
+    @apply block animate-pulse ;
+    animation-iteration-count: 3;
+  }
+  :focus, :active {
+    @apply outline-gray-400;
+  }
+  @media print {
+    main {
+      @apply !m-0;
+    }
+    body {
+      @apply !bg-[--main-background] !text-[--main-text] !h-full !w-full;
+    }
+  }
+  @page {
+    margin: 2cm 2cm !important
+  }
+
+</style>

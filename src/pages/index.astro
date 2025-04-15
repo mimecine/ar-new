@@ -1,0 +1,152 @@
+---
+import { getCollection, getEntryBySlug } from "astro:content";
+import { Image } from "astro:assets";
+import Main from "../layouts/Main.astro";
+import { extract } from "@extractus/oembed-extractor";
+import Video from "../components/Video.astro";
+
+import settings from "../_data/index_settings.json" with { type: "json" };
+import { marked } from "marked";
+
+import FormattedDate from "../components/FormattedDate.astro";
+import Thumbnail from "../components/Thumbnail.astro";
+
+const rooms = [];
+const artists = [];
+const films = [];
+
+const current_rooms = (await getCollection("rooms")).filter(room=> room.data.enddate >= new Date() || room.data.enddate == null).sort((a, b) => b.data.startdate - a.data.startdate);
+
+for (const slug of settings.rooms) {
+  const room = await getEntryBySlug("rooms", slug);
+  rooms.push(room);
+}
+for (const slug of settings.artists) {
+  const artist = await getEntryBySlug("artists", slug);
+  artists.push(artist);
+}
+for (const slug of settings.films) {
+  const film = await getEntryBySlug("films", slug);
+  for await(let artist of film.data.artists) {
+    artists.push(await getEntryBySlug("artists", artist));
+  }
+  films.push(film);
+}
+---
+
+<Main title="Artist Rooms">
+  <main data-pagefind-ignore class="-x-divide-y -x-divide-current *:pt-4" x-cloak>
+    {
+      settings.intro && (
+        <section class="intro pb-12">
+          <div set:html={marked.parse(settings.intro)} />
+        </section>
+      )
+    }
+    <section class="empty:hidden">
+      <ul class="empty:hidden flex flex-wrap gap-3 justify-evenly">
+        {
+          current_rooms.map((room) => (
+            <li class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 xxl:w-1/5 p-4" data-startdate={room.data.startdate.toISOString()} data-enddate={room.data.enddate?.toISOString()} x-show="new Date().toISOString() >= $el.getAttribute('data-startdate') && new Date(new Date()+24*60*60*1000).toISOString() <= $el.getAttribute('data-enddate')">
+              <a href={`/rooms/${room.slug}`}>
+                <Thumbnail
+                  src={room.data.images[0]}
+                  alt={room.data.title}
+                  title={`VISIT: ${room.data.title}`}
+                  class="h-fullzz"
+                >
+                  <div class="h-full">
+                    <h5 class=" text-balance">CURRENTLY: {room.data.title}</h5>
+                    {/* <p class="italic text-sm">From {room.data.startdate?.toLocaleDateString()}</p> */}
+                    <p class="italic text-sm">Open until {room.data.ongoing? 'further notice' : room.data.enddate?.toLocaleDateString() ?? 'further notice'}</p>
+                  </div>
+                </Thumbnail>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </section>   
+     <section>
+      <ul class="flex flex-wrap gap-3 justify-evenly">
+        {
+          rooms.map((room) => (
+            <li class="w-full md:w-1/3 lg:w-1/4 xl:w-1/5 xxl:w-1/6 p-4">
+              <a href={`/rooms/${room.slug}`}>
+                <Thumbnail
+                  src={room.data.images[0]}
+                  alt={room.data.title}
+                  title={`ROOM: ${room.data.title}`}
+                >
+                  <div class="h-full">
+                    <h5 class=" text-balance">ROOM: {room.data.title}</h5>
+                  </div>
+                </Thumbnail>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+    <section>
+      <ul class="flex flex-wrap gap-3 justify-evenly">
+        {
+          artists.map((artist) => (
+            <li class="w-full md:w-1/3 lg:w-1/4 xl:w-1/5 xxl:w-1/6 p-4">
+              <a href={`/artists/${artist.slug}`}>
+                <Thumbnail
+                  src={artist.data.featuredImage}
+                  alt={artist.data.title}
+                  title={`READ: ${artist.data.title}`}
+                >
+                  <div class="h-full">
+                    <h5 class="text-balance">ARTIST: {artist.data.title}</h5>
+                  </div>
+                </Thumbnail>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+    <section>
+      <ul class="flex flex-wrap gap-3 justify-evenly">
+        {
+          films.map((film) => (
+            <li class="w-full md:w-1/3 lg:w-1/4 xl:w-1/5 xxl:w-1/6 p-4">
+              <Video
+                src={film.data.url}
+                alt={film.data.title}
+                title={film.data.title}
+              >
+                <div class="h-full">
+                  <h5 class="text-balance">
+                    WATCH: {film.data.title.replace(/ARTIST ROOMS:?/, "")}
+                  </h5>
+                  ON:
+                  {film.data.artists &&
+                    film.data.artists.map((artist) => (
+                      <a class="artist" href={`/artists/${artist}`}>
+                        {
+                          artists.find(
+                            (a) => a.slug == artist && !a.data.hidden
+                          )?.data.title
+                        }
+                      </a>
+                    ))}
+                </div>
+              </Video>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+    {
+      settings.outro && (
+        <section class="outro pt-12 md:columns-2 xl:columns-3">
+          <div set:html={marked.parse(settings.outro)} />
+        </section>
+      )
+    }
+  </main>
+</Main>

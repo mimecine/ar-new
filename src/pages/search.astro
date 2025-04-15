@@ -1,0 +1,70 @@
+---
+import Main from "../layouts/Main.astro";
+import { Image } from "astro:assets";
+
+import Search from "astro-pagefind/components/Search";
+---
+
+<Main title="The Search">
+  <div class="relative w-full h-full">
+  <Search
+    id="search"
+    className="pagefind-ui"
+    uiOptions={{
+      showImages: true,
+      excerptLength: 20,
+      showExcerpt: false,
+      resetStyles: false,
+    }}
+  />
+  </div>
+</Main>
+<style is:global>
+  .pagefind-ui {
+    --pagefind-ui-tag: #eeeeee;
+    --pagefind-ui-image-box-ratio: 3 / 2;
+    --pagefind-ui-scale: 1;
+    --pagefind-ui-primary: #000;
+    --pagefind-ui-text: black;
+    --pagefind-ui-border: slategrey;
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: 0;
+    --pagefind-ui-font: "Fredoka Variable", sans-serif;
+    --pagefind-ui-image-border-radius: 0;
+    --pagefind-ui-background: #ccc;
+    --tw-ring-color: #000;
+    width: 100%;
+
+    mark {
+      background-color: transparent;
+      color: var(--pagefind-ui-primary);
+    }
+
+    .pagefind-ui__drawer:not(.pagefind-ui__hidden) {
+      -x-position: absolute;
+      -x-left: 0;
+      -x-right: 0;
+      -x-margin-top: 0px;
+      -x-z-index: 9999;
+      padding: 1em 2em 1em;
+      overflow-y: auto;
+      -x-box-shadow:
+        0 10px 10px -5px rgba(0, 0, 0, 0.2),
+        0 2px 2px 0 rgba(0, 0, 0, 0.1);
+      border-bottom-right-radius: var(--pagefind-ui-border-radius);
+      border-bottom-left-radius: var(--pagefind-ui-border-radius);
+      -x-background-color: var(--pagefind-ui-background);
+    }
+
+    .pagefind-ui__result-link, .pagefind-ui__result-link:visited, .pagefind-ui__message, .pagefind-ui__button, .pagefind-ui__search-input {
+      color: var(--pagefind-ui-primary);
+      font-weight: 400;
+    }
+    .pagefind_ui * * {
+    }
+
+    .pagefind-ui__result-excerpt {
+      color: var(--pagefind-ui-text);
+    }
+  }
+</style>

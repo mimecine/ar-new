@@ -1,0 +1,52 @@
+---
+import { Image } from 'astro:assets';
+import type { HTMLAttributes } from 'astro/types';
+
+// type Props = HTMLAttributes<'img'>;
+
+interface Props extends HTMLAttributes<'img'>{
+    src: string;
+    alt?: string;
+    title?: string;
+    loading?: "lazy" | "eager";
+    href?: string;
+    width?: number;
+    widths?: number[];
+    sizes?: string;
+};
+
+interface Image  {
+    src: string;
+    alt?: string;
+    title?: string;
+    loading?: "lazy" | "eager";
+    href?: string;
+    width?: number;
+    widths?: number[];
+    sizes?: string;
+    class?: string;
+    onload?: string;
+    [key: string]: any;
+};
+
+const { src, alt, title, loading, href, width, widths, sizes, class: className, ...props } = Astro.props;
+
+---
+    <div class="h-full" >
+        <div class={`w-full bg-gray-100 h-64 flex justify-center items-center bg-no-repeat bg-center bg-[url('/SvgSpinners180RingWithBg.svg')] ${className}`}>
+            {src && <Image
+                width={width || undefined}
+                widths={widths || [360, 1600]}
+                sizes={sizes||`360px`}
+                src={src}
+                alt={alt || ""}
+                loading={loading || "lazy"}
+                class={`max-w-full h-full w-auto object-contain p-2 opacity-0 transition-opacity duration-500`}
+                onload="this.classList.remove('opacity-0')"
+                
+                {...props}
+                /> 
+            }
+        </div>
+        <slot/>
+    </div>

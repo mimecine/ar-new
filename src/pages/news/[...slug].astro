@@ -1,0 +1,30 @@
+---
+import { type CollectionEntry, getCollection } from "astro:content";
+import Main from "../../layouts/Main.astro";
+import FormattedDate from "../../components/FormattedDate.astro";
+import Thumbnail from "../../components/Thumbnail.astro";
+
+
+export async function getStaticPaths() {
+  const articles = await getCollection("news");
+  return articles.map((article) => ({
+    params: { slug: article.slug },
+    props: article,
+  }));
+}
+type Props = CollectionEntry<"news">;
+
+const article = Astro.props;
+const { Content } = await article.render();
+---
+<Main title={`News`}>
+<main class="w-full">
+  <section class="grid w-full place-items-center">
+    <h1 class="text-center text-4xl">{article.data.title}</h1>
+    <h2 class="text-center text-2xl">{article.data.date}</h2>
+    <div class="w-full">
+      <Content />
+    </div>
+    </section>
+</main>
+</Main>

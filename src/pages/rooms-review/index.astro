@@ -1,0 +1,71 @@
+---
+import { getCollection } from "astro:content";
+import { Image } from "astro:assets";
+import MainReview from "../../layouts/MainReview.astro";
+import FormattedDate from "../../components/FormattedDate.astro";
+import Thumbnail from "../../components/Thumbnail.astro";
+
+import settings from "../../_data/rooms_settings.json" with { type: "json" };
+import { marked } from "marked";
+
+let rooms = await getCollection("rooms");
+const continuos = new Date(2100, 1, 1);
+rooms = rooms
+  .filter((room) => !room.data.hidden)
+  .sort((a, b) => {
+    let date = (b.data.enddate || continuos) - (a.data.enddate || continuos);
+    return date;
+  })
+  .sort((a, b) => {
+    return a.data.priority > b.data.priority ? -1 : 1;
+  });
+---
+
+<MainReview title="The Rooms / James Review">
+  <main data-pagefind-ignore>
+    {
+      settings.intro && (
+        <section class="intro pb-12">
+          <div set:html={marked.parse(settings.intro)} />
+        </section>
+      )
+    }
+    <section>
+      <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between" xclass="flex flex-wrap gap-3 justify-between">
+        {
+          rooms
+            .filter((room) => !room.data.hidden)
+            .map((room) => (
+              <li xclass="w-full md:w-1/3 lg:w-1/4 xl:w-1/5 xxl:w-1/6 p-4">
+                <a href={`${Astro.url.pathname}/${room.slug}`}>
+                  <Thumbnail
+                    src={room.data.images[0]}
+                    alt={room.data.title}
+                    title={room.data.title}
+                  >
+                    <div class="h-full">
+                      {room.data.title && <h5 class="text-balance">{room.data.title}</h5>}
+                      <p class="text-sm my-[-0.5rem] italic">
+                        <FormattedDate date={room.data.startdate} /> -{" "}
+                        {(room.data.enddate && (
+                          <FormattedDate date={room.data.enddate} />
+                        )) ||
+                          `ONGOING`}
+                      </p>
+                    </div>
+                  </Thumbnail>
+                </a>
+              </li>
+            ))
+        }
+      </ul>
+    </section>    {
+      settings.outro && (
+        <section class="outro pb-12">
+          <div set:html={marked.parse(settings.outro)} />
+        </section>
+      )
+    }
+
+  </main>
+</MainReview>

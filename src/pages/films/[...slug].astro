@@ -1,0 +1,53 @@
+---
+import {
+  type CollectionEntry,
+  getCollection,
+  getEntryBySlug,
+} from "astro:content";
+import { Image } from "astro:assets";
+import Main from "../../layouts/Main.astro";
+import Video from "../../components/Video.astro";
+
+export async function getStaticPaths() {
+  let films = await getCollection("films");
+  return films
+    .filter((film) => film.data.hidden !== true)
+    .map((film) => ({
+      params: { slug: film.slug },
+      props: film,
+    }));
+}
+type Props = CollectionEntry<"films">;
+
+const film = Astro.props;
+const { Content } = await film.render();
+
+const artists = await getCollection("artists");
+---
+
+<Main title={`Artist Rooms - ${film.data.title}`} data-pagefind-meta={`title:FILM - ${film.data.title}`}>
+  <main>
+    <section class="grid w-full place-items-center">
+      <div class="w-full h-full aspect-video">
+        <Video
+          src={film.data.url}
+          alt={film.data.title}
+          title={film.data.title}
+          class="w-full aspect-video"
+          >
+          {
+            film.data.artists && <>
+            ON: {              film.data.artists.map((artist) => (
+                <a class="artist" href={`/artists/${artist}`}>
+                  {artists.find((a) => a.slug == artist)?.data.title}
+                </a>
+              ))
+            }
+            </>
+          }
+          <Content />
+        </Video>
+      </div>
+    </section>
+  </main>
+</Main>

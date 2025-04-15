@@ -1,0 +1,120 @@
+---
+import { getCollection, getEntryBySlug } from "astro:content";
+import Main from "../../layouts/Main.astro";
+import Video from "../../components/Video.astro";
+import settings from "../../_data/films_settings.json" with { type: "json" };
+import { marked } from "marked";
+
+
+
+let films = await getCollection("films");
+films = await Promise.all(
+  films
+    .filter((film) => film.data.hidden !== true)
+    .sort((a, b) => {
+      return a.data.title.localeCompare(b.data.title);
+    })
+);
+
+const artists = await getCollection("artists");
+
+const featured_films = [];
+
+
+for (const slug of settings.films) {
+  const film = await getEntryBySlug("films", slug);
+  featured_films.push(film);
+}
+---
+
+<Main title="Artist Rooms - The Films">
+  <main data-pagefind-ignore>
+    {
+      settings.intro && (
+        <section class="intro pb-12">
+          <div set:html={marked.parse(settings.intro)} />
+        </section>
+      )
+    }
+        <section>
+          <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between" xclass="flex flex-wrap gap-3 justify-around">
+            {
+              featured_films.map((film, index) => (
+                <li xclass="w-full lg:w-1/2 xl:w-1/3 xxl:w-1/4 py-4 border-b-8">
+                  <Video
+                    src={film.data.url}
+                    alt={film.data.title}
+                    title={film.data.title}
+                    loading={index >= 8 ? `lazy`:`eager`}
+                  >
+                    <div class="h-full">
+                      <h5 class="text-balance">
+                        FEATURED: {film.data.title.replace(/ARTIST ROOMS:?/, "")}
+                      </h5>
+                      ON:
+                      {film.data.artists &&
+                        film.data.artists.map((artist) => (
+                          <a class="artist" href={`/artists/${artist}`}>
+                            {
+                              artists.find(
+                                (a) => a.slug == artist && !a.data.hidden
+                              )?.data.title
+                            }
+                          </a>
+                        ))}
+                    </div>
+                  </Video>
+                </li>
+              ))
+            }
+          </ul>
+        </section>
+    
+    <section
+      x-data="{src: null, dialog_open: false}"
+      x-init="() => {window.$refs = $refs;}"
+    >
+      <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between">
+        {
+          films.map((film, index) => (
+            <li
+              class="film cursor-pointer"
+            >
+              <Video
+                src={film.data.url}
+                alt={film.data.title}
+                title={film.data.title}
+                loading={index >= 8 ? `lazy`:`eager`}
+              >
+                <div class="h-full">
+                  <h5 class="text-balance">
+                    {film.data.title.replace(/ARTIST ROOMS:?/, "")}
+                  </h5>
+                  ON:{" "}
+                  {film.data.artists &&
+                    film.data.artists.map((artist) => (
+                      <a class="artist" href={`/artists/${artist}`}>
+                        {
+                          artists.find(
+                            (a) => a.slug == artist && !a.data.hidden
+                          )?.data.title
+                        }
+                      </a>
+                    ))}{" "}
+                </div>
+              </Video>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+    {
+      settings.outro && (
+        <section class="outro pt-12">
+          <div set:html={marked.parse(settings.outro)} />
+        </section>
+      )
+    }
+
+  </main>
+</Main>

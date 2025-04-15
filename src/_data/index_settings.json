@@ -1,0 +1,25 @@
+{
+  "rooms": [
+    "art-and-text-london",
+    "ian-hamilton-finlay-edinburgh"
+  ],
+  "artists": [
+    "ian-hamilton-finlay",
+    "jenny-holzer",
+    "ed-ruscha",
+    "andy-warhol"
+  ],
+  "films": [
+    "tate-shots-ed-ruscha",
+    "artist-rooms-anselm-kiefer",
+    "artist-rooms-ian-hamilton-finlay"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "text": "ARTIST ROOMS is a world-class collection of international contemporary art dedicated to fostering creativity amongst young people nationwide.\n"
+    }
+  ],
+  "intro": "# ARTIST ROOMS is a world-class collection of international contemporary art dedicated to fostering creativity amongst young people nationwide.\n",
+  "outro": "_The ARTIST ROOMS programme and collection is managed by Tate and National Galleries of Scotland with the support of Art Fund, Henry Moore Foundation and using public funding by the National Lottery through Arts Council England and Creative Scotland. Its founding collection was established through The d’Offay Donation in 2008 with the assistance of the National Heritage Memorial Fund, Art Fund and the Scottish and British Governments._\n\n\n\n\n\n_ARTIST ROOMS is a collection of international modern and contemporary art, established through one of the largest and most imaginative gifts of art ever made to museums in Britain. It is owned on behalf of the United Kingdom by the National Galleries of Scotland and Tate, who together care for the Collection and arrange for its presentation across the country._\n"
+}
