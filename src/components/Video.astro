@@ -59,7 +59,7 @@ try {
   </div>
   <slot />
   <dialog
-    x-data="open"
+    x-data="{open:false}"
     @keyup.escape.window="$el.close()"
     class="w-lvw h-lvh bg-black bg-opacity-90 backdrop:bg-black backdrop:opacity-10"
     xclass="w-screen h-screen inset-0 z-[600] opacity-0 pointer-events-none transition-opacity duration-500 open:opacity-100 open:pointer-events-auto bg-[var(--gray)] backdrop:bg-gray-100 backdrop:opacity-80"
