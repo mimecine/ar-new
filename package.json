@@ -15,20 +15,20 @@
   },
   "dependencies": {
     "@alpinejs/persist": "^3.14.9",
-    "@astrojs/alpinejs": "^0.4.6",
+    "@astrojs/alpinejs": "^0.4.7",
     "@astrojs/check": "0.9.4",
-    "@astrojs/mdx": "3.1.7",
-    "@astrojs/netlify": "5.5.3",
+    "@astrojs/mdx": "^4.2.5",
+    "@astrojs/netlify": "^6.3.1",
     "@astrojs/rss": "^4.0.11",
-    "@astrojs/sitemap": "3.2.0",
-    "@astrojs/tailwind": "5.1.1",
+    "@astrojs/sitemap": "^3.3.1",
+    "@astrojs/tailwind": "^6.0.2",
     "@extractus/oembed-extractor": "^4.0.7",
     "@fontsource-variable/fredoka": "^5.2.6",
     "@googlemaps/google-maps-services-js": "^3.4.1",
     "@types/alpinejs": "^3.13.11",
     "@unpic/astro": "^1.0.0",
     "alpinejs": "^3.14.9",
-    "astro": "4.15.12",
+    "astro": "^5.7.9",
     "astro-embed": "^0.6.2",
     "astro-icon": "^1.1.5",
     "astro-pagefind": "^1.8.3",
@@ -56,6 +56,8 @@
     "yaml": "^2.7.1"
   },
   "trustedDependencies": [
-    "core-js"
+    "core-js",
+    "esbuild",
+    "sharp"
   ]
 }
