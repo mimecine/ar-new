@@ -18,13 +18,15 @@ const artists = await getCollection("artists");
 
 export async function GET({params, request}) {
     return new Response(
-        rooms.sort((a,b)=> { a.data.startdate.getFullYear() - b.data.startdate.getFullYear()}).map((room)=>{
-          return [room.data.title,room.data.venue,room.data.startdate.getFullYear(),room.data.enddate.getFullYear(),room.data.artists.map((artist)=>artist.name+' ')].join(",")
+      ['Title,Venue,StartYear,EndYear,artists',].join(",") + "\n" +
+        rooms.sort((a,b)=> { a.data.startdate - b.data.startdate}).map((room)=>{
+          return [room.data.title,room.data.venue,room.data.startdate.getFullYear(),room.data.enddate.getFullYear(),room.data.artists.map((artist)=>artist+' ')]
+          .map(el=>'"'+el+'"').join(",")
         }).join("\n"),
         {
           headers: {
             "Content-Type": "text/csv",
-            "Content-Disposition": `attachment; filename="rooms.csv"`,
+            // "Content-Disposition": `attachment; filename="rooms.csv"`,
           },
         }
     )
