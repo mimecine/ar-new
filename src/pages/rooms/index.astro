@@ -13,7 +13,7 @@ const continuos = new Date(2100, 1, 1);
 rooms = rooms
   .filter((room) => !room.data.hidden)
   .sort((a, b) => {
-    let date = (b.data.enddate || continuos) - (a.data.enddate || continuos);
+    let date = (b.data.startdate || continuos) - (a.data.startdate || continuos);
     return date;
   })
   .sort((a, b) => {
