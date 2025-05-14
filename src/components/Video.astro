@@ -38,15 +38,16 @@ try {
   err = e;
 }
 ---
-{ !fault && (<> 
-<!--FAULT getting thumb {JSON.stringify(err)} -->
-</>)}
 <div
   class="h-full cursor-pointer"
   onclick="this.querySelector('dialog').showModal()"
 >
   <div class="w-full bg-gray-200 h-64 flex justify-center items-center bg-no-repeat bg-center bg-[url('/SvgSpinners180RingWithBg.svg')]">
-    {
+    { fault && (<> 
+      <!--FAULT getting thumb {JSON.stringify(err)} -->
+      </>
+      )}
+          {
       thumb && (
         <Image
           width={width}
