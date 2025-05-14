@@ -40,7 +40,7 @@ for (const slug of settings.films) {
           <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between" xclass="flex flex-wrap gap-3 justify-around">
             {
               featured_films.map((film, index) => (
-                <li xclass="w-full lg:w-1/2 xl:w-1/3 xxl:w-1/4 py-4 border-b-8">
+                <li>
                   <Video
                     src={film.data.url}
                     alt={film.data.title}

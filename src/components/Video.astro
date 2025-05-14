@@ -8,7 +8,7 @@ type Props = HTMLAttributes<"img">;
 
 const { src, alt, title, class: className, ...props } = Astro.props;
 
-let film, id, url, embed, thumb, width, height, vtitle, fault;
+let film, id, url, embed, thumb, width, height, vtitle, fault, err;
 
 if (src?.includes("vimeo")) {
   let id = src.replace(
@@ -35,9 +35,12 @@ try {
 } catch (e) {
   console.log(e, id, url);
   fault = true
+  err = e;
 }
 ---
-{ !fault && <> </>}
+{ !fault && (<> 
+<!--FAULT getting thumb {JSON.stringify(err)} -->
+</>)}
 <div
   class="h-full cursor-pointer"
   onclick="this.querySelector('dialog').showModal()"
