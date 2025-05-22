@@ -38,7 +38,7 @@ content:
             list:
               collapsible:
                 collapsed: true
-                summary: "{title}"
+                summary: "{fields.title} ( {fields.year} ) #{fields.inventorynumber}"
             fields:
                 - name: src
                   label: Image
