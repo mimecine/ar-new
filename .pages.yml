@@ -29,13 +29,16 @@ content:
             type: rich-text
           - name : summary
             label: Summary
-            type: markdown
+            type: rich-text
             required: false
           - name: works
             label: Works
             type: object
-            list: true
             required: false
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{title}"
             fields:
                 - name: src
                   label: Image
