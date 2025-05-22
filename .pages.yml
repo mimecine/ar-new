@@ -1,6 +1,6 @@
 media:
-    input: src/assets/img
-    output: @assets/img
+    input: src/media
+    output: ../../media
 
 content:
     - name: posts
