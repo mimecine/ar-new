@@ -3,31 +3,7 @@ media:
     output: ../../media
 
 content:
-    - name: posts
-      label: Posts
-      type: collection
-      path: 'src/content/posts'
-      filename: '{primary}.md'
-      view:
-          fields: [title, published, date]
-      fields:
-          - name: published
-            label: Published
-            type: boolean
-            default: true
-          - name: date
-            label: Date
-            type: date
-          - name: title
-            label: Title
-            type: string
-          - name: image
-            label: Image
-            type: image
-            required: false
-          - name: body
-            label: Body
-            type: rich-text
+
     
     - name: artists
       label: Artists
@@ -35,7 +11,7 @@ content:
       path: 'src/content/artists'
       filename: '{primary}.md'
       view:
-          fields: [title, published, date]
+          fields: [title, hidden]
       fields:
           - name: hidden
             label: Hidden
@@ -57,7 +33,8 @@ content:
             required: false
           - name: works
             label: Works
-            type: list
+            type: object
+            list: true
             required: false
             fields:
                 - name: src
