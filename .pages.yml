@@ -1,0 +1,186 @@
+media:
+    input: src/assets/img
+    output: @assets/img
+
+content:
+    - name: posts
+      label: Posts
+      type: collection
+      path: 'src/content/posts'
+      filename: '{primary}.md'
+      view:
+          fields: [title, published, date]
+      fields:
+          - name: published
+            label: Published
+            type: boolean
+            default: true
+          - name: date
+            label: Date
+            type: date
+          - name: title
+            label: Title
+            type: string
+          - name: image
+            label: Image
+            type: image
+            required: false
+          - name: body
+            label: Body
+            type: rich-text
+    
+    - name: artists
+      label: Artists
+      type: collection
+      path: 'src/content/artists'
+      filename: '{primary}.md'
+      view:
+          fields: [title, published, date]
+      fields:
+          - name: hidden
+            label: Hidden
+            type: boolean
+            default: false
+          - name: title
+            label: Title
+            type: string
+          - name: featuredImage
+            label: Featured Image
+            type: image
+            required: false
+          - name: body
+            label: Biography
+            type: rich-text
+          - name : summary
+            label: Summary
+            type: markdown
+            required: false
+          - name: works
+            label: Works
+            type: list
+            required: false
+            fields:
+                - name: src
+                  label: Image
+                  type: image
+                - name: title
+                  label: Title
+                  type: string
+                  required: false
+                - name: year
+                  label: Year
+                  type: date
+                  date_format: 'yyyy'
+                  time_format: false
+                  format: 'yyyy'
+                  required: false
+                - name: category
+                  label: Category
+                  type: string
+                  required: false
+                - name: inventorynumber
+                  label: Catalog Number
+                  type: string
+                  required: false
+                - name: info
+                  label: Description
+                  type: text
+                  required: false
+                - name: credit
+                  label: Copyright 
+                  type: text 
+                  required: false
+                # - name: copyright
+                #   label: Copyright
+                #   type: text
+          - name: resources
+            label: Resources
+            type: file
+            required: false
+            multiple: true
+
+
+
+  # - label: "Artists"
+  #   label_singular: "Artist"
+  #   name: "artists"
+  #   folder: "src/content/artists"
+  #   create: true
+  #   summary: "{{fields.title}} {{ fields.hidden | ternary(' (HIDDEN)','') }}"
+  #   editor:
+  #     preview: false
+  #   fields:
+  #     - { label: "Name", name: "title", widget: "string" }
+  #     - { label: "Hidden", name: "hidden", widget: "boolean", default: false }
+  #     - { label: "Biography", name: "body", widget: "markdown" }
+  #     - { label: "Summary", name: "summary", widget: "markdown", required: false }
+  #     - { label: "Featured Image", name: "featuredImage", widget: "image", required: false }
+  #     - label: "Works"
+  #       label_singular: "Work"
+  #       name: "works"
+  #       widget: "list"
+  #       required: false
+  #       summary: "{{fields.image}}"
+  #       fields: 
+  #         - { label: Image, name: src, widget: image }
+  #         - { label: Title, name: title, widget: string, required: false }
+  #         - { label: Year, name: year, widget: "datetime", time_format: false, format: 'yyyy', required: false }
+  #         - { label: Category, name: category, widget: string, required: false }
+  #         - { label: "Catalog Number", name: inventorynumber, widget: string, required: false }
+  #         - { label: "Description", name: "info", widget: "text", required: false }
+  #         - { label: "Copyright", name: "credit", widget: "text", required: false }
+  #         # - { label: "Copyright", name: "copyright", widget: "text", required: false }
+  #     - label: "Resources"
+  #       label_singular: "Resource"
+  #       name: "resources"
+  #       widget: "file"
+  #       required: false
+  #       multiple: true
+          
+ 
+  # - label: "Rooms"
+  #   label_singular: "Room"
+  #   name: "rooms"
+  #   folder: "src/content/rooms"
+  #   create: true
+  #   summary: "{{title}} / {{startdate | date('yyyy')}} @ {{venue | upper}}  {{hidden | ternary('---**HIDDEN**', '')}}"
+  #   # # static cms
+  #   sortable_fields: 
+  #     fields: ["title","venue","startdate","enddate","hidden"]
+  #     default:
+  #       field: "enddate"
+  #       direction: Descending
+  #   # # decap cms
+  #   # sortable_fields: ["title","venue","startdate","enddate","hidden"]
+
+  #   editor:
+  #     preview: false
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Hidden", name: "hidden", widget: "boolean", default: false }
+  #     - { label: "Start", name: "startdate", widget: "datetime", date_format: 'yyyy-MM-dd', time_format: false, format: 'yyyy-MM-dd', required: true}
+  #     - { label: "End (set next if no ending date)", name: "enddate", widget: "datetime", date_format: 'yyyy-MM-dd', time_format: false, format: 'yyyy-MM-dd', required: true}
+  #     - { label: "Open ended", name: "ongoing", widget: "boolean", default: false }
+  #     - { label: "Priority", name: "priority", widget: "number", required: false, default: 0 }
+  #     - label: "Artists"
+  #       name: "artists"
+  #       widget: "relation"
+  #       collection: "artists"
+  #       multiple: true
+  #       search_fields: ["title"]
+  #       value_field: "{{slug}}"
+  #       display_fields: ["title"]
+  #     - label: "Venue"
+  #       name: "venue"
+  #       widget: "relation"
+  #       collection: "venues"
+  #       search_fields: ["title", "town"]
+  #       value_field: "{{slug}}"
+  #       display_fields: ["title", "town"]
+  #     - { label: "About", name: "body", widget: "markdown", required: false }
+  #     - label: "Images"
+  #       label_singular: "Image"
+  #       name: "images"
+  #       widget: "image"
+  #       required: false
+  #       multiple: true
