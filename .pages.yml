@@ -120,7 +120,7 @@ content:
               collection : artists 
               multiple : true 
               search : "title"
-              value : "{fields.primary}" 
+              value : "{title}" 
               label : "{fields.title}"
               image: "{fields.featuredImage}" 
           - name : venue 
