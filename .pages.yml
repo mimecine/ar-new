@@ -120,9 +120,9 @@ content:
               collection : artists 
               multiple : true 
               search : "title"
-              value : "primary" 
-              label : "title"
-              image: "{featuredImage}" 
+              value : "{fields.primary}" 
+              label : "{fields.title}"
+              image: "{fields.featuredImage}" 
           - name : venue 
             label : Venue 
             type: reference
