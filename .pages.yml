@@ -25,7 +25,7 @@ content:
           - name: body
             label: Biography
             type: rich-text
-          - name : summary
+          - name: summary
             label: Summary
             type: rich-text
             required: false
@@ -74,7 +74,8 @@ content:
             label: Resources
             type: file
             required: false
-            multiple: true
+            options:
+              multiple: true
     - name: rooms
       label: Rooms
       type: collection
@@ -117,8 +118,8 @@ content:
             options:
               collection : artists 
               multiple : true 
-              search : [title] 
-              value : "{primary}" 
+              search : "title"
+              value : "{fields.primary}" 
               label : "{title}"
               image: "{featuredImage}" 
           - name : venue 
@@ -139,7 +140,8 @@ content:
             label: Images
             type: image
             required: false
-            multiple: true
+            list: true
+
     - name: venues
       label: Venues
       type: collection
