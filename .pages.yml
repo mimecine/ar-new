@@ -121,7 +121,7 @@ content:
               multiple : true 
               search : "title"
               value : "{title}" 
-              label : "{fields.title}"
+              label : "title"
               image: "{fields.featuredImage}" 
           - name : venue 
             label : Venue 
