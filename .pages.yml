@@ -76,6 +76,7 @@ content:
             required: false
             options:
               multiple: true
+              
     - name: rooms
       label: Rooms
       type: collection
@@ -119,8 +120,8 @@ content:
               collection : artists 
               multiple : true 
               search : "title"
-              # value : "{fields.primary}" 
-              # label : "{title}"
+              value : "{primary}" 
+              label : "{title}"
               image: "{featuredImage}" 
           - name : venue 
             label : Venue 
