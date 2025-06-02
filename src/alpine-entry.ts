@@ -1,26 +1,10 @@
 import type { Alpine } from 'alpinejs'
 import persist from '@alpinejs/persist'
 
-import { extract } from '@extractus/oembed-extractor';
-
-async function getPoster(url: string): Promise<string | null> {
-    try {
-        const data = await extract(url);
-        console.log('Extracted data:', data);
-        return data.thumbnail_url || null;
-    } catch (error) {
-        console.error('Error fetching poster:', error);
-        return null;
-    }
-}
-
-
 export default (Alpine: Alpine) => {
     Alpine.plugin(persist);
     Alpine.magic('getPoster',  () => async (url: string) => await fetchPoster(url));
 }
-
-// fetch poster from vimeo/youtube url using async fetch by using https://vimeo.com/api/oembed.json?url=https%3A%2F%2Fvimeo.com%2F115165445%3Fh%3D2c35f6a2bb and the corresponding oembed endpoint for youtube
 
 async function fetchPoster(url: string): Promise<string | null> {
     const vimeoRegex = /https?:\/\/(www\.)?vimeo\.com\/(\d+)/;
@@ -44,6 +28,3 @@ async function fetchPoster(url: string): Promise<string | null> {
 
     return null;
 }           
-// Example usage
-// (async () => {
-//     const poster = await fetchPoster('https://vimeo.com/115165445');

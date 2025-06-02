@@ -20,9 +20,20 @@ type Props = CollectionEntry<"artists">;
 
 const artist = Astro.props;
 
+const categories = ["painting", "sculpture"];
+function  categorySort(a, b) { // sorts alphabetically by category but puts categories in the array first in that order
+  const aIndex = categories.indexOf(a.category.toLowerCase());
+  const bIndex = categories.indexOf(b.category.toLowerCase());
+  if (aIndex === -1 && bIndex === -1) return a.category.localeCompare(b.category); // both not in categories
+  if (aIndex === -1) return 1; // a not in categories, b is
+  if (bIndex === -1) return -1; // b not in categories, a is
+  return aIndex - bIndex; // both in categories, sort by index
+}
+
 let sortedWorks = artist.data.works
 .sort((a, b) => {
-  return b.category.toLowerCase() == 'sculpture' ? 1:0 || b.category.toLowerCase() == 'painting' ? 1:0 || a.category.localeCompare(b.category) ||  a.year - b.year || a.title.split(",").pop().localeCompare(b.title.split(",").pop());
+  return categorySort(a,b) || a.year - b.year || a.title.split(",").pop().localeCompare(b.title.split(",").pop());
+  // return a.category.localeCompare(b.category) ||  b.category.toLowerCase() == 'sculpture' ? 1:0 || b.category.toLowerCase() == 'painting' ? 1:0 || a.year - b.year || a.title.split(",").pop().localeCompare(b.title.split(",").pop());
 }); // needs mod to sort by year
 
 const { Content } = await artist.render();
