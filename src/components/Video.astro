@@ -28,7 +28,9 @@ if (src?.includes("vimeo")) {
 
 
 try {
+  console.log("extracting", url);
   let res = await extract(url);
+  console.log("extracted", JSON.stringify(res));
   thumb = res.thumbnail_url;
   width = res.thumbnail_width;
   height = res.thumbnail_height;
@@ -44,9 +46,9 @@ try {
 >
   <div class="w-full bg-gray-200 h-64 flex justify-center items-center bg-no-repeat bg-center bg-[url('/SvgSpinners180RingWithBg.svg')]">
 
-    { fault && (<> 
+    { fault && (<div class="hidden"> 
       FAULT getting thumb {JSON.stringify({err, id, url, embed})}
-      </>
+      </div>
       )}
           {
       thumb && (
@@ -59,6 +61,12 @@ try {
           onload="this.classList.remove('opacity-0')"
           {...props}
         />
+      ) || (
+        <Icon
+          name="material-symbols-light:video-library-rounded"
+          class={`size-12 lg:size-12 ${className || ""}`}
+          title={title || "Video"}
+          />
       )
     }
   </div>

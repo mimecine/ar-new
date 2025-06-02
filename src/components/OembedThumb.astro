@@ -1,0 +1,47 @@
+---
+import { Image } from "astro:assets";
+import type { HTMLAttributes } from "astro/types";
+import { extract } from "@extractus/oembed-extractor";
+import { Icon } from "astro-icon/components";
+
+type Props = HTMLAttributes<"img">;
+
+const { src, alt, title, class: className, ...props } = Astro.props;
+---
+
+
+
+<script>
+    import { extract } from "https://esm.sh/@extractus/oembed-extractor@latest"
+
+    let film, id, url, embed, thumb, width, height, vtitle, fault, err;
+    
+    if (src?.includes("vimeo")) {
+        id = src.replace(
+        /(?:http:|https:|)\/\/(?:player.|www.)?vimeo\.com\/(?:video\/|embed\/|watch\?\S*v=|v\/)?(\d*)(?:.*)/gim,
+        "$1"
+        );
+        url = `https://vimeo.com/${id}`;
+        embed = `https://player.vimeo.com/video/${id}?app_id=122963`;
+    } else if (src?.includes("youtube")) {
+        id = src.replace(
+        /(?:http:|https:|)\/\/(?:www\.|)youtube\.com\/(?:watch\?.*(?:|\&)v=|embed\/|v\/|watch\?.*?\bv=)([^#\&\?]*).*/gim,
+        "$1"
+        );
+        url = `https://youtube.com/watch?v=${id}`;
+        embed = `https://www.youtube.com/embed/${id}`;
+    }
+    
+    try {
+        console.log("extracting", url);
+        let res = await extract(url);
+        console.log("extracted", JSON.stringify(res));
+        thumb = res.thumbnail_url;
+        width = res.thumbnail_width;
+        height = res.thumbnail_height;
+    } catch (e) {
+        console.log(e, id, url);
+        fault = true;
+        err = e;
+    }
+</script>
