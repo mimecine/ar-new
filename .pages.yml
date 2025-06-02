@@ -117,9 +117,9 @@ content:
             options:
               collection : artists 
               multiple : true 
-              search : [title] 
-              value : "{primary}" 
-              label : "{title}"
+              search : "title"
+              # value : "{fields.primary}" 
+              # label : "{title}"
               image: "{featuredImage}" 
           - name : venue 
             label : Venue 
@@ -127,8 +127,8 @@ content:
             options:
               collection : venues 
               search : [title, town] 
-              value : "{primary}" 
-              label : "{title}"
+              # value : "{primary}" 
+              # label : "{title}"
               image: "{featuredImage}"
 
           - name: body
@@ -139,7 +139,8 @@ content:
             label: Images
             type: image
             required: false
-            multiple: true
+            list: true
+
     - name: venues
       label: Venues
       type: collection

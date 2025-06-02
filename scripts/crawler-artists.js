@@ -88,6 +88,7 @@ c.queue([
                           .split("/")
                           .pop().toUpperCase();
                         const title = $("h2", el).first().text();
+                        // subtitle -- abandoning for the moment as too messy to extract from source doc
                         const info = $("p.info", el).first().text();
                         const year = [title,info].join().match(/\d{4}/)?.slice(0)[0]; 
                         const credit = $(".details p", el)

@@ -43,8 +43,9 @@ try {
   onclick="this.querySelector('dialog').showModal()"
 >
   <div class="w-full bg-gray-200 h-64 flex justify-center items-center bg-no-repeat bg-center bg-[url('/SvgSpinners180RingWithBg.svg')]">
+
     { fault && (<> 
-      <!--FAULT getting thumb {JSON.stringify(err)} -->
+      FAULT getting thumb {JSON.stringify({err, id, url, embed})}
       </>
       )}
           {
