@@ -1,10 +1,5 @@
 ---
 title: Art and Text, London
-hidden: false
-startdate: 2023-02-27
-enddate: 2024-12-08
-ongoing: false
-priority: 0
 artists:
   - mario-merz
   - lawrence-weiner
@@ -17,8 +12,20 @@ artists:
   - jenny-holzer
   - louise-bourgeois
 venue: tate-modern
-images: ../../media/art-and-text-london-tate-modern-2023-02-27-0.webp
+images:
+  - ../../media/art-and-text-london-tate-modern-2023-02-27-0.webp
+  - ../../media/art-and-text-london-tate-modern-2023-02-27-1.webp
+  - ../../media/art-and-text-london-tate-modern-2023-02-27-2.webp
+  - ../../media/art-and-text-london-tate-modern-2023-02-27-3.webp
+  - ../../media/art-and-text-london-tate-modern-2023-02-27-4.webp
+  - ../../media/art-and-text-london-tate-modern-2023-02-27-5.webp
+startdate: 2023-02-27
+enddate: 2024-12-08
+town: London
+url: https://www.tate.org.uk/visit/tate-modern/display/artist-rooms-art-and-text
+
 ---
+
 People have used language as an expressive art form for millennia, from oral tradition and the spoken word, to illuminated manuscripts and printed publications. This room brings together works produced in the last 50 years in Europe and the USA. They demonstrate different ways of engaging with text and its role as a form of communication.
 
 By the late 1960s, text was the primary focus of many visual artworks. Artists associated with movements like cubism and Pop Art had long incorporated words found in advertising and mass media. Those interested in concrete poetry (such as Ian Hamilton Finlay) and conceptual art (such as Lawrence Weiner) often made artworks from text alone.

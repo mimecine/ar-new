@@ -4,16 +4,21 @@ artists:
   - joseph-beuys
 venue: tate-modern
 images:
-  - ../../media/joseph-beuys-london-tate-modern-2010-08-10-0.webp
-  - ../../media/joseph-beuys-london-tate-modern-2010-08-10-1.webp
-  - ../../media/joseph-beuys-london-tate-modern-2010-08-10-2.webp
-startdate: 2010-08-10
-enddate: 2015-09-27
+  - ../../media/joseph-beuys-london-tate-modern-2018-11-19-0.webp
+  - ../../media/joseph-beuys-london-tate-modern-2018-11-19-1.webp
+  - ../../media/joseph-beuys-london-tate-modern-2018-11-19-2.webp
+  - ../../media/joseph-beuys-london-tate-modern-2018-11-19-3.webp
+startdate: 2018-11-19
+enddate: 2021-03-10
 town: London
-url: http://www.tate.org.uk/visit/tate-modern
+url: https://www.tate.org.uk/
 
 ---
 
-This ARTIST ROOM brought together works from the early 1980s, including the installation 'Lightning with Stag in its Glare'. Many of the works shown here were part of an exhibition called Zeitgeist held in 1982 at the Martin-Gropius Bau, Berlin. In a section entitled ‘Workshop’ Beuys installed a huge mound of clay – a raw material formed from the earth – and surrounded it with sculptures as well as furniture, tools and other items taken from his studio.
+As well as sculpture and performance, Joseph Beuys's work as an artist came to encompass social theory and political action. Beuys’s activities became explicitly politicised in the 1970s. He founded a Free Academy and the more overtly political Organisation for Direct Democracy through Referendum. Later he became involved in the German Green Party.
 
-After the exhibition, Beuys made casts of some of the elements to create 'Lightning with Stag in its Glare'. In this installation, his animal sculptures – composed from the ramshackle detritus of industrial civilization – are endowed with mythic significance. The bolt of lightning itself was a bronze cast from a section of the clay mound, while the stag was cast in aluminium as if illuminated by a sudden flash of light. Maggot-like primordial creatures were fashioned by embedding tools such as spanners and screwdrivers in scoops of clay. Made towards the end of the artist’s life, the installation addresses themes of finality and death, but also ideas of regeneration through the transformative power of natural energies.
+The two large installations in this room date from the final years of Beuys’s life, when he returned to working with stone, wood and bronze. Both works address themes of finality and death, but also ideas of regeneration through nature.
+
+In 1982, Beuys took part in an exhibition in Berlin. He installed a huge mound of clay and surrounded it with sculptures as well as furniture and tools from his studio. Afterwards he made casts of some of the elements to create Lightning with Stag in its Glare 1958-85. The bolt of lightning itself was a bronze cast from a section of the clay mound. The stag was cast in aluminium, as if illuminated by a sudden flash of light.
+
+In The End of the Twentieth Century 1983-5 blocks of basalt lie scattered on the ground. Basalt is volcanic in origin, and Beuys associated it with the earth’s ancient energy. Into each of the slabs, Beuys bored a conical hole to create a ‘wound’. He then ‘treated’ it by smoothing and lining the hollow with insulating clay and felt, before re-inserting the stone. These filled cavities imply the potential for healing, suggesting the possibility of renewal at the end of a violent and destructive century.

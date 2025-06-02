@@ -5,6 +5,11 @@ artists:
 venue: tate-modern
 images:
   - ../../media/francesca-woodman-london-tate-modern-2025-01-20-0.webp
+  - ../../media/francesca-woodman-london-tate-modern-2025-01-20-1.webp
+  - ../../media/francesca-woodman-london-tate-modern-2025-01-20-2.webp
+  - ../../media/francesca-woodman-london-tate-modern-2025-01-20-3.webp
+  - ../../media/francesca-woodman-london-tate-modern-2025-01-20-4.webp
+  - ../../media/francesca-woodman-london-tate-modern-2025-01-20-5.webp
 startdate: 2025-01-20
 enddate: 2027-01-31
 town: London

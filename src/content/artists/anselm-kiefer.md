@@ -14,9 +14,9 @@ works:
 
       AR00613
     src: ../../media/anselm-kiefer-ar00613-palette-1981.webp
-  - inventorynumber: AR00041
+  - inventorynumber: AR00041-1
     category: Installation
-    title: Cette obscure clarté qui tombe des étoiles, 1999
+    title: Cette obscure clarté qui tombe des étoiles, 1999 - Part 1/2
     info: 1999,  Acrylic paint, oil paint, shellac, earth, sand, wood, paper and
       glass on 2 canvases, lead, iron, books and other materials,  4700 x 4000
       mm
@@ -25,7 +25,19 @@ works:
       © Anselm Kiefer
 
       AR00041
-    src: ../../media/anselm-kiefer-ar00041-cette-obscure-clart-qui-tombe-des-toiles-1999.webp
+    src: ../../media/anselm-kiefer-ar00041-1-cette-obscure-clart-qui-tombe-des-toiles-1999-part-12.webp
+  - inventorynumber: AR00041-2
+    category: Installation
+    title: Cette obscure clarté qui tombe des étoiles, 1999 - Part 2/2
+    info: 1999,  Acrylic paint, oil paint, shellac, earth, sand, wood, paper and
+      glass on 2 canvases, lead, iron, books and other materials,  4700 x 4000
+      mm
+    year: "1999"
+    credit: |-
+      © Anselm Kiefer
+
+      AR00041
+    src: ../../media/anselm-kiefer-ar00041-2-cette-obscure-clart-qui-tombe-des-toiles-1999-part-22.webp
   - inventorynumber: AR00038
     category: Installation
     title: Palmsonntag, 2006
