@@ -26,32 +26,56 @@ if (src?.includes("vimeo")) {
   embed = `https://www.youtube.com/embed/${id}`;
 }
 
+
+try {
+  console.log("extracting", url);
+  let res = await extract(url);
+  console.log("extracted", JSON.stringify(res));
+  thumb = res.thumbnail_url;
+  width = res.thumbnail_width;
+  height = res.thumbnail_height;
+} catch (e) {
+  console.log(e, id, url);
+  fault = true
+  err = e;
+}
 ---
-
-
 <div
   class="h-full cursor-pointer"
   onclick="this.querySelector('dialog').showModal()"
 >
-  <div class="w-full bg-gray-200 h-64 flex justify-center items-center bg-no-repeat bg-center bg-[url('/SvgSpinners180RingWithBg.svg')]" x-data={`{poster:null}`} x-init={`poster =  await $getPoster('${url}')`}>
-    <img
-      :src="poster"
-      x-show="poster"
-      x-transition:enter="transition ease-out duration-1000"
-      x-transition:enter-start="opacity-0"
-      x-transition:enter-end="opacity-100"
-      class="max-w-full h-full w-auto object-contain p-2 opacity-0 transition-opacity duration-500"
-      onload="this.classList.remove('opacity-0')"
-      loading="lazy"
-    />
+  <div class="w-full bg-gray-200 h-64 flex justify-center items-center bg-no-repeat bg-center bg-[url('/SvgSpinners180RingWithBg.svg')]">
 
-
+    { fault && (<div class="hidden"> 
+      FAULT getting thumb {JSON.stringify({err, id, url, embed})}
+      </div>
+      )}
+          {
+      thumb && (
+        <Image
+          width={width}
+          height={height}
+          src={thumb}
+          alt={title}
+          class="max-w-full h-full w-auto object-contain p-2 opacity-0 transition-opacity duration-500 "
+          onload="this.classList.remove('opacity-0')"
+          {...props}
+        />
+      ) || (
+        <Icon
+          name="material-symbols-light:video-library-rounded"
+          class={`size-12 lg:size-12 ${className || ""}`}
+          title={title || "Video"}
+          />
+      )
+    }
   </div>
   <slot />
   <dialog
     x-data="{open:false}"
     @keyup.escape.window="$el.close()"
     class="w-lvw h-lvh bg-black bg-opacity-90 backdrop:bg-black backdrop:opacity-10"
+    xclass="w-screen h-screen inset-0 z-[600] opacity-0 pointer-events-none transition-opacity duration-500 open:opacity-100 open:pointer-events-auto bg-[var(--gray)] backdrop:bg-gray-100 backdrop:opacity-80"
 
     onclose="this.querySelector('iframe').src = null; this.querySelector('iframe').src = this.querySelector('iframe').dataset.src;"
   >
@@ -70,7 +94,6 @@ if (src?.includes("vimeo")) {
         class="w-full h-auto aspect-video object-contain bg-gray bg-no-repeat bg-center bg-[url('/SvgSpinners180RingWithBg.svg')]"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen
-        loading="lazy"
         src={embed}
         data-src={embed}></iframe>
     </div>
