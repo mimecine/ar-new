@@ -25,7 +25,7 @@ content:
           - name: body
             label: Biography
             type: rich-text
-          - name : summary
+          - name: summary
             label: Summary
             type: rich-text
             required: false
@@ -74,7 +74,9 @@ content:
             label: Resources
             type: file
             required: false
-            multiple: true
+            options:
+              multiple: true
+              
     - name: rooms
       label: Rooms
       type: collection
@@ -127,8 +129,8 @@ content:
             options:
               collection : venues 
               search : [title, town] 
-              # value : "{primary}" 
-              # label : "{title}"
+              value : "{primary}" 
+              label : "{title}"
               image: "{featuredImage}"
 
           - name: body
@@ -147,7 +149,7 @@ content:
       path: 'src/content/venues'
       filename: '{primary}.md'
       view:
-          fields: [title, town, hidden]
+          fields: 'title, town'
       fields:
           - name: title
             label: Title
@@ -217,8 +219,8 @@ content:
               collection: artists 
               multiple: true 
               search: "title" 
-              value: "{fields.primary}" 
-              label: "{fields.title}"
+              # value: "{fields.primary}" 
+              # label: "{fields.title}"
               image: "{fields.featuredImage}" 
           - name: body
             label: About
