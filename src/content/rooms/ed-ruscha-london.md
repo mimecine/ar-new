@@ -4,43 +4,79 @@ artists:
   - ed-ruscha
 venue: tate-modern
 images:
-  - src: ../../media/ed-ruscha-london-tate-modern-2009-04-29-0.webp
-    title: ed ruscha london tate modern 2009 04 29 0
+  - src: ../../media/ed-ruscha-london-tate-modern-2019-07-25-0.webp
+    title: ed ruscha london tate modern 2019 07 25 0
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/ed-ruscha-london-tate-modern-2009-04-29-1.webp
-    title: ed ruscha london tate modern 2009 04 29 1
+  - src: ../../media/ed-ruscha-london-tate-modern-2019-07-25-1.webp
+    title: ed ruscha london tate modern 2019 07 25 1
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/ed-ruscha-london-tate-modern-2009-04-29-2.webp
-    title: ed ruscha london tate modern 2009 04 29 2
+  - src: ../../media/ed-ruscha-london-tate-modern-2019-07-25-2.webp
+    title: ed ruscha london tate modern 2019 07 25 2
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/ed-ruscha-london-tate-modern-2009-04-29-3.webp
-    title: ed ruscha london tate modern 2009 04 29 3
+  - src: ../../media/ed-ruscha-london-tate-modern-2019-07-25-3.webp
+    title: ed ruscha london tate modern 2019 07 25 3
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/ed-ruscha-london-tate-modern-2009-04-29-4.webp
-    title: ed ruscha london tate modern 2009 04 29 4
+  - src: ../../media/ed-ruscha-london-tate-modern-2019-07-25-4.webp
+    title: ed ruscha london tate modern 2019 07 25 4
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-startdate: 2009-04-29
-enddate: 2010-01-01
+  - src: ../../media/ed-ruscha-london-tate-modern-2019-07-25-5.webp
+    title: ed ruscha london tate modern 2019 07 25 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-london-tate-modern-2019-07-25-6.webp
+    title: ed ruscha london tate modern 2019 07 25 6
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-london-tate-modern-2019-07-25-7.webp
+    title: ed ruscha london tate modern 2019 07 25 7
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-london-tate-modern-2019-07-25-8.webp
+    title: ed ruscha london tate modern 2019 07 25 8
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+startdate: 2019-07-25
+enddate: 2020-06-28
 town: London
-url: http://www.tate.org.uk/visit/tate-modern
+ongoing: false
 
 ---
 
-The Los Angeles-based artist Ed Ruscha is one of the most consistently inventive American artists of the last fifty years. Ruscha’s work explores his fascination with the enigmatic power of language, and is heavily influence by the glossy, democratic, sun-kissed culture of the American West Coast in the second half of the twentieth century. His art is often compared to pop and conceptual Art but nonetheless escapes easy categorisation. His influence extends beyond painting into the publication of artists' books, of which format Ruscha was a contemporary pioneer.
+Explore sixty years of work by influential American artist, Ed Ruscha
 
-For this exhibition, six ARTIST ROOMS including Robert Therrien’s gigantic sculpture No Title (Table and Four Chairs) 2003 filled the central gallery of a display exploring scale. Other highlights included major paintings by Ed Ruscha and Andy Warhol in the States of Flux galleries on Level 5. Works by Jannis Kounellis and Anselm Kiefer were shown in a suite of galleries dedicated to the arte povera movement.
+On a 1963 business card, Ed Ruscha explained how to pronounce his name (‘ED-WERD REW-SHAY’) and described himself simply as ‘young artist’. He began his career creating commercial graphics for a Los Angeles advertising agency in the 1960s. His subsequent work often references advertising, both in themes and technique. How words, sounds and images relate to each other is an ongoing fascination.
+
+Using eye-catching type, Ruscha makes us expect a straightforward advertising slogan. Instead, he creates strange or contradictory images. He has said, ‘I’ve always had a deep respect for things that are odd, for things that cannot be explained. Explanations seem to me to sort of finish things off’.
+
+This display reflects the range of Ruscha’s practice, including paintings, prints and photographic books. It includes examples of his use of unusual substances. DANCE? 1973 was made using coffee, egg white and mustard. Ruscha often draws inspiration from his adopted hometown of Los Angeles. Its architecture and imagery feature in much of his work. Full of irony and humour, his works can also be interpreted as commentaries on American society.
+
+Ed Ruscha was born in 1937 in Omaha, Nebraska, USA. He lives and works in Los Angeles.
+
+Curated by Kerryn Greenberg and Valentina Ravaglia
+
+This display draws from ARTIST ROOMS, a touring collection of over 1,600 works of modern and contemporary art by 42 major artists. The collection is displayed across the UK through a touring programme, supported by Arts Council England, Art Fund and Creative Scotland. The ARTIST ROOMS collection is owned jointly by Tate and the National Galleries of Scotland and was established through The d’Offay Donation in 2008, with the assistance of the National Heritage Memorial Fund, Art Fund and the Scottish and British Governments.
+
+The ARTIST ROOMS Gallery opened in the Blavatnik Building on 17 June 2016 with an exhibition of Louise Bourgeois, followed by Bruce Nauman in 2017 and Jenny Holzer in 2018.

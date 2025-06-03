@@ -32,6 +32,7 @@ startdate: 2010-05-15
 enddate: 2010-07-11
 town: Cambridge
 url: http://www.kettlesyard.co.uk/
+ongoing: false
 
 ---
 

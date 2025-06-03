@@ -56,6 +56,7 @@ startdate: 2017-10-13
 enddate: 2018-01-21
 town: Leeds
 url: https://museumsandgalleries.leeds.gov.uk/leeds-art-gallery/
+ongoing: false
 
 ---
 

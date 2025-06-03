@@ -32,6 +32,7 @@ startdate: 2015-06-06
 enddate: 2015-09-06
 town: Helmsdale
 url: http://timespan.org.uk/
+ongoing: false
 
 ---
 

@@ -32,6 +32,7 @@ startdate: 2015-10-03
 enddate: 2016-02-07
 town: Cheltenham
 url: http://www.cheltenhammuseum.org.uk/
+ongoing: false
 
 ---
 

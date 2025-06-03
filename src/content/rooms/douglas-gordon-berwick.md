@@ -26,6 +26,7 @@ startdate: 2018-06-02
 enddate: 2018-09-02
 town: Berwick
 url: https://www.visitberwick.com/where-to-go/gymnasium-gallery/
+ongoing: false
 
 ---
 

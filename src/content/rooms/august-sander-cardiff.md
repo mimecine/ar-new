@@ -68,6 +68,7 @@ startdate: 2019-10-26
 enddate: 2020-03-01
 town: Cardiff
 url: https://museum.wales/cardiff/
+ongoing: false
 
 ---
 

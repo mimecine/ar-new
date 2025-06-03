@@ -50,6 +50,7 @@ startdate: 2025-03-15
 enddate: 2025-06-29
 town: Milton Keynes
 url: https://mkgallery.org/event/andy-warhol-portrait-of-america/
+ongoing: false
 
 ---
 

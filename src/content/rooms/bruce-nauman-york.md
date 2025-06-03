@@ -32,6 +32,7 @@ startdate: 2013-07-26
 enddate: 2013-11-10
 town: York
 url: https://www.yorkstmarys.org.uk/
+ongoing: false
 
 ---
 

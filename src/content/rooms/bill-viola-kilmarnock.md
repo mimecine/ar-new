@@ -26,6 +26,7 @@ startdate: 2011-09-03
 enddate: 2011-12-24
 town: Kilmarnock
 url: http://www.east-ayrshire.gov.uk/communitylifeandleisure/museumsandgalleries/dickinstitute.aspx
+ongoing: false
 
 ---
 

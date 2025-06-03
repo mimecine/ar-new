@@ -32,6 +32,7 @@ startdate: 2021-11-27
 enddate: 2023-10-29
 town: St Ives
 url: https://www.tate.org.uk/visit/tate-st-ives
+ongoing: false
 
 ---
 

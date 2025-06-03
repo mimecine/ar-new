@@ -26,6 +26,7 @@ startdate: 2010-02-04
 enddate: 2010-04-11
 town: Manchester
 url: http://www.manchestergalleries.org/
+ongoing: false
 
 ---
 

@@ -44,6 +44,7 @@ startdate: 2020-01-27
 enddate: 2023-11-05
 town: London
 url: https://www.tate.org.uk/visit/tate-modern
+ongoing: false
 
 ---
 

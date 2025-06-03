@@ -32,6 +32,7 @@ startdate: 2018-11-02
 enddate: 2019-02-17
 town: Dundee
 url: https://www.mcmanus.co.uk/
+ongoing: false
 
 ---
 

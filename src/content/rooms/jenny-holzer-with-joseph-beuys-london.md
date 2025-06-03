@@ -21,6 +21,7 @@ startdate: 2022-04-11
 enddate: 2024-05-19
 town: London
 url: https://www.tate.org.uk/visit/tate-modern/display/artist-and-society/joseph-beuys-and-jenny-holzer
+ongoing: false
 
 ---
 

@@ -32,6 +32,7 @@ startdate: 2015-04-04
 enddate: 2015-06-28
 town: Sleaford
 url: http://www.nationalcraftanddesign.org.uk/
+ongoing: false
 
 ---
 

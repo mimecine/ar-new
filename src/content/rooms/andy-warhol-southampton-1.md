@@ -31,6 +31,7 @@ startdate: 2011-03-27
 enddate: 2011-06-26
 town: Southampton
 url: http://www.southampton.gov.uk/s-leisure/artsheritage/sotonartgallery/
+ongoing: false
 
 ---
 

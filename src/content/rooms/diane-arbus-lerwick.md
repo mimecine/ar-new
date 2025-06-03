@@ -43,6 +43,7 @@ startdate: 2023-08-19
 enddate: 2023-11-12
 town: Lerwick
 url: https://www.shetlandmuseumandarchives.org.uk/
+ongoing: false
 
 ---
 

@@ -19,6 +19,7 @@ images:
 startdate: 2011-01-15
 enddate: 2011-02-26
 town: Thurso
+ongoing: false
 
 ---
 

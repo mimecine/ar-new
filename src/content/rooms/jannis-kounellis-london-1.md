@@ -134,6 +134,7 @@ startdate: 2023-07-24
 enddate: 2024-09-08
 town: London
 url: https://www.tate.org.uk/visit/tate-modern/display/jannis-kounellis
+ongoing: false
 
 ---
 

@@ -57,6 +57,7 @@ startdate: 2023-11-23
 enddate: 2024-02-11
 town: Bideford
 url: https://www.burtonartgallery.co.uk/
+ongoing: false
 
 ---
 

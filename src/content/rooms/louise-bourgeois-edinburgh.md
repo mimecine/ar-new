@@ -43,6 +43,7 @@ startdate: 2013-10-26
 enddate: 2014-05-18
 town: Edinburgh
 url: http://www.nationalgalleries.org/whatson/exhibitions/artist-rooms-louise-bourgeois-a-woman-without-secrets
+ongoing: false
 
 ---
 

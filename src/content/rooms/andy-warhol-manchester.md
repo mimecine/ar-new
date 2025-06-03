@@ -50,6 +50,7 @@ startdate: 2016-11-19
 enddate: 2017-04-16
 town: Manchester
 url: http://www.whitworth.manchester.ac.uk
+ongoing: false
 
 ---
 

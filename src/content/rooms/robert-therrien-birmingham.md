@@ -32,6 +32,7 @@ startdate: 2014-06-21
 enddate: 2014-09-07
 town: Birmingham
 url: https://macbirmingham.co.uk/
+ongoing: false
 
 ---
 

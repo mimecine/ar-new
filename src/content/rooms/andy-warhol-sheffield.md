@@ -38,6 +38,7 @@ startdate: 2012-04-11
 enddate: 2012-12-01
 town: Sheffield
 url: http://www.museums-sheffield.org.uk/museums/graves-gallery/home
+ongoing: false
 
 ---
 

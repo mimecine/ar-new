@@ -26,6 +26,7 @@ startdate: 2010-11-20
 enddate: 2011-02-19
 town: Llandudno
 url: http://www.mostyn.org/
+ongoing: false
 
 ---
 

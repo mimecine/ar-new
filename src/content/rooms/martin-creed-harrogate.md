@@ -49,6 +49,7 @@ startdate: 2023-04-01
 enddate: 2023-06-02
 town: Harrogate
 url: https://www.visitharrogate.co.uk/business-directory/mercer-art-gallery
+ongoing: false
 
 ---
 

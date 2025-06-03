@@ -38,6 +38,7 @@ startdate: 2015-05-09
 enddate: 2015-09-06
 town: Norwich
 url: http://www.museums.norfolk.gov.uk/Visit_Us/Norwich_Castle
+ongoing: false
 
 ---
 

@@ -38,6 +38,7 @@ startdate: 2009-04-03
 enddate: 2010-03-14
 town: London
 url: https://www.tate.org.uk/
+ongoing: false
 
 ---
 

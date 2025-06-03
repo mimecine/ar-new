@@ -26,6 +26,7 @@ startdate: 2012-07-20
 enddate: 2012-10-28
 town: Linlithgow
 url: http://www.linlithgowburghhalls.co.uk/
+ongoing: false
 
 ---
 

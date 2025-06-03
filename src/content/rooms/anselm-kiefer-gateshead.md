@@ -26,6 +26,7 @@ startdate: 2010-10-07
 enddate: 2011-01-16
 town: Gateshead
 url: https://www.balticmill.com/
+ongoing: false
 
 ---
 

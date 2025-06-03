@@ -38,6 +38,7 @@ startdate: 2015-01-16
 enddate: 2015-04-18
 town: Southampton
 url: http://www.southampton.gov.uk/art/
+ongoing: false
 
 ---
 

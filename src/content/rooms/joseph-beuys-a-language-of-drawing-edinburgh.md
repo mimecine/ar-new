@@ -43,6 +43,7 @@ startdate: 2016-07-30
 enddate: 2016-10-30
 town: Edinburgh
 url: https://www.nationalgalleries.org/whatson/exhibitions/artist-rooms-joseph-beuys-a-language-of-drawing
+ongoing: false
 
 ---
 

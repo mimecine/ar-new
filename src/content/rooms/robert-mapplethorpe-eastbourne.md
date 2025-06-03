@@ -38,6 +38,7 @@ startdate: 2010-09-25
 enddate: 2010-11-21
 town: Eastbourne
 url: http://www.townereastbourne.org.uk/
+ongoing: false
 
 ---
 

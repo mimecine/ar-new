@@ -32,6 +32,7 @@ startdate: 2014-11-15
 enddate: 2015-02-25
 town: Powys
 url: http://www.orieldavies.org/
+ongoing: false
 
 ---
 

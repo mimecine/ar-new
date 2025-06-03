@@ -26,6 +26,7 @@ startdate: 2018-07-07
 enddate: 2018-10-07
 town: Winchester
 url: https://www.visitwinchester.co.uk/listing/winchester-discovery-centre/
+ongoing: false
 
 ---
 

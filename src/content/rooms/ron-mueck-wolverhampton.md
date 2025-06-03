@@ -62,6 +62,7 @@ startdate: 2013-07-20
 enddate: 2013-11-02
 town: Wolverhampton
 url: http://www.wolverhamptonart.org.uk/
+ongoing: false
 
 ---
 

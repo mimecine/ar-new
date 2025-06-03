@@ -14,6 +14,7 @@ startdate: 2013-11-29
 enddate: 2014-06-08
 town: Margate
 url: http://www.turnercontemporary.org/
+ongoing: false
 
 ---
 

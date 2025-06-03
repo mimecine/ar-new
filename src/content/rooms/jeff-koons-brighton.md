@@ -32,6 +32,7 @@ startdate: 2013-05-11
 enddate: 2013-09-08
 town: Brighton
 url: http://www.brighton-hove-rpml.org.uk/RoyalPavilion/Pages/home.aspx
+ongoing: false
 
 ---
 

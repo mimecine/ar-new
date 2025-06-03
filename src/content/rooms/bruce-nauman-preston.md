@@ -32,6 +32,7 @@ startdate: 2014-02-15
 enddate: 2014-05-24
 town: Preston
 url: http://www.harrismuseum.org.uk/
+ongoing: false
 
 ---
 

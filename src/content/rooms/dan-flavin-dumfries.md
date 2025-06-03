@@ -38,6 +38,7 @@ startdate: 2014-08-16
 enddate: 2014-11-15
 town: Dumfries
 url: http://www.exploreart.co.uk/
+ongoing: false
 
 ---
 

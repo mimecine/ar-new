@@ -38,6 +38,7 @@ startdate: 2010-04-17
 enddate: 2010-10-23
 town: Perth
 url: http://www.pkc.gov.uk/article/1837/Perth-Museum--Art-Gallery
+ongoing: false
 
 ---
 

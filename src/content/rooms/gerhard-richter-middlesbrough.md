@@ -32,6 +32,7 @@ startdate: 2009-08-28
 enddate: 2009-11-15
 town: Middlesbrough
 url: http://www.visitmima.com/
+ongoing: false
 
 ---
 

@@ -14,6 +14,7 @@ startdate: 2012-04-21
 enddate: 2012-07-22
 town: Belfast
 url: http://themaclive.com/
+ongoing: false
 
 ---
 

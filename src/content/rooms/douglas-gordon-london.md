@@ -26,6 +26,7 @@ startdate: 2013-05-13
 enddate: 2013-09-29
 town: London
 url: http://www.tate.org.uk/visit/tate-britain
+ongoing: false
 
 ---
 

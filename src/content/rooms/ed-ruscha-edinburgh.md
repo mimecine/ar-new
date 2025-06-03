@@ -38,6 +38,7 @@ startdate: 2017-04-29
 enddate: 2018-04-29
 town: Edinburgh
 url: https://www.nationalgalleries.org/modern
+ongoing: false
 
 ---
 

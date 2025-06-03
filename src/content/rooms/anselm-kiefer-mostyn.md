@@ -26,6 +26,7 @@ startdate: 2011-12-03
 enddate: 2012-03-11
 town: Mostyn
 url: http://www.mostyn.org/
+ongoing: false
 
 ---
 

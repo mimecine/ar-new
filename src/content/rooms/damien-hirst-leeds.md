@@ -37,6 +37,7 @@ images:
 startdate: 2011-06-15
 enddate: 2011-10-30
 town: Leeds
+ongoing: false
 
 ---
 

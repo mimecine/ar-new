@@ -32,6 +32,7 @@ startdate: 2014-09-20
 enddate: 2015-01-18
 town: Leicester
 url: http://www.leicester.gov.uk/your-council-services/lc/leicester-city-museums/museums/nwm-art-gallery/
+ongoing: false
 
 ---
 

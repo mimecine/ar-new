@@ -38,6 +38,7 @@ startdate: 2016-03-19
 enddate: 2016-06-12
 town: "Colchester "
 url: http://www.firstsite.uk.net
+ongoing: false
 
 ---
 

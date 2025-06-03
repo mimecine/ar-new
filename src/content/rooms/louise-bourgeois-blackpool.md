@@ -50,6 +50,7 @@ startdate: 2023-07-08
 enddate: 2023-09-09
 town: Blackpool
 url: https://www.thegrundy.org/
+ongoing: false
 
 ---
 

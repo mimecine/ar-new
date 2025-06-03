@@ -26,6 +26,7 @@ startdate: 2015-06-20
 enddate: 2015-09-12
 town: Orkney
 url: http://www.pierartscentre.com/
+ongoing: false
 
 ---
 

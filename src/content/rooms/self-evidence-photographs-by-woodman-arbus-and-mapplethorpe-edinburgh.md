@@ -52,6 +52,7 @@ startdate: 2019-04-06
 enddate: 2019-10-20
 town: Edinburgh
 url: https://www.nationalgalleries.org/visit/scottish-national-portrait-gallery
+ongoing: false
 
 ---
 

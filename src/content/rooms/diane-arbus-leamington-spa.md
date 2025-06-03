@@ -57,6 +57,7 @@ startdate: 2019-09-20
 enddate: 2019-12-01
 town: Leamington Spa
 url: https://www.warwickdc.gov.uk/royalpumprooms/info/2/leamington_spa_art_gallery_and_museum
+ongoing: false
 
 ---
 

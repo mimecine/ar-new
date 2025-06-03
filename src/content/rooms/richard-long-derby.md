@@ -38,6 +38,7 @@ startdate: 2017-12-02
 enddate: 2018-03-04
 town: Derby
 url: http://derbymuseums.org
+ongoing: false
 
 ---
 

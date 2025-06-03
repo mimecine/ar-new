@@ -44,6 +44,7 @@ startdate: 2024-06-14
 enddate: 2024-09-29
 town: Leicester
 url: https://attenborougharts.com/
+ongoing: false
 
 ---
 

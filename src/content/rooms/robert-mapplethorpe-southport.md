@@ -38,6 +38,7 @@ startdate: 2018-12-15
 enddate: 2019-03-24
 town: Southport
 url: https://www.theatkinson.co.uk/
+ongoing: false
 
 ---
 

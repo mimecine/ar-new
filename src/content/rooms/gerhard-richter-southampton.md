@@ -50,6 +50,7 @@ startdate: 2018-05-12
 enddate: 2018-08-18
 town: Southampton
 url: https://jhg.art/
+ongoing: false
 
 ---
 

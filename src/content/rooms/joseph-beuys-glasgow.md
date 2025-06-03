@@ -32,6 +32,7 @@ startdate: 2010-04-01
 enddate: 2010-09-27
 town: Glasgow
 url: http://www.gla.ac.uk/hunterian/
+ongoing: false
 
 ---
 

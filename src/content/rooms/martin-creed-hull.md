@@ -32,6 +32,7 @@ startdate: 2013-06-08
 enddate: 2013-10-06
 town: Hull
 url: https://www.hcandl.co.uk/museums-and-galleries/ferens/ferens-art-gallery
+ongoing: false
 
 ---
 

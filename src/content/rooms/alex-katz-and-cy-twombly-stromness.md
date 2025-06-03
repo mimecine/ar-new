@@ -45,6 +45,7 @@ startdate: 2011-03-26
 enddate: 2011-06-04
 town: Stromness
 url: http://www.pierartscentre.com/
+ongoing: false
 
 ---
 

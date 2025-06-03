@@ -32,6 +32,7 @@ startdate: 2011-02-05
 enddate: 2011-04-09
 town: Aberdeen
 url: http://www.aagm.co.uk/
+ongoing: false
 
 ---
 

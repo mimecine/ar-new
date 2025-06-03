@@ -38,6 +38,7 @@ startdate: 2024-01-27
 enddate: 2024-06-02
 town: Exeter
 url: https://rammuseum.org.uk/
+ongoing: false
 
 ---
 

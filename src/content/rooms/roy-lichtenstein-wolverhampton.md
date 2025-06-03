@@ -32,6 +32,7 @@ startdate: 2016-10-22
 enddate: 2017-02-26
 town: Wolverhampton
 url: http://www.wolverhamptonart.org.uk/
+ongoing: false
 
 ---
 

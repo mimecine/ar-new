@@ -38,6 +38,7 @@ startdate: 2019-07-13
 enddate: 2019-09-07
 town: Blackpool
 url: https://www.thegrundy.org/
+ongoing: false
 
 ---
 

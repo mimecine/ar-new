@@ -26,6 +26,7 @@ startdate: 2010-09-18
 enddate: 2010-11-20
 town: Inverness
 url: http://inverness.highland.museum/
+ongoing: false
 
 ---
 

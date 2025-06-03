@@ -32,6 +32,7 @@ startdate: 2011-05-14
 enddate: 2011-09-25
 town: Cornwall
 url: http://www.tate.org.uk/visit/tate-st-ives
+ongoing: false
 
 ---
 

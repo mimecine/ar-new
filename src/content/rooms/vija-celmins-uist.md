@@ -26,6 +26,7 @@ startdate: 2014-03-29
 enddate: 2014-06-28
 town: Uist
 url: http://taigh-chearsabhagh.org/
+ongoing: false
 
 ---
 

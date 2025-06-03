@@ -26,6 +26,7 @@ startdate: 2010-03-27
 enddate: 2010-05-15
 town: Edinburgh
 url: http://www.ed.ac.uk/about/museums-galleries/talbot-rice
+ongoing: false
 
 ---
 

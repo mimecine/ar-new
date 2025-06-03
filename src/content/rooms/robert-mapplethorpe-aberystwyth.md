@@ -32,6 +32,7 @@ startdate: 2015-08-07
 enddate: 2015-11-07
 town: Aberystwyth
 url: https://www.aberystwythartscentre.co.uk/exhibitions/artist-rooms-robert-mapplethorpe
+ongoing: false
 
 ---
 

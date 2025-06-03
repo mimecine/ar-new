@@ -26,6 +26,7 @@ startdate: 2009-11-14
 enddate: 2010-02-14
 town: Surrey
 url: http://www.thelightbox.org.uk/
+ongoing: false
 
 ---
 

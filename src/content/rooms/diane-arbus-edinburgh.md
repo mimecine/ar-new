@@ -32,6 +32,7 @@ startdate: 2010-03-13
 enddate: 2010-06-13
 town: Edinburgh
 url: http://www.nationalgalleries.org/
+ongoing: false
 
 ---
 

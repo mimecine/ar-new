@@ -110,6 +110,7 @@ startdate: 2017-02-20
 enddate: 2018-12-08
 town: London
 url: https://www.tate.org.uk/
+ongoing: false
 
 ---
 

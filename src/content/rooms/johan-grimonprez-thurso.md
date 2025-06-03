@@ -14,6 +14,7 @@ startdate: 2017-03-10
 enddate: 2017-06-04
 town: Thurso
 url: http://www.caithnesshorizons.co.uk/
+ongoing: false
 
 ---
 

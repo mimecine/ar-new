@@ -38,6 +38,7 @@ startdate: 2014-10-04
 enddate: 2015-01-10
 town: Bideford
 url: http://www.burtonartgallery.co.uk
+ongoing: false
 
 ---
 

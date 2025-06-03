@@ -50,6 +50,7 @@ startdate: 2023-03-22
 enddate: 2023-06-25
 town: Dorset
 url: https://www.dorsetmuseum.org/
+ongoing: false
 
 ---
 

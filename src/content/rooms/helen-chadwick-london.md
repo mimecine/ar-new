@@ -13,6 +13,7 @@ startdate: 2024-09-30
 enddate: 2025-06-08
 town: London
 url: https://www.tate.org.uk/
+ongoing: false
 
 ---
 

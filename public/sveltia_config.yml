@@ -11,18 +11,15 @@ media_libraries:
   stock_assets:
     providers: []
 
-# #static cms
 media_library:
   max_file_size: 1000000000
 
 site_url: https://artistrooms.netlify.app
-display_url: https://artistrooms.netlify.app
-logo_url: https://artistrooms.netlify.app/favicon.svg
+display_url: /
+logo_url: /favicon.svg
 
 
-# Please run "npx netlify-cms-proxy-server" for local backend
 local_backend: true
-# publish_mode: editorial_workflow
 collections:
 
   - label: "Artists"
@@ -81,8 +78,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Hidden", name: "hidden", widget: "boolean", default: false }
-      - { label: "Start", name: "startdate", widget: "datetime", date_format: 'yyyy-MM-dd', time_format: false, format: 'yyyy-MM-dd', required: true}
-      - { label: "End (set next if no ending date)", name: "enddate", widget: "datetime", date_format: 'yyyy-MM-dd', time_format: false, format: 'yyyy-MM-dd', required: true}
+      - { label: "Start", name: "startdate", widget: "datetime", xdate_format: 'YYYY-MM-DD', xtime_format: false, format: 'YYYY-MM-DD', required: true}
+      - { label: "End (set next if no ending date)", name: "enddate", widget: "datetime", format: 'YYYY-MM-DD', required: true}
       - { label: "Open ended", name: "ongoing", widget: "boolean", default: false }
       - { label: "Priority", name: "priority", widget: "number", required: false, default: 0 }
       - label: "Artists"

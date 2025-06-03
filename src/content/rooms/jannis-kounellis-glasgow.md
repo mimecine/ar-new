@@ -26,6 +26,7 @@ startdate: 2012-07-20
 enddate: 2012-09-23
 town: Glasgow
 url: http://www.tramway.org/Pages/home.aspx
+ongoing: false
 
 ---
 

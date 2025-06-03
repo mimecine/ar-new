@@ -44,6 +44,7 @@ startdate: 2017-09-01
 enddate: 2017-11-18
 town: Perth
 url: http://www.culturepk.org.uk/museums-and-galleries/perth-museum-and-art-gallery/
+ongoing: false
 
 ---
 

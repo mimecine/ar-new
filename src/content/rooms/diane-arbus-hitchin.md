@@ -38,6 +38,7 @@ startdate: 2023-12-03
 enddate: 2024-02-25
 town: Hitchin
 url: https://northhertsmuseum.org/
+ongoing: false
 
 ---
 

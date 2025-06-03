@@ -43,6 +43,7 @@ startdate: 2024-10-19
 enddate: 2025-01-12
 town: JMW Turner & Vija Celmins; Plymouth
 url: https://www.theboxplymouth.com/
+ongoing: false
 
 ---
 

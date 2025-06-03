@@ -32,6 +32,7 @@ startdate: 2015-07-11
 enddate: 2015-09-26
 town: Penzance
 url: http://newlynartgallery.co.uk/
+ongoing: false
 
 ---
 

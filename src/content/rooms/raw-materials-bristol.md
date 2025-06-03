@@ -35,6 +35,7 @@ startdate: 2012-06-30
 enddate: 2012-09-23
 town: Bristol
 url: http://www.bristol.gov.uk/page/exhibitions-bristols-museums
+ongoing: false
 
 ---
 
