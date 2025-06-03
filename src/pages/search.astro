@@ -5,7 +5,7 @@ import { Image } from "astro:assets";
 import Search from "astro-pagefind/components/Search";
 ---
 
-<Main title="The Search">
+<Main title="Search">
   <div class="relative w-full h-full">
   <Search
     id="search"
@@ -20,6 +20,12 @@ import Search from "astro-pagefind/components/Search";
   </div>
 </Main>
 <style is:global>
+  :root {
+    --tw-ring-color: #000 !important;
+  }
+  [type=text]:focus, input:where(:not([type])):focus, [type=email]:focus, [type=url]:focus, [type=password]:focus, [type=number]:focus, [type=date]:focus, [type=datetime-local]:focus, [type=month]:focus, [type=search]:focus, [type=tel]:focus, [type=time]:focus, [type=week]:focus, [multiple]:focus, textarea:focus, select:focus {
+    --tw-ring-color:#000 !important;
+  }
   .pagefind-ui {
     --pagefind-ui-tag: #eeeeee;
     --pagefind-ui-image-box-ratio: 3 / 2;
@@ -32,7 +38,7 @@ import Search from "astro-pagefind/components/Search";
     --pagefind-ui-font: "Fredoka Variable", sans-serif;
     --pagefind-ui-image-border-radius: 0;
     --pagefind-ui-background: #ccc;
-    --tw-ring-color: #000;
+    --tw-ring-color: #000 !important;
     width: 100%;
 
     mark {
