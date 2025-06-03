@@ -27,6 +27,7 @@ enddate: 2015-02-22
 town: Weisdale
 url: http://www.shetlandarts.org/about/venues/bonhoga-gallery/
 ongoing: false
+priority: 0
 
 ---
 

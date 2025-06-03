@@ -51,6 +51,7 @@ enddate: 2017-08-13
 town: Hull
 url: http://www.hullcc.gov.uk/ferens
 ongoing: false
+priority: 0
 
 ---
 

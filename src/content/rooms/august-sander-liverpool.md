@@ -57,6 +57,7 @@ enddate: 2017-10-15
 town: Liverpool
 url: http://www.tate.org.uk/visit/tate-liverpool
 ongoing: false
+priority: 0
 
 ---
 

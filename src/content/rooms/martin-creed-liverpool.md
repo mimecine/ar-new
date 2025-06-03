@@ -27,6 +27,7 @@ enddate: 2012-05-27
 town: Liverpool
 url: https://www.tate.org.uk/
 ongoing: false
+priority: 0
 
 ---
 

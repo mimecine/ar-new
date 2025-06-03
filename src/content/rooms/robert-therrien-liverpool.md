@@ -15,6 +15,7 @@ enddate: 2011-10-16
 town: Liverpool
 url: http://www.tate.org.uk/visit/tate-liverpool
 ongoing: false
+priority: 0
 
 ---
 

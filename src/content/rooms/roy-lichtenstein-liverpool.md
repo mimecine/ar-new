@@ -51,6 +51,7 @@ enddate: 2018-06-17
 town: Liverpool
 url: http://tate.org.uk
 ongoing: false
+priority: 0
 
 ---
 

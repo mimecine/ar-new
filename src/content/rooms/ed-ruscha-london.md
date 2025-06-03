@@ -62,6 +62,7 @@ startdate: 2019-07-25
 enddate: 2020-06-28
 town: London
 ongoing: false
+priority: 0
 
 ---
 

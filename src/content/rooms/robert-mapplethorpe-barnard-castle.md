@@ -33,6 +33,7 @@ enddate: 2016-04-24
 town: Barnard Castle
 url: http://www.thebowesmuseum.org.uk/
 ongoing: false
+priority: 0
 
 ---
 

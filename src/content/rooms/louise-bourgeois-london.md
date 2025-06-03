@@ -39,6 +39,7 @@ enddate: 2017-06-17
 town: London
 url: http://www.tate.org.uk/visit/tate-modern/display/artist-rooms-louise-bourgeois
 ongoing: false
+priority: 0
 
 ---
 

@@ -51,6 +51,7 @@ enddate: 2013-08-11
 town: Galashiels
 url: https://www.liveborders.org.uk/culture/museums/our-museums/old-gala-house/
 ongoing: false
+priority: 0
 
 ---
 

@@ -39,6 +39,7 @@ enddate: 2016-01-16
 town: Plymouth
 url: http://museumcatalogue.plymouth.gov.uk/
 ongoing: false
+priority: 0
 
 ---
 

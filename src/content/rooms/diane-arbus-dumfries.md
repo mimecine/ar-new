@@ -21,6 +21,7 @@ enddate: 2023-07-29
 town: Dumfries
 url: https://www.dgculture.co.uk/whats-on/?ven=gracefield-arts-centre
 ongoing: false
+priority: 0
 
 ---
 

@@ -27,6 +27,7 @@ enddate: 2015-02-22
 town: Lerwick
 url: https://www.shetlandmuseumandarchives.org.uk
 ongoing: false
+priority: 0
 
 ---
 

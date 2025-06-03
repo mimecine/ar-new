@@ -39,6 +39,7 @@ enddate: 2012-07-08
 town: Dunoon
 url: http://burghhalldunoon.com/index.php/category/exhibitions/
 ongoing: false
+priority: 0
 
 ---
 

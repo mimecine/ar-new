@@ -39,6 +39,7 @@ enddate: 2014-07-03
 town: Denbigshire
 url: https://www.warnerleisurehotels.co.uk/hotels/bodelwyddan-castle-hotel
 ongoing: false
+priority: 0
 
 ---
 

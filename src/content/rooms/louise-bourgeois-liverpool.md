@@ -45,6 +45,7 @@ enddate: 2022-01-16
 town: Liverpool
 url: https://www.tate.org.uk/visit/tate-liverpool
 ongoing: false
+priority: 0
 
 ---
 

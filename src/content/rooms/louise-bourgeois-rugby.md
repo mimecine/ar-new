@@ -33,6 +33,7 @@ enddate: 2022-11-19
 town: Rugby
 url: https://www.ragm.co.uk
 ongoing: false
+priority: 0
 
 ---
 

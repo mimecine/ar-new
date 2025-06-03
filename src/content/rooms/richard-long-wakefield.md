@@ -39,6 +39,7 @@ enddate: 2012-10-14
 town: Wakefield
 url: http://www.hepworthwakefield.org/
 ongoing: false
+priority: 0
 
 ---
 

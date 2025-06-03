@@ -27,6 +27,7 @@ enddate: 2013-05-22
 town: Newcastle upon Tyne
 url: http://www.twmuseums.org.uk/hatton-gallery.html
 ongoing: false
+priority: 0
 
 ---
 

@@ -39,6 +39,7 @@ enddate: 2024-08-18
 town: Dunoon
 url: https://www.dunoonburghhall.org.uk/
 ongoing: false
+priority: 0
 
 ---
 

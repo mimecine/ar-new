@@ -39,6 +39,7 @@ enddate: 2018-06-11
 town: Bideford
 url: https://www.burtonartgallery.co.uk/exhibitions-activities/diane-arbus/
 ongoing: false
+priority: 0
 
 ---
 

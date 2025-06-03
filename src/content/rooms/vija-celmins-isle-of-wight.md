@@ -45,6 +45,7 @@ enddate: 2019-11-16
 town: Isle of Wight
 url: http://www.quayarts.org/event/artists-rooms-vija-celmins/
 ongoing: false
+priority: 0
 
 ---
 

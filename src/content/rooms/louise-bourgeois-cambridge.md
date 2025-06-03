@@ -39,6 +39,7 @@ enddate: 2019-03-31
 town: Cambridge
 url: http://www.kettlesyard.co.uk/
 ongoing: false
+priority: 0
 
 ---
 

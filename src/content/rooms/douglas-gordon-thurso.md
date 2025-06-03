@@ -33,6 +33,7 @@ enddate: 2014-10-11
 town: Thurso
 url: http://caithnesshorizons.wordpress.com/
 ongoing: false
+priority: 0
 
 ---
 

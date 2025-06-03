@@ -39,6 +39,7 @@ enddate: 2019-01-27
 town: Coventry
 url: http://www.theherbert.org/
 ongoing: false
+priority: 0
 
 ---
 

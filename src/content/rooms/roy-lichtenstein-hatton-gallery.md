@@ -39,6 +39,7 @@ enddate: 2020-01-04
 town: Hatton Gallery
 url: http://www.hattongallery.org.uk/
 ongoing: false
+priority: 0
 
 ---
 

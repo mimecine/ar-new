@@ -33,6 +33,7 @@ enddate: 2015-02-25
 town: Powys
 url: http://www.orieldavies.org/
 ongoing: false
+priority: 0
 
 ---
 

@@ -39,6 +39,7 @@ enddate: 2024-10-06
 town: Warwickshire
 url: https://www.comptonverney.org.uk/
 ongoing: false
+priority: 0
 
 ---
 

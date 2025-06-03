@@ -33,6 +33,7 @@ enddate: 2011-05-23
 town: London
 url: http://www.tate.org.uk/visit/tate-britain
 ongoing: false
+priority: 0
 
 ---
 

@@ -27,6 +27,7 @@ enddate: 2012-08-31
 town: Banff
 url: http://www.duffhouse.org.uk/
 ongoing: false
+priority: 0
 
 ---
 

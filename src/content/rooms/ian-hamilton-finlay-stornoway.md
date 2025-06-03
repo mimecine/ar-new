@@ -33,6 +33,7 @@ enddate: 2010-11-01
 town: Stornoway
 url: http://www.lanntair.com/content/blogcategory/0/72/
 ongoing: false
+priority: 0
 
 ---
 

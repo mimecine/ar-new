@@ -45,6 +45,7 @@ enddate: 2019-06-16
 town: Carlisle
 url: https://www.tulliehouse.co.uk/events/artist-rooms-alex-katz
 ongoing: false
+priority: 0
 
 ---
 

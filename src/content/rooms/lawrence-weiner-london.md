@@ -39,6 +39,7 @@ enddate: 2024-12-08
 town: London
 url: https://www.mcmanus.co.uk/
 ongoing: false
+priority: 0
 
 ---
 

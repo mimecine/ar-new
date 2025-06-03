@@ -38,6 +38,7 @@ startdate: 2011-05-21
 enddate: 2011-07-30
 town: Dumfries
 ongoing: false
+priority: 0
 
 ---
 

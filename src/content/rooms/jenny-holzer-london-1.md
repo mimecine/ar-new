@@ -57,6 +57,7 @@ enddate: 2019-07-01
 town: London
 url: https://www.tate.org.uk/visit/tate-modern
 ongoing: false
+priority: 0
 
 ---
 

@@ -33,6 +33,7 @@ enddate: 2018-12-15
 town: Doncaster
 url: https://www.thepoint.org.uk/
 ongoing: false
+priority: 0
 
 ---
 

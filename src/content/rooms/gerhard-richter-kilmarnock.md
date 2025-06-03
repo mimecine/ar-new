@@ -39,6 +39,7 @@ enddate: 2014-12-06
 town: Kilmarnock
 url: http://www.visitscotland.com/info/see-do/the-dick-p251391
 ongoing: false
+priority: 0
 
 ---
 

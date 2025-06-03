@@ -39,6 +39,7 @@ enddate: 2017-11-19
 town: Dumfries
 url: http://dumgal.gov.uk
 ongoing: false
+priority: 0
 
 ---
 

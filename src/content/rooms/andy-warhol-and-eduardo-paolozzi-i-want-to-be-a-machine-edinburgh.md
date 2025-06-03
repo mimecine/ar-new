@@ -65,6 +65,7 @@ enddate: 2019-06-02
 town: Edinburgh
 url: https://www.nationalgalleries.org/exhibition/andy-warhol-and-eduardo-paolozzi-i-want-be-machine
 ongoing: false
+priority: 0
 
 ---
 

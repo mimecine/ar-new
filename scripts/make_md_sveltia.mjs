@@ -113,6 +113,7 @@ async function makeRoomsMD() {
       a.title = a.title.replace(/ \| Artist Rooms/, "");
       let slug = slugify(a.title);
       a.ongoing = false;
+      a.priority = 0;
 
       a.images = a.images?.map((im) => {
         return {

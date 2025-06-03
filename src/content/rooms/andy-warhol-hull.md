@@ -39,6 +39,7 @@ enddate: 2013-01-13
 town: Hull
 url: http://www.hullcc.gov.uk/portal/page?_pageid=221%2C631619&_dad=portal&_schema=PORTAL
 ongoing: false
+priority: 0
 
 ---
 

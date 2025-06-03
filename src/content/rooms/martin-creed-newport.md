@@ -32,6 +32,7 @@ startdate: 2014-06-13
 enddate: 2014-09-20
 town: Newport
 ongoing: false
+priority: 0
 
 ---
 

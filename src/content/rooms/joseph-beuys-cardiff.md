@@ -39,6 +39,7 @@ enddate: 2012-01-08
 town: Cardiff
 url: http://www.museumwales.ac.uk/cy/cardiff/
 ongoing: false
+priority: 0
 
 ---
 

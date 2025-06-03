@@ -45,6 +45,7 @@ enddate: 2020-05-23
 town: Honiton
 url: https://www.thelmahulbert.com
 ongoing: false
+priority: 0
 
 ---
 

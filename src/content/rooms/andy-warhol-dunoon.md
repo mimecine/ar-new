@@ -39,6 +39,7 @@ enddate: 2017-09-02
 town: Dunoon
 url: http://www.dunoonburghhall.org.uk/index.php
 ongoing: false
+priority: 0
 
 ---
 

@@ -27,6 +27,7 @@ enddate: 2010-02-14
 town: Surrey
 url: http://www.thelightbox.org.uk/
 ongoing: false
+priority: 0
 
 ---
 

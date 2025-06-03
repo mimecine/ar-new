@@ -33,6 +33,7 @@ enddate: 2022-07-31
 town: London
 url: https://www.tate.org.uk/visit/tate-modern
 ongoing: false
+priority: 0
 
 ---
 

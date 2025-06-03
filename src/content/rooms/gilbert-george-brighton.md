@@ -51,6 +51,7 @@ enddate: 2018-09-02
 town: Brighton
 url: https://brightonmuseums.org.uk/brighton-museum-art-gallery/
 ongoing: false
+priority: 0
 
 ---
 

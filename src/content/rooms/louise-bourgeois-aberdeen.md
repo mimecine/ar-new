@@ -21,6 +21,7 @@ enddate: 2024-06-09
 town: Aberdeen
 url: https://www.aberdeencity.gov.uk/AAGM/plan-your-visit/aberdeen-art-gallery
 ongoing: false
+priority: 0
 
 ---
 

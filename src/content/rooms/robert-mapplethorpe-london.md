@@ -33,6 +33,7 @@ enddate: 2014-10-26
 town: London
 url: http://www.tate.org.uk/visit/tate-modern
 ongoing: false
+priority: 0
 
 ---
 

@@ -51,6 +51,7 @@ enddate: 2018-08-18
 town: Southampton
 url: https://jhg.art/
 ongoing: false
+priority: 0
 
 ---
 

@@ -39,6 +39,7 @@ enddate: 2015-05-23
 town: Clydebank
 url: http://www.museumsgalleriesscotland.org.uk/member/clydebank-museum-and-art-gallery
 ongoing: false
+priority: 0
 
 ---
 

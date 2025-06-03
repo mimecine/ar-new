@@ -38,6 +38,7 @@ startdate: 2012-11-10
 enddate: 2013-04-27
 town: Perth
 ongoing: false
+priority: 0
 
 ---
 

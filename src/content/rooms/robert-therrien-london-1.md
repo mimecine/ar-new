@@ -27,6 +27,7 @@ enddate: 2018-10-07
 town: London
 url: https://www.tate.org.uk/
 ongoing: false
+priority: 0
 
 ---
 

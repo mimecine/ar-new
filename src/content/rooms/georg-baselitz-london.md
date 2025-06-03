@@ -27,6 +27,7 @@ enddate: 2016-01-10
 town: London
 url: http://www.tate.org.uk/visit/tate-modern
 ongoing: false
+priority: 0
 
 ---
 

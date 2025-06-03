@@ -39,6 +39,7 @@ enddate: 2014-03-02
 town: Stoke-on-Trent
 url: http://www.stokemuseums.org.uk/visit/pmag/
 ongoing: false
+priority: 0
 
 ---
 

@@ -33,6 +33,7 @@ enddate: 2010-09-26
 town: Nottingham
 url: http://www.nottinghamcontemporary.org/
 ongoing: false
+priority: 0
 
 ---
 

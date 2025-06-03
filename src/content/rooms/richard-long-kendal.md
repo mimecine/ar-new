@@ -33,6 +33,7 @@ enddate: 2011-12-17
 town: Kendal
 url: http://www.abbothall.org.uk/
 ongoing: false
+priority: 0
 
 ---
 

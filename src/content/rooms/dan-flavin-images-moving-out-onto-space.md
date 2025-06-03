@@ -27,6 +27,7 @@ enddate: 2015-09-27
 town: "Dan Flavin: Images Moving Out Onto Space"
 url: http://www.tate.org.uk/visit/tate-st-ives
 ongoing: false
+priority: 0
 
 ---
 

@@ -33,6 +33,7 @@ enddate: 2011-10-29
 town: Wolverhampton
 url: http://www.wolverhamptonart.org.uk/visit/wolves/
 ongoing: false
+priority: 0
 
 ---
 

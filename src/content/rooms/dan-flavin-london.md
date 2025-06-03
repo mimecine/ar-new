@@ -39,6 +39,7 @@ enddate: 2014-04-27
 town: London
 url: http://www.tate.org.uk/visit/tate-modern
 ongoing: false
+priority: 0
 
 ---
 

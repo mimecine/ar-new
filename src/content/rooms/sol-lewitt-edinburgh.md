@@ -27,6 +27,7 @@ enddate: 2012-11-04
 town: Edinburgh
 url: http://www.nationalgalleries.org/
 ongoing: false
+priority: 0
 
 ---
 

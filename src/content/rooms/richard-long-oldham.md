@@ -39,6 +39,7 @@ enddate: 2018-09-16
 town: Oldham
 url: http://www.galleryoldham.org.uk/
 ongoing: false
+priority: 0
 
 ---
 

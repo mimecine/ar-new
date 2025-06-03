@@ -33,6 +33,7 @@ enddate: 2018-05-06
 town: Walsall
 url: http://thenewartgallerywalsall.org.uk/
 ongoing: false
+priority: 0
 
 ---
 

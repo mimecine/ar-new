@@ -39,6 +39,7 @@ enddate: 2015-06-07
 town: Carlisle
 url: http://www.tulliehouse.co.uk/
 ongoing: false
+priority: 0
 
 ---
 

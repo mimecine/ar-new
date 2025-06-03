@@ -39,6 +39,7 @@ enddate: 2024-05-04
 town: Newcastle upon Tyne
 url: https://hattongallery.org.uk/
 ongoing: false
+priority: 0
 
 ---
 

@@ -33,6 +33,7 @@ enddate: 2012-02-26
 town: Sussex
 url: http://www.dlwp.com/
 ongoing: false
+priority: 0
 
 ---
 

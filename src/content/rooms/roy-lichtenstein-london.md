@@ -45,6 +45,7 @@ enddate: 2024-12-01
 town: London
 url: https://www.tate.org.uk/visit/tate-modern/display/media-networks/roy-lichtenstein
 ongoing: false
+priority: 0
 
 ---
 

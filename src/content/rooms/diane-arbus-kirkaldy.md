@@ -27,6 +27,7 @@ enddate: 2015-05-31
 town: Kirkaldy
 url: http://www.kirkcaldygalleries.org.uk/
 ongoing: false
+priority: 0
 
 ---
 

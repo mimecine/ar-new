@@ -39,6 +39,7 @@ enddate: 2024-01-06
 town: Kilmarnock
 url: https://eastayrshireleisure.com/venue/the-dick-institute/
 ongoing: false
+priority: 0
 
 ---
 

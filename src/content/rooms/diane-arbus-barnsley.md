@@ -39,6 +39,7 @@ enddate: 2023-04-16
 town: Barnsley
 url: https://barnsleycivic.co.uk/
 ongoing: false
+priority: 0
 
 ---
 

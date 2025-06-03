@@ -37,6 +37,7 @@ enddate: 2014-06-22
 town: Exeter
 url: http://www.rammuseum.org.uk/
 ongoing: false
+priority: 0
 
 ---
 

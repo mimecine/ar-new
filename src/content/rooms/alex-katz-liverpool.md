@@ -27,6 +27,7 @@ enddate: 2019-03-17
 town: Liverpool
 url: https://www.tate.org.uk/visit/tate-liverpool
 ongoing: false
+priority: 0
 
 ---
 
