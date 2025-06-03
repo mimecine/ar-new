@@ -52,8 +52,7 @@ if (src?.includes("vimeo")) {
     x-data="{open:false}"
     @keyup.escape.window="$el.close()"
     class="w-lvw h-lvh bg-black bg-opacity-90 backdrop:bg-black backdrop:opacity-10"
-
-    onclose="console.log('closing dialog');this.querySelector('iframe').src = null; /*this.querySelector('iframe').src = this.querySelector('iframe').dataset.src;*/ console.log(this.querySelector('iframe').src)"
+    onclose="console.log('closing dialog');this.querySelector('iframe').src = ''; this.querySelector('iframe').src = this.querySelector('iframe').dataset.src; console.log(this.querySelector('iframe').src)"
   >
     <form method="dialog">
       <button
@@ -70,7 +69,7 @@ if (src?.includes("vimeo")) {
         class="w-full h-auto aspect-video object-contain bg-gray bg-no-repeat bg-center bg-[url('/SvgSpinners180RingWithBg.svg')]"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen
-        loading="lazy"
+        xloading="lazy"
         src={embed}
         data-src={embed}></iframe>
     </div>
