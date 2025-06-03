@@ -4,11 +4,36 @@ artists:
   - richard-long
 venue: burton-art-gallery-and-museum
 images:
-  - ../../media/richard-long-bideford-burton-art-gallery-and-museum-2014-10-04-0.webp
-  - ../../media/richard-long-bideford-burton-art-gallery-and-museum-2014-10-04-1.webp
-  - ../../media/richard-long-bideford-burton-art-gallery-and-museum-2014-10-04-2.webp
-  - ../../media/richard-long-bideford-burton-art-gallery-and-museum-2014-10-04-3.webp
-  - ../../media/richard-long-bideford-burton-art-gallery-and-museum-2014-10-04-4.webp
+  - src: ../../media/richard-long-bideford-burton-art-gallery-and-museum-2014-10-04-0.webp
+    title: richard long bideford burton art gallery and museum 2014 10 04 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/richard-long-bideford-burton-art-gallery-and-museum-2014-10-04-1.webp
+    title: richard long bideford burton art gallery and museum 2014 10 04 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/richard-long-bideford-burton-art-gallery-and-museum-2014-10-04-2.webp
+    title: richard long bideford burton art gallery and museum 2014 10 04 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/richard-long-bideford-burton-art-gallery-and-museum-2014-10-04-3.webp
+    title: richard long bideford burton art gallery and museum 2014 10 04 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/richard-long-bideford-burton-art-gallery-and-museum-2014-10-04-4.webp
+    title: richard long bideford burton art gallery and museum 2014 10 04 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2014-10-04
 enddate: 2015-01-10
 town: Bideford

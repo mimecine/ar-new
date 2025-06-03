@@ -4,10 +4,30 @@ artists:
   - joseph-beuys
 venue: timespan
 images:
-  - ../../media/joseph-beuys-helmsdale-timespan-2015-06-06-0.webp
-  - ../../media/joseph-beuys-helmsdale-timespan-2015-06-06-1.webp
-  - ../../media/joseph-beuys-helmsdale-timespan-2015-06-06-2.webp
-  - ../../media/joseph-beuys-helmsdale-timespan-2015-06-06-3.webp
+  - src: ../../media/joseph-beuys-helmsdale-timespan-2015-06-06-0.webp
+    title: joseph beuys helmsdale timespan 2015 06 06 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/joseph-beuys-helmsdale-timespan-2015-06-06-1.webp
+    title: joseph beuys helmsdale timespan 2015 06 06 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/joseph-beuys-helmsdale-timespan-2015-06-06-2.webp
+    title: joseph beuys helmsdale timespan 2015 06 06 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/joseph-beuys-helmsdale-timespan-2015-06-06-3.webp
+    title: joseph beuys helmsdale timespan 2015 06 06 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2015-06-06
 enddate: 2015-09-06
 town: Helmsdale

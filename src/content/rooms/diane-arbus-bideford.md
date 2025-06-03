@@ -4,11 +4,36 @@ artists:
   - diane-arbus
 venue: the-burton-art-gallery-and-museum
 images:
-  - ../../media/diane-arbus-bideford-the-burton-art-gallery-museum-2018-03-17-0.webp
-  - ../../media/diane-arbus-bideford-the-burton-art-gallery-museum-2018-03-17-1.webp
-  - ../../media/diane-arbus-bideford-the-burton-art-gallery-museum-2018-03-17-2.webp
-  - ../../media/diane-arbus-bideford-the-burton-art-gallery-museum-2018-03-17-3.webp
-  - ../../media/diane-arbus-bideford-the-burton-art-gallery-museum-2018-03-17-4.webp
+  - src: ../../media/diane-arbus-bideford-the-burton-art-gallery-museum-2018-03-17-0.webp
+    title: diane arbus bideford the burton art gallery museum 2018 03 17 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-bideford-the-burton-art-gallery-museum-2018-03-17-1.webp
+    title: diane arbus bideford the burton art gallery museum 2018 03 17 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-bideford-the-burton-art-gallery-museum-2018-03-17-2.webp
+    title: diane arbus bideford the burton art gallery museum 2018 03 17 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-bideford-the-burton-art-gallery-museum-2018-03-17-3.webp
+    title: diane arbus bideford the burton art gallery museum 2018 03 17 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-bideford-the-burton-art-gallery-museum-2018-03-17-4.webp
+    title: diane arbus bideford the burton art gallery museum 2018 03 17 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2018-03-17
 enddate: 2018-06-11
 town: Bideford

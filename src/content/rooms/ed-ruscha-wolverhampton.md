@@ -4,10 +4,30 @@ artists:
   - ed-ruscha
 venue: wolverhampton-art-gallery
 images:
-  - ../../media/ed-ruscha-wolverhampton-wolverhampton-art-gallery-2011-05-28-0.webp
-  - ../../media/ed-ruscha-wolverhampton-wolverhampton-art-gallery-2011-05-28-1.webp
-  - ../../media/ed-ruscha-wolverhampton-wolverhampton-art-gallery-2011-05-28-2.webp
-  - ../../media/ed-ruscha-wolverhampton-wolverhampton-art-gallery-2011-05-28-3.webp
+  - src: ../../media/ed-ruscha-wolverhampton-wolverhampton-art-gallery-2011-05-28-0.webp
+    title: ed ruscha wolverhampton wolverhampton art gallery 2011 05 28 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-wolverhampton-wolverhampton-art-gallery-2011-05-28-1.webp
+    title: ed ruscha wolverhampton wolverhampton art gallery 2011 05 28 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-wolverhampton-wolverhampton-art-gallery-2011-05-28-2.webp
+    title: ed ruscha wolverhampton wolverhampton art gallery 2011 05 28 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-wolverhampton-wolverhampton-art-gallery-2011-05-28-3.webp
+    title: ed ruscha wolverhampton wolverhampton art gallery 2011 05 28 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2011-05-28
 enddate: 2011-10-29
 town: Wolverhampton

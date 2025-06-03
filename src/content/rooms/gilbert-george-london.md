@@ -4,11 +4,36 @@ artists:
   - gilbert-george
 venue: tate-britain
 images:
-  - ../../media/gilbert-george-london-tate-britain-2009-04-20-0.webp
-  - ../../media/gilbert-george-london-tate-britain-2009-04-20-1.webp
-  - ../../media/gilbert-george-london-tate-britain-2009-04-20-2.webp
-  - ../../media/gilbert-george-london-tate-britain-2009-04-20-3.webp
-  - ../../media/gilbert-george-london-tate-britain-2009-04-20-4.webp
+  - src: ../../media/gilbert-george-london-tate-britain-2009-04-20-0.webp
+    title: gilbert george london tate britain 2009 04 20 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gilbert-george-london-tate-britain-2009-04-20-1.webp
+    title: gilbert george london tate britain 2009 04 20 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gilbert-george-london-tate-britain-2009-04-20-2.webp
+    title: gilbert george london tate britain 2009 04 20 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gilbert-george-london-tate-britain-2009-04-20-3.webp
+    title: gilbert george london tate britain 2009 04 20 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gilbert-george-london-tate-britain-2009-04-20-4.webp
+    title: gilbert george london tate britain 2009 04 20 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2009-04-20
 enddate: 2010-01-01
 town: London

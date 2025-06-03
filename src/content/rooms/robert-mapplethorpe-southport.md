@@ -4,11 +4,36 @@ artists:
   - robert-mapplethorpe
 venue: the-atkinson
 images:
-  - ../../media/robert-mapplethorpe-southport-the-atkinson-2018-12-15-0.webp
-  - ../../media/robert-mapplethorpe-southport-the-atkinson-2018-12-15-1.webp
-  - ../../media/robert-mapplethorpe-southport-the-atkinson-2018-12-15-2.webp
-  - ../../media/robert-mapplethorpe-southport-the-atkinson-2018-12-15-3.webp
-  - ../../media/robert-mapplethorpe-southport-the-atkinson-2018-12-15-4.webp
+  - src: ../../media/robert-mapplethorpe-southport-the-atkinson-2018-12-15-0.webp
+    title: robert mapplethorpe southport the atkinson 2018 12 15 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-southport-the-atkinson-2018-12-15-1.webp
+    title: robert mapplethorpe southport the atkinson 2018 12 15 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-southport-the-atkinson-2018-12-15-2.webp
+    title: robert mapplethorpe southport the atkinson 2018 12 15 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-southport-the-atkinson-2018-12-15-3.webp
+    title: robert mapplethorpe southport the atkinson 2018 12 15 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-southport-the-atkinson-2018-12-15-4.webp
+    title: robert mapplethorpe southport the atkinson 2018 12 15 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2018-12-15
 enddate: 2019-03-24
 town: Southport

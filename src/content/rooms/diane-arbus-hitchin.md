@@ -4,11 +4,36 @@ artists:
   - diane-arbus
 venue: north-hertfordshire-museum
 images:
-  - ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-0.webp
-  - ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-1.webp
-  - ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-2.webp
-  - ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-3.webp
-  - ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-4.webp
+  - src: ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-0.webp
+    title: diane arbus hitchin north hertfordshire museum 2023 12 03 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-1.webp
+    title: diane arbus hitchin north hertfordshire museum 2023 12 03 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-2.webp
+    title: diane arbus hitchin north hertfordshire museum 2023 12 03 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-3.webp
+    title: diane arbus hitchin north hertfordshire museum 2023 12 03 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-hitchin-north-hertfordshire-museum-2023-12-03-4.webp
+    title: diane arbus hitchin north hertfordshire museum 2023 12 03 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2023-12-03
 enddate: 2024-02-25
 town: Hitchin

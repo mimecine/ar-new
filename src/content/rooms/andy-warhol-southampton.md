@@ -4,12 +4,42 @@ artists:
   - andy-warhol
 venue: john-hansard-gallery
 images:
-  - ../../media/andy-warhol-southampton-john-hansard-gallery-2011-03-27-0.webp
-  - ../../media/andy-warhol-southampton-john-hansard-gallery-2011-03-27-1.webp
-  - ../../media/andy-warhol-southampton-john-hansard-gallery-2011-03-27-2.webp
-  - ../../media/andy-warhol-southampton-john-hansard-gallery-2011-03-27-3.webp
-  - ../../media/andy-warhol-southampton-john-hansard-gallery-2011-03-27-4.webp
-  - ../../media/andy-warhol-southampton-john-hansard-gallery-2011-03-27-5.webp
+  - src: ../../media/andy-warhol-southampton-john-hansard-gallery-2011-03-27-0.webp
+    title: andy warhol southampton john hansard gallery 2011 03 27 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-southampton-john-hansard-gallery-2011-03-27-1.webp
+    title: andy warhol southampton john hansard gallery 2011 03 27 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-southampton-john-hansard-gallery-2011-03-27-2.webp
+    title: andy warhol southampton john hansard gallery 2011 03 27 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-southampton-john-hansard-gallery-2011-03-27-3.webp
+    title: andy warhol southampton john hansard gallery 2011 03 27 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-southampton-john-hansard-gallery-2011-03-27-4.webp
+    title: andy warhol southampton john hansard gallery 2011 03 27 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-southampton-john-hansard-gallery-2011-03-27-5.webp
+    title: andy warhol southampton john hansard gallery 2011 03 27 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2011-03-27
 enddate: 2011-06-26
 town: Southampton

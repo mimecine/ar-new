@@ -4,10 +4,30 @@ artists:
   - robert-mapplethorpe
 venue: graves-gallery
 images:
-  - ../../media/robert-mapplethorpe-sheffield-graves-gallery-2009-12-19-0.webp
-  - ../../media/robert-mapplethorpe-sheffield-graves-gallery-2009-12-19-1.webp
-  - ../../media/robert-mapplethorpe-sheffield-graves-gallery-2009-12-19-2.webp
-  - ../../media/robert-mapplethorpe-sheffield-graves-gallery-2009-12-19-3.webp
+  - src: ../../media/robert-mapplethorpe-sheffield-graves-gallery-2009-12-19-0.webp
+    title: robert mapplethorpe sheffield graves gallery 2009 12 19 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-sheffield-graves-gallery-2009-12-19-1.webp
+    title: robert mapplethorpe sheffield graves gallery 2009 12 19 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-sheffield-graves-gallery-2009-12-19-2.webp
+    title: robert mapplethorpe sheffield graves gallery 2009 12 19 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-sheffield-graves-gallery-2009-12-19-3.webp
+    title: robert mapplethorpe sheffield graves gallery 2009 12 19 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2009-12-19
 enddate: 2010-03-27
 town: Sheffield

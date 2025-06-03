@@ -4,11 +4,36 @@ artists:
   - louise-bourgeois
 venue: kettles-yard
 images:
-  - ../../media/louise-bourgeois-cambridge-kettles-yard-2019-01-22-0.webp
-  - ../../media/louise-bourgeois-cambridge-kettles-yard-2019-01-22-1.webp
-  - ../../media/louise-bourgeois-cambridge-kettles-yard-2019-01-22-2.webp
-  - ../../media/louise-bourgeois-cambridge-kettles-yard-2019-01-22-3.webp
-  - ../../media/louise-bourgeois-cambridge-kettles-yard-2019-01-22-4.webp
+  - src: ../../media/louise-bourgeois-cambridge-kettles-yard-2019-01-22-0.webp
+    title: louise bourgeois cambridge kettles yard 2019 01 22 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-cambridge-kettles-yard-2019-01-22-1.webp
+    title: louise bourgeois cambridge kettles yard 2019 01 22 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-cambridge-kettles-yard-2019-01-22-2.webp
+    title: louise bourgeois cambridge kettles yard 2019 01 22 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-cambridge-kettles-yard-2019-01-22-3.webp
+    title: louise bourgeois cambridge kettles yard 2019 01 22 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-cambridge-kettles-yard-2019-01-22-4.webp
+    title: louise bourgeois cambridge kettles yard 2019 01 22 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2019-01-22
 enddate: 2019-03-31
 town: Cambridge

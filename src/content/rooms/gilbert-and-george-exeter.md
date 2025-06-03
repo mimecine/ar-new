@@ -4,10 +4,34 @@ artists:
   - gilbert-george
 venue: royal-albert-memorial-museum-and-art-gallery
 images:
-  - ../../media/gilbert-and-george-exeter-royal-albert-memorial-museum-art-gallery-2014-03-22-0.webp
-  - ../../media/gilbert-and-george-exeter-royal-albert-memorial-museum-art-gallery-2014-03-22-1.webp
-  - ../../media/gilbert-and-george-exeter-royal-albert-memorial-museum-art-gallery-2014-03-22-2.webp
-  - ../../media/gilbert-and-george-exeter-royal-albert-memorial-museum-art-gallery-2014-03-22-3.webp
+  - src: ../../media/gilbert-and-george-exeter-royal-albert-memorial-museum-art-gallery-2014-03-22-0.webp
+    title: gilbert and george exeter royal albert memorial museum art gallery 2014
+      03 22 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gilbert-and-george-exeter-royal-albert-memorial-museum-art-gallery-2014-03-22-1.webp
+    title: gilbert and george exeter royal albert memorial museum art gallery 2014
+      03 22 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gilbert-and-george-exeter-royal-albert-memorial-museum-art-gallery-2014-03-22-2.webp
+    title: gilbert and george exeter royal albert memorial museum art gallery 2014
+      03 22 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gilbert-and-george-exeter-royal-albert-memorial-museum-art-gallery-2014-03-22-3.webp
+    title: gilbert and george exeter royal albert memorial museum art gallery 2014
+      03 22 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2014-03-22
 enddate: 2014-06-22
 town: Exeter

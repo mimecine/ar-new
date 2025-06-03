@@ -4,12 +4,42 @@ artists:
   - roy-lichtenstein
 venue: tate-modern
 images:
-  - ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-0.webp
-  - ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-1.webp
-  - ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-2.webp
-  - ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-3.webp
-  - ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-4.webp
-  - ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-5.webp
+  - src: ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-0.webp
+    title: roy lichtenstein london tate modern 2023 04 24 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-1.webp
+    title: roy lichtenstein london tate modern 2023 04 24 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-2.webp
+    title: roy lichtenstein london tate modern 2023 04 24 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-3.webp
+    title: roy lichtenstein london tate modern 2023 04 24 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-4.webp
+    title: roy lichtenstein london tate modern 2023 04 24 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/roy-lichtenstein-london-tate-modern-2023-04-24-5.webp
+    title: roy lichtenstein london tate modern 2023 04 24 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2023-04-24
 enddate: 2024-12-01
 town: London

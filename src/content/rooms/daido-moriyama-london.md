@@ -4,23 +4,108 @@ artists:
   - daido-moriyama
 venue: tate-modern
 images:
-  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-0.webp
-  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-1.webp
-  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-2.webp
-  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-3.webp
-  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-4.webp
-  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-5.webp
-  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-6.webp
-  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-7.webp
-  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-8.webp
-  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-9.webp
-  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-10.webp
-  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-11.webp
-  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-12.webp
-  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-13.webp
-  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-14.webp
-  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-15.webp
-  - ../../media/daido-moriyama-london-tate-modern-2017-02-20-16.webp
+  - src: ../../media/daido-moriyama-london-tate-modern-2017-02-20-0.webp
+    title: daido moriyama london tate modern 2017 02 20 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/daido-moriyama-london-tate-modern-2017-02-20-1.webp
+    title: daido moriyama london tate modern 2017 02 20 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/daido-moriyama-london-tate-modern-2017-02-20-2.webp
+    title: daido moriyama london tate modern 2017 02 20 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/daido-moriyama-london-tate-modern-2017-02-20-3.webp
+    title: daido moriyama london tate modern 2017 02 20 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/daido-moriyama-london-tate-modern-2017-02-20-4.webp
+    title: daido moriyama london tate modern 2017 02 20 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/daido-moriyama-london-tate-modern-2017-02-20-5.webp
+    title: daido moriyama london tate modern 2017 02 20 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/daido-moriyama-london-tate-modern-2017-02-20-6.webp
+    title: daido moriyama london tate modern 2017 02 20 6
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/daido-moriyama-london-tate-modern-2017-02-20-7.webp
+    title: daido moriyama london tate modern 2017 02 20 7
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/daido-moriyama-london-tate-modern-2017-02-20-8.webp
+    title: daido moriyama london tate modern 2017 02 20 8
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/daido-moriyama-london-tate-modern-2017-02-20-9.webp
+    title: daido moriyama london tate modern 2017 02 20 9
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/daido-moriyama-london-tate-modern-2017-02-20-10.webp
+    title: daido moriyama london tate modern 2017 02 20 10
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/daido-moriyama-london-tate-modern-2017-02-20-11.webp
+    title: daido moriyama london tate modern 2017 02 20 11
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/daido-moriyama-london-tate-modern-2017-02-20-12.webp
+    title: daido moriyama london tate modern 2017 02 20 12
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/daido-moriyama-london-tate-modern-2017-02-20-13.webp
+    title: daido moriyama london tate modern 2017 02 20 13
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/daido-moriyama-london-tate-modern-2017-02-20-14.webp
+    title: daido moriyama london tate modern 2017 02 20 14
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/daido-moriyama-london-tate-modern-2017-02-20-15.webp
+    title: daido moriyama london tate modern 2017 02 20 15
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/daido-moriyama-london-tate-modern-2017-02-20-16.webp
+    title: daido moriyama london tate modern 2017 02 20 16
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2017-02-20
 enddate: 2018-12-08
 town: London

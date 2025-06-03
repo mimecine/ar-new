@@ -4,11 +4,36 @@ artists:
   - roy-lichtenstein
 venue: hatton-gallery
 images:
-  - ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-0.webp
-  - ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-1.webp
-  - ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-2.webp
-  - ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-3.webp
-  - ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-4.webp
+  - src: ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-0.webp
+    title: roy lichtenstein hatton gallery hatton gallery 2019 09 28 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-1.webp
+    title: roy lichtenstein hatton gallery hatton gallery 2019 09 28 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-2.webp
+    title: roy lichtenstein hatton gallery hatton gallery 2019 09 28 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-3.webp
+    title: roy lichtenstein hatton gallery hatton gallery 2019 09 28 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/roy-lichtenstein-hatton-gallery-hatton-gallery-2019-09-28-4.webp
+    title: roy lichtenstein hatton gallery hatton gallery 2019 09 28 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2019-09-28
 enddate: 2020-01-04
 town: Hatton Gallery

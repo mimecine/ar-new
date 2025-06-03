@@ -4,13 +4,48 @@ artists:
   - gilbert-george
 venue: brighton-museum-and-art-gallery
 images:
-  - ../../media/gilbert-george-brighton-brighton-museum-art-gallery-2018-04-28-0.webp
-  - ../../media/gilbert-george-brighton-brighton-museum-art-gallery-2018-04-28-1.webp
-  - ../../media/gilbert-george-brighton-brighton-museum-art-gallery-2018-04-28-2.webp
-  - ../../media/gilbert-george-brighton-brighton-museum-art-gallery-2018-04-28-3.webp
-  - ../../media/gilbert-george-brighton-brighton-museum-art-gallery-2018-04-28-4.webp
-  - ../../media/gilbert-george-brighton-brighton-museum-art-gallery-2018-04-28-5.webp
-  - ../../media/gilbert-george-brighton-brighton-museum-art-gallery-2018-04-28-6.webp
+  - src: ../../media/gilbert-george-brighton-brighton-museum-art-gallery-2018-04-28-0.webp
+    title: gilbert george brighton brighton museum art gallery 2018 04 28 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gilbert-george-brighton-brighton-museum-art-gallery-2018-04-28-1.webp
+    title: gilbert george brighton brighton museum art gallery 2018 04 28 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gilbert-george-brighton-brighton-museum-art-gallery-2018-04-28-2.webp
+    title: gilbert george brighton brighton museum art gallery 2018 04 28 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gilbert-george-brighton-brighton-museum-art-gallery-2018-04-28-3.webp
+    title: gilbert george brighton brighton museum art gallery 2018 04 28 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gilbert-george-brighton-brighton-museum-art-gallery-2018-04-28-4.webp
+    title: gilbert george brighton brighton museum art gallery 2018 04 28 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gilbert-george-brighton-brighton-museum-art-gallery-2018-04-28-5.webp
+    title: gilbert george brighton brighton museum art gallery 2018 04 28 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gilbert-george-brighton-brighton-museum-art-gallery-2018-04-28-6.webp
+    title: gilbert george brighton brighton museum art gallery 2018 04 28 6
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2018-04-28
 enddate: 2018-09-02
 town: Brighton

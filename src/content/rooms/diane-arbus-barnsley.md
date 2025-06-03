@@ -4,11 +4,36 @@ artists:
   - diane-arbus
 venue: barnsley-civic
 images:
-  - ../../media/diane-arbus-barnsley-barnsley-civic-2023-01-23-0.webp
-  - ../../media/diane-arbus-barnsley-barnsley-civic-2023-01-23-1.webp
-  - ../../media/diane-arbus-barnsley-barnsley-civic-2023-01-23-2.webp
-  - ../../media/diane-arbus-barnsley-barnsley-civic-2023-01-23-3.webp
-  - ../../media/diane-arbus-barnsley-barnsley-civic-2023-01-23-4.webp
+  - src: ../../media/diane-arbus-barnsley-barnsley-civic-2023-01-23-0.webp
+    title: diane arbus barnsley barnsley civic 2023 01 23 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-barnsley-barnsley-civic-2023-01-23-1.webp
+    title: diane arbus barnsley barnsley civic 2023 01 23 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-barnsley-barnsley-civic-2023-01-23-2.webp
+    title: diane arbus barnsley barnsley civic 2023 01 23 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-barnsley-barnsley-civic-2023-01-23-3.webp
+    title: diane arbus barnsley barnsley civic 2023 01 23 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-barnsley-barnsley-civic-2023-01-23-4.webp
+    title: diane arbus barnsley barnsley civic 2023 01 23 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2023-01-23
 enddate: 2023-04-16
 town: Barnsley

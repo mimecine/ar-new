@@ -4,10 +4,34 @@ artists:
   - robert-therrien
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/robert-therrien-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-0.webp
-  - ../../media/robert-therrien-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-1.webp
-  - ../../media/robert-therrien-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-2.webp
-  - ../../media/robert-therrien-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-3.webp
+  - src: ../../media/robert-therrien-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-0.webp
+    title: robert therrien edinburgh scottish national gallery of modern art 2010 07
+      29 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-therrien-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-1.webp
+    title: robert therrien edinburgh scottish national gallery of modern art 2010 07
+      29 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-therrien-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-2.webp
+    title: robert therrien edinburgh scottish national gallery of modern art 2010 07
+      29 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-therrien-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-3.webp
+    title: robert therrien edinburgh scottish national gallery of modern art 2010 07
+      29 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2010-07-29
 enddate: 2011-01-30
 town: Edinburgh

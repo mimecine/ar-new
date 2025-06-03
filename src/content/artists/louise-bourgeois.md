@@ -2,7 +2,8 @@
 title: Louise Bourgeois
 featuredImage: ../../media/louise-bourgeois-featured.webp
 resources:
-  - /sites/default/files/downloads/LouiseBourgeoisLearningResource.pdf
+  - path: ../../media/./src/media//louise-bourgeois-louise-bourgeois-learning-resource.pdf
+    title: Louise Bourgeois Learning Resource
 works:
   - inventorynumber: AL00227
     category: Sculpture

@@ -4,13 +4,48 @@ artists:
   - ron-mueck
 venue: ferens-art-gallery
 images:
-  - ../../media/ron-mueck-hull-ferens-art-gallery-2017-04-22-0.webp
-  - ../../media/ron-mueck-hull-ferens-art-gallery-2017-04-22-1.webp
-  - ../../media/ron-mueck-hull-ferens-art-gallery-2017-04-22-2.webp
-  - ../../media/ron-mueck-hull-ferens-art-gallery-2017-04-22-3.webp
-  - ../../media/ron-mueck-hull-ferens-art-gallery-2017-04-22-4.webp
-  - ../../media/ron-mueck-hull-ferens-art-gallery-2017-04-22-5.webp
-  - ../../media/ron-mueck-hull-ferens-art-gallery-2017-04-22-6.webp
+  - src: ../../media/ron-mueck-hull-ferens-art-gallery-2017-04-22-0.webp
+    title: ron mueck hull ferens art gallery 2017 04 22 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ron-mueck-hull-ferens-art-gallery-2017-04-22-1.webp
+    title: ron mueck hull ferens art gallery 2017 04 22 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ron-mueck-hull-ferens-art-gallery-2017-04-22-2.webp
+    title: ron mueck hull ferens art gallery 2017 04 22 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ron-mueck-hull-ferens-art-gallery-2017-04-22-3.webp
+    title: ron mueck hull ferens art gallery 2017 04 22 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ron-mueck-hull-ferens-art-gallery-2017-04-22-4.webp
+    title: ron mueck hull ferens art gallery 2017 04 22 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ron-mueck-hull-ferens-art-gallery-2017-04-22-5.webp
+    title: ron mueck hull ferens art gallery 2017 04 22 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ron-mueck-hull-ferens-art-gallery-2017-04-22-6.webp
+    title: ron mueck hull ferens art gallery 2017 04 22 6
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2017-04-22
 enddate: 2017-08-13
 town: Hull

@@ -4,9 +4,24 @@ artists:
   - damien-hirst
 venue: piers-art-centre
 images:
-  - ../../media/damien-hirst-orkney-piers-art-centre-2015-06-20-0.webp
-  - ../../media/damien-hirst-orkney-piers-art-centre-2015-06-20-1.webp
-  - ../../media/damien-hirst-orkney-piers-art-centre-2015-06-20-2.webp
+  - src: ../../media/damien-hirst-orkney-piers-art-centre-2015-06-20-0.webp
+    title: damien hirst orkney piers art centre 2015 06 20 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/damien-hirst-orkney-piers-art-centre-2015-06-20-1.webp
+    title: damien hirst orkney piers art centre 2015 06 20 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/damien-hirst-orkney-piers-art-centre-2015-06-20-2.webp
+    title: damien hirst orkney piers art centre 2015 06 20 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2015-06-20
 enddate: 2015-09-12
 town: Orkney

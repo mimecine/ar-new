@@ -4,11 +4,36 @@ artists:
   - roy-lichtenstein
 venue: grundy-art-gallery
 images:
-  - ../../media/roy-lichtenstein-blackpool-grundy-art-gallery-2019-07-13-0.webp
-  - ../../media/roy-lichtenstein-blackpool-grundy-art-gallery-2019-07-13-1.webp
-  - ../../media/roy-lichtenstein-blackpool-grundy-art-gallery-2019-07-13-2.webp
-  - ../../media/roy-lichtenstein-blackpool-grundy-art-gallery-2019-07-13-3.webp
-  - ../../media/roy-lichtenstein-blackpool-grundy-art-gallery-2019-07-13-4.webp
+  - src: ../../media/roy-lichtenstein-blackpool-grundy-art-gallery-2019-07-13-0.webp
+    title: roy lichtenstein blackpool grundy art gallery 2019 07 13 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/roy-lichtenstein-blackpool-grundy-art-gallery-2019-07-13-1.webp
+    title: roy lichtenstein blackpool grundy art gallery 2019 07 13 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/roy-lichtenstein-blackpool-grundy-art-gallery-2019-07-13-2.webp
+    title: roy lichtenstein blackpool grundy art gallery 2019 07 13 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/roy-lichtenstein-blackpool-grundy-art-gallery-2019-07-13-3.webp
+    title: roy lichtenstein blackpool grundy art gallery 2019 07 13 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/roy-lichtenstein-blackpool-grundy-art-gallery-2019-07-13-4.webp
+    title: roy lichtenstein blackpool grundy art gallery 2019 07 13 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2019-07-13
 enddate: 2019-09-07
 town: Blackpool

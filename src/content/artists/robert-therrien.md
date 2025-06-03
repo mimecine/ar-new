@@ -2,7 +2,8 @@
 title: Robert Therrien
 featuredImage: ../../media/robert-therrien-featured.webp
 resources:
-  - /sites/default/files/downloads/RobertTherrienlearningresource.pdf
+  - path: ../../media/robert-therrien-robert-therrienlearningresource.webp
+    title: Robert Therrienlearningresource
 works:
   - inventorynumber: AR00168
     category: Works on paper

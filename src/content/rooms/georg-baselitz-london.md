@@ -4,9 +4,24 @@ artists:
   - georg-baselitz
 venue: tate-modern
 images:
-  - ../../media/georg-baselitz-london-tate-modern-2015-04-27-0.webp
-  - ../../media/georg-baselitz-london-tate-modern-2015-04-27-1.webp
-  - ../../media/georg-baselitz-london-tate-modern-2015-04-27-2.webp
+  - src: ../../media/georg-baselitz-london-tate-modern-2015-04-27-0.webp
+    title: georg baselitz london tate modern 2015 04 27 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/georg-baselitz-london-tate-modern-2015-04-27-1.webp
+    title: georg baselitz london tate modern 2015 04 27 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/georg-baselitz-london-tate-modern-2015-04-27-2.webp
+    title: georg baselitz london tate modern 2015 04 27 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2015-04-27
 enddate: 2016-01-10
 town: London

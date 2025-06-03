@@ -70,7 +70,7 @@ for (let i = 0; i < grid_tail_size.length; i++) {
                 x-data={`{slide:'slide${i}'}`}
                 @xclick.prevent="$refs.dialog.showModal();$refs[slide].scrollIntoView({behavior:'instant'});   open=!open;">
                 <Image
-              src={image}
+              src={image.src}
               alt={room.data.title}
               title={room.data.title}
               widths={[360, 1600]}
@@ -166,7 +166,7 @@ for (let i = 0; i < grid_tail_size.length; i++) {
           class="relative flex-none w-full h-full p-2 grid grid-rows-[1fr,auto,auto] items-center content-center justify-center snap-x snap-center text-sm font-thin">
           <div class="w-full h-[80vh] items-center content-center justify-center">
             <Image
-              src={image}
+              src={image.src}
               alt={room.data.title}
               title={room.data.title}
               widths={[360, 1600]}

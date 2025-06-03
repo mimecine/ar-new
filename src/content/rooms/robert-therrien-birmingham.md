@@ -4,10 +4,30 @@ artists:
   - robert-therrien
 venue: mac
 images:
-  - ../../media/robert-therrien-birmingham-mac-2014-06-21-0.webp
-  - ../../media/robert-therrien-birmingham-mac-2014-06-21-1.webp
-  - ../../media/robert-therrien-birmingham-mac-2014-06-21-2.webp
-  - ../../media/robert-therrien-birmingham-mac-2014-06-21-3.webp
+  - src: ../../media/robert-therrien-birmingham-mac-2014-06-21-0.webp
+    title: robert therrien birmingham mac 2014 06 21 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-therrien-birmingham-mac-2014-06-21-1.webp
+    title: robert therrien birmingham mac 2014 06 21 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-therrien-birmingham-mac-2014-06-21-2.webp
+    title: robert therrien birmingham mac 2014 06 21 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-therrien-birmingham-mac-2014-06-21-3.webp
+    title: robert therrien birmingham mac 2014 06 21 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2014-06-21
 enddate: 2014-09-07
 town: Birmingham

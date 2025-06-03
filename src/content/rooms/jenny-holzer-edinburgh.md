@@ -4,9 +4,24 @@ artists:
   - jenny-holzer
 venue: talbot-rice-gallery
 images:
-  - ../../media/jenny-holzer-edinburgh-talbot-rice-gallery-2010-03-27-0.webp
-  - ../../media/jenny-holzer-edinburgh-talbot-rice-gallery-2010-03-27-1.webp
-  - ../../media/jenny-holzer-edinburgh-talbot-rice-gallery-2010-03-27-2.webp
+  - src: ../../media/jenny-holzer-edinburgh-talbot-rice-gallery-2010-03-27-0.webp
+    title: jenny holzer edinburgh talbot rice gallery 2010 03 27 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jenny-holzer-edinburgh-talbot-rice-gallery-2010-03-27-1.webp
+    title: jenny holzer edinburgh talbot rice gallery 2010 03 27 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jenny-holzer-edinburgh-talbot-rice-gallery-2010-03-27-2.webp
+    title: jenny holzer edinburgh talbot rice gallery 2010 03 27 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2010-03-27
 enddate: 2010-05-15
 town: Edinburgh

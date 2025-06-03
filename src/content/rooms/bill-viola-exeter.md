@@ -4,11 +4,36 @@ artists:
   - bill-viola
 venue: royal-albert-memorial-museum-and-art-gallery
 images:
-  - ../../media/bill-viola-exeter-royal-albert-memorial-museum-art-gallery-2024-01-27-0.webp
-  - ../../media/bill-viola-exeter-royal-albert-memorial-museum-art-gallery-2024-01-27-1.webp
-  - ../../media/bill-viola-exeter-royal-albert-memorial-museum-art-gallery-2024-01-27-2.webp
-  - ../../media/bill-viola-exeter-royal-albert-memorial-museum-art-gallery-2024-01-27-3.webp
-  - ../../media/bill-viola-exeter-royal-albert-memorial-museum-art-gallery-2024-01-27-4.webp
+  - src: ../../media/bill-viola-exeter-royal-albert-memorial-museum-art-gallery-2024-01-27-0.webp
+    title: bill viola exeter royal albert memorial museum art gallery 2024 01 27 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/bill-viola-exeter-royal-albert-memorial-museum-art-gallery-2024-01-27-1.webp
+    title: bill viola exeter royal albert memorial museum art gallery 2024 01 27 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/bill-viola-exeter-royal-albert-memorial-museum-art-gallery-2024-01-27-2.webp
+    title: bill viola exeter royal albert memorial museum art gallery 2024 01 27 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/bill-viola-exeter-royal-albert-memorial-museum-art-gallery-2024-01-27-3.webp
+    title: bill viola exeter royal albert memorial museum art gallery 2024 01 27 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/bill-viola-exeter-royal-albert-memorial-museum-art-gallery-2024-01-27-4.webp
+    title: bill viola exeter royal albert memorial museum art gallery 2024 01 27 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2024-01-27
 enddate: 2024-06-02
 town: Exeter

@@ -4,14 +4,54 @@ artists:
   - joseph-beuys
 venue: leeds-art-gallery
 images:
-  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-0.webp
-  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-1.webp
-  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-2.webp
-  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-3.webp
-  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-4.webp
-  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-5.webp
-  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-6.webp
-  - ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-7.webp
+  - src: ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-0.webp
+    title: joseph beuys leeds leeds art gallery 2017 10 13 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-1.webp
+    title: joseph beuys leeds leeds art gallery 2017 10 13 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-2.webp
+    title: joseph beuys leeds leeds art gallery 2017 10 13 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-3.webp
+    title: joseph beuys leeds leeds art gallery 2017 10 13 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-4.webp
+    title: joseph beuys leeds leeds art gallery 2017 10 13 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-5.webp
+    title: joseph beuys leeds leeds art gallery 2017 10 13 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-6.webp
+    title: joseph beuys leeds leeds art gallery 2017 10 13 6
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/joseph-beuys-leeds-leeds-art-gallery-2017-10-13-7.webp
+    title: joseph beuys leeds leeds art gallery 2017 10 13 7
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2017-10-13
 enddate: 2018-01-21
 town: Leeds

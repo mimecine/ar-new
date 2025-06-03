@@ -4,9 +4,24 @@ artists:
   - robert-mapplethorpe
 venue: linlithgow-burgh-halls
 images:
-  - ../../media/robert-mapplehthorpe-linlithgow-linlithgow-burgh-halls-2012-07-20-0.webp
-  - ../../media/robert-mapplehthorpe-linlithgow-linlithgow-burgh-halls-2012-07-20-1.webp
-  - ../../media/robert-mapplehthorpe-linlithgow-linlithgow-burgh-halls-2012-07-20-2.webp
+  - src: ../../media/robert-mapplehthorpe-linlithgow-linlithgow-burgh-halls-2012-07-20-0.webp
+    title: robert mapplehthorpe linlithgow linlithgow burgh halls 2012 07 20 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplehthorpe-linlithgow-linlithgow-burgh-halls-2012-07-20-1.webp
+    title: robert mapplehthorpe linlithgow linlithgow burgh halls 2012 07 20 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplehthorpe-linlithgow-linlithgow-burgh-halls-2012-07-20-2.webp
+    title: robert mapplehthorpe linlithgow linlithgow burgh halls 2012 07 20 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2012-07-20
 enddate: 2012-10-28
 town: Linlithgow

@@ -4,10 +4,30 @@ artists:
   - louise-bourgeois
 venue: rugby-art-gallery-and-museum
 images:
-  - ../../media/louise-bourgeois-rugby-rugby-art-gallery-and-museum-2022-07-23-0.webp
-  - ../../media/louise-bourgeois-rugby-rugby-art-gallery-and-museum-2022-07-23-1.webp
-  - ../../media/louise-bourgeois-rugby-rugby-art-gallery-and-museum-2022-07-23-2.webp
-  - ../../media/louise-bourgeois-rugby-rugby-art-gallery-and-museum-2022-07-23-3.webp
+  - src: ../../media/louise-bourgeois-rugby-rugby-art-gallery-and-museum-2022-07-23-0.webp
+    title: louise bourgeois rugby rugby art gallery and museum 2022 07 23 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-rugby-rugby-art-gallery-and-museum-2022-07-23-1.webp
+    title: louise bourgeois rugby rugby art gallery and museum 2022 07 23 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-rugby-rugby-art-gallery-and-museum-2022-07-23-2.webp
+    title: louise bourgeois rugby rugby art gallery and museum 2022 07 23 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-rugby-rugby-art-gallery-and-museum-2022-07-23-3.webp
+    title: louise bourgeois rugby rugby art gallery and museum 2022 07 23 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2022-07-23
 enddate: 2022-11-19
 town: Rugby

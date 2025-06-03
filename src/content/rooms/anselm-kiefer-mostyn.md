@@ -4,9 +4,24 @@ artists:
   - anselm-kiefer
 venue: mostyn
 images:
-  - ../../media/anselm-kiefer-mostyn-mostyn-2011-12-03-0.webp
-  - ../../media/anselm-kiefer-mostyn-mostyn-2011-12-03-1.webp
-  - ../../media/anselm-kiefer-mostyn-mostyn-2011-12-03-2.webp
+  - src: ../../media/anselm-kiefer-mostyn-mostyn-2011-12-03-0.webp
+    title: anselm kiefer mostyn mostyn 2011 12 03 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/anselm-kiefer-mostyn-mostyn-2011-12-03-1.webp
+    title: anselm kiefer mostyn mostyn 2011 12 03 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/anselm-kiefer-mostyn-mostyn-2011-12-03-2.webp
+    title: anselm kiefer mostyn mostyn 2011 12 03 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2011-12-03
 enddate: 2012-03-11
 town: Mostyn

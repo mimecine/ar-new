@@ -4,10 +4,30 @@ artists:
   - bruce-nauman
 venue: harris-museum-and-art-gallery
 images:
-  - ../../media/bruce-nauman-preston-harris-museum-art-gallery-2014-02-15-0.webp
-  - ../../media/bruce-nauman-preston-harris-museum-art-gallery-2014-02-15-1.webp
-  - ../../media/bruce-nauman-preston-harris-museum-art-gallery-2014-02-15-2.webp
-  - ../../media/bruce-nauman-preston-harris-museum-art-gallery-2014-02-15-3.webp
+  - src: ../../media/bruce-nauman-preston-harris-museum-art-gallery-2014-02-15-0.webp
+    title: bruce nauman preston harris museum art gallery 2014 02 15 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/bruce-nauman-preston-harris-museum-art-gallery-2014-02-15-1.webp
+    title: bruce nauman preston harris museum art gallery 2014 02 15 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/bruce-nauman-preston-harris-museum-art-gallery-2014-02-15-2.webp
+    title: bruce nauman preston harris museum art gallery 2014 02 15 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/bruce-nauman-preston-harris-museum-art-gallery-2014-02-15-3.webp
+    title: bruce nauman preston harris museum art gallery 2014 02 15 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2014-02-15
 enddate: 2014-05-24
 town: Preston

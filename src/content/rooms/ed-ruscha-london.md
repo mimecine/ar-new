@@ -4,11 +4,36 @@ artists:
   - ed-ruscha
 venue: tate-modern
 images:
-  - ../../media/ed-ruscha-london-tate-modern-2009-04-29-0.webp
-  - ../../media/ed-ruscha-london-tate-modern-2009-04-29-1.webp
-  - ../../media/ed-ruscha-london-tate-modern-2009-04-29-2.webp
-  - ../../media/ed-ruscha-london-tate-modern-2009-04-29-3.webp
-  - ../../media/ed-ruscha-london-tate-modern-2009-04-29-4.webp
+  - src: ../../media/ed-ruscha-london-tate-modern-2009-04-29-0.webp
+    title: ed ruscha london tate modern 2009 04 29 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-london-tate-modern-2009-04-29-1.webp
+    title: ed ruscha london tate modern 2009 04 29 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-london-tate-modern-2009-04-29-2.webp
+    title: ed ruscha london tate modern 2009 04 29 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-london-tate-modern-2009-04-29-3.webp
+    title: ed ruscha london tate modern 2009 04 29 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-london-tate-modern-2009-04-29-4.webp
+    title: ed ruscha london tate modern 2009 04 29 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2009-04-29
 enddate: 2010-01-01
 town: London

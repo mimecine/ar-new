@@ -4,9 +4,24 @@ artists:
   - bill-viola
 venue: dick-institute
 images:
-  - ../../media/bill-viola-kilmarnock-dick-institute-2011-09-03-0.webp
-  - ../../media/bill-viola-kilmarnock-dick-institute-2011-09-03-1.webp
-  - ../../media/bill-viola-kilmarnock-dick-institute-2011-09-03-2.webp
+  - src: ../../media/bill-viola-kilmarnock-dick-institute-2011-09-03-0.webp
+    title: bill viola kilmarnock dick institute 2011 09 03 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/bill-viola-kilmarnock-dick-institute-2011-09-03-1.webp
+    title: bill viola kilmarnock dick institute 2011 09 03 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/bill-viola-kilmarnock-dick-institute-2011-09-03-2.webp
+    title: bill viola kilmarnock dick institute 2011 09 03 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2011-09-03
 enddate: 2011-12-24
 town: Kilmarnock

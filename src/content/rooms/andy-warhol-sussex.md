@@ -4,10 +4,30 @@ artists:
   - andy-warhol
 venue: de-la-warr-pavilion
 images:
-  - ../../media/andy-warhol-sussex-de-la-warr-pavilion-2011-09-24-0.webp
-  - ../../media/andy-warhol-sussex-de-la-warr-pavilion-2011-09-24-1.webp
-  - ../../media/andy-warhol-sussex-de-la-warr-pavilion-2011-09-24-2.webp
-  - ../../media/andy-warhol-sussex-de-la-warr-pavilion-2011-09-24-3.webp
+  - src: ../../media/andy-warhol-sussex-de-la-warr-pavilion-2011-09-24-0.webp
+    title: andy warhol sussex de la warr pavilion 2011 09 24 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-sussex-de-la-warr-pavilion-2011-09-24-1.webp
+    title: andy warhol sussex de la warr pavilion 2011 09 24 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-sussex-de-la-warr-pavilion-2011-09-24-2.webp
+    title: andy warhol sussex de la warr pavilion 2011 09 24 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-sussex-de-la-warr-pavilion-2011-09-24-3.webp
+    title: andy warhol sussex de la warr pavilion 2011 09 24 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2011-09-24
 enddate: 2012-02-26
 town: Sussex

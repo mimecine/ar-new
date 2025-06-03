@@ -4,10 +4,30 @@ artists:
   - gerhard-richter
 venue: new-walk-museum-and-art-gallery
 images:
-  - ../../media/gerhard-richter-leicester-new-walk-museum-art-gallery-2010-10-02-0.webp
-  - ../../media/gerhard-richter-leicester-new-walk-museum-art-gallery-2010-10-02-1.webp
-  - ../../media/gerhard-richter-leicester-new-walk-museum-art-gallery-2010-10-02-2.webp
-  - ../../media/gerhard-richter-leicester-new-walk-museum-art-gallery-2010-10-02-3.webp
+  - src: ../../media/gerhard-richter-leicester-new-walk-museum-art-gallery-2010-10-02-0.webp
+    title: gerhard richter leicester new walk museum art gallery 2010 10 02 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-leicester-new-walk-museum-art-gallery-2010-10-02-1.webp
+    title: gerhard richter leicester new walk museum art gallery 2010 10 02 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-leicester-new-walk-museum-art-gallery-2010-10-02-2.webp
+    title: gerhard richter leicester new walk museum art gallery 2010 10 02 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-leicester-new-walk-museum-art-gallery-2010-10-02-3.webp
+    title: gerhard richter leicester new walk museum art gallery 2010 10 02 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2010-10-02
 enddate: 2011-02-27
 town: Leicester

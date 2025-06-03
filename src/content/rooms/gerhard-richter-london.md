@@ -4,9 +4,24 @@ artists:
   - gerhard-richter
 venue: tate-modern
 images:
-  - ../../media/gerhard-richter-london-tate-modern-2013-07-09-0.webp
-  - ../../media/gerhard-richter-london-tate-modern-2013-07-09-1.webp
-  - ../../media/gerhard-richter-london-tate-modern-2013-07-09-2.webp
+  - src: ../../media/gerhard-richter-london-tate-modern-2013-07-09-0.webp
+    title: gerhard richter london tate modern 2013 07 09 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-london-tate-modern-2013-07-09-1.webp
+    title: gerhard richter london tate modern 2013 07 09 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-london-tate-modern-2013-07-09-2.webp
+    title: gerhard richter london tate modern 2013 07 09 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2013-07-09
 enddate: 2014-05-04
 town: London

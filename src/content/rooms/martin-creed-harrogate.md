@@ -3,13 +3,48 @@ title: Martin Creed, Harrogate
 artists: []
 venue: mercer-harrogate
 images:
-  - ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-0.webp
-  - ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-1.webp
-  - ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-2.webp
-  - ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-3.webp
-  - ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-4.webp
-  - ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-5.webp
-  - ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-6.webp
+  - src: ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-0.webp
+    title: martin creed harrogate mercer harrogate 2023 04 01 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-1.webp
+    title: martin creed harrogate mercer harrogate 2023 04 01 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-2.webp
+    title: martin creed harrogate mercer harrogate 2023 04 01 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-3.webp
+    title: martin creed harrogate mercer harrogate 2023 04 01 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-4.webp
+    title: martin creed harrogate mercer harrogate 2023 04 01 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-5.webp
+    title: martin creed harrogate mercer harrogate 2023 04 01 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/martin-creed-harrogate-mercer-harrogate-2023-04-01-6.webp
+    title: martin creed harrogate mercer harrogate 2023 04 01 6
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2023-04-01
 enddate: 2023-06-02
 town: Harrogate

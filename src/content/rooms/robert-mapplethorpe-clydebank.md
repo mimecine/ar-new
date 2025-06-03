@@ -4,11 +4,36 @@ artists:
   - robert-mapplethorpe
 venue: clydebank-museum-and-art-gallery
 images:
-  - ../../media/robert-mapplethorpe-clydebank-clydebank-museum-and-art-gallery-2015-02-28-0.webp
-  - ../../media/robert-mapplethorpe-clydebank-clydebank-museum-and-art-gallery-2015-02-28-1.webp
-  - ../../media/robert-mapplethorpe-clydebank-clydebank-museum-and-art-gallery-2015-02-28-2.webp
-  - ../../media/robert-mapplethorpe-clydebank-clydebank-museum-and-art-gallery-2015-02-28-3.webp
-  - ../../media/robert-mapplethorpe-clydebank-clydebank-museum-and-art-gallery-2015-02-28-4.webp
+  - src: ../../media/robert-mapplethorpe-clydebank-clydebank-museum-and-art-gallery-2015-02-28-0.webp
+    title: robert mapplethorpe clydebank clydebank museum and art gallery 2015 02 28 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-clydebank-clydebank-museum-and-art-gallery-2015-02-28-1.webp
+    title: robert mapplethorpe clydebank clydebank museum and art gallery 2015 02 28 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-clydebank-clydebank-museum-and-art-gallery-2015-02-28-2.webp
+    title: robert mapplethorpe clydebank clydebank museum and art gallery 2015 02 28 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-clydebank-clydebank-museum-and-art-gallery-2015-02-28-3.webp
+    title: robert mapplethorpe clydebank clydebank museum and art gallery 2015 02 28 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-clydebank-clydebank-museum-and-art-gallery-2015-02-28-4.webp
+    title: robert mapplethorpe clydebank clydebank museum and art gallery 2015 02 28 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2015-02-28
 enddate: 2015-05-23
 town: Clydebank

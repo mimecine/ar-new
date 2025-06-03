@@ -4,14 +4,54 @@ artists:
   - jenny-holzer
 venue: tate-modern
 images:
-  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-0.webp
-  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-1.webp
-  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-2.webp
-  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-3.webp
-  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-4.webp
-  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-5.webp
-  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-6.webp
-  - ../../media/jenny-holzer-london-tate-modern-2018-07-23-7.webp
+  - src: ../../media/jenny-holzer-london-tate-modern-2018-07-23-0.webp
+    title: jenny holzer london tate modern 2018 07 23 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jenny-holzer-london-tate-modern-2018-07-23-1.webp
+    title: jenny holzer london tate modern 2018 07 23 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jenny-holzer-london-tate-modern-2018-07-23-2.webp
+    title: jenny holzer london tate modern 2018 07 23 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jenny-holzer-london-tate-modern-2018-07-23-3.webp
+    title: jenny holzer london tate modern 2018 07 23 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jenny-holzer-london-tate-modern-2018-07-23-4.webp
+    title: jenny holzer london tate modern 2018 07 23 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jenny-holzer-london-tate-modern-2018-07-23-5.webp
+    title: jenny holzer london tate modern 2018 07 23 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jenny-holzer-london-tate-modern-2018-07-23-6.webp
+    title: jenny holzer london tate modern 2018 07 23 6
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jenny-holzer-london-tate-modern-2018-07-23-7.webp
+    title: jenny holzer london tate modern 2018 07 23 7
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2018-07-23
 enddate: 2019-07-01
 town: London

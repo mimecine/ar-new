@@ -4,10 +4,30 @@ artists:
   - gerhard-richter
 venue: mima
 images:
-  - ../../media/gerhard-richter-middlesbrough-mima-2009-08-28-0.webp
-  - ../../media/gerhard-richter-middlesbrough-mima-2009-08-28-1.webp
-  - ../../media/gerhard-richter-middlesbrough-mima-2009-08-28-2.webp
-  - ../../media/gerhard-richter-middlesbrough-mima-2009-08-28-3.webp
+  - src: ../../media/gerhard-richter-middlesbrough-mima-2009-08-28-0.webp
+    title: gerhard richter middlesbrough mima 2009 08 28 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-middlesbrough-mima-2009-08-28-1.webp
+    title: gerhard richter middlesbrough mima 2009 08 28 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-middlesbrough-mima-2009-08-28-2.webp
+    title: gerhard richter middlesbrough mima 2009 08 28 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-middlesbrough-mima-2009-08-28-3.webp
+    title: gerhard richter middlesbrough mima 2009 08 28 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2009-08-28
 enddate: 2009-11-15
 town: Middlesbrough

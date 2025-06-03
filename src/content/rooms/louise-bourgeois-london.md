@@ -4,11 +4,36 @@ artists:
   - louise-bourgeois
 venue: tate-modern
 images:
-  - ../../media/louise-bourgeois-london-tate-modern-2016-06-17-0.webp
-  - ../../media/louise-bourgeois-london-tate-modern-2016-06-17-1.webp
-  - ../../media/louise-bourgeois-london-tate-modern-2016-06-17-2.webp
-  - ../../media/louise-bourgeois-london-tate-modern-2016-06-17-3.webp
-  - ../../media/louise-bourgeois-london-tate-modern-2016-06-17-4.webp
+  - src: ../../media/louise-bourgeois-london-tate-modern-2016-06-17-0.webp
+    title: louise bourgeois london tate modern 2016 06 17 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-london-tate-modern-2016-06-17-1.webp
+    title: louise bourgeois london tate modern 2016 06 17 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-london-tate-modern-2016-06-17-2.webp
+    title: louise bourgeois london tate modern 2016 06 17 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-london-tate-modern-2016-06-17-3.webp
+    title: louise bourgeois london tate modern 2016 06 17 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-london-tate-modern-2016-06-17-4.webp
+    title: louise bourgeois london tate modern 2016 06 17 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2016-06-17
 enddate: 2017-06-17
 town: London

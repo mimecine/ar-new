@@ -4,11 +4,36 @@ artists:
   - robert-mapplethorpe
 venue: burgh-hall
 images:
-  - ../../media/robert-mapplethorpe-dunoon-burgh-hall-2012-03-24-0.webp
-  - ../../media/robert-mapplethorpe-dunoon-burgh-hall-2012-03-24-1.webp
-  - ../../media/robert-mapplethorpe-dunoon-burgh-hall-2012-03-24-2.webp
-  - ../../media/robert-mapplethorpe-dunoon-burgh-hall-2012-03-24-3.webp
-  - ../../media/robert-mapplethorpe-dunoon-burgh-hall-2012-03-24-4.webp
+  - src: ../../media/robert-mapplethorpe-dunoon-burgh-hall-2012-03-24-0.webp
+    title: robert mapplethorpe dunoon burgh hall 2012 03 24 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-dunoon-burgh-hall-2012-03-24-1.webp
+    title: robert mapplethorpe dunoon burgh hall 2012 03 24 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-dunoon-burgh-hall-2012-03-24-2.webp
+    title: robert mapplethorpe dunoon burgh hall 2012 03 24 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-dunoon-burgh-hall-2012-03-24-3.webp
+    title: robert mapplethorpe dunoon burgh hall 2012 03 24 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-dunoon-burgh-hall-2012-03-24-4.webp
+    title: robert mapplethorpe dunoon burgh hall 2012 03 24 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2012-03-24
 enddate: 2012-07-08
 town: Dunoon

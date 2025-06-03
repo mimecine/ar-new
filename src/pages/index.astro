@@ -1,5 +1,5 @@
 ---
-import { getCollection, getEntryBySlug } from "astro:content";
+import { getCollection, getEntry } from "astro:content";
 import { Image } from "astro:assets";
 import Main from "../layouts/Main.astro";
 import { extract } from "@extractus/oembed-extractor";
@@ -18,17 +18,17 @@ const films = [];
 const current_rooms = (await getCollection("rooms")).filter(room=> room.data.enddate >= new Date() || room.data.enddate == null).sort((a, b) => b.data.startdate - a.data.startdate);
 
 for (const slug of settings.rooms) {
-  const room = await getEntryBySlug("rooms", slug);
+  const room = await getEntry("rooms", slug);
   rooms.push(room);
 }
 for (const slug of settings.artists) {
-  const artist = await getEntryBySlug("artists", slug);
+  const artist = await getEntry("artists", slug);
   artists.push(artist);
 }
 for (const slug of settings.films) {
-  const film = await getEntryBySlug("films", slug);
+  const film = await getEntry("films", slug);
   for await(let artist of film.data.artists) {
-    artists.push(await getEntryBySlug("artists", artist));
+    artists.push(await getEntry("artists", artist));
   }
   films.push(film);
 }
@@ -50,7 +50,7 @@ for (const slug of settings.films) {
             <li class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 xxl:w-1/5 p-4" data-startdate={room.data.startdate.toISOString()} data-enddate={room.data.enddate?.toISOString()} x-show="new Date().toISOString() >= $el.getAttribute('data-startdate') && new Date(new Date()+24*60*60*1000).toISOString() <= $el.getAttribute('data-enddate')">
               <a href={`/rooms/${room.slug}`}>
                 <Thumbnail
-                  src={room.data.images[0]}
+                  src={room.data.images[0].src}
                   alt={room.data.title}
                   title={`VISIT: ${room.data.title}`}
                   class="h-fullzz"
@@ -74,7 +74,7 @@ for (const slug of settings.films) {
             <li class="w-full md:w-1/3 lg:w-1/4 xl:w-1/5 xxl:w-1/6 p-4">
               <a href={`/rooms/${room.slug}`}>
                 <Thumbnail
-                  src={room.data.images[0]}
+                  src={room.data.images[0].src}
                   alt={room.data.title}
                   title={`ROOM: ${room.data.title}`}
                 >

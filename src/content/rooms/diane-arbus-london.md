@@ -4,10 +4,30 @@ artists:
   - diane-arbus
 venue: tate-modern
 images:
-  - ../../media/diane-arbus-london-tate-modern-2011-04-01-0.webp
-  - ../../media/diane-arbus-london-tate-modern-2011-04-01-1.webp
-  - ../../media/diane-arbus-london-tate-modern-2011-04-01-2.webp
-  - ../../media/diane-arbus-london-tate-modern-2011-04-01-3.webp
+  - src: ../../media/diane-arbus-london-tate-modern-2011-04-01-0.webp
+    title: diane arbus london tate modern 2011 04 01 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-london-tate-modern-2011-04-01-1.webp
+    title: diane arbus london tate modern 2011 04 01 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-london-tate-modern-2011-04-01-2.webp
+    title: diane arbus london tate modern 2011 04 01 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-london-tate-modern-2011-04-01-3.webp
+    title: diane arbus london tate modern 2011 04 01 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2011-04-01
 enddate: 2012-04-01
 town: London

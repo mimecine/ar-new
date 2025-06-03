@@ -4,11 +4,36 @@ artists:
   - gerhard-richter
 venue: dick-institute
 images:
-  - ../../media/gerhard-richter-kilmarnock-dick-institute-2014-09-06-0.webp
-  - ../../media/gerhard-richter-kilmarnock-dick-institute-2014-09-06-1.webp
-  - ../../media/gerhard-richter-kilmarnock-dick-institute-2014-09-06-2.webp
-  - ../../media/gerhard-richter-kilmarnock-dick-institute-2014-09-06-3.webp
-  - ../../media/gerhard-richter-kilmarnock-dick-institute-2014-09-06-4.webp
+  - src: ../../media/gerhard-richter-kilmarnock-dick-institute-2014-09-06-0.webp
+    title: gerhard richter kilmarnock dick institute 2014 09 06 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-kilmarnock-dick-institute-2014-09-06-1.webp
+    title: gerhard richter kilmarnock dick institute 2014 09 06 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-kilmarnock-dick-institute-2014-09-06-2.webp
+    title: gerhard richter kilmarnock dick institute 2014 09 06 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-kilmarnock-dick-institute-2014-09-06-3.webp
+    title: gerhard richter kilmarnock dick institute 2014 09 06 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-kilmarnock-dick-institute-2014-09-06-4.webp
+    title: gerhard richter kilmarnock dick institute 2014 09 06 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2014-09-06
 enddate: 2014-12-06
 town: Kilmarnock

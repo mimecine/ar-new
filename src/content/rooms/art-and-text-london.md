@@ -13,12 +13,42 @@ artists:
   - louise-bourgeois
 venue: tate-modern
 images:
-  - ../../media/art-and-text-london-tate-modern-2023-02-27-0.webp
-  - ../../media/art-and-text-london-tate-modern-2023-02-27-1.webp
-  - ../../media/art-and-text-london-tate-modern-2023-02-27-2.webp
-  - ../../media/art-and-text-london-tate-modern-2023-02-27-3.webp
-  - ../../media/art-and-text-london-tate-modern-2023-02-27-4.webp
-  - ../../media/art-and-text-london-tate-modern-2023-02-27-5.webp
+  - src: ../../media/art-and-text-london-tate-modern-2023-02-27-0.webp
+    title: art and text london tate modern 2023 02 27 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/art-and-text-london-tate-modern-2023-02-27-1.webp
+    title: art and text london tate modern 2023 02 27 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/art-and-text-london-tate-modern-2023-02-27-2.webp
+    title: art and text london tate modern 2023 02 27 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/art-and-text-london-tate-modern-2023-02-27-3.webp
+    title: art and text london tate modern 2023 02 27 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/art-and-text-london-tate-modern-2023-02-27-4.webp
+    title: art and text london tate modern 2023 02 27 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/art-and-text-london-tate-modern-2023-02-27-5.webp
+    title: art and text london tate modern 2023 02 27 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2023-02-27
 enddate: 2024-12-08
 town: London

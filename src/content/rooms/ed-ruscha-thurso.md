@@ -4,8 +4,18 @@ artists:
   - ed-ruscha
 venue: the-swanson-gallery
 images:
-  - ../../media/ed-ruscha-thurso-the-swanson-gallery-2011-01-15-0.webp
-  - ../../media/ed-ruscha-thurso-the-swanson-gallery-2011-01-15-1.webp
+  - src: ../../media/ed-ruscha-thurso-the-swanson-gallery-2011-01-15-0.webp
+    title: ed ruscha thurso the swanson gallery 2011 01 15 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-thurso-the-swanson-gallery-2011-01-15-1.webp
+    title: ed ruscha thurso the swanson gallery 2011 01 15 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2011-01-15
 enddate: 2011-02-26
 town: Thurso

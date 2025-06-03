@@ -4,9 +4,24 @@ artists:
   - alex-katz
 venue: tate-liverpool
 images:
-  - ../../media/alex-katz-liverpool-tate-liverpool-2018-11-23-0.webp
-  - ../../media/alex-katz-liverpool-tate-liverpool-2018-11-23-1.webp
-  - ../../media/alex-katz-liverpool-tate-liverpool-2018-11-23-2.webp
+  - src: ../../media/alex-katz-liverpool-tate-liverpool-2018-11-23-0.webp
+    title: alex katz liverpool tate liverpool 2018 11 23 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/alex-katz-liverpool-tate-liverpool-2018-11-23-1.webp
+    title: alex katz liverpool tate liverpool 2018 11 23 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/alex-katz-liverpool-tate-liverpool-2018-11-23-2.webp
+    title: alex katz liverpool tate liverpool 2018 11 23 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2018-11-23
 enddate: 2019-03-17
 town: Liverpool

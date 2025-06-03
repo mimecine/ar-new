@@ -4,10 +4,30 @@ artists:
   - jeff-koons
 venue: the-royal-pavilion-and-museums
 images:
-  - ../../media/jeff-koons-brighton-the-royal-pavilion-and-museums-2013-05-11-0.webp
-  - ../../media/jeff-koons-brighton-the-royal-pavilion-and-museums-2013-05-11-1.webp
-  - ../../media/jeff-koons-brighton-the-royal-pavilion-and-museums-2013-05-11-2.webp
-  - ../../media/jeff-koons-brighton-the-royal-pavilion-and-museums-2013-05-11-3.webp
+  - src: ../../media/jeff-koons-brighton-the-royal-pavilion-and-museums-2013-05-11-0.webp
+    title: jeff koons brighton the royal pavilion and museums 2013 05 11 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jeff-koons-brighton-the-royal-pavilion-and-museums-2013-05-11-1.webp
+    title: jeff koons brighton the royal pavilion and museums 2013 05 11 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jeff-koons-brighton-the-royal-pavilion-and-museums-2013-05-11-2.webp
+    title: jeff koons brighton the royal pavilion and museums 2013 05 11 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jeff-koons-brighton-the-royal-pavilion-and-museums-2013-05-11-3.webp
+    title: jeff koons brighton the royal pavilion and museums 2013 05 11 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2013-05-11
 enddate: 2013-09-08
 town: Brighton

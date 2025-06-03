@@ -4,12 +4,42 @@ artists:
   - jenny-holzer
 venue: attenborough-arts-centre
 images:
-  - ../../media/jenny-holzer-leicester-attenborough-arts-centre-2024-06-14-0.webp
-  - ../../media/jenny-holzer-leicester-attenborough-arts-centre-2024-06-14-1.webp
-  - ../../media/jenny-holzer-leicester-attenborough-arts-centre-2024-06-14-2.webp
-  - ../../media/jenny-holzer-leicester-attenborough-arts-centre-2024-06-14-3.webp
-  - ../../media/jenny-holzer-leicester-attenborough-arts-centre-2024-06-14-4.webp
-  - ../../media/jenny-holzer-leicester-attenborough-arts-centre-2024-06-14-5.webp
+  - src: ../../media/jenny-holzer-leicester-attenborough-arts-centre-2024-06-14-0.webp
+    title: jenny holzer leicester attenborough arts centre 2024 06 14 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jenny-holzer-leicester-attenborough-arts-centre-2024-06-14-1.webp
+    title: jenny holzer leicester attenborough arts centre 2024 06 14 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jenny-holzer-leicester-attenborough-arts-centre-2024-06-14-2.webp
+    title: jenny holzer leicester attenborough arts centre 2024 06 14 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jenny-holzer-leicester-attenborough-arts-centre-2024-06-14-3.webp
+    title: jenny holzer leicester attenborough arts centre 2024 06 14 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jenny-holzer-leicester-attenborough-arts-centre-2024-06-14-4.webp
+    title: jenny holzer leicester attenborough arts centre 2024 06 14 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jenny-holzer-leicester-attenborough-arts-centre-2024-06-14-5.webp
+    title: jenny holzer leicester attenborough arts centre 2024 06 14 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2024-06-14
 enddate: 2024-09-29
 town: Leicester

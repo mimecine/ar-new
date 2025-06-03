@@ -4,11 +4,36 @@ artists:
   - jenny-holzer
 venue: mac
 images:
-  - ../../media/jenny-holzer-birmingham-mac-2017-05-27-0.webp
-  - ../../media/jenny-holzer-birmingham-mac-2017-05-27-1.webp
-  - ../../media/jenny-holzer-birmingham-mac-2017-05-27-2.webp
-  - ../../media/jenny-holzer-birmingham-mac-2017-05-27-3.webp
-  - ../../media/jenny-holzer-birmingham-mac-2017-05-27-4.webp
+  - src: ../../media/jenny-holzer-birmingham-mac-2017-05-27-0.webp
+    title: jenny holzer birmingham mac 2017 05 27 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jenny-holzer-birmingham-mac-2017-05-27-1.webp
+    title: jenny holzer birmingham mac 2017 05 27 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jenny-holzer-birmingham-mac-2017-05-27-2.webp
+    title: jenny holzer birmingham mac 2017 05 27 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jenny-holzer-birmingham-mac-2017-05-27-3.webp
+    title: jenny holzer birmingham mac 2017 05 27 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jenny-holzer-birmingham-mac-2017-05-27-4.webp
+    title: jenny holzer birmingham mac 2017 05 27 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2017-05-27
 enddate: 2017-09-10
 town: Birmingham

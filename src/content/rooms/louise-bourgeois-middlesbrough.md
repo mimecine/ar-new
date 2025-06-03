@@ -4,12 +4,42 @@ artists:
   - louise-bourgeois
 venue: mima
 images:
-  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-0.webp
-  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-1.webp
-  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-2.webp
-  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-3.webp
-  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-4.webp
-  - ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-5.webp
+  - src: ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-0.webp
+    title: louise bourgeois middlesbrough mima 2014 07 18 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-1.webp
+    title: louise bourgeois middlesbrough mima 2014 07 18 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-2.webp
+    title: louise bourgeois middlesbrough mima 2014 07 18 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-3.webp
+    title: louise bourgeois middlesbrough mima 2014 07 18 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-4.webp
+    title: louise bourgeois middlesbrough mima 2014 07 18 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-middlesbrough-mima-2014-07-18-5.webp
+    title: louise bourgeois middlesbrough mima 2014 07 18 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2014-07-18
 enddate: 2014-10-12
 town: Middlesbrough

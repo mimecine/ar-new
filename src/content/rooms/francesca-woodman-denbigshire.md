@@ -4,11 +4,36 @@ artists:
   - francesca-woodman
 venue: bodelwyddan-castle
 images:
-  - ../../media/francesca-woodman-denbigshire-bodelwyddan-castle-2014-04-05-0.webp
-  - ../../media/francesca-woodman-denbigshire-bodelwyddan-castle-2014-04-05-1.webp
-  - ../../media/francesca-woodman-denbigshire-bodelwyddan-castle-2014-04-05-2.webp
-  - ../../media/francesca-woodman-denbigshire-bodelwyddan-castle-2014-04-05-3.webp
-  - ../../media/francesca-woodman-denbigshire-bodelwyddan-castle-2014-04-05-4.webp
+  - src: ../../media/francesca-woodman-denbigshire-bodelwyddan-castle-2014-04-05-0.webp
+    title: francesca woodman denbigshire bodelwyddan castle 2014 04 05 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/francesca-woodman-denbigshire-bodelwyddan-castle-2014-04-05-1.webp
+    title: francesca woodman denbigshire bodelwyddan castle 2014 04 05 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/francesca-woodman-denbigshire-bodelwyddan-castle-2014-04-05-2.webp
+    title: francesca woodman denbigshire bodelwyddan castle 2014 04 05 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/francesca-woodman-denbigshire-bodelwyddan-castle-2014-04-05-3.webp
+    title: francesca woodman denbigshire bodelwyddan castle 2014 04 05 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/francesca-woodman-denbigshire-bodelwyddan-castle-2014-04-05-4.webp
+    title: francesca woodman denbigshire bodelwyddan castle 2014 04 05 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2014-04-05
 enddate: 2014-07-03
 town: Denbigshire

@@ -4,10 +4,30 @@ artists:
   - joseph-beuys
 venue: tate-modern
 images:
-  - ../../media/joseph-beuys-london-tate-modern-2018-11-19-0.webp
-  - ../../media/joseph-beuys-london-tate-modern-2018-11-19-1.webp
-  - ../../media/joseph-beuys-london-tate-modern-2018-11-19-2.webp
-  - ../../media/joseph-beuys-london-tate-modern-2018-11-19-3.webp
+  - src: ../../media/joseph-beuys-london-tate-modern-2018-11-19-0.webp
+    title: joseph beuys london tate modern 2018 11 19 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/joseph-beuys-london-tate-modern-2018-11-19-1.webp
+    title: joseph beuys london tate modern 2018 11 19 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/joseph-beuys-london-tate-modern-2018-11-19-2.webp
+    title: joseph beuys london tate modern 2018 11 19 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/joseph-beuys-london-tate-modern-2018-11-19-3.webp
+    title: joseph beuys london tate modern 2018 11 19 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2018-11-19
 enddate: 2021-03-10
 town: London

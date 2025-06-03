@@ -4,9 +4,24 @@ artists:
   - diane-arbus
 venue: kirkaldy-galleries
 images:
-  - ../../media/diane-arbus-kirkaldy-kirkaldy-galleries-2015-02-14-0.webp
-  - ../../media/diane-arbus-kirkaldy-kirkaldy-galleries-2015-02-14-1.webp
-  - ../../media/diane-arbus-kirkaldy-kirkaldy-galleries-2015-02-14-2.webp
+  - src: ../../media/diane-arbus-kirkaldy-kirkaldy-galleries-2015-02-14-0.webp
+    title: diane arbus kirkaldy kirkaldy galleries 2015 02 14 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-kirkaldy-kirkaldy-galleries-2015-02-14-1.webp
+    title: diane arbus kirkaldy kirkaldy galleries 2015 02 14 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-kirkaldy-kirkaldy-galleries-2015-02-14-2.webp
+    title: diane arbus kirkaldy kirkaldy galleries 2015 02 14 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2015-02-14
 enddate: 2015-05-31
 town: Kirkaldy

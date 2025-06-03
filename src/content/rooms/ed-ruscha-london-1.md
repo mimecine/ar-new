@@ -4,15 +4,60 @@ artists:
   - ed-ruscha
 venue: tate-modern
 images:
-  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-0.webp
-  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-1.webp
-  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-2.webp
-  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-3.webp
-  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-4.webp
-  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-5.webp
-  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-6.webp
-  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-7.webp
-  - ../../media/ed-ruscha-london-tate-modern-2019-07-25-8.webp
+  - src: ../../media/ed-ruscha-london-tate-modern-2019-07-25-0.webp
+    title: ed ruscha london tate modern 2019 07 25 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-london-tate-modern-2019-07-25-1.webp
+    title: ed ruscha london tate modern 2019 07 25 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-london-tate-modern-2019-07-25-2.webp
+    title: ed ruscha london tate modern 2019 07 25 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-london-tate-modern-2019-07-25-3.webp
+    title: ed ruscha london tate modern 2019 07 25 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-london-tate-modern-2019-07-25-4.webp
+    title: ed ruscha london tate modern 2019 07 25 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-london-tate-modern-2019-07-25-5.webp
+    title: ed ruscha london tate modern 2019 07 25 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-london-tate-modern-2019-07-25-6.webp
+    title: ed ruscha london tate modern 2019 07 25 6
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-london-tate-modern-2019-07-25-7.webp
+    title: ed ruscha london tate modern 2019 07 25 7
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-london-tate-modern-2019-07-25-8.webp
+    title: ed ruscha london tate modern 2019 07 25 8
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2019-07-25
 enddate: 2020-06-28
 town: London

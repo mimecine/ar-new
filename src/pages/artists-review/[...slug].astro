@@ -199,7 +199,7 @@ const films = all_films.filter((film) =>
                   <li>
                     <a href={`/rooms-review/${room.slug}`}>
                       <Thumbnail
-                        src={room.data.images[0]}
+                        src={room.data.images[0].src}
                         alt={room.data.title}
                         title={room.data.title}>
                         <div class="h-full">

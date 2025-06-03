@@ -4,10 +4,30 @@ artists:
   - vija-celmins
 venue: national-centre-for-craft-and-design
 images:
-  - ../../media/vija-celmins-sleaford-national-centre-for-craft-design-2015-04-04-0.webp
-  - ../../media/vija-celmins-sleaford-national-centre-for-craft-design-2015-04-04-1.webp
-  - ../../media/vija-celmins-sleaford-national-centre-for-craft-design-2015-04-04-2.webp
-  - ../../media/vija-celmins-sleaford-national-centre-for-craft-design-2015-04-04-3.webp
+  - src: ../../media/vija-celmins-sleaford-national-centre-for-craft-design-2015-04-04-0.webp
+    title: vija celmins sleaford national centre for craft design 2015 04 04 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/vija-celmins-sleaford-national-centre-for-craft-design-2015-04-04-1.webp
+    title: vija celmins sleaford national centre for craft design 2015 04 04 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/vija-celmins-sleaford-national-centre-for-craft-design-2015-04-04-2.webp
+    title: vija celmins sleaford national centre for craft design 2015 04 04 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/vija-celmins-sleaford-national-centre-for-craft-design-2015-04-04-3.webp
+    title: vija celmins sleaford national centre for craft design 2015 04 04 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2015-04-04
 enddate: 2015-06-28
 town: Sleaford

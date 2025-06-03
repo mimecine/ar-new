@@ -4,9 +4,24 @@ artists:
   - sol-lewitt
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/sol-lewitt-edinburgh-scottish-national-gallery-of-modern-art-2011-12-01-0.webp
-  - ../../media/sol-lewitt-edinburgh-scottish-national-gallery-of-modern-art-2011-12-01-1.webp
-  - ../../media/sol-lewitt-edinburgh-scottish-national-gallery-of-modern-art-2011-12-01-2.webp
+  - src: ../../media/sol-lewitt-edinburgh-scottish-national-gallery-of-modern-art-2011-12-01-0.webp
+    title: sol lewitt edinburgh scottish national gallery of modern art 2011 12 01 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/sol-lewitt-edinburgh-scottish-national-gallery-of-modern-art-2011-12-01-1.webp
+    title: sol lewitt edinburgh scottish national gallery of modern art 2011 12 01 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/sol-lewitt-edinburgh-scottish-national-gallery-of-modern-art-2011-12-01-2.webp
+    title: sol lewitt edinburgh scottish national gallery of modern art 2011 12 01 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2011-12-01
 enddate: 2012-11-04
 town: Edinburgh

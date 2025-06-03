@@ -4,10 +4,30 @@ artists:
   - martin-creed
 venue: tate-britain
 images:
-  - ../../media/martin-creed-london-tate-britain-2013-10-11-0.webp
-  - ../../media/martin-creed-london-tate-britain-2013-10-11-1.webp
-  - ../../media/martin-creed-london-tate-britain-2013-10-11-2.webp
-  - ../../media/martin-creed-london-tate-britain-2013-10-11-3.webp
+  - src: ../../media/martin-creed-london-tate-britain-2013-10-11-0.webp
+    title: martin creed london tate britain 2013 10 11 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/martin-creed-london-tate-britain-2013-10-11-1.webp
+    title: martin creed london tate britain 2013 10 11 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/martin-creed-london-tate-britain-2013-10-11-2.webp
+    title: martin creed london tate britain 2013 10 11 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/martin-creed-london-tate-britain-2013-10-11-3.webp
+    title: martin creed london tate britain 2013 10 11 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2013-10-11
 enddate: 2014-04-13
 town: London

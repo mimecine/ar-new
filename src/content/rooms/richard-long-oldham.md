@@ -4,11 +4,36 @@ artists:
   - richard-long
 venue: gallery-oldham
 images:
-  - ../../media/richard-long-oldham-gallery-oldham-2018-05-27-0.webp
-  - ../../media/richard-long-oldham-gallery-oldham-2018-05-27-1.webp
-  - ../../media/richard-long-oldham-gallery-oldham-2018-05-27-2.webp
-  - ../../media/richard-long-oldham-gallery-oldham-2018-05-27-3.webp
-  - ../../media/richard-long-oldham-gallery-oldham-2018-05-27-4.webp
+  - src: ../../media/richard-long-oldham-gallery-oldham-2018-05-27-0.webp
+    title: richard long oldham gallery oldham 2018 05 27 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/richard-long-oldham-gallery-oldham-2018-05-27-1.webp
+    title: richard long oldham gallery oldham 2018 05 27 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/richard-long-oldham-gallery-oldham-2018-05-27-2.webp
+    title: richard long oldham gallery oldham 2018 05 27 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/richard-long-oldham-gallery-oldham-2018-05-27-3.webp
+    title: richard long oldham gallery oldham 2018 05 27 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/richard-long-oldham-gallery-oldham-2018-05-27-4.webp
+    title: richard long oldham gallery oldham 2018 05 27 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2018-05-27
 enddate: 2018-09-16
 town: Oldham

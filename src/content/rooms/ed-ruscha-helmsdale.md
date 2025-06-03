@@ -4,9 +4,24 @@ artists:
   - ed-ruscha
 venue: timespan
 images:
-  - ../../media/ed-ruscha-helmsdale-timespan-2011-03-05-0.webp
-  - ../../media/ed-ruscha-helmsdale-timespan-2011-03-05-1.webp
-  - ../../media/ed-ruscha-helmsdale-timespan-2011-03-05-2.webp
+  - src: ../../media/ed-ruscha-helmsdale-timespan-2011-03-05-0.webp
+    title: ed ruscha helmsdale timespan 2011 03 05 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-helmsdale-timespan-2011-03-05-1.webp
+    title: ed ruscha helmsdale timespan 2011 03 05 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-helmsdale-timespan-2011-03-05-2.webp
+    title: ed ruscha helmsdale timespan 2011 03 05 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2011-03-05
 enddate: 2011-04-16
 town: Helmsdale

@@ -2,7 +2,8 @@
 title: Roy Lichtenstein
 featuredImage: ../../media/roy-lichtenstein-featured.webp
 resources:
-  - /sites/default/files/downloads/RoyLichtensteinLearningResource.pdf
+  - path: ../../media/roy-lichtenstein-roy-lichtenstein-learning-resource.webp
+    title: Roy Lichtenstein Learning Resource
 works: []
 
 ---

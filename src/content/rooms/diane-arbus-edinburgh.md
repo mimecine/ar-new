@@ -4,10 +4,30 @@ artists:
   - diane-arbus
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/diane-arbus-edinburgh-scottish-national-gallery-of-modern-art-2010-03-13-0.webp
-  - ../../media/diane-arbus-edinburgh-scottish-national-gallery-of-modern-art-2010-03-13-1.webp
-  - ../../media/diane-arbus-edinburgh-scottish-national-gallery-of-modern-art-2010-03-13-2.webp
-  - ../../media/diane-arbus-edinburgh-scottish-national-gallery-of-modern-art-2010-03-13-3.webp
+  - src: ../../media/diane-arbus-edinburgh-scottish-national-gallery-of-modern-art-2010-03-13-0.webp
+    title: diane arbus edinburgh scottish national gallery of modern art 2010 03 13 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-edinburgh-scottish-national-gallery-of-modern-art-2010-03-13-1.webp
+    title: diane arbus edinburgh scottish national gallery of modern art 2010 03 13 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-edinburgh-scottish-national-gallery-of-modern-art-2010-03-13-2.webp
+    title: diane arbus edinburgh scottish national gallery of modern art 2010 03 13 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-edinburgh-scottish-national-gallery-of-modern-art-2010-03-13-3.webp
+    title: diane arbus edinburgh scottish national gallery of modern art 2010 03 13 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2010-03-13
 enddate: 2010-06-13
 town: Edinburgh

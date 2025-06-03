@@ -9,7 +9,12 @@ const artists = defineCollection({
       title: z.string(),
       url: z.string().optional(),
       featuredImage: image().optional(),
-      resources: z.array(z.string()).optional(),
+      resources: z.array(
+        z.object({
+          title: z.string().optional(),
+          path: z.string(),
+        })
+      ).optional(),
       hidden: z.boolean().optional(),
       works: z
         .array(
@@ -38,7 +43,15 @@ const rooms = defineCollection({
       artists: z.array(z.string()).optional(),
       priority: z.number().optional(),
       hidden: z.boolean().optional(),
-      images: z.array(image()).optional(),
+      images: z.array(
+        z.object({
+          title: z.string().optional(),
+          src: image(),
+          credit: z.string().optional(),
+          alt: z.string().optional(),
+          copyright: z.string().optional(),
+        })      
+      ).optional(),
       startdate: z.coerce.date().optional(),
       enddate: z.coerce.date().optional(),
       ongoing: z.boolean().optional(),
@@ -80,17 +93,17 @@ const films = defineCollection({
     }),
 });
 
-const pages = defineCollection({
-  type: "content",
-  // Type-check frontmatter using a schema
-  schema: ({ image }) =>
-    z.object({
-      title: z.string(),
-      hidden: z.boolean().optional(),
-      artists: z.array(z.string()).optional(),
-      rooms: z.array(z.string()).optional(),
-    }),
-});
+// const pages = defineCollection({
+//   type: "content",
+//   // Type-check frontmatter using a schema
+//   schema: ({ image }) =>
+//     z.object({
+//       title: z.string(),
+//       hidden: z.boolean().optional(),
+//       artists: z.array(z.string()).optional(),
+//       rooms: z.array(z.string()).optional(),
+//     }),
+// });
 
 const news = defineCollection({
   type: "content",
@@ -103,4 +116,4 @@ const news = defineCollection({
     }),
 });
 
-export const collections = { artists, rooms, venues, films, pages, news };
+export const collections = { artists, rooms, venues, films, news };

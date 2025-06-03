@@ -4,11 +4,36 @@ artists:
   - august-sander
 venue: new-walk-museum-and-art-gallery
 images:
-  - ../../media/august-sander-leicester-new-walk-museum-art-gallery-2012-09-29-0.webp
-  - ../../media/august-sander-leicester-new-walk-museum-art-gallery-2012-09-29-1.webp
-  - ../../media/august-sander-leicester-new-walk-museum-art-gallery-2012-09-29-2.webp
-  - ../../media/august-sander-leicester-new-walk-museum-art-gallery-2012-09-29-3.webp
-  - ../../media/august-sander-leicester-new-walk-museum-art-gallery-2012-09-29-4.webp
+  - src: ../../media/august-sander-leicester-new-walk-museum-art-gallery-2012-09-29-0.webp
+    title: august sander leicester new walk museum art gallery 2012 09 29 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-leicester-new-walk-museum-art-gallery-2012-09-29-1.webp
+    title: august sander leicester new walk museum art gallery 2012 09 29 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-leicester-new-walk-museum-art-gallery-2012-09-29-2.webp
+    title: august sander leicester new walk museum art gallery 2012 09 29 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-leicester-new-walk-museum-art-gallery-2012-09-29-3.webp
+    title: august sander leicester new walk museum art gallery 2012 09 29 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-leicester-new-walk-museum-art-gallery-2012-09-29-4.webp
+    title: august sander leicester new walk museum art gallery 2012 09 29 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2012-09-29
 enddate: 2013-01-06
 town: Leicester

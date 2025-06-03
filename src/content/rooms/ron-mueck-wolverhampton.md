@@ -4,15 +4,60 @@ artists:
   - ron-mueck
 venue: wolverhampton-art-gallery
 images:
-  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-0.webp
-  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-1.webp
-  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-2.webp
-  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-3.webp
-  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-4.webp
-  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-5.webp
-  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-6.webp
-  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-7.webp
-  - ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-8.webp
+  - src: ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-0.webp
+    title: ron mueck wolverhampton wolverhampton art gallery 2013 07 20 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-1.webp
+    title: ron mueck wolverhampton wolverhampton art gallery 2013 07 20 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-2.webp
+    title: ron mueck wolverhampton wolverhampton art gallery 2013 07 20 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-3.webp
+    title: ron mueck wolverhampton wolverhampton art gallery 2013 07 20 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-4.webp
+    title: ron mueck wolverhampton wolverhampton art gallery 2013 07 20 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-5.webp
+    title: ron mueck wolverhampton wolverhampton art gallery 2013 07 20 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-6.webp
+    title: ron mueck wolverhampton wolverhampton art gallery 2013 07 20 6
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-7.webp
+    title: ron mueck wolverhampton wolverhampton art gallery 2013 07 20 7
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ron-mueck-wolverhampton-wolverhampton-art-gallery-2013-07-20-8.webp
+    title: ron mueck wolverhampton wolverhampton art gallery 2013 07 20 8
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2013-07-20
 enddate: 2013-11-02
 town: Wolverhampton

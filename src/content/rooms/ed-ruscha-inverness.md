@@ -4,9 +4,24 @@ artists:
   - ed-ruscha
 venue: inverness-museum-and-art-gallery
 images:
-  - ../../media/ed-ruscha-inverness-inverness-museum-art-gallery-2010-09-18-0.webp
-  - ../../media/ed-ruscha-inverness-inverness-museum-art-gallery-2010-09-18-1.webp
-  - ../../media/ed-ruscha-inverness-inverness-museum-art-gallery-2010-09-18-2.webp
+  - src: ../../media/ed-ruscha-inverness-inverness-museum-art-gallery-2010-09-18-0.webp
+    title: ed ruscha inverness inverness museum art gallery 2010 09 18 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-inverness-inverness-museum-art-gallery-2010-09-18-1.webp
+    title: ed ruscha inverness inverness museum art gallery 2010 09 18 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ed-ruscha-inverness-inverness-museum-art-gallery-2010-09-18-2.webp
+    title: ed ruscha inverness inverness museum art gallery 2010 09 18 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2010-09-18
 enddate: 2010-11-20
 town: Inverness

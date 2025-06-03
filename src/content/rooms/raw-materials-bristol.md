@@ -7,10 +7,30 @@ artists:
   - lawrence-weiner
 venue: bristol-museum-and-art-gallery
 images:
-  - ../../media/raw-materials-bristol-bristol-museum-and-art-gallery-2012-06-30-0.webp
-  - ../../media/raw-materials-bristol-bristol-museum-and-art-gallery-2012-06-30-1.webp
-  - ../../media/raw-materials-bristol-bristol-museum-and-art-gallery-2012-06-30-2.webp
-  - ../../media/raw-materials-bristol-bristol-museum-and-art-gallery-2012-06-30-3.webp
+  - src: ../../media/raw-materials-bristol-bristol-museum-and-art-gallery-2012-06-30-0.webp
+    title: raw materials bristol bristol museum and art gallery 2012 06 30 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/raw-materials-bristol-bristol-museum-and-art-gallery-2012-06-30-1.webp
+    title: raw materials bristol bristol museum and art gallery 2012 06 30 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/raw-materials-bristol-bristol-museum-and-art-gallery-2012-06-30-2.webp
+    title: raw materials bristol bristol museum and art gallery 2012 06 30 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/raw-materials-bristol-bristol-museum-and-art-gallery-2012-06-30-3.webp
+    title: raw materials bristol bristol museum and art gallery 2012 06 30 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2012-06-30
 enddate: 2012-09-23
 town: Bristol

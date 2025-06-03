@@ -4,13 +4,48 @@ artists:
   - gerhard-richter
 venue: john-hansard-gallery
 images:
-  - ../../media/gerhard-richter-southampton-john-hansard-gallery-2018-05-12-0.webp
-  - ../../media/gerhard-richter-southampton-john-hansard-gallery-2018-05-12-1.webp
-  - ../../media/gerhard-richter-southampton-john-hansard-gallery-2018-05-12-2.webp
-  - ../../media/gerhard-richter-southampton-john-hansard-gallery-2018-05-12-3.webp
-  - ../../media/gerhard-richter-southampton-john-hansard-gallery-2018-05-12-4.webp
-  - ../../media/gerhard-richter-southampton-john-hansard-gallery-2018-05-12-5.webp
-  - ../../media/gerhard-richter-southampton-john-hansard-gallery-2018-05-12-6.webp
+  - src: ../../media/gerhard-richter-southampton-john-hansard-gallery-2018-05-12-0.webp
+    title: gerhard richter southampton john hansard gallery 2018 05 12 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-southampton-john-hansard-gallery-2018-05-12-1.webp
+    title: gerhard richter southampton john hansard gallery 2018 05 12 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-southampton-john-hansard-gallery-2018-05-12-2.webp
+    title: gerhard richter southampton john hansard gallery 2018 05 12 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-southampton-john-hansard-gallery-2018-05-12-3.webp
+    title: gerhard richter southampton john hansard gallery 2018 05 12 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-southampton-john-hansard-gallery-2018-05-12-4.webp
+    title: gerhard richter southampton john hansard gallery 2018 05 12 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-southampton-john-hansard-gallery-2018-05-12-5.webp
+    title: gerhard richter southampton john hansard gallery 2018 05 12 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-southampton-john-hansard-gallery-2018-05-12-6.webp
+    title: gerhard richter southampton john hansard gallery 2018 05 12 6
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2018-05-12
 enddate: 2018-08-18
 town: Southampton

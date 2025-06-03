@@ -4,11 +4,36 @@ artists:
   - joseph-beuys
 venue: national-gallery-wales
 images:
-  - ../../media/joseph-beuys-cardiff-national-gallery-wales-2011-10-22-0.webp
-  - ../../media/joseph-beuys-cardiff-national-gallery-wales-2011-10-22-1.webp
-  - ../../media/joseph-beuys-cardiff-national-gallery-wales-2011-10-22-2.webp
-  - ../../media/joseph-beuys-cardiff-national-gallery-wales-2011-10-22-3.webp
-  - ../../media/joseph-beuys-cardiff-national-gallery-wales-2011-10-22-4.webp
+  - src: ../../media/joseph-beuys-cardiff-national-gallery-wales-2011-10-22-0.webp
+    title: joseph beuys cardiff national gallery wales 2011 10 22 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/joseph-beuys-cardiff-national-gallery-wales-2011-10-22-1.webp
+    title: joseph beuys cardiff national gallery wales 2011 10 22 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/joseph-beuys-cardiff-national-gallery-wales-2011-10-22-2.webp
+    title: joseph beuys cardiff national gallery wales 2011 10 22 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/joseph-beuys-cardiff-national-gallery-wales-2011-10-22-3.webp
+    title: joseph beuys cardiff national gallery wales 2011 10 22 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/joseph-beuys-cardiff-national-gallery-wales-2011-10-22-4.webp
+    title: joseph beuys cardiff national gallery wales 2011 10 22 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2011-10-22
 enddate: 2012-01-08
 town: Cardiff

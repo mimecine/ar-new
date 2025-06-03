@@ -4,11 +4,36 @@ artists:
   - louise-bourgeois
 venue: compton-verney
 images:
-  - ../../media/louise-bourgeois-nature-study-warwickshire-compton-verney-2024-07-06-0.webp
-  - ../../media/louise-bourgeois-nature-study-warwickshire-compton-verney-2024-07-06-1.webp
-  - ../../media/louise-bourgeois-nature-study-warwickshire-compton-verney-2024-07-06-2.webp
-  - ../../media/louise-bourgeois-nature-study-warwickshire-compton-verney-2024-07-06-3.webp
-  - ../../media/louise-bourgeois-nature-study-warwickshire-compton-verney-2024-07-06-4.webp
+  - src: ../../media/louise-bourgeois-nature-study-warwickshire-compton-verney-2024-07-06-0.webp
+    title: louise bourgeois nature study warwickshire compton verney 2024 07 06 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-nature-study-warwickshire-compton-verney-2024-07-06-1.webp
+    title: louise bourgeois nature study warwickshire compton verney 2024 07 06 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-nature-study-warwickshire-compton-verney-2024-07-06-2.webp
+    title: louise bourgeois nature study warwickshire compton verney 2024 07 06 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-nature-study-warwickshire-compton-verney-2024-07-06-3.webp
+    title: louise bourgeois nature study warwickshire compton verney 2024 07 06 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-nature-study-warwickshire-compton-verney-2024-07-06-4.webp
+    title: louise bourgeois nature study warwickshire compton verney 2024 07 06 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2024-07-06
 enddate: 2024-10-06
 town: Warwickshire

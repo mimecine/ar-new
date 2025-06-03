@@ -4,11 +4,36 @@ artists:
   - damien-hirst
 venue: leeds-art-gallery
 images:
-  - ../../media/damien-hirst-leeds-leeds-art-gallery-2011-06-15-0.webp
-  - ../../media/damien-hirst-leeds-leeds-art-gallery-2011-06-15-1.webp
-  - ../../media/damien-hirst-leeds-leeds-art-gallery-2011-06-15-2.webp
-  - ../../media/damien-hirst-leeds-leeds-art-gallery-2011-06-15-3.webp
-  - ../../media/damien-hirst-leeds-leeds-art-gallery-2011-06-15-4.webp
+  - src: ../../media/damien-hirst-leeds-leeds-art-gallery-2011-06-15-0.webp
+    title: damien hirst leeds leeds art gallery 2011 06 15 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/damien-hirst-leeds-leeds-art-gallery-2011-06-15-1.webp
+    title: damien hirst leeds leeds art gallery 2011 06 15 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/damien-hirst-leeds-leeds-art-gallery-2011-06-15-2.webp
+    title: damien hirst leeds leeds art gallery 2011 06 15 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/damien-hirst-leeds-leeds-art-gallery-2011-06-15-3.webp
+    title: damien hirst leeds leeds art gallery 2011 06 15 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/damien-hirst-leeds-leeds-art-gallery-2011-06-15-4.webp
+    title: damien hirst leeds leeds art gallery 2011 06 15 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2011-06-15
 enddate: 2011-10-30
 town: Leeds

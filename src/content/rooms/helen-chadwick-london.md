@@ -3,7 +3,12 @@ title: Helen Chadwick, London
 artists: []
 venue: tate-modern
 images:
-  - ../../media/helen-chadwick-london-tate-modern-2024-09-30-0.webp
+  - src: ../../media/helen-chadwick-london-tate-modern-2024-09-30-0.webp
+    title: helen chadwick london tate modern 2024 09 30 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2024-09-30
 enddate: 2025-06-08
 town: London

@@ -2,7 +2,8 @@
 title: Jeff Koons
 featuredImage: ../../media/jeff-koons-featured.webp
 resources:
-  - /sites/default/files/downloads/JEFFKOONSLEARNINGRESOURCE.pdf
+  - path: ../../media/jeff-koons-jeffkoonslearningresource.webp
+    title: JEFFKOONSLEARNINGRESOURCE
 works:
   - inventorynumber: AR00077
     category: Sculpture

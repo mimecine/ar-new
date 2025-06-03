@@ -4,10 +4,30 @@ artists:
   - andy-warhol
 venue: the-mac
 images:
-  - ../../media/andy-warhol-belfast-the-mac-2013-02-08-0.webp
-  - ../../media/andy-warhol-belfast-the-mac-2013-02-08-1.webp
-  - ../../media/andy-warhol-belfast-the-mac-2013-02-08-2.webp
-  - ../../media/andy-warhol-belfast-the-mac-2013-02-08-3.webp
+  - src: ../../media/andy-warhol-belfast-the-mac-2013-02-08-0.webp
+    title: andy warhol belfast the mac 2013 02 08 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-belfast-the-mac-2013-02-08-1.webp
+    title: andy warhol belfast the mac 2013 02 08 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-belfast-the-mac-2013-02-08-2.webp
+    title: andy warhol belfast the mac 2013 02 08 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-belfast-the-mac-2013-02-08-3.webp
+    title: andy warhol belfast the mac 2013 02 08 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2013-02-08
 enddate: 2013-04-28
 town: Belfast

@@ -4,9 +4,24 @@ artists:
   - jeff-koons
 venue: tate-modern
 images:
-  - ../../media/jeff-koons-london-tate-modern-2009-04-29-0.webp
-  - ../../media/jeff-koons-london-tate-modern-2009-04-29-1.webp
-  - ../../media/jeff-koons-london-tate-modern-2009-04-29-2.webp
+  - src: ../../media/jeff-koons-london-tate-modern-2009-04-29-0.webp
+    title: jeff koons london tate modern 2009 04 29 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jeff-koons-london-tate-modern-2009-04-29-1.webp
+    title: jeff koons london tate modern 2009 04 29 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jeff-koons-london-tate-modern-2009-04-29-2.webp
+    title: jeff koons london tate modern 2009 04 29 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2009-04-29
 enddate: 2010-01-01
 town: London

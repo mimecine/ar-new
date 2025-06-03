@@ -4,11 +4,36 @@ artists:
   - don-mccullin
 venue: gracefield-arts-centre
 images:
-  - ../../media/don-mccullin-dumfries-gracefield-arts-centre-2017-08-26-0.webp
-  - ../../media/don-mccullin-dumfries-gracefield-arts-centre-2017-08-26-1.webp
-  - ../../media/don-mccullin-dumfries-gracefield-arts-centre-2017-08-26-2.webp
-  - ../../media/don-mccullin-dumfries-gracefield-arts-centre-2017-08-26-3.webp
-  - ../../media/don-mccullin-dumfries-gracefield-arts-centre-2017-08-26-4.webp
+  - src: ../../media/don-mccullin-dumfries-gracefield-arts-centre-2017-08-26-0.webp
+    title: don mccullin dumfries gracefield arts centre 2017 08 26 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/don-mccullin-dumfries-gracefield-arts-centre-2017-08-26-1.webp
+    title: don mccullin dumfries gracefield arts centre 2017 08 26 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/don-mccullin-dumfries-gracefield-arts-centre-2017-08-26-2.webp
+    title: don mccullin dumfries gracefield arts centre 2017 08 26 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/don-mccullin-dumfries-gracefield-arts-centre-2017-08-26-3.webp
+    title: don mccullin dumfries gracefield arts centre 2017 08 26 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/don-mccullin-dumfries-gracefield-arts-centre-2017-08-26-4.webp
+    title: don mccullin dumfries gracefield arts centre 2017 08 26 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2017-08-26
 enddate: 2017-11-19
 town: Dumfries

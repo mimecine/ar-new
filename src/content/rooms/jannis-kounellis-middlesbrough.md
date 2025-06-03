@@ -4,11 +4,36 @@ artists:
   - jannis-kounellis
 venue: mima
 images:
-  - ../../media/jannis-kounellis-middlesbrough-mima-2012-12-15-0.webp
-  - ../../media/jannis-kounellis-middlesbrough-mima-2012-12-15-1.webp
-  - ../../media/jannis-kounellis-middlesbrough-mima-2012-12-15-2.webp
-  - ../../media/jannis-kounellis-middlesbrough-mima-2012-12-15-3.webp
-  - ../../media/jannis-kounellis-middlesbrough-mima-2012-12-15-4.webp
+  - src: ../../media/jannis-kounellis-middlesbrough-mima-2012-12-15-0.webp
+    title: jannis kounellis middlesbrough mima 2012 12 15 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jannis-kounellis-middlesbrough-mima-2012-12-15-1.webp
+    title: jannis kounellis middlesbrough mima 2012 12 15 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jannis-kounellis-middlesbrough-mima-2012-12-15-2.webp
+    title: jannis kounellis middlesbrough mima 2012 12 15 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jannis-kounellis-middlesbrough-mima-2012-12-15-3.webp
+    title: jannis kounellis middlesbrough mima 2012 12 15 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jannis-kounellis-middlesbrough-mima-2012-12-15-4.webp
+    title: jannis kounellis middlesbrough mima 2012 12 15 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2012-12-15
 enddate: 2013-03-10
 town: Middlesbrough

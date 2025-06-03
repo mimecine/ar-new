@@ -1,5 +1,5 @@
 ---
-import { getCollection, getEntryBySlug } from "astro:content";
+import { getCollection, getEntry } from "astro:content";
 import Main from "../../layouts/Main.astro";
 import Video from "../../components/Video.astro";
 import settings from "../../_data/films_settings.json" with { type: "json" };
@@ -22,7 +22,7 @@ const featured_films = [];
 
 
 for (const slug of settings.films) {
-  const film = await getEntryBySlug("films", slug);
+  const film = await getEntry("films", slug);
   featured_films.push(film);
 }
 ---

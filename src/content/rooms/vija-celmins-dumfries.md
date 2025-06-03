@@ -4,11 +4,36 @@ artists:
   - vija-celmins
 venue: gracefield-arts-centre
 images:
-  - ../../media/vija-celmins-dumfries-gracefield-arts-centre-2011-05-21-0.webp
-  - ../../media/vija-celmins-dumfries-gracefield-arts-centre-2011-05-21-1.webp
-  - ../../media/vija-celmins-dumfries-gracefield-arts-centre-2011-05-21-2.webp
-  - ../../media/vija-celmins-dumfries-gracefield-arts-centre-2011-05-21-3.webp
-  - ../../media/vija-celmins-dumfries-gracefield-arts-centre-2011-05-21-4.webp
+  - src: ../../media/vija-celmins-dumfries-gracefield-arts-centre-2011-05-21-0.webp
+    title: vija celmins dumfries gracefield arts centre 2011 05 21 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/vija-celmins-dumfries-gracefield-arts-centre-2011-05-21-1.webp
+    title: vija celmins dumfries gracefield arts centre 2011 05 21 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/vija-celmins-dumfries-gracefield-arts-centre-2011-05-21-2.webp
+    title: vija celmins dumfries gracefield arts centre 2011 05 21 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/vija-celmins-dumfries-gracefield-arts-centre-2011-05-21-3.webp
+    title: vija celmins dumfries gracefield arts centre 2011 05 21 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/vija-celmins-dumfries-gracefield-arts-centre-2011-05-21-4.webp
+    title: vija celmins dumfries gracefield arts centre 2011 05 21 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2011-05-21
 enddate: 2011-07-30
 town: Dumfries

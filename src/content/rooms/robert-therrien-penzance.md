@@ -4,10 +4,30 @@ artists:
   - robert-therrien
 venue: the-exchange
 images:
-  - ../../media/robert-therrien-penzance-the-exchange-2015-07-11-0.webp
-  - ../../media/robert-therrien-penzance-the-exchange-2015-07-11-1.webp
-  - ../../media/robert-therrien-penzance-the-exchange-2015-07-11-2.webp
-  - ../../media/robert-therrien-penzance-the-exchange-2015-07-11-3.webp
+  - src: ../../media/robert-therrien-penzance-the-exchange-2015-07-11-0.webp
+    title: robert therrien penzance the exchange 2015 07 11 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-therrien-penzance-the-exchange-2015-07-11-1.webp
+    title: robert therrien penzance the exchange 2015 07 11 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-therrien-penzance-the-exchange-2015-07-11-2.webp
+    title: robert therrien penzance the exchange 2015 07 11 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-therrien-penzance-the-exchange-2015-07-11-3.webp
+    title: robert therrien penzance the exchange 2015 07 11 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2015-07-11
 enddate: 2015-09-26
 town: Penzance

@@ -4,11 +4,36 @@ artists:
   - vija-celmins
 venue: dunoon-burgh-hall
 images:
-  - ../../media/vija-celmins-dunoon-dunoon-burgh-hall-2024-05-17-0.webp
-  - ../../media/vija-celmins-dunoon-dunoon-burgh-hall-2024-05-17-1.webp
-  - ../../media/vija-celmins-dunoon-dunoon-burgh-hall-2024-05-17-2.webp
-  - ../../media/vija-celmins-dunoon-dunoon-burgh-hall-2024-05-17-3.webp
-  - ../../media/vija-celmins-dunoon-dunoon-burgh-hall-2024-05-17-4.webp
+  - src: ../../media/vija-celmins-dunoon-dunoon-burgh-hall-2024-05-17-0.webp
+    title: vija celmins dunoon dunoon burgh hall 2024 05 17 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/vija-celmins-dunoon-dunoon-burgh-hall-2024-05-17-1.webp
+    title: vija celmins dunoon dunoon burgh hall 2024 05 17 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/vija-celmins-dunoon-dunoon-burgh-hall-2024-05-17-2.webp
+    title: vija celmins dunoon dunoon burgh hall 2024 05 17 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/vija-celmins-dunoon-dunoon-burgh-hall-2024-05-17-3.webp
+    title: vija celmins dunoon dunoon burgh hall 2024 05 17 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/vija-celmins-dunoon-dunoon-burgh-hall-2024-05-17-4.webp
+    title: vija celmins dunoon dunoon burgh hall 2024 05 17 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2024-05-17
 enddate: 2024-08-18
 town: Dunoon

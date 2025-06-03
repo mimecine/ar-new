@@ -4,10 +4,30 @@ artists:
   - agnes-martin
 venue: kettles-yard
 images:
-  - ../../media/agnes-martin-cambridge-kettles-yard-2010-05-15-0.webp
-  - ../../media/agnes-martin-cambridge-kettles-yard-2010-05-15-1.webp
-  - ../../media/agnes-martin-cambridge-kettles-yard-2010-05-15-2.webp
-  - ../../media/agnes-martin-cambridge-kettles-yard-2010-05-15-3.webp
+  - src: ../../media/agnes-martin-cambridge-kettles-yard-2010-05-15-0.webp
+    title: agnes martin cambridge kettles yard 2010 05 15 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/agnes-martin-cambridge-kettles-yard-2010-05-15-1.webp
+    title: agnes martin cambridge kettles yard 2010 05 15 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/agnes-martin-cambridge-kettles-yard-2010-05-15-2.webp
+    title: agnes martin cambridge kettles yard 2010 05 15 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/agnes-martin-cambridge-kettles-yard-2010-05-15-3.webp
+    title: agnes martin cambridge kettles yard 2010 05 15 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2010-05-15
 enddate: 2010-07-11
 town: Cambridge

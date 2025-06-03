@@ -4,12 +4,48 @@ artists:
   - andy-warhol
 venue: mk-gallery-milton-keynes
 images:
-  - ../../media/andy-warhol-portrait-of-america-milton-keynes-mk-gallery-milton-keynes-2025-03-15-0.webp
-  - ../../media/andy-warhol-portrait-of-america-milton-keynes-mk-gallery-milton-keynes-2025-03-15-1.webp
-  - ../../media/andy-warhol-portrait-of-america-milton-keynes-mk-gallery-milton-keynes-2025-03-15-2.webp
-  - ../../media/andy-warhol-portrait-of-america-milton-keynes-mk-gallery-milton-keynes-2025-03-15-3.webp
-  - ../../media/andy-warhol-portrait-of-america-milton-keynes-mk-gallery-milton-keynes-2025-03-15-4.webp
-  - ../../media/andy-warhol-portrait-of-america-milton-keynes-mk-gallery-milton-keynes-2025-03-15-5.webp
+  - src: ../../media/andy-warhol-portrait-of-america-milton-keynes-mk-gallery-milton-keynes-2025-03-15-0.webp
+    title: andy warhol portrait of america milton keynes mk gallery milton keynes
+      2025 03 15 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-portrait-of-america-milton-keynes-mk-gallery-milton-keynes-2025-03-15-1.webp
+    title: andy warhol portrait of america milton keynes mk gallery milton keynes
+      2025 03 15 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-portrait-of-america-milton-keynes-mk-gallery-milton-keynes-2025-03-15-2.webp
+    title: andy warhol portrait of america milton keynes mk gallery milton keynes
+      2025 03 15 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-portrait-of-america-milton-keynes-mk-gallery-milton-keynes-2025-03-15-3.webp
+    title: andy warhol portrait of america milton keynes mk gallery milton keynes
+      2025 03 15 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-portrait-of-america-milton-keynes-mk-gallery-milton-keynes-2025-03-15-4.webp
+    title: andy warhol portrait of america milton keynes mk gallery milton keynes
+      2025 03 15 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-portrait-of-america-milton-keynes-mk-gallery-milton-keynes-2025-03-15-5.webp
+    title: andy warhol portrait of america milton keynes mk gallery milton keynes
+      2025 03 15 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2025-03-15
 enddate: 2025-06-29
 town: Milton Keynes

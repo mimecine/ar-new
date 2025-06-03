@@ -4,12 +4,42 @@ artists:
   - richard-long
 venue: thelma-hulbert-gallery
 images:
-  - ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-0.webp
-  - ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-1.webp
-  - ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-2.webp
-  - ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-3.webp
-  - ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-4.webp
-  - ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-5.webp
+  - src: ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-0.webp
+    title: richard long honiton thelma hulbert gallery 2020 02 22 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-1.webp
+    title: richard long honiton thelma hulbert gallery 2020 02 22 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-2.webp
+    title: richard long honiton thelma hulbert gallery 2020 02 22 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-3.webp
+    title: richard long honiton thelma hulbert gallery 2020 02 22 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-4.webp
+    title: richard long honiton thelma hulbert gallery 2020 02 22 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/richard-long-honiton-thelma-hulbert-gallery-2020-02-22-5.webp
+    title: richard long honiton thelma hulbert gallery 2020 02 22 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2020-02-22
 enddate: 2020-05-23
 town: Honiton

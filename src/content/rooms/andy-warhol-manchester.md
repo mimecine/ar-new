@@ -4,13 +4,48 @@ artists:
   - andy-warhol
 venue: whitworth-art-gallery
 images:
-  - ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-0.webp
-  - ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-1.webp
-  - ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-2.webp
-  - ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-3.webp
-  - ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-4.webp
-  - ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-5.webp
-  - ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-6.webp
+  - src: ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-0.webp
+    title: andy warhol manchester whitworth art gallery 2016 11 19 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-1.webp
+    title: andy warhol manchester whitworth art gallery 2016 11 19 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-2.webp
+    title: andy warhol manchester whitworth art gallery 2016 11 19 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-3.webp
+    title: andy warhol manchester whitworth art gallery 2016 11 19 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-4.webp
+    title: andy warhol manchester whitworth art gallery 2016 11 19 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-5.webp
+    title: andy warhol manchester whitworth art gallery 2016 11 19 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-manchester-whitworth-art-gallery-2016-11-19-6.webp
+    title: andy warhol manchester whitworth art gallery 2016 11 19 6
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2016-11-19
 enddate: 2017-04-16
 town: Manchester

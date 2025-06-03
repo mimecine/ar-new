@@ -4,12 +4,42 @@ artists:
   - phyllida-barlow
 venue: turner-contemporary
 images:
-  - ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-0.webp
-  - ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-1.webp
-  - ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-2.webp
-  - ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-3.webp
-  - ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-4.webp
-  - ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-5.webp
+  - src: ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-0.webp
+    title: phyllida barlow margate turner contemporary 2017 05 27 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-1.webp
+    title: phyllida barlow margate turner contemporary 2017 05 27 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-2.webp
+    title: phyllida barlow margate turner contemporary 2017 05 27 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-3.webp
+    title: phyllida barlow margate turner contemporary 2017 05 27 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-4.webp
+    title: phyllida barlow margate turner contemporary 2017 05 27 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/phyllida-barlow-margate-turner-contemporary-2017-05-27-5.webp
+    title: phyllida barlow margate turner contemporary 2017 05 27 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2017-05-27
 enddate: 2017-09-24
 town: Margate

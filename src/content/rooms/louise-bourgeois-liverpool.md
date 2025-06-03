@@ -4,12 +4,42 @@ artists:
   - louise-bourgeois
 venue: tate-liverpool
 images:
-  - ../../media/louise-bourgeois-liverpool-tate-liverpool-2021-07-24-0.webp
-  - ../../media/louise-bourgeois-liverpool-tate-liverpool-2021-07-24-1.webp
-  - ../../media/louise-bourgeois-liverpool-tate-liverpool-2021-07-24-2.webp
-  - ../../media/louise-bourgeois-liverpool-tate-liverpool-2021-07-24-3.webp
-  - ../../media/louise-bourgeois-liverpool-tate-liverpool-2021-07-24-4.webp
-  - ../../media/louise-bourgeois-liverpool-tate-liverpool-2021-07-24-5.webp
+  - src: ../../media/louise-bourgeois-liverpool-tate-liverpool-2021-07-24-0.webp
+    title: louise bourgeois liverpool tate liverpool 2021 07 24 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-liverpool-tate-liverpool-2021-07-24-1.webp
+    title: louise bourgeois liverpool tate liverpool 2021 07 24 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-liverpool-tate-liverpool-2021-07-24-2.webp
+    title: louise bourgeois liverpool tate liverpool 2021 07 24 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-liverpool-tate-liverpool-2021-07-24-3.webp
+    title: louise bourgeois liverpool tate liverpool 2021 07 24 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-liverpool-tate-liverpool-2021-07-24-4.webp
+    title: louise bourgeois liverpool tate liverpool 2021 07 24 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-liverpool-tate-liverpool-2021-07-24-5.webp
+    title: louise bourgeois liverpool tate liverpool 2021 07 24 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2021-07-24
 enddate: 2022-01-16
 town: Liverpool

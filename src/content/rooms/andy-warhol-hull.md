@@ -4,11 +4,36 @@ artists:
   - andy-warhol
 venue: ferens-art-gallery
 images:
-  - ../../media/andy-warhol-hull-ferens-art-gallery-2012-06-02-0.webp
-  - ../../media/andy-warhol-hull-ferens-art-gallery-2012-06-02-1.webp
-  - ../../media/andy-warhol-hull-ferens-art-gallery-2012-06-02-2.webp
-  - ../../media/andy-warhol-hull-ferens-art-gallery-2012-06-02-3.webp
-  - ../../media/andy-warhol-hull-ferens-art-gallery-2012-06-02-4.webp
+  - src: ../../media/andy-warhol-hull-ferens-art-gallery-2012-06-02-0.webp
+    title: andy warhol hull ferens art gallery 2012 06 02 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-hull-ferens-art-gallery-2012-06-02-1.webp
+    title: andy warhol hull ferens art gallery 2012 06 02 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-hull-ferens-art-gallery-2012-06-02-2.webp
+    title: andy warhol hull ferens art gallery 2012 06 02 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-hull-ferens-art-gallery-2012-06-02-3.webp
+    title: andy warhol hull ferens art gallery 2012 06 02 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-hull-ferens-art-gallery-2012-06-02-4.webp
+    title: andy warhol hull ferens art gallery 2012 06 02 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2012-06-02
 enddate: 2013-01-13
 town: Hull

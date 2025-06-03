@@ -4,9 +4,24 @@ artists:
   - martin-creed
 venue: tate-liverpool
 images:
-  - ../../media/martin-creed-liverpool-tate-liverpool-2012-02-24-0.webp
-  - ../../media/martin-creed-liverpool-tate-liverpool-2012-02-24-1.webp
-  - ../../media/martin-creed-liverpool-tate-liverpool-2012-02-24-2.webp
+  - src: ../../media/martin-creed-liverpool-tate-liverpool-2012-02-24-0.webp
+    title: martin creed liverpool tate liverpool 2012 02 24 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/martin-creed-liverpool-tate-liverpool-2012-02-24-1.webp
+    title: martin creed liverpool tate liverpool 2012 02 24 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/martin-creed-liverpool-tate-liverpool-2012-02-24-2.webp
+    title: martin creed liverpool tate liverpool 2012 02 24 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2012-02-24
 enddate: 2012-05-27
 town: Liverpool

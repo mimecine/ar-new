@@ -4,11 +4,41 @@ artists:
   - vija-celmins
 venue: the-box
 images:
-  - ../../media/land-sea-sky-ingrid-pollard-jmw-turner-vija-celmins-plymouth-the-box-2024-10-19-0.webp
-  - ../../media/land-sea-sky-ingrid-pollard-jmw-turner-vija-celmins-plymouth-the-box-2024-10-19-1.webp
-  - ../../media/land-sea-sky-ingrid-pollard-jmw-turner-vija-celmins-plymouth-the-box-2024-10-19-2.webp
-  - ../../media/land-sea-sky-ingrid-pollard-jmw-turner-vija-celmins-plymouth-the-box-2024-10-19-3.webp
-  - ../../media/land-sea-sky-ingrid-pollard-jmw-turner-vija-celmins-plymouth-the-box-2024-10-19-4.webp
+  - src: ../../media/land-sea-sky-ingrid-pollard-jmw-turner-vija-celmins-plymouth-the-box-2024-10-19-0.webp
+    title: land sea sky ingrid pollard jmw turner vija celmins plymouth the box 2024
+      10 19 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/land-sea-sky-ingrid-pollard-jmw-turner-vija-celmins-plymouth-the-box-2024-10-19-1.webp
+    title: land sea sky ingrid pollard jmw turner vija celmins plymouth the box 2024
+      10 19 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/land-sea-sky-ingrid-pollard-jmw-turner-vija-celmins-plymouth-the-box-2024-10-19-2.webp
+    title: land sea sky ingrid pollard jmw turner vija celmins plymouth the box 2024
+      10 19 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/land-sea-sky-ingrid-pollard-jmw-turner-vija-celmins-plymouth-the-box-2024-10-19-3.webp
+    title: land sea sky ingrid pollard jmw turner vija celmins plymouth the box 2024
+      10 19 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/land-sea-sky-ingrid-pollard-jmw-turner-vija-celmins-plymouth-the-box-2024-10-19-4.webp
+    title: land sea sky ingrid pollard jmw turner vija celmins plymouth the box 2024
+      10 19 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2024-10-19
 enddate: 2025-01-12
 town: JMW Turner & Vija Celmins; Plymouth

@@ -4,10 +4,30 @@ artists:
   - robert-mapplethorpe
 venue: tate-modern
 images:
-  - ../../media/robert-mapplethorpe-london-tate-modern-2014-05-11-0.webp
-  - ../../media/robert-mapplethorpe-london-tate-modern-2014-05-11-1.webp
-  - ../../media/robert-mapplethorpe-london-tate-modern-2014-05-11-2.webp
-  - ../../media/robert-mapplethorpe-london-tate-modern-2014-05-11-3.webp
+  - src: ../../media/robert-mapplethorpe-london-tate-modern-2014-05-11-0.webp
+    title: robert mapplethorpe london tate modern 2014 05 11 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-london-tate-modern-2014-05-11-1.webp
+    title: robert mapplethorpe london tate modern 2014 05 11 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-london-tate-modern-2014-05-11-2.webp
+    title: robert mapplethorpe london tate modern 2014 05 11 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-london-tate-modern-2014-05-11-3.webp
+    title: robert mapplethorpe london tate modern 2014 05 11 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2014-05-11
 enddate: 2014-10-26
 town: London

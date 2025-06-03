@@ -4,11 +4,36 @@ artists:
   - dan-flavin
 venue: gracefield-art-centre
 images:
-  - ../../media/dan-flavin-dumfries-gracefield-art-centre-2014-08-16-0.webp
-  - ../../media/dan-flavin-dumfries-gracefield-art-centre-2014-08-16-1.webp
-  - ../../media/dan-flavin-dumfries-gracefield-art-centre-2014-08-16-2.webp
-  - ../../media/dan-flavin-dumfries-gracefield-art-centre-2014-08-16-3.webp
-  - ../../media/dan-flavin-dumfries-gracefield-art-centre-2014-08-16-4.webp
+  - src: ../../media/dan-flavin-dumfries-gracefield-art-centre-2014-08-16-0.webp
+    title: dan flavin dumfries gracefield art centre 2014 08 16 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/dan-flavin-dumfries-gracefield-art-centre-2014-08-16-1.webp
+    title: dan flavin dumfries gracefield art centre 2014 08 16 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/dan-flavin-dumfries-gracefield-art-centre-2014-08-16-2.webp
+    title: dan flavin dumfries gracefield art centre 2014 08 16 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/dan-flavin-dumfries-gracefield-art-centre-2014-08-16-3.webp
+    title: dan flavin dumfries gracefield art centre 2014 08 16 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/dan-flavin-dumfries-gracefield-art-centre-2014-08-16-4.webp
+    title: dan flavin dumfries gracefield art centre 2014 08 16 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2014-08-16
 enddate: 2014-11-15
 town: Dumfries

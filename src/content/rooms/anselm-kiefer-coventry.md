@@ -4,11 +4,36 @@ artists:
   - anselm-kiefer
 venue: the-herbert
 images:
-  - ../../media/anselm-kiefer-coventry-the-herbert-2018-10-19-0.webp
-  - ../../media/anselm-kiefer-coventry-the-herbert-2018-10-19-1.webp
-  - ../../media/anselm-kiefer-coventry-the-herbert-2018-10-19-2.webp
-  - ../../media/anselm-kiefer-coventry-the-herbert-2018-10-19-3.webp
-  - ../../media/anselm-kiefer-coventry-the-herbert-2018-10-19-4.webp
+  - src: ../../media/anselm-kiefer-coventry-the-herbert-2018-10-19-0.webp
+    title: anselm kiefer coventry the herbert 2018 10 19 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/anselm-kiefer-coventry-the-herbert-2018-10-19-1.webp
+    title: anselm kiefer coventry the herbert 2018 10 19 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/anselm-kiefer-coventry-the-herbert-2018-10-19-2.webp
+    title: anselm kiefer coventry the herbert 2018 10 19 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/anselm-kiefer-coventry-the-herbert-2018-10-19-3.webp
+    title: anselm kiefer coventry the herbert 2018 10 19 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/anselm-kiefer-coventry-the-herbert-2018-10-19-4.webp
+    title: anselm kiefer coventry the herbert 2018 10 19 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2018-10-19
 enddate: 2019-01-27
 town: Coventry

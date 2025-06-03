@@ -4,9 +4,24 @@ artists:
   - jannis-kounellis
 venue: tramway
 images:
-  - ../../media/jannis-kounellis-glasgow-tramway-2012-07-20-0.webp
-  - ../../media/jannis-kounellis-glasgow-tramway-2012-07-20-1.webp
-  - ../../media/jannis-kounellis-glasgow-tramway-2012-07-20-2.webp
+  - src: ../../media/jannis-kounellis-glasgow-tramway-2012-07-20-0.webp
+    title: jannis kounellis glasgow tramway 2012 07 20 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jannis-kounellis-glasgow-tramway-2012-07-20-1.webp
+    title: jannis kounellis glasgow tramway 2012 07 20 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jannis-kounellis-glasgow-tramway-2012-07-20-2.webp
+    title: jannis kounellis glasgow tramway 2012 07 20 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2012-07-20
 enddate: 2012-09-23
 town: Glasgow

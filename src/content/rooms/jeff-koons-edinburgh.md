@@ -4,10 +4,30 @@ artists:
   - jeff-koons
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/jeff-koons-edinburgh-scottish-national-gallery-of-modern-art-2011-03-19-0.webp
-  - ../../media/jeff-koons-edinburgh-scottish-national-gallery-of-modern-art-2011-03-19-1.webp
-  - ../../media/jeff-koons-edinburgh-scottish-national-gallery-of-modern-art-2011-03-19-2.webp
-  - ../../media/jeff-koons-edinburgh-scottish-national-gallery-of-modern-art-2011-03-19-3.webp
+  - src: ../../media/jeff-koons-edinburgh-scottish-national-gallery-of-modern-art-2011-03-19-0.webp
+    title: jeff koons edinburgh scottish national gallery of modern art 2011 03 19 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jeff-koons-edinburgh-scottish-national-gallery-of-modern-art-2011-03-19-1.webp
+    title: jeff koons edinburgh scottish national gallery of modern art 2011 03 19 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jeff-koons-edinburgh-scottish-national-gallery-of-modern-art-2011-03-19-2.webp
+    title: jeff koons edinburgh scottish national gallery of modern art 2011 03 19 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jeff-koons-edinburgh-scottish-national-gallery-of-modern-art-2011-03-19-3.webp
+    title: jeff koons edinburgh scottish national gallery of modern art 2011 03 19 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2011-03-19
 enddate: 2011-07-03
 town: Edinburgh

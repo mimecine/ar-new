@@ -2,7 +2,8 @@
 title: Vija Celmins
 featuredImage: ../../media/vija-celmins-featured.webp
 resources:
-  - /sites/default/files/downloads/VijaCelminsLearningResource.pdf
+  - path: ../../media/vija-celmins-vija-celmins-learning-resource.webp
+    title: Vija Celmins Learning Resource
 works:
   - inventorynumber: AR00162
     category: Works on paper 1970s

@@ -4,11 +4,36 @@ artists:
   - vija-celmins
 venue: hatton-gallery
 images:
-  - ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-0.webp
-  - ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-1.webp
-  - ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-2.webp
-  - ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-3.webp
-  - ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-4.webp
+  - src: ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-0.webp
+    title: vija celmins newcastle upon tyne hatton gallery 2024 02 03 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-1.webp
+    title: vija celmins newcastle upon tyne hatton gallery 2024 02 03 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-2.webp
+    title: vija celmins newcastle upon tyne hatton gallery 2024 02 03 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-3.webp
+    title: vija celmins newcastle upon tyne hatton gallery 2024 02 03 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/vija-celmins-newcastle-upon-tyne-hatton-gallery-2024-02-03-4.webp
+    title: vija celmins newcastle upon tyne hatton gallery 2024 02 03 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2024-02-03
 enddate: 2024-05-04
 town: Newcastle upon Tyne

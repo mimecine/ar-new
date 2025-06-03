@@ -4,7 +4,12 @@ artists:
   - ian-hamilton-finlay
 venue: tate-britain
 images:
-  - ../../media/ian-hamilton-finlay-london-tate-britain-2009-03-02-0.webp
+  - src: ../../media/ian-hamilton-finlay-london-tate-britain-2009-03-02-0.webp
+    title: ian hamilton finlay london tate britain 2009 03 02 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2009-03-02
 enddate: 2010-01-30
 town: London

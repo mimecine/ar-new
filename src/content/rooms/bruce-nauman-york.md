@@ -4,10 +4,30 @@ artists:
   - bruce-nauman
 venue: york-st-marys-church
 images:
-  - ../../media/bruce-nauman-york-york-st-marys-church-2013-07-26-0.webp
-  - ../../media/bruce-nauman-york-york-st-marys-church-2013-07-26-1.webp
-  - ../../media/bruce-nauman-york-york-st-marys-church-2013-07-26-2.webp
-  - ../../media/bruce-nauman-york-york-st-marys-church-2013-07-26-3.webp
+  - src: ../../media/bruce-nauman-york-york-st-marys-church-2013-07-26-0.webp
+    title: bruce nauman york york st marys church 2013 07 26 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/bruce-nauman-york-york-st-marys-church-2013-07-26-1.webp
+    title: bruce nauman york york st marys church 2013 07 26 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/bruce-nauman-york-york-st-marys-church-2013-07-26-2.webp
+    title: bruce nauman york york st marys church 2013 07 26 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/bruce-nauman-york-york-st-marys-church-2013-07-26-3.webp
+    title: bruce nauman york york st marys church 2013 07 26 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2013-07-26
 enddate: 2013-11-10
 town: York

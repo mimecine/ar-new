@@ -4,10 +4,30 @@ artists:
   - bill-viola
 venue: the-point
 images:
-  - ../../media/bill-viola-doncaster-the-point-2018-09-19-0.webp
-  - ../../media/bill-viola-doncaster-the-point-2018-09-19-1.webp
-  - ../../media/bill-viola-doncaster-the-point-2018-09-19-2.webp
-  - ../../media/bill-viola-doncaster-the-point-2018-09-19-3.webp
+  - src: ../../media/bill-viola-doncaster-the-point-2018-09-19-0.webp
+    title: bill viola doncaster the point 2018 09 19 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/bill-viola-doncaster-the-point-2018-09-19-1.webp
+    title: bill viola doncaster the point 2018 09 19 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/bill-viola-doncaster-the-point-2018-09-19-2.webp
+    title: bill viola doncaster the point 2018 09 19 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/bill-viola-doncaster-the-point-2018-09-19-3.webp
+    title: bill viola doncaster the point 2018 09 19 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2018-09-19
 enddate: 2018-12-15
 town: Doncaster

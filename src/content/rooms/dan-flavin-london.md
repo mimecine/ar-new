@@ -4,11 +4,36 @@ artists:
   - dan-flavin
 venue: tate-modern
 images:
-  - ../../media/dan-flavin-london-tate-modern-2013-03-29-0.webp
-  - ../../media/dan-flavin-london-tate-modern-2013-03-29-1.webp
-  - ../../media/dan-flavin-london-tate-modern-2013-03-29-2.webp
-  - ../../media/dan-flavin-london-tate-modern-2013-03-29-3.webp
-  - ../../media/dan-flavin-london-tate-modern-2013-03-29-4.webp
+  - src: ../../media/dan-flavin-london-tate-modern-2013-03-29-0.webp
+    title: dan flavin london tate modern 2013 03 29 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/dan-flavin-london-tate-modern-2013-03-29-1.webp
+    title: dan flavin london tate modern 2013 03 29 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/dan-flavin-london-tate-modern-2013-03-29-2.webp
+    title: dan flavin london tate modern 2013 03 29 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/dan-flavin-london-tate-modern-2013-03-29-3.webp
+    title: dan flavin london tate modern 2013 03 29 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/dan-flavin-london-tate-modern-2013-03-29-4.webp
+    title: dan flavin london tate modern 2013 03 29 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2013-03-29
 enddate: 2014-04-27
 town: London

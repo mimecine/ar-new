@@ -4,9 +4,24 @@ artists:
   - alex-katz
 venue: mostyn
 images:
-  - ../../media/alex-katz-llandudno-mostyn-2010-11-20-0.webp
-  - ../../media/alex-katz-llandudno-mostyn-2010-11-20-1.webp
-  - ../../media/alex-katz-llandudno-mostyn-2010-11-20-2.webp
+  - src: ../../media/alex-katz-llandudno-mostyn-2010-11-20-0.webp
+    title: alex katz llandudno mostyn 2010 11 20 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/alex-katz-llandudno-mostyn-2010-11-20-1.webp
+    title: alex katz llandudno mostyn 2010 11 20 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/alex-katz-llandudno-mostyn-2010-11-20-2.webp
+    title: alex katz llandudno mostyn 2010 11 20 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2010-11-20
 enddate: 2011-02-19
 town: Llandudno

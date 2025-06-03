@@ -4,16 +4,66 @@ artists:
   - august-sander
 venue: national-museum-cardiff
 images:
-  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-0.webp
-  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-1.webp
-  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-2.webp
-  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-3.webp
-  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-4.webp
-  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-5.webp
-  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-6.webp
-  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-7.webp
-  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-8.webp
-  - ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-9.webp
+  - src: ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-0.webp
+    title: august sander cardiff national museum cardiff 2019 10 26 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-1.webp
+    title: august sander cardiff national museum cardiff 2019 10 26 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-2.webp
+    title: august sander cardiff national museum cardiff 2019 10 26 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-3.webp
+    title: august sander cardiff national museum cardiff 2019 10 26 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-4.webp
+    title: august sander cardiff national museum cardiff 2019 10 26 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-5.webp
+    title: august sander cardiff national museum cardiff 2019 10 26 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-6.webp
+    title: august sander cardiff national museum cardiff 2019 10 26 6
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-7.webp
+    title: august sander cardiff national museum cardiff 2019 10 26 7
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-8.webp
+    title: august sander cardiff national museum cardiff 2019 10 26 8
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-cardiff-national-museum-cardiff-2019-10-26-9.webp
+    title: august sander cardiff national museum cardiff 2019 10 26 9
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2019-10-26
 enddate: 2020-03-01
 town: Cardiff

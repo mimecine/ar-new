@@ -4,11 +4,36 @@ artists:
   - august-sander
 venue: tate-modern
 images:
-  - ../../media/august-sander-london-tate-modern-2010-03-01-0.webp
-  - ../../media/august-sander-london-tate-modern-2010-03-01-1.webp
-  - ../../media/august-sander-london-tate-modern-2010-03-01-2.webp
-  - ../../media/august-sander-london-tate-modern-2010-03-01-3.webp
-  - ../../media/august-sander-london-tate-modern-2010-03-01-4.webp
+  - src: ../../media/august-sander-london-tate-modern-2010-03-01-0.webp
+    title: august sander london tate modern 2010 03 01 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-london-tate-modern-2010-03-01-1.webp
+    title: august sander london tate modern 2010 03 01 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-london-tate-modern-2010-03-01-2.webp
+    title: august sander london tate modern 2010 03 01 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-london-tate-modern-2010-03-01-3.webp
+    title: august sander london tate modern 2010 03 01 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-london-tate-modern-2010-03-01-4.webp
+    title: august sander london tate modern 2010 03 01 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2010-03-01
 enddate: 2011-03-01
 town: London

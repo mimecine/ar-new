@@ -4,9 +4,24 @@ artists:
   - august-sander
 venue: duff-house
 images:
-  - ../../media/august-sander-banff-duff-house-2012-04-01-0.webp
-  - ../../media/august-sander-banff-duff-house-2012-04-01-1.webp
-  - ../../media/august-sander-banff-duff-house-2012-04-01-2.webp
+  - src: ../../media/august-sander-banff-duff-house-2012-04-01-0.webp
+    title: august sander banff duff house 2012 04 01 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-banff-duff-house-2012-04-01-1.webp
+    title: august sander banff duff house 2012 04 01 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-banff-duff-house-2012-04-01-2.webp
+    title: august sander banff duff house 2012 04 01 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2012-04-01
 enddate: 2012-08-31
 town: Banff

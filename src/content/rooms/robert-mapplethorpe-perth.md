@@ -4,11 +4,36 @@ artists:
   - robert-mapplethorpe
 venue: perth-museum-and-art-gallery
 images:
-  - ../../media/robert-mapplethorpe-perth-perth-museum-art-gallery-2012-11-10-0.webp
-  - ../../media/robert-mapplethorpe-perth-perth-museum-art-gallery-2012-11-10-1.webp
-  - ../../media/robert-mapplethorpe-perth-perth-museum-art-gallery-2012-11-10-2.webp
-  - ../../media/robert-mapplethorpe-perth-perth-museum-art-gallery-2012-11-10-3.webp
-  - ../../media/robert-mapplethorpe-perth-perth-museum-art-gallery-2012-11-10-4.webp
+  - src: ../../media/robert-mapplethorpe-perth-perth-museum-art-gallery-2012-11-10-0.webp
+    title: robert mapplethorpe perth perth museum art gallery 2012 11 10 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-perth-perth-museum-art-gallery-2012-11-10-1.webp
+    title: robert mapplethorpe perth perth museum art gallery 2012 11 10 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-perth-perth-museum-art-gallery-2012-11-10-2.webp
+    title: robert mapplethorpe perth perth museum art gallery 2012 11 10 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-perth-perth-museum-art-gallery-2012-11-10-3.webp
+    title: robert mapplethorpe perth perth museum art gallery 2012 11 10 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-perth-perth-museum-art-gallery-2012-11-10-4.webp
+    title: robert mapplethorpe perth perth museum art gallery 2012 11 10 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2012-11-10
 enddate: 2013-04-27
 town: Perth

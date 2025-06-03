@@ -4,7 +4,12 @@ artists:
   - johan-grimonprez
 venue: caithness-horizons-museum
 images:
-  - ../../media/johan-grimonprez-thurso-caithness-horizons-museum-2017-03-10-0.webp
+  - src: ../../media/johan-grimonprez-thurso-caithness-horizons-museum-2017-03-10-0.webp
+    title: johan grimonprez thurso caithness horizons museum 2017 03 10 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2017-03-10
 enddate: 2017-06-04
 town: Thurso

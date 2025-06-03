@@ -4,13 +4,48 @@ artists:
   - louise-bourgeois
 venue: dorset-museum
 images:
-  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-0.webp
-  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-1.webp
-  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-2.webp
-  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-3.webp
-  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-4.webp
-  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-5.webp
-  - ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-6.webp
+  - src: ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-0.webp
+    title: louise bourgeois dorset dorset museum 2023 03 22 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-1.webp
+    title: louise bourgeois dorset dorset museum 2023 03 22 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-2.webp
+    title: louise bourgeois dorset dorset museum 2023 03 22 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-3.webp
+    title: louise bourgeois dorset dorset museum 2023 03 22 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-4.webp
+    title: louise bourgeois dorset dorset museum 2023 03 22 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-5.webp
+    title: louise bourgeois dorset dorset museum 2023 03 22 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-dorset-dorset-museum-2023-03-22-6.webp
+    title: louise bourgeois dorset dorset museum 2023 03 22 6
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2023-03-22
 enddate: 2023-06-25
 town: Dorset

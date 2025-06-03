@@ -4,8 +4,20 @@ artists:
   - gilbert-george
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/gilbert-george-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-0.webp
-  - ../../media/gilbert-george-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-1.webp
+  - src: ../../media/gilbert-george-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-0.webp
+    title: gilbert george edinburgh scottish national gallery of modern art 2010 07
+      29 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gilbert-george-edinburgh-scottish-national-gallery-of-modern-art-2010-07-29-1.webp
+    title: gilbert george edinburgh scottish national gallery of modern art 2010 07
+      29 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2010-07-29
 enddate: 2010-11-21
 town: Edinburgh

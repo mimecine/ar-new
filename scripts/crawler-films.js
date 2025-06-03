@@ -7,15 +7,11 @@ const pages = [];
 const seen = {};
 
 const c = new Crawler({
-  //maxConnections: 10,
-  // This will be called for each crawled page
   callback: (error, res, done) => {
     if (error) {
       console.log(error);
     } else {
       const $ = res.$;
-      // $ is Cheerio by default
-      //a lean implementation of core jQuery designed specifically for the server
       console.log($("title").text());
     }
     done();
@@ -41,7 +37,7 @@ c.queue([
           .forEach(function (element) {
             const nextUrl = new URL($(element).prop("href"), baseUrl);
             if (
-              nextUrl.pathname.indexOf('/media') !== -1 &&
+              nextUrl.pathname.indexOf("/media") !== -1 &&
               !seen[nextUrl.href]
             ) {
               seen[nextUrl.href] = true;
@@ -60,12 +56,16 @@ c.queue([
                       })
                       .toArray()
                       .join("\n\n");
-                    const duration = $(".o-video__intro--duration h3").text().replace("Duration: ", "");
-                    const url = $(".o-video__video iframe")
-                      .first()
-                      .attr("src");
-                    const artists = [$('a[href^="/artists/"][title^="Find out more about"]')
-                      .first().text().replace('Find out more about ','')];
+                    const duration = $(".o-video__intro--duration h3")
+                      .text()
+                      .replace("Duration: ", "");
+                    const url = $(".o-video__video iframe").first().attr("src");
+                    const artists = [
+                      $('a[href^="/artists/"][title^="Find out more about"]')
+                        .first()
+                        .text()
+                        .replace("Find out more about ", ""),
+                    ];
 
                     pages.push({
                       title,
@@ -89,7 +89,9 @@ c.queue([
 c.on("drain", () => {
   if (pages.length) console.log("x", pages.length);
   const artists = [];
-  const uniqueArtists = [...new Set(pages.map((page) => page.artists).flat())].sort((a,b)=>a.split(' ').pop().localeCompare(b.split(' ').pop()));
+  const uniqueArtists = [
+    ...new Set(pages.map((page) => page.artists).flat()),
+  ].sort((a, b) => a.split(" ").pop().localeCompare(b.split(" ").pop()));
   // console.log(uniqueArtists);
   uniqueArtists.forEach((artist) => {
     const films = pages.filter((page) => page.artists.includes(artist));
@@ -97,17 +99,10 @@ c.on("drain", () => {
       artist,
       films,
     });
-  })
-  console.log(artists);
+  });
 
-
-
-    fs.writeFileSync(
-      "./scripts/pages-films.json",
-      JSON.stringify(
-        {'artists':artists},
-        null,
-        2
-      )
-    );
+  fs.writeFileSync(
+    "./scripts/pages-films.json",
+    JSON.stringify({ artists: artists }, null, 2)
+  );
 });

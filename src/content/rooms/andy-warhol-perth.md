@@ -4,11 +4,36 @@ artists:
   - andy-warhol
 venue: perth-museum-and-art-gallery
 images:
-  - ../../media/andy-warhol-perth-perth-museum-art-gallery-2010-04-17-0.webp
-  - ../../media/andy-warhol-perth-perth-museum-art-gallery-2010-04-17-1.webp
-  - ../../media/andy-warhol-perth-perth-museum-art-gallery-2010-04-17-2.webp
-  - ../../media/andy-warhol-perth-perth-museum-art-gallery-2010-04-17-3.webp
-  - ../../media/andy-warhol-perth-perth-museum-art-gallery-2010-04-17-4.webp
+  - src: ../../media/andy-warhol-perth-perth-museum-art-gallery-2010-04-17-0.webp
+    title: andy warhol perth perth museum art gallery 2010 04 17 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-perth-perth-museum-art-gallery-2010-04-17-1.webp
+    title: andy warhol perth perth museum art gallery 2010 04 17 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-perth-perth-museum-art-gallery-2010-04-17-2.webp
+    title: andy warhol perth perth museum art gallery 2010 04 17 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-perth-perth-museum-art-gallery-2010-04-17-3.webp
+    title: andy warhol perth perth museum art gallery 2010 04 17 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-perth-perth-museum-art-gallery-2010-04-17-4.webp
+    title: andy warhol perth perth museum art gallery 2010 04 17 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2010-04-17
 enddate: 2010-10-23
 town: Perth

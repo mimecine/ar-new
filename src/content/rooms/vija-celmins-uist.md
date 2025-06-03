@@ -4,9 +4,24 @@ artists:
   - vija-celmins
 venue: taigh-chearsabhagh-museum-and-arts-centre
 images:
-  - ../../media/vija-celmins-uist-taigh-chearsabhagh-museum-and-arts-centre-2014-03-29-0.webp
-  - ../../media/vija-celmins-uist-taigh-chearsabhagh-museum-and-arts-centre-2014-03-29-1.webp
-  - ../../media/vija-celmins-uist-taigh-chearsabhagh-museum-and-arts-centre-2014-03-29-2.webp
+  - src: ../../media/vija-celmins-uist-taigh-chearsabhagh-museum-and-arts-centre-2014-03-29-0.webp
+    title: vija celmins uist taigh chearsabhagh museum and arts centre 2014 03 29 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/vija-celmins-uist-taigh-chearsabhagh-museum-and-arts-centre-2014-03-29-1.webp
+    title: vija celmins uist taigh chearsabhagh museum and arts centre 2014 03 29 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/vija-celmins-uist-taigh-chearsabhagh-museum-and-arts-centre-2014-03-29-2.webp
+    title: vija celmins uist taigh chearsabhagh museum and arts centre 2014 03 29 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2014-03-29
 enddate: 2014-06-28
 town: Uist

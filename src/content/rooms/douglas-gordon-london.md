@@ -4,9 +4,24 @@ artists:
   - douglas-gordon
 venue: tate-britain
 images:
-  - ../../media/douglas-gordon-london-tate-britain-2013-05-13-0.webp
-  - ../../media/douglas-gordon-london-tate-britain-2013-05-13-1.webp
-  - ../../media/douglas-gordon-london-tate-britain-2013-05-13-2.webp
+  - src: ../../media/douglas-gordon-london-tate-britain-2013-05-13-0.webp
+    title: douglas gordon london tate britain 2013 05 13 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/douglas-gordon-london-tate-britain-2013-05-13-1.webp
+    title: douglas gordon london tate britain 2013 05 13 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/douglas-gordon-london-tate-britain-2013-05-13-2.webp
+    title: douglas gordon london tate britain 2013 05 13 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2013-05-13
 enddate: 2013-09-29
 town: London

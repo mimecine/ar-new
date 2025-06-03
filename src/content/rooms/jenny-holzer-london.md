@@ -4,8 +4,18 @@ artists:
   - jenny-holzer
 venue: tate-modern
 images:
-  - ../../media/jenny-holzer-london-tate-modern-2011-06-01-0.webp
-  - ../../media/jenny-holzer-london-tate-modern-2011-06-01-1.webp
+  - src: ../../media/jenny-holzer-london-tate-modern-2011-06-01-0.webp
+    title: jenny holzer london tate modern 2011 06 01 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/jenny-holzer-london-tate-modern-2011-06-01-1.webp
+    title: jenny holzer london tate modern 2011 06 01 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2011-06-01
 enddate: 2012-06-01
 town: London

@@ -4,12 +4,42 @@ artists:
   - francesca-woodman
 venue: tate-modern
 images:
-  - ../../media/francesca-woodman-london-tate-modern-2025-01-20-0.webp
-  - ../../media/francesca-woodman-london-tate-modern-2025-01-20-1.webp
-  - ../../media/francesca-woodman-london-tate-modern-2025-01-20-2.webp
-  - ../../media/francesca-woodman-london-tate-modern-2025-01-20-3.webp
-  - ../../media/francesca-woodman-london-tate-modern-2025-01-20-4.webp
-  - ../../media/francesca-woodman-london-tate-modern-2025-01-20-5.webp
+  - src: ../../media/francesca-woodman-london-tate-modern-2025-01-20-0.webp
+    title: francesca woodman london tate modern 2025 01 20 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/francesca-woodman-london-tate-modern-2025-01-20-1.webp
+    title: francesca woodman london tate modern 2025 01 20 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/francesca-woodman-london-tate-modern-2025-01-20-2.webp
+    title: francesca woodman london tate modern 2025 01 20 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/francesca-woodman-london-tate-modern-2025-01-20-3.webp
+    title: francesca woodman london tate modern 2025 01 20 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/francesca-woodman-london-tate-modern-2025-01-20-4.webp
+    title: francesca woodman london tate modern 2025 01 20 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/francesca-woodman-london-tate-modern-2025-01-20-5.webp
+    title: francesca woodman london tate modern 2025 01 20 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2025-01-20
 enddate: 2027-01-31
 town: London

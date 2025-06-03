@@ -2,7 +2,8 @@
 title: Ed Ruscha
 featuredImage: ../../media/ed-ruscha-featured.webp
 resources:
-  - /sites/default/files/downloads/EdRuschaLearningResource.pdf
+  - path: ../../media/ed-ruscha-ed-ruscha-learning-resource.webp
+    title: Ed Ruscha Learning Resource
 works:
   - inventorynumber: AR00184
     category: Works on paper

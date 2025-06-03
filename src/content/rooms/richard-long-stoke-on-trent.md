@@ -4,11 +4,36 @@ artists:
   - richard-long
 venue: the-potteries-museum-and-art-gallery
 images:
-  - ../../media/richard-long-stoke-on-trent-the-potteries-museum-art-gallery-2013-11-30-0.webp
-  - ../../media/richard-long-stoke-on-trent-the-potteries-museum-art-gallery-2013-11-30-1.webp
-  - ../../media/richard-long-stoke-on-trent-the-potteries-museum-art-gallery-2013-11-30-2.webp
-  - ../../media/richard-long-stoke-on-trent-the-potteries-museum-art-gallery-2013-11-30-3.webp
-  - ../../media/richard-long-stoke-on-trent-the-potteries-museum-art-gallery-2013-11-30-4.webp
+  - src: ../../media/richard-long-stoke-on-trent-the-potteries-museum-art-gallery-2013-11-30-0.webp
+    title: richard long stoke on trent the potteries museum art gallery 2013 11 30 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/richard-long-stoke-on-trent-the-potteries-museum-art-gallery-2013-11-30-1.webp
+    title: richard long stoke on trent the potteries museum art gallery 2013 11 30 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/richard-long-stoke-on-trent-the-potteries-museum-art-gallery-2013-11-30-2.webp
+    title: richard long stoke on trent the potteries museum art gallery 2013 11 30 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/richard-long-stoke-on-trent-the-potteries-museum-art-gallery-2013-11-30-3.webp
+    title: richard long stoke on trent the potteries museum art gallery 2013 11 30 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/richard-long-stoke-on-trent-the-potteries-museum-art-gallery-2013-11-30-4.webp
+    title: richard long stoke on trent the potteries museum art gallery 2013 11 30 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2013-11-30
 enddate: 2014-03-02
 town: Stoke-on-Trent

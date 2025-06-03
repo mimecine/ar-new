@@ -2,7 +2,8 @@
 title: Robert Mapplethorpe
 featuredImage: ../../media/robert-mapplethorpe-featured.webp
 resources:
-  - /sites/default/files/downloads/Robert-Mapplethorpe-Learning-Resource.pdf
+  - path: ../../media/robert-mapplethorpe-robert-mapplethorpe-learning-resource.webp
+    title: Robert Mapplethorpe Learning Resource
 works:
   - inventorynumber: AR01137
     category: Photography 1973 to 1977

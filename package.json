@@ -3,15 +3,12 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "start": "concurrently npm:dev npm:cms",
+    "start": "concurrently npm:dev",
     "dev": "bun astro dev --host",
     "build": "bun astro build",
-    "deploy": "vercel --dist",
     "preview": "astro preview --host",
-    "cms": "npm exec @staticcms/proxy-server",
-    "make data": "rm -rf src/content/{rooms,artists,venues,films} && bun scripts/make_md.mjs",
     "scrape": "bun scripts/crawler-artists.js && bun scripts/crawler-rooms.js && bun scripts/crawler-films.js",
-    "astro": "astro"
+    "make sveltia": "rm -rf src/content/{rooms,artists,venues,films} && bun scripts/make_md_sveltia.mjs"
   },
   "dependencies": {
     "@alpinejs/persist": "^3.14.9",

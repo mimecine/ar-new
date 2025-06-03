@@ -22,7 +22,7 @@ async function getCoordinates(place) {
     });
 
     if (response.data.status === "OK") {
-        // console.log(response.data.results[0]);
+      // console.log(response.data.results[0]);
       // const location = response.data.results[0].geometry.location;
       return response.data.results[0];
     } else {
@@ -42,14 +42,25 @@ async function makeArtistMD() {
       let path = `./src/content/artists/${slug}.md`;
       let body = a.body;
       delete a.body;
-      if (a.featuredImage)
-        var ext = a.featuredImage.split(".").pop();
-        a.featuredImage =
-          "../../media/" +
-          (await existOrDownload(
-            "https://artistrooms.org" + a.featuredImage,
-            "./src/media/", slugify(`${a.title}-featured`)
-          ));
+
+      a.resources = a.resources?.map((r) => {
+        return {
+          path: r,
+          title: r
+            .replace(/^.*\/|(\.\w{2,4}$)|[\W_-]+/g, " ")
+            .replace(/([a-z])([A-Z])/g, "$1 $2")
+            .trim(),
+        };
+      });
+
+      if (a.featuredImage) var ext = a.featuredImage.split(".").pop();
+      a.featuredImage =
+        "../../media/" +
+        (await existOrDownload(
+          "https://artistrooms.org" + a.featuredImage,
+          "./src/media/",
+          slugify(`${a.title}-featured`)
+        ));
       a.works = await Promise.all(
         a.works
           ?.filter((w) => w.src)
@@ -63,6 +74,25 @@ async function makeArtistMD() {
               ));
             return w;
           })
+      );
+      a.resources = await Promise.all(
+        a.resources?.map(async (r) => {
+          if (r.path.startsWith("http")) {
+            r.path = r.path.replace(
+              "https://artistrooms.org",
+              "https://artistrooms.org/"
+            );
+          } else {
+            r.path =
+              "../../media/" +
+              (await existOrDownload(
+                "https://artistrooms.org" + r.path,
+                "./src/media/",
+                slugify(`${a.title}-${r.title}`)
+              ));
+          }
+          return r;
+        })
       );
       let fm = yaml.stringify(a);
 
@@ -83,12 +113,42 @@ async function makeRoomsMD() {
       a.title = a.title.replace(/ \| Artist Rooms/, "");
       let slug = slugify(a.title);
 
+      a.images = a.images?.map((im) => {
+        return {
+          src: im,
+          title: im
+            .replace(/^.*\/|(\.\w{2,4}$)|[\W_-]+/g, " ")
+            .replace(/([a-z])([A-Z])/g, "$1 $2")
+            .trim(),
+          alt: "",
+          credits: "",
+          caption: "",
+          copyright: "",
+        };
+      });
+
       a.images = await Promise.all(
         a.images
           .map((i) => i)
           .map(async (i, index) => {
-            i = "../../media/" + (await existOrDownload(i, "./src/media/",slugify(`${a.title}-${a.venue}-${a.startdate}-${index}`)));
-            return i;
+            i =
+              "../../media/" +
+              (await existOrDownload(
+                i.src,
+                "./src/media/",
+                slugify(`${a.title}-${a.venue}-${a.startdate}-${index}`)
+              ));
+            return {
+              src: i,
+              title: i
+                .replace(/^.*\/|(\.\w{2,4}$)|[\W_-]+/g, " ")
+                .replace(/([a-z])([A-Z])/g, "$1 $2")
+                .trim(),
+              alt: "",
+              credits: "",
+              caption: "",
+              copyright: `© `,
+            };
           })
       );
 
@@ -194,34 +254,64 @@ async function makeFilmsMD() {
 
 async function existOrDownload(url, folder, slug) {
   let _url = new URL(url, "https://artistrooms.org/");
-  let filename = decodeURIComponent(_url.pathname.split("/").pop()).replace(
-    /[^a-zA-Z0-9.]+/g,
-    "-"
-  );
-  var ext = filename.split(".").pop();
-  ext = "webp";
-  if(slug) { filename = slug + '.' + ext}
-  let local = `${folder}/${filename}`;
-  if (!fs.existsSync(local)) {
-    console.log("Downloading", local);
-    try {
-      let res = await fetch(_url);
-      let blob = await res.blob();
-      let buffer = Buffer.from(await blob.arrayBuffer());
-      let S = new sharp(buffer);
-      S.resize(1600, 1600, {
-        fit: "inside",
-        withoutEnlargement: true,
-        
-      }).webp({quality: 100,}).toFile(local);
-      // fs.writeFileSync(local, buffer);
-      return filename;
-    } catch (e) {
-      console.log("Can't write", local, e);
-    }
+  let originalFilename = decodeURIComponent(
+    _url.pathname.split("/").pop()
+  ).replace(/[^a-zA-Z0-9.]+/g, "-");
+  let ext = originalFilename.split(".").pop();
+  let isImage = false;
+  let filename, local;
+
+  // We'll check the content type after fetching
+  if (!fs.existsSync(folder)) {
+    fs.mkdirSync(folder, { recursive: true });
+  }
+
+  // Download if not present
+  if (slug) {
+    filename = slug; // We'll add extension after content-type check
   } else {
-    //console.log("Already downloaded", process.cwd(), local);
-    return filename;
+    filename = originalFilename.replace(/\.[^/.]+$/, "");
+  }
+
+  // We'll check if either .webp or original extension exists
+  let webpLocal = `${folder}/${filename}.webp`;
+  let origLocal = `${folder}/${filename}.${ext}`;
+
+  if (fs.existsSync(webpLocal)) {
+    return `${filename}.webp`;
+  }
+  if (fs.existsSync(origLocal)) {
+    return origLocal;
+  }
+
+  console.log("Downloading", url);
+  try {
+    let res = await fetch(_url);
+    let contentType = res.headers.get("content-type") || "";
+    let blob = await res.blob();
+    let buffer = Buffer.from(await blob.arrayBuffer());
+
+    if (contentType.includes("image/")) {
+      // Save as webp
+      local = webpLocal;
+      await sharp(buffer)
+        .resize(1600, 1600, {
+          fit: "inside",
+          withoutEnlargement: true,
+        })
+        .webp({ quality: 100 })
+        .toFile(local);
+      console.log("Saved as", local);
+      return `${filename}.webp`;
+    } else {
+      // Save with original extension
+      local = origLocal;
+      fs.writeFileSync(local, buffer);
+      console.log("Saved as", local);
+      return local;
+    }
+  } catch (e) {
+    console.log("Can't write", local, e);
   }
 }
 function slugify(text) {

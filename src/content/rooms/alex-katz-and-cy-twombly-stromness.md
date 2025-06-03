@@ -5,12 +5,42 @@ artists:
   - cy-twombly
 venue: the-piers-art-centre
 images:
-  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-0.webp
-  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-1.webp
-  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-2.webp
-  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-3.webp
-  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-4.webp
-  - ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-5.webp
+  - src: ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-0.webp
+    title: alex katz and cy twombly stromness the piers art centre 2011 03 26 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-1.webp
+    title: alex katz and cy twombly stromness the piers art centre 2011 03 26 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-2.webp
+    title: alex katz and cy twombly stromness the piers art centre 2011 03 26 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-3.webp
+    title: alex katz and cy twombly stromness the piers art centre 2011 03 26 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-4.webp
+    title: alex katz and cy twombly stromness the piers art centre 2011 03 26 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-5.webp
+    title: alex katz and cy twombly stromness the piers art centre 2011 03 26 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2011-03-26
 enddate: 2011-06-04
 town: Stromness

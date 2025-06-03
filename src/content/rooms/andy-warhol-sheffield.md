@@ -4,11 +4,36 @@ artists:
   - andy-warhol
 venue: graves-gallery
 images:
-  - ../../media/andy-warhol-sheffield-graves-gallery-2012-04-11-0.webp
-  - ../../media/andy-warhol-sheffield-graves-gallery-2012-04-11-1.webp
-  - ../../media/andy-warhol-sheffield-graves-gallery-2012-04-11-2.webp
-  - ../../media/andy-warhol-sheffield-graves-gallery-2012-04-11-3.webp
-  - ../../media/andy-warhol-sheffield-graves-gallery-2012-04-11-4.webp
+  - src: ../../media/andy-warhol-sheffield-graves-gallery-2012-04-11-0.webp
+    title: andy warhol sheffield graves gallery 2012 04 11 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-sheffield-graves-gallery-2012-04-11-1.webp
+    title: andy warhol sheffield graves gallery 2012 04 11 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-sheffield-graves-gallery-2012-04-11-2.webp
+    title: andy warhol sheffield graves gallery 2012 04 11 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-sheffield-graves-gallery-2012-04-11-3.webp
+    title: andy warhol sheffield graves gallery 2012 04 11 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/andy-warhol-sheffield-graves-gallery-2012-04-11-4.webp
+    title: andy warhol sheffield graves gallery 2012 04 11 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2012-04-11
 enddate: 2012-12-01
 town: Sheffield

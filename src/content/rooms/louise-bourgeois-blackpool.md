@@ -4,13 +4,48 @@ artists:
   - louise-bourgeois
 venue: grundy-art-gallery
 images:
-  - ../../media/louise-bourgeois-blackpool-grundy-art-gallery-2023-07-08-0.webp
-  - ../../media/louise-bourgeois-blackpool-grundy-art-gallery-2023-07-08-1.webp
-  - ../../media/louise-bourgeois-blackpool-grundy-art-gallery-2023-07-08-2.webp
-  - ../../media/louise-bourgeois-blackpool-grundy-art-gallery-2023-07-08-3.webp
-  - ../../media/louise-bourgeois-blackpool-grundy-art-gallery-2023-07-08-4.webp
-  - ../../media/louise-bourgeois-blackpool-grundy-art-gallery-2023-07-08-5.webp
-  - ../../media/louise-bourgeois-blackpool-grundy-art-gallery-2023-07-08-6.webp
+  - src: ../../media/louise-bourgeois-blackpool-grundy-art-gallery-2023-07-08-0.webp
+    title: louise bourgeois blackpool grundy art gallery 2023 07 08 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-blackpool-grundy-art-gallery-2023-07-08-1.webp
+    title: louise bourgeois blackpool grundy art gallery 2023 07 08 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-blackpool-grundy-art-gallery-2023-07-08-2.webp
+    title: louise bourgeois blackpool grundy art gallery 2023 07 08 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-blackpool-grundy-art-gallery-2023-07-08-3.webp
+    title: louise bourgeois blackpool grundy art gallery 2023 07 08 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-blackpool-grundy-art-gallery-2023-07-08-4.webp
+    title: louise bourgeois blackpool grundy art gallery 2023 07 08 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-blackpool-grundy-art-gallery-2023-07-08-5.webp
+    title: louise bourgeois blackpool grundy art gallery 2023 07 08 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/louise-bourgeois-blackpool-grundy-art-gallery-2023-07-08-6.webp
+    title: louise bourgeois blackpool grundy art gallery 2023 07 08 6
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2023-07-08
 enddate: 2023-09-09
 town: Blackpool

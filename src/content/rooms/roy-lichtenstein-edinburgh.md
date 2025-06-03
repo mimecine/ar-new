@@ -4,10 +4,34 @@ artists:
   - roy-lichtenstein
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/roy-lichtenstein-edinburgh-scottish-national-gallery-of-modern-art-2015-03-14-0.webp
-  - ../../media/roy-lichtenstein-edinburgh-scottish-national-gallery-of-modern-art-2015-03-14-1.webp
-  - ../../media/roy-lichtenstein-edinburgh-scottish-national-gallery-of-modern-art-2015-03-14-2.webp
-  - ../../media/roy-lichtenstein-edinburgh-scottish-national-gallery-of-modern-art-2015-03-14-3.webp
+  - src: ../../media/roy-lichtenstein-edinburgh-scottish-national-gallery-of-modern-art-2015-03-14-0.webp
+    title: roy lichtenstein edinburgh scottish national gallery of modern art 2015
+      03 14 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/roy-lichtenstein-edinburgh-scottish-national-gallery-of-modern-art-2015-03-14-1.webp
+    title: roy lichtenstein edinburgh scottish national gallery of modern art 2015
+      03 14 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/roy-lichtenstein-edinburgh-scottish-national-gallery-of-modern-art-2015-03-14-2.webp
+    title: roy lichtenstein edinburgh scottish national gallery of modern art 2015
+      03 14 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/roy-lichtenstein-edinburgh-scottish-national-gallery-of-modern-art-2015-03-14-3.webp
+    title: roy lichtenstein edinburgh scottish national gallery of modern art 2015
+      03 14 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2015-03-14
 enddate: 2016-01-10
 town: Edinburgh

@@ -4,9 +4,24 @@ artists:
   - don-mccullin
 venue: bonhoga-gallery
 images:
-  - ../../media/don-mccullin-weisdale-bonhoga-gallery-2014-11-29-0.webp
-  - ../../media/don-mccullin-weisdale-bonhoga-gallery-2014-11-29-1.webp
-  - ../../media/don-mccullin-weisdale-bonhoga-gallery-2014-11-29-2.webp
+  - src: ../../media/don-mccullin-weisdale-bonhoga-gallery-2014-11-29-0.webp
+    title: don mccullin weisdale bonhoga gallery 2014 11 29 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/don-mccullin-weisdale-bonhoga-gallery-2014-11-29-1.webp
+    title: don mccullin weisdale bonhoga gallery 2014 11 29 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/don-mccullin-weisdale-bonhoga-gallery-2014-11-29-2.webp
+    title: don mccullin weisdale bonhoga gallery 2014 11 29 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2014-11-29
 enddate: 2015-02-22
 town: Weisdale

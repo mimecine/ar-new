@@ -4,11 +4,36 @@ artists:
   - richard-long
 venue: the-hepworth
 images:
-  - ../../media/richard-long-wakefield-the-hepworth-2012-06-23-0.webp
-  - ../../media/richard-long-wakefield-the-hepworth-2012-06-23-1.webp
-  - ../../media/richard-long-wakefield-the-hepworth-2012-06-23-2.webp
-  - ../../media/richard-long-wakefield-the-hepworth-2012-06-23-3.webp
-  - ../../media/richard-long-wakefield-the-hepworth-2012-06-23-4.webp
+  - src: ../../media/richard-long-wakefield-the-hepworth-2012-06-23-0.webp
+    title: richard long wakefield the hepworth 2012 06 23 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/richard-long-wakefield-the-hepworth-2012-06-23-1.webp
+    title: richard long wakefield the hepworth 2012 06 23 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/richard-long-wakefield-the-hepworth-2012-06-23-2.webp
+    title: richard long wakefield the hepworth 2012 06 23 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/richard-long-wakefield-the-hepworth-2012-06-23-3.webp
+    title: richard long wakefield the hepworth 2012 06 23 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/richard-long-wakefield-the-hepworth-2012-06-23-4.webp
+    title: richard long wakefield the hepworth 2012 06 23 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2012-06-23
 enddate: 2012-10-14
 town: Wakefield

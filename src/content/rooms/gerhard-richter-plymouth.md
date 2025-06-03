@@ -4,11 +4,36 @@ artists:
   - gerhard-richter
 venue: plymouth-city-museum-and-art-gallery
 images:
-  - ../../media/gerhard-richter-plymouth-plymouth-city-museum-art-gallery-2015-09-26-0.webp
-  - ../../media/gerhard-richter-plymouth-plymouth-city-museum-art-gallery-2015-09-26-1.webp
-  - ../../media/gerhard-richter-plymouth-plymouth-city-museum-art-gallery-2015-09-26-2.webp
-  - ../../media/gerhard-richter-plymouth-plymouth-city-museum-art-gallery-2015-09-26-3.webp
-  - ../../media/gerhard-richter-plymouth-plymouth-city-museum-art-gallery-2015-09-26-4.webp
+  - src: ../../media/gerhard-richter-plymouth-plymouth-city-museum-art-gallery-2015-09-26-0.webp
+    title: gerhard richter plymouth plymouth city museum art gallery 2015 09 26 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-plymouth-plymouth-city-museum-art-gallery-2015-09-26-1.webp
+    title: gerhard richter plymouth plymouth city museum art gallery 2015 09 26 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-plymouth-plymouth-city-museum-art-gallery-2015-09-26-2.webp
+    title: gerhard richter plymouth plymouth city museum art gallery 2015 09 26 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-plymouth-plymouth-city-museum-art-gallery-2015-09-26-3.webp
+    title: gerhard richter plymouth plymouth city museum art gallery 2015 09 26 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/gerhard-richter-plymouth-plymouth-city-museum-art-gallery-2015-09-26-4.webp
+    title: gerhard richter plymouth plymouth city museum art gallery 2015 09 26 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2015-09-26
 enddate: 2016-01-16
 town: Plymouth

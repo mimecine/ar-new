@@ -4,13 +4,55 @@ artists:
   - diane-arbus
 venue: leamington-spa-art-gallery-and-museum
 images:
-  - ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-0.webp
-  - ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-1.webp
-  - ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-2.webp
-  - ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-3.webp
-  - ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-4.webp
-  - ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-5.webp
-  - ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-6.webp
+  - src: ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-0.webp
+    title: diane arbus leamington spa leamington spa art gallery and museum 2019 09
+      20 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-1.webp
+    title: diane arbus leamington spa leamington spa art gallery and museum 2019 09
+      20 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-2.webp
+    title: diane arbus leamington spa leamington spa art gallery and museum 2019 09
+      20 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-3.webp
+    title: diane arbus leamington spa leamington spa art gallery and museum 2019 09
+      20 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-4.webp
+    title: diane arbus leamington spa leamington spa art gallery and museum 2019 09
+      20 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-5.webp
+    title: diane arbus leamington spa leamington spa art gallery and museum 2019 09
+      20 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-leamington-spa-leamington-spa-art-gallery-and-museum-2019-09-20-6.webp
+    title: diane arbus leamington spa leamington spa art gallery and museum 2019 09
+      20 6
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2019-09-20
 enddate: 2019-12-01
 town: Leamington Spa

@@ -4,10 +4,30 @@ artists:
   - francesca-woodman
 venue: oriel-davies-gallery
 images:
-  - ../../media/francesca-woodman-powys-oriel-davies-gallery-2014-11-15-0.webp
-  - ../../media/francesca-woodman-powys-oriel-davies-gallery-2014-11-15-1.webp
-  - ../../media/francesca-woodman-powys-oriel-davies-gallery-2014-11-15-2.webp
-  - ../../media/francesca-woodman-powys-oriel-davies-gallery-2014-11-15-3.webp
+  - src: ../../media/francesca-woodman-powys-oriel-davies-gallery-2014-11-15-0.webp
+    title: francesca woodman powys oriel davies gallery 2014 11 15 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/francesca-woodman-powys-oriel-davies-gallery-2014-11-15-1.webp
+    title: francesca woodman powys oriel davies gallery 2014 11 15 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/francesca-woodman-powys-oriel-davies-gallery-2014-11-15-2.webp
+    title: francesca woodman powys oriel davies gallery 2014 11 15 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/francesca-woodman-powys-oriel-davies-gallery-2014-11-15-3.webp
+    title: francesca woodman powys oriel davies gallery 2014 11 15 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2014-11-15
 enddate: 2015-02-25
 town: Powys

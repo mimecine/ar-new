@@ -4,11 +4,36 @@ artists:
   - robert-mapplethorpe
 venue: towner
 images:
-  - ../../media/robert-mapplethorpe-eastbourne-towner-2010-09-25-0.webp
-  - ../../media/robert-mapplethorpe-eastbourne-towner-2010-09-25-1.webp
-  - ../../media/robert-mapplethorpe-eastbourne-towner-2010-09-25-2.webp
-  - ../../media/robert-mapplethorpe-eastbourne-towner-2010-09-25-3.webp
-  - ../../media/robert-mapplethorpe-eastbourne-towner-2010-09-25-4.webp
+  - src: ../../media/robert-mapplethorpe-eastbourne-towner-2010-09-25-0.webp
+    title: robert mapplethorpe eastbourne towner 2010 09 25 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-eastbourne-towner-2010-09-25-1.webp
+    title: robert mapplethorpe eastbourne towner 2010 09 25 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-eastbourne-towner-2010-09-25-2.webp
+    title: robert mapplethorpe eastbourne towner 2010 09 25 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-eastbourne-towner-2010-09-25-3.webp
+    title: robert mapplethorpe eastbourne towner 2010 09 25 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-eastbourne-towner-2010-09-25-4.webp
+    title: robert mapplethorpe eastbourne towner 2010 09 25 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2010-09-25
 enddate: 2010-11-21
 town: Eastbourne

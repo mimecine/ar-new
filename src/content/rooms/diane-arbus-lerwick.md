@@ -3,12 +3,42 @@ title: Diane Arbus, Lerwick
 artists: []
 venue: shetland-museum-and-archives
 images:
-  - ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-0.webp
-  - ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-1.webp
-  - ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-2.webp
-  - ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-3.webp
-  - ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-4.webp
-  - ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-5.webp
+  - src: ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-0.webp
+    title: diane arbus lerwick shetland museum and archives 2023 08 19 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-1.webp
+    title: diane arbus lerwick shetland museum and archives 2023 08 19 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-2.webp
+    title: diane arbus lerwick shetland museum and archives 2023 08 19 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-3.webp
+    title: diane arbus lerwick shetland museum and archives 2023 08 19 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-4.webp
+    title: diane arbus lerwick shetland museum and archives 2023 08 19 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/diane-arbus-lerwick-shetland-museum-and-archives-2023-08-19-5.webp
+    title: diane arbus lerwick shetland museum and archives 2023 08 19 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2023-08-19
 enddate: 2023-11-12
 town: Lerwick

@@ -4,13 +4,48 @@ artists:
   - bruce-nauman
 venue: tate-modern
 images:
-  - ../../media/bruce-nauman-london-tate-modern-2017-07-24-0.webp
-  - ../../media/bruce-nauman-london-tate-modern-2017-07-24-1.webp
-  - ../../media/bruce-nauman-london-tate-modern-2017-07-24-2.webp
-  - ../../media/bruce-nauman-london-tate-modern-2017-07-24-3.webp
-  - ../../media/bruce-nauman-london-tate-modern-2017-07-24-4.webp
-  - ../../media/bruce-nauman-london-tate-modern-2017-07-24-5.webp
-  - ../../media/bruce-nauman-london-tate-modern-2017-07-24-6.webp
+  - src: ../../media/bruce-nauman-london-tate-modern-2017-07-24-0.webp
+    title: bruce nauman london tate modern 2017 07 24 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/bruce-nauman-london-tate-modern-2017-07-24-1.webp
+    title: bruce nauman london tate modern 2017 07 24 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/bruce-nauman-london-tate-modern-2017-07-24-2.webp
+    title: bruce nauman london tate modern 2017 07 24 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/bruce-nauman-london-tate-modern-2017-07-24-3.webp
+    title: bruce nauman london tate modern 2017 07 24 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/bruce-nauman-london-tate-modern-2017-07-24-4.webp
+    title: bruce nauman london tate modern 2017 07 24 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/bruce-nauman-london-tate-modern-2017-07-24-5.webp
+    title: bruce nauman london tate modern 2017 07 24 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/bruce-nauman-london-tate-modern-2017-07-24-6.webp
+    title: bruce nauman london tate modern 2017 07 24 6
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2017-07-24
 enddate: 2018-06-01
 town: London

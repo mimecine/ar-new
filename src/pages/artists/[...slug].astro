@@ -57,9 +57,8 @@ const films = all_films.filter((film) =>
     <section>
       <div class="flex flex-wrap pb-12">
         <div class="md:w-1/2" >
-          {
-            artist.data.featuredImage && (
-              <Image
+          
+            <Image
                 width={artist.data.featuredImage.width}
                 height={artist.data.featuredImage.height}
                 widths={[360, 800]}
@@ -69,9 +68,8 @@ const films = all_films.filter((film) =>
                 loading="eager"
                 class="mb-4 p-2 bg-gray-200 max-w-full w-auto object-cover opacity-0 transition-opacity duration-500"
                 onload="this.classList.remove('opacity-0')"
-              />
-            )
-          }
+              /> 
+            
         </div>
         <div class="md:w-1/2 md:px-4 mt-2">
           <Content />
@@ -178,6 +176,7 @@ const films = all_films.filter((film) =>
                       class="object-contain max-w-full max-h-full opacity-0 transition-opacity duration-500 "
                       onload="this.classList.remove('opacity-0')"
                     />
+
                   </div>
                   <div class="absolute bottom-0 p-2 items-center justify-evenly w-full grid md:grid-flow-col gap-x-8">
                     <div class="font-normal">{work.title}</div>
@@ -218,7 +217,7 @@ const films = all_films.filter((film) =>
                   <li>
                     <a href={`/rooms/${room.slug}`}>
                       <Thumbnail
-                        src={room.data.images[0]}
+                        src={room.data.images[0].src}
                         alt={room.data.title}
                         title={room.data.title}>
                         <div class="h-full">

@@ -4,13 +4,48 @@ artists:
   - robert-mapplethorpe
 venue: old-gala-house
 images:
-  - ../../media/robert-mapplethorpe-galashiels-old-gala-house-2013-05-11-0.webp
-  - ../../media/robert-mapplethorpe-galashiels-old-gala-house-2013-05-11-1.webp
-  - ../../media/robert-mapplethorpe-galashiels-old-gala-house-2013-05-11-2.webp
-  - ../../media/robert-mapplethorpe-galashiels-old-gala-house-2013-05-11-3.webp
-  - ../../media/robert-mapplethorpe-galashiels-old-gala-house-2013-05-11-4.webp
-  - ../../media/robert-mapplethorpe-galashiels-old-gala-house-2013-05-11-5.webp
-  - ../../media/robert-mapplethorpe-galashiels-old-gala-house-2013-05-11-6.webp
+  - src: ../../media/robert-mapplethorpe-galashiels-old-gala-house-2013-05-11-0.webp
+    title: robert mapplethorpe galashiels old gala house 2013 05 11 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-galashiels-old-gala-house-2013-05-11-1.webp
+    title: robert mapplethorpe galashiels old gala house 2013 05 11 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-galashiels-old-gala-house-2013-05-11-2.webp
+    title: robert mapplethorpe galashiels old gala house 2013 05 11 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-galashiels-old-gala-house-2013-05-11-3.webp
+    title: robert mapplethorpe galashiels old gala house 2013 05 11 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-galashiels-old-gala-house-2013-05-11-4.webp
+    title: robert mapplethorpe galashiels old gala house 2013 05 11 4
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-galashiels-old-gala-house-2013-05-11-5.webp
+    title: robert mapplethorpe galashiels old gala house 2013 05 11 5
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-mapplethorpe-galashiels-old-gala-house-2013-05-11-6.webp
+    title: robert mapplethorpe galashiels old gala house 2013 05 11 6
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2013-05-11
 enddate: 2013-08-11
 town: Galashiels

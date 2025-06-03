@@ -4,10 +4,30 @@ artists:
   - douglas-gordon
 venue: caithness-horizons
 images:
-  - ../../media/douglas-gordon-thurso-caithness-horizons-2014-05-10-0.webp
-  - ../../media/douglas-gordon-thurso-caithness-horizons-2014-05-10-1.webp
-  - ../../media/douglas-gordon-thurso-caithness-horizons-2014-05-10-2.webp
-  - ../../media/douglas-gordon-thurso-caithness-horizons-2014-05-10-3.webp
+  - src: ../../media/douglas-gordon-thurso-caithness-horizons-2014-05-10-0.webp
+    title: douglas gordon thurso caithness horizons 2014 05 10 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/douglas-gordon-thurso-caithness-horizons-2014-05-10-1.webp
+    title: douglas gordon thurso caithness horizons 2014 05 10 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/douglas-gordon-thurso-caithness-horizons-2014-05-10-2.webp
+    title: douglas gordon thurso caithness horizons 2014 05 10 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/douglas-gordon-thurso-caithness-horizons-2014-05-10-3.webp
+    title: douglas gordon thurso caithness horizons 2014 05 10 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2014-05-10
 enddate: 2014-10-11
 town: Thurso

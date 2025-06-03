@@ -4,9 +4,24 @@ artists:
   - agnes-martin
 venue: winchester-discovery-centre
 images:
-  - ../../media/agnes-martin-winchester-winchester-discovery-centre-2018-07-07-0.webp
-  - ../../media/agnes-martin-winchester-winchester-discovery-centre-2018-07-07-1.webp
-  - ../../media/agnes-martin-winchester-winchester-discovery-centre-2018-07-07-2.webp
+  - src: ../../media/agnes-martin-winchester-winchester-discovery-centre-2018-07-07-0.webp
+    title: agnes martin winchester winchester discovery centre 2018 07 07 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/agnes-martin-winchester-winchester-discovery-centre-2018-07-07-1.webp
+    title: agnes martin winchester winchester discovery centre 2018 07 07 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/agnes-martin-winchester-winchester-discovery-centre-2018-07-07-2.webp
+    title: agnes martin winchester winchester discovery centre 2018 07 07 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2018-07-07
 enddate: 2018-10-07
 town: Winchester

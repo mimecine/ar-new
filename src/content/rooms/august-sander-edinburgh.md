@@ -4,10 +4,34 @@ artists:
   - august-sander
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/august-sander-edinburgh-scottish-national-gallery-of-modern-art-2011-02-12-0.webp
-  - ../../media/august-sander-edinburgh-scottish-national-gallery-of-modern-art-2011-02-12-1.webp
-  - ../../media/august-sander-edinburgh-scottish-national-gallery-of-modern-art-2011-02-12-2.webp
-  - ../../media/august-sander-edinburgh-scottish-national-gallery-of-modern-art-2011-02-12-3.webp
+  - src: ../../media/august-sander-edinburgh-scottish-national-gallery-of-modern-art-2011-02-12-0.webp
+    title: august sander edinburgh scottish national gallery of modern art 2011 02
+      12 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-edinburgh-scottish-national-gallery-of-modern-art-2011-02-12-1.webp
+    title: august sander edinburgh scottish national gallery of modern art 2011 02
+      12 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-edinburgh-scottish-national-gallery-of-modern-art-2011-02-12-2.webp
+    title: august sander edinburgh scottish national gallery of modern art 2011 02
+      12 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/august-sander-edinburgh-scottish-national-gallery-of-modern-art-2011-02-12-3.webp
+    title: august sander edinburgh scottish national gallery of modern art 2011 02
+      12 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2011-02-12
 enddate: 2011-07-10
 town: Edinburgh

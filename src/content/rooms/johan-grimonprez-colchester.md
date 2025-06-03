@@ -4,9 +4,24 @@ artists:
   - johan-grimonprez
 venue: firstsite
 images:
-  - ../../media/johan-grimonprez-colchester-firstsite-2009-11-02-0.webp
-  - ../../media/johan-grimonprez-colchester-firstsite-2009-11-02-1.webp
-  - ../../media/johan-grimonprez-colchester-firstsite-2009-11-02-2.webp
+  - src: ../../media/johan-grimonprez-colchester-firstsite-2009-11-02-0.webp
+    title: johan grimonprez colchester firstsite 2009 11 02 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/johan-grimonprez-colchester-firstsite-2009-11-02-1.webp
+    title: johan grimonprez colchester firstsite 2009 11 02 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/johan-grimonprez-colchester-firstsite-2009-11-02-2.webp
+    title: johan grimonprez colchester firstsite 2009 11 02 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2009-11-02
 enddate: 2010-02-21
 town: Colchester

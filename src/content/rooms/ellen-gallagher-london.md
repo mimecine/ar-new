@@ -4,10 +4,30 @@ artists:
   - ellen-gallagher
 venue: tate-modern
 images:
-  - ../../media/ellen-gallagher-london-tate-modern-2018-11-19-0.webp
-  - ../../media/ellen-gallagher-london-tate-modern-2018-11-19-1.webp
-  - ../../media/ellen-gallagher-london-tate-modern-2018-11-19-2.webp
-  - ../../media/ellen-gallagher-london-tate-modern-2018-11-19-3.webp
+  - src: ../../media/ellen-gallagher-london-tate-modern-2018-11-19-0.webp
+    title: ellen gallagher london tate modern 2018 11 19 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ellen-gallagher-london-tate-modern-2018-11-19-1.webp
+    title: ellen gallagher london tate modern 2018 11 19 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ellen-gallagher-london-tate-modern-2018-11-19-2.webp
+    title: ellen gallagher london tate modern 2018 11 19 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/ellen-gallagher-london-tate-modern-2018-11-19-3.webp
+    title: ellen gallagher london tate modern 2018 11 19 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2018-11-19
 enddate: 2019-11-01
 town: London

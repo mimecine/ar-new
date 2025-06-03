@@ -4,10 +4,30 @@ artists:
   - agnes-martin
 venue: scottish-national-gallery-of-modern-art
 images:
-  - ../../media/agnes-martin-edinburgh-scottish-national-gallery-of-modern-art-2009-08-06-0.webp
-  - ../../media/agnes-martin-edinburgh-scottish-national-gallery-of-modern-art-2009-08-06-1.webp
-  - ../../media/agnes-martin-edinburgh-scottish-national-gallery-of-modern-art-2009-08-06-2.webp
-  - ../../media/agnes-martin-edinburgh-scottish-national-gallery-of-modern-art-2009-08-06-3.webp
+  - src: ../../media/agnes-martin-edinburgh-scottish-national-gallery-of-modern-art-2009-08-06-0.webp
+    title: agnes martin edinburgh scottish national gallery of modern art 2009 08 06 0
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/agnes-martin-edinburgh-scottish-national-gallery-of-modern-art-2009-08-06-1.webp
+    title: agnes martin edinburgh scottish national gallery of modern art 2009 08 06 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/agnes-martin-edinburgh-scottish-national-gallery-of-modern-art-2009-08-06-2.webp
+    title: agnes martin edinburgh scottish national gallery of modern art 2009 08 06 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/agnes-martin-edinburgh-scottish-national-gallery-of-modern-art-2009-08-06-3.webp
+    title: agnes martin edinburgh scottish national gallery of modern art 2009 08 06 3
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
 startdate: 2009-08-06
 enddate: 2010-03-14
 town: Edinburgh
