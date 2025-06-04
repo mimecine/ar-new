@@ -1,8 +1,8 @@
 backend:
-    name: github
-    repo: mimecine/ar-new
-    branch: master # Branch to update (optional; defaults to master)
-    base_url: https://cms-auth.mimecom.workers.dev/
+  name: github
+  repo: mimecine/ar-new
+  branch: master # Branch to update (optional; defaults to master)
+  base_url: https://cms-auth.mimecom.workers.dev/
 
 
 media_folder: "src/media"
@@ -65,7 +65,7 @@ collections:
     name: "rooms"
     folder: "src/content/rooms"
     create: true
-    summary: "{{title}} {{startdate }} @ {{venue | upper}}  {{hidden | ternary('---**HIDDEN**', '')}}"
+    summary: "{{title}} @ {{venue | upper}}  {{hidden | ternary('---**HIDDEN**', '')}}"
     sortable_fields: 
       fields: ["title","venue","startdate","enddate","hidden"]
       default:

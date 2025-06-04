@@ -47,7 +47,8 @@ for (const slug of settings.films) {
       <ul class="empty:hidden flex flex-wrap gap-3 justify-evenly">
         {
           current_rooms.map((room) => (
-            <li class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 xxl:w-1/5 p-4" data-startdate={room.data.startdate.toISOString()} data-enddate={room.data.enddate?.toISOString()} x-show="new Date().toISOString() >= $el.getAttribute('data-startdate') && new Date(new Date()+24*60*60*1000).toISOString() <= $el.getAttribute('data-enddate')">
+            <li id={room.id} class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 xxl:w-1/5 p-4" data-startdate={room.data.startdate.toISOString()} data-enddate={room.data.enddate?.toISOString()} x-show="new Date().toISOString() >= $el.getAttribute('data-startdate') &&
+new Date(Date.now() + 24*60*60*1000).toISOString() <= $el.getAttribute('data-enddate')">
               <a href={`/rooms/${room.slug}`}>
                 <Thumbnail
                   src={room.data.images[0].src}
@@ -57,7 +58,6 @@ for (const slug of settings.films) {
                 >
                   <div class="h-full">
                     <h5 class=" text-balance">CURRENTLY: {room.data.title}</h5>
-                    {/* <p class="italic text-sm">From {room.data.startdate?.toLocaleDateString()}</p> */}
                     <p class="italic text-sm">Open until {room.data.ongoing? 'further notice' : room.data.enddate?.toLocaleDateString() ?? 'further notice'}</p>
                   </div>
                 </Thumbnail>
