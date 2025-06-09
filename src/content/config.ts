@@ -116,4 +116,18 @@ const news = defineCollection({
     }),
 });
 
-export const collections = { artists, rooms, venues, films, news };
+const pages = defineCollection({
+  // type: "content",
+  loader: glob({ pattern: "**/*.md", base: "./src/pages" }),
+  // Type-check frontmatter using a schema
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      hidden: z.boolean().optional(),
+      layout: z.string().optional(),
+      artists: z.array(z.string()).optional(),
+      rooms: z.array(z.string()).optional(),
+    }),
+});
+
+export const collections = { artists, rooms, venues, films, news, pages };

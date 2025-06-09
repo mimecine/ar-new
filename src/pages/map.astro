@@ -11,12 +11,10 @@ venues.sort((a, b) => {
 ---
 
 <Main title="Map">
-      <div class="flex justify-center w-full h-full">
-        <div
-          id="map"
-          class="w-full max-w-screen-2xl h-full border border-gray-500">
-        </div>
-      </div>
+  <div class="flex justify-center w-full h-full">
+    <div id="map" class="w-full max-w-screen-2xl h-full border border-gray-500">
+    </div>
+  </div>
   <link
     rel="stylesheet"
     href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"
@@ -32,6 +30,12 @@ venues.sort((a, b) => {
   ></script>
   <script>
     var loadedHandler = async () => {
+      if (window._mapInit != null) {
+        return;
+      } else {
+        window._mapInit = true;
+      }
+
       const venues = await (await fetch("/venues.json")).json();
 
       var map = L.map("map").setView([51.505, -0.09], 13);
@@ -98,9 +102,9 @@ venues.sort((a, b) => {
               let year = room.date.slice(0, 4);
               if (new_year != year) {
                 new_year = year;
-                return `<span class="italic">${year}:</span> <a href="/rooms/${room.slug}" class="!text-black !font-[--font-family]">${room.title.replace(/,[^,]+$/, "")}</a>`;
+                return `<span class="italic">${year}:</span> <a href="/rooms/${room.id}" class="!text-black !font-[--font-family]">${room.title.replace(/,[^,]+$/, "")}</a>`;
               } else {
-                return `<a href="/rooms/${room.slug}" class="!text-black !font-[--font-family]">${room.title.replace(/,[^,]+$/, "")}</a>`;
+                return `<a href="/rooms/${room.id}" class="!text-black !font-[--font-family]">${room.title.replace(/,[^,]+$/, "")}</a>`;
               }
             })
             .join("; ");
@@ -116,6 +120,7 @@ venues.sort((a, b) => {
 
       map.addLayer(markers);
       map.fitBounds(bounds);
+      console.log(`Bounds now: ${bounds.toBBoxString()}`);
     };
 
     window.addEventListener("DOMContentLoaded", loadedHandler);

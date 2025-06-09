@@ -37,7 +37,7 @@ rooms = rooms
             .filter((room) => !room.data.hidden)
             .map((room, index) => (
               <li>
-                <a href={`${Astro.url.pathname}/${room.slug}`}>
+                <a href={`${Astro.url.pathname}/${room.id}`}>
                   <Thumbnail
                     src={room.data.images[0].src}
                     alt={room.data.title}

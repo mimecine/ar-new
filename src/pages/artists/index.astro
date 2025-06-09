@@ -1,5 +1,5 @@
 ---
-import { getCollection } from "astro:content";
+import { getCollection, render} from "astro:content";
 import { Image } from "astro:assets";
 import Main from "@src/layouts/Main.astro";
 import Thumbnail from "@src/components/Thumbnail.astro";
@@ -31,7 +31,7 @@ artists = artists
         {
           artists.map((artist, index) => (
             <li>
-              <a href={`${Astro.url.pathname}/${artist.slug}`}>
+              <a href={`${Astro.url.pathname}/${artist.id}`}>
                 <Thumbnail
                   src={artist.data.featuredImage}
                   alt={artist.data.title}

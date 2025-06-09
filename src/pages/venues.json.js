@@ -10,7 +10,7 @@ venues.sort(
 );
 
 venues = venues.map((venue)=>{
-  venue.data.rooms = rooms.filter((room)=> room.data.venue == venue.slug ).map((room)=>{ return {title:room.data.title,slug:room.slug,date:room.data.startdate} })
+  venue.data.rooms = rooms.filter((room)=> room.data.venue == venue.id ).map((room)=>{ return {title:room.data.title,id:room.id,date:room.data.startdate} })
   return venue;
 })
 

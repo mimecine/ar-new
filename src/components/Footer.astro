@@ -1,17 +1,40 @@
 ---
 const today = new Date();
 import { Image } from "astro:assets";
-import logoNgs from '../assets/logo-ngs.png';
-import logoTate from '../assets/logo-tate.png';
-
+import logoNgs from "../assets/logo-ngs.png";
+import logoTate from "../assets/logo-tate.png";
 ---
 
-<footer class="flex flex-flow-row justify-center items-center gap-8 p-2 text-center text-gray-700 text-sm border-t border-gray-500">
-	<a href="https://www.nationalgalleries.org/" target="_new" class="border-0">
-		<Image src={logoNgs} alt="National Galleries of Scotland" class="h-12 lg:h-24 w-auto" />
-	</a>
-	<a href="/about"  class="border-0">&copy; {today.getFullYear()} ARTIST ROOMS FOUNDATION</a>
-	<a href="https://tate.org.uk/" target="_new" class="border-0">
-		<Image src={logoTate} alt="Tate Modern" class="h-12 lg:h-24 w-auto" />
-	  </a>
+<footer
+  class="flex flex-flow-row justify-center items-center gap-8 p-1 text-center text-gray-700 text-sm border-t border-gray-500">
+  <a href="https://www.nationalgalleries.org/" target="_new" class="border-0">
+    <Image
+      src={logoNgs}
+      alt="National Galleries of Scotland"
+      class="h-12 lg:h-24 print:h-4 w-auto"
+    />
+  </a>
+  <a href="/about" class="border-0 print:text-xs"
+    >&copy; {today.getFullYear()} ARTIST ROOMS FOUNDATION</a
+  >
+  <a href="https://tate.org.uk/" target="_new" class="border-0">
+    <Image
+      src={logoTate}
+      alt="Tate Modern"
+      class="h-12 lg:h-24 print:h-4 w-auto"
+    />
+  </a>
 </footer>
+<style>
+  @page {
+    margin: 0;
+	}
+  @media print {
+    footer {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+    }
+  }
+</style>

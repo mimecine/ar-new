@@ -1,12 +1,12 @@
 ---
 title: About
-image: ../media/jannis-kounellis-ar00072-untitled-1993.webp
 layout: ../layouts/Page.astro
 hidden: false
 artists:
   - jannis-kounellis
 rooms:
   - jannis-kounellis-london-tate-modern
+image: ../media/jannis-kounellis-ar00072-untitled-1993.webp
 ---
 ![A starry night sky.](../media/jannis-kounellis-ar00072-untitled-1993.webp)
 
@@ -27,3 +27,5 @@ _Since 2009, nearly 60 million visitors have passed through the doors of ARTIST 
 _211 exhibitons have been shown at 95 museums and galleries across the United Kingdom to date._
 
 _Some 800,000 young adults and children have learned about art through the learning programmes offered._
+
+A printable summary is available <a href="/summary" data-astro-reload onclick="window.open('/summary','summary','left=100,top=100,width=780,height=1000'); return false;">_HERE_</a>

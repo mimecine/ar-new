@@ -1,5 +1,5 @@
 ---
-import { type CollectionEntry, getCollection } from "astro:content";
+import { type CollectionEntry, getCollection, render } from "astro:content";
 import { Image } from "astro:assets";
 import Main from "../../layouts/Main.astro";
 import FormattedDate from "../../components/FormattedDate.astro";
@@ -11,14 +11,14 @@ export async function getStaticPaths() {
   return rooms
     .filter((room) => room.data.hidden !== true)
     .map((room) => ({
-      params: { slug: room.slug },
+      params: { slug: room.id },
       props: room,
     }));
 }
 type Props = CollectionEntry<"rooms">;
 
 const room = Astro.props;
-const { Content } = await room.render();
+const { Content } = await render(room);
 
 const artists = await getCollection("artists");
 const venues = await getCollection("venues");
@@ -58,7 +58,7 @@ for (let i = 0; i < grid_tail_size.length; i++) {
 </style>
 <Main
   title={room.data.title.replace(/,[^,]+$/, "")}
-  data-pagefind-meta={`title:ROOM - ${room.data.title.replace(/,[^,]+$/, "")}, ${venues.find((a) => a.slug == room.data.venue)?.data.title}, ${venues.find((a) => a.slug == room.data.venue)?.data.town}, ${room.data.startdate.getFullYear()}`}
+  data-pagefind-meta={`title:ROOM - ${room.data.title.replace(/,[^,]+$/, "")}, ${venues.find((a) => a.id == room.data.venue)?.data.title}, ${venues.find((a) => a.id == room.data.venue)?.data.town}, ${room.data.startdate.getFullYear()}`}
   x-data="{open: false}"
   x-id="['slide']">
   <main>
@@ -84,8 +84,8 @@ for (let i = 0; i < grid_tail_size.length; i++) {
       </div>
 
       <h2>
-        {venues.find((a) => a.slug == room.data.venue)?.data.title}, {
-          venues.find((a) => a.slug == room.data.venue)?.data.town
+        {venues.find((a) => a.id == room.data.venue)?.data.title}, {
+          venues.find((a) => a.id == room.data.venue)?.data.town
         }
       </h2>
 
@@ -106,7 +106,7 @@ for (let i = 0; i < grid_tail_size.length; i++) {
           room.data.artists.map((artist, a, i) => (
             <>
               <a href={`/artists/${artist}`}>
-                {artists.find((a) => a.slug == artist)?.data.title}
+                {artists.find((a) => a.id == artist)?.data.title}
               </a>
               {i.length - 1 > a && <span>, </span>}
             </>

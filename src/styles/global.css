@@ -78,7 +78,7 @@ body {
 	word-wrap: break-word;
 	overflow-wrap: break-word;
 	color: rgb(var(--gray-dark));
-	@apply text-sm lg:text-xl
+	@apply text-sm lg:text-xl print:text-xs;
 }
 main {
 	margin: auto;
@@ -94,7 +94,7 @@ h6 {
 	line-height: 1.2;
 }
 h1 {
-	@apply text-2xl lg:text-5xl
+	@apply text-2xl lg:text-5xl print:text-4xl;
 
 }
 h2 {
@@ -166,12 +166,9 @@ hr {
 	border-top: 1px solid rgb(var(--gray-dark));
 }
 @media (max-width: 720px) {
-	body {
+	/* body {
 		font-size: 18px;
-	}
-	main {
-		x-padding: 1em;
-	}
+	} */
 }
 
 .sr-only {
@@ -212,4 +209,8 @@ html {
   a:target {
     @apply block animate-pulse ;
     animation-iteration-count: 3;
+  }
+
+  @media print {
+	
   }

@@ -22,11 +22,11 @@ const artists = await getCollection("artists");
                 <h4 class="title" text-pretty text-xl>
                     {venue.data.title}{venue.data.town && `, ${venue.data.town}`}&nbsp;<span class="italic text-xs print:hidden"><a href={`https://google.com/maps/search/?api=1&query=${venue.data.title}, ${venue.data.town}`} target="_map">[info]</a></span></h4>
                 {rooms.filter(room => {
-                  return room.data.venue == venue.slug && !room.data.hidden
+                  return room.data.venue == venue.id && !room.data.hidden
                 })
                 .sort((a, b) => { return a.data.startdate - b.data.startdate; })
                 .map(room => (
-                  <a class="room" href={`/rooms/${room.slug}`}>
+                  <a class="room" href={`/rooms/${room.id}`}>
                      {room.data.title.replace(/,[^,]+$/,'')}&nbsp;<span class="italic text-sm">({room.data.startdate.getFullYear()})</span>&nbsp;;
                   </a>
                   ))}

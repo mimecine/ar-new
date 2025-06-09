@@ -1,5 +1,5 @@
 ---
-import { type CollectionEntry, getCollection, getEntry } from "astro:content";
+import { type CollectionEntry, getCollection, getEntry, render } from "astro:content";
 import { Image } from "astro:assets";
 import Main from "@src/layouts/Main.astro";
 import { Icon } from "astro-icon/components";
@@ -12,7 +12,7 @@ export async function getStaticPaths() {
   return artists
     .filter((artist) => artist.data.hidden !== true)
     .map((artist) => ({
-      params: { slug: artist.slug },
+      params: { slug: artist.id },
       props: artist,
     }));
 }
@@ -36,11 +36,11 @@ let sortedWorks = artist.data.works
   // return a.category.localeCompare(b.category) ||  b.category.toLowerCase() == 'sculpture' ? 1:0 || b.category.toLowerCase() == 'painting' ? 1:0 || a.year - b.year || a.title.split(",").pop().localeCompare(b.title.split(",").pop());
 }); // needs mod to sort by year
 
-const { Content } = await artist.render();
+const { Content } = await render(artist);
 
 const all_rooms = await getCollection("rooms");
 const rooms = all_rooms
-  .filter((room) => room.data.artists.includes(artist.slug))
+  .filter((room) => room.data.artists.includes(artist.id))
   .filter((room) => !room.data.hidden);
 for (let room of rooms) {
   room.data._venue = await getEntry("venues", room.data.venue);
@@ -48,7 +48,7 @@ for (let room of rooms) {
 
 const all_films = await getCollection("films");
 const films = all_films.filter((film) =>
-  film.data.artists.includes(artist.slug)
+  film.data.artists.includes(artist.id)
 );
 ---
 
@@ -215,7 +215,7 @@ const films = all_films.filter((film) =>
                 .reverse()
                 .map((room) => (
                   <li>
-                    <a href={`/rooms/${room.slug}`}>
+                    <a href={`/rooms/${room.id}`}>
                       <Thumbnail
                         src={room.data.images[0].src}
                         alt={room.data.title}
