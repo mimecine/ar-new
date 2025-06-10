@@ -1,60 +1,58 @@
 ---
-title: "Andy Warhol: Portrait of America, Milton Keynes"
+title: 'Andy Warhol: Portrait of America, Milton Keynes'
+startdate: 2025-03-15
+enddate: 2025-06-29
+ongoing: false
+priority: 0
 artists:
   - andy-warhol
 venue: mk-gallery-milton-keynes
 images:
-  - src: ../../media/andy-warhol-portrait-of-america-milton-keynes-mk-gallery-milton-keynes-2025-03-15-0.webp
-    title: andy warhol portrait of america milton keynes mk gallery milton keynes
-      2025 03 15 0
-    alt: ""
-    credits: ""
-    caption: ""
-    copyright: "© "
-  - src: ../../media/andy-warhol-portrait-of-america-milton-keynes-mk-gallery-milton-keynes-2025-03-15-1.webp
-    title: andy warhol portrait of america milton keynes mk gallery milton keynes
-      2025 03 15 1
-    alt: ""
-    credits: ""
-    caption: ""
-    copyright: "© "
-  - src: ../../media/andy-warhol-portrait-of-america-milton-keynes-mk-gallery-milton-keynes-2025-03-15-2.webp
-    title: andy warhol portrait of america milton keynes mk gallery milton keynes
-      2025 03 15 2
-    alt: ""
-    credits: ""
-    caption: ""
-    copyright: "© "
   - src: ../../media/andy-warhol-portrait-of-america-milton-keynes-mk-gallery-milton-keynes-2025-03-15-3.webp
-    title: andy warhol portrait of america milton keynes mk gallery milton keynes
-      2025 03 15 3
-    alt: ""
-    credits: ""
-    caption: ""
-    copyright: "© "
+    title: andy warhol portrait of america milton keynes mk gallery milton keynes 2025 03 15 3
+    alt: ''
+    caption: ''
+    credit: ''
+    copyright: ©
+    credits: ''
+  - src: ../../media/andy-warhol-portrait-of-america-milton-keynes-mk-gallery-milton-keynes-2025-03-15-0.webp
+    title: andy warhol portrait of america milton keynes mk gallery milton keynes 2025 03 15 0
+    alt: ''
+    caption: ''
+    credit: ''
+    copyright: ©
+    credits: ''
+  - src: ../../media/andy-warhol-portrait-of-america-milton-keynes-mk-gallery-milton-keynes-2025-03-15-1.webp
+    title: andy warhol portrait of america milton keynes mk gallery milton keynes 2025 03 15 1
+    alt: ''
+    caption: ''
+    credit: ''
+    copyright: ©
+    credits: ''
+  - src: ../../media/andy-warhol-portrait-of-america-milton-keynes-mk-gallery-milton-keynes-2025-03-15-2.webp
+    title: andy warhol portrait of america milton keynes mk gallery milton keynes 2025 03 15 2
+    alt: ''
+    caption: ''
+    credit: ''
+    copyright: ©
+    credits: ''
   - src: ../../media/andy-warhol-portrait-of-america-milton-keynes-mk-gallery-milton-keynes-2025-03-15-4.webp
-    title: andy warhol portrait of america milton keynes mk gallery milton keynes
-      2025 03 15 4
-    alt: ""
-    credits: ""
-    caption: ""
-    copyright: "© "
+    title: andy warhol portrait of america milton keynes mk gallery milton keynes 2025 03 15 4
+    alt: ''
+    caption: ''
+    credit: ''
+    copyright: ©
+    credits: ''
   - src: ../../media/andy-warhol-portrait-of-america-milton-keynes-mk-gallery-milton-keynes-2025-03-15-5.webp
-    title: andy warhol portrait of america milton keynes mk gallery milton keynes
-      2025 03 15 5
-    alt: ""
-    credits: ""
-    caption: ""
-    copyright: "© "
-startdate: 2025-03-15
-enddate: 2025-06-29
+    title: andy warhol portrait of america milton keynes mk gallery milton keynes 2025 03 15 5
+    alt: ''
+    caption: ''
+    credit: ''
+    copyright: ©
+    credits: ''
 town: Milton Keynes
 url: https://mkgallery.org/event/andy-warhol-portrait-of-america/
-ongoing: false
-priority: 0
-
 ---
-
 An ARTIST ROOMS Partnership Exhibition with Tate and National Galleries of Scotland
 
 In celebration of its 25th Anniversary, MK Gallery is delighted to present Andy Warhol: Portrait of America, an ARTIST ROOMS Partnership Exhibition with Tate and National Galleries of Scotland, opening Saturday 15 March 2025.
