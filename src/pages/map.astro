@@ -90,7 +90,6 @@ venues.sort((a, b) => {
       ).addTo(map);
 
       venues.map((venue) => {
-        console.log(`Adding ${venue.data.title}`, venue.data.geo);
         if (venue.data.geo) {
           let geo = JSON.parse(venue.data.geo);
           let lon_lat = geo.coordinates.reverse();
@@ -120,7 +119,6 @@ venues.sort((a, b) => {
 
       map.addLayer(markers);
       map.fitBounds(bounds);
-      console.log(`Bounds now: ${bounds.toBBoxString()}`);
     };
 
     window.addEventListener("DOMContentLoaded", loadedHandler);

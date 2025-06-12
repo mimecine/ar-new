@@ -57,7 +57,7 @@ for (const slug of settings.films) {
                           <a class="artist" href={`/artists/${artist}`}>
                             {
                               artists.find(
-                                (a) => a.slug == artist && !a.data.hidden
+                                (a) => a.id == artist && !a.data.hidden
                               )?.data.title
                             }
                           </a>
@@ -96,7 +96,7 @@ for (const slug of settings.films) {
                       <a class="artist" href={`/artists/${artist}`}>
                         {
                           artists.find(
-                            (a) => a.slug == artist && !a.data.hidden
+                            (a) => a.id == artist && !a.data.hidden
                           )?.data.title
                         }
                       </a>
