@@ -12,7 +12,7 @@ venues.sort((a, b) => {
 
 <Main title="Map">
   <div class="flex justify-center w-full h-full">
-    <div id="map" class="w-full max-w-screen-2xl h-full border border-gray-500">
+    <div id="map" class="w-full max-w-(--breakpoint-2xl) h-full border border-gray-500">
     </div>
   </div>
   <link
@@ -101,16 +101,16 @@ venues.sort((a, b) => {
               let year = room.date.slice(0, 4);
               if (new_year != year) {
                 new_year = year;
-                return `<span class="italic">${year}:</span> <a href="/rooms/${room.id}" class="!text-black !font-[--font-family]">${room.title.replace(/,[^,]+$/, "")}</a>`;
+                return `<span class="italic">${year}:</span> <a href="/rooms/${room.id}" class="text-black! font-(--font-family)!">${room.title.replace(/,[^,]+$/, "")}</a>`;
               } else {
-                return `<a href="/rooms/${room.id}" class="!text-black !font-[--font-family]">${room.title.replace(/,[^,]+$/, "")}</a>`;
+                return `<a href="/rooms/${room.id}" class="text-black! font-(--font-family)!">${room.title.replace(/,[^,]+$/, "")}</a>`;
               }
             })
             .join("; ");
           marker.bindPopup(`
-                    <h3 class="text-black !font-[--font-family]">${venue.data.title}</h3>
-                    <p class="!text-lg">${room_string}</p>
-                    <p><a class="!text-xs !font-italic !text-black !underline" href="https://google.com/maps/search/?api=1&query=${venue.data.title}, ${venue.data.town}, UK" target="_map">${venue.data.address}</a></p>
+                    <h3 class="text-black font-(--font-family)!">${venue.data.title}</h3>
+                    <p class="text-lg!">${room_string}</p>
+                    <p><a class="text-xs! !font-italic text-black! underline!" href="https://google.com/maps/search/?api=1&query=${venue.data.title}, ${venue.data.town}, UK" target="_map">${venue.data.address}</a></p>
                     `);
           marker.bindTooltip(venue.data.title); // too ugly!
           bounds.extend(lon_lat);

@@ -15,7 +15,7 @@ import Main from "@src/layouts/Main.astro";
             <span x-text="work.credit.replace(new RegExp(work.inventorynumber,'i'),'').trim()"></span>, 
             <span x-text="work.inventorynumber" class="font-bold italic"></span>
             <p class="print:hidden text-red-500 focus:font-bold"><button @click="delete portfolio.splice(index,1)">[ remove ]</button></p>
-            <div class="h-[1in] bg-gray-100 print:bg-inherit border print:border-none border-black p-2 focus-visible:!outline-transparent print:ring-0 ring-red-400" contenteditable>
+            <div class="h-[1in] bg-gray-100 print:bg-inherit border print:border-none border-black p-2 focus-visible:outline-transparent! print:ring-0 ring-red-400" contenteditable>
           </div>
         </div>
       </template>

@@ -18,16 +18,16 @@ let { title, description, image, frontmatter, ...props } = Astro.props;
 title = title || frontmatter?.title || "Untitled";
 ---
 
-<html lang="en-US" class="bg-[--main-background]">
+<html lang="en-US" class="bg-(--main-background)">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <BaseHead title={title} />
     <ViewTransitions />
   </head>
-  <body class="h-lvh w-lvw grid grid-rows-[1fr,auto] bg-[--main-background]">
+  <body class="h-lvh w-lvw grid grid-rows-[1fr_auto] bg-(--main-background)">
     <nav
-      class="flex items-center justify-between fixed px-2 h-14 lg:h-28 lg:px-4 py-2 lg:pt-4 lg:pb-2 border-b border-gray-500 bg-[--main-background] w-full z-[500]"
+      class="flex items-center justify-between fixed px-2 h-14 lg:h-28 lg:px-4 py-2 lg:pt-4 lg:pb-2 border-b border-gray-500 bg-(--main-background) w-full z-500"
     >
       <div class="flex items-center">
         <a href="/" class="home border-b-0 pr-4 lg:pr-12">
@@ -50,7 +50,7 @@ title = title || frontmatter?.title || "Untitled";
 
         <div
           x-data="{ open: false }"
-          class="*:bg-[--main-background] *:z-[500000] z-[500000]"
+          class="*:bg-(--main-background) *:z-500000 z-500000"
         >
           <h1 x-on:click="open = ! open" class="block lg:hidden text-[1.5rem]">
             <Icon
@@ -62,7 +62,7 @@ title = title || frontmatter?.title || "Untitled";
             x-cloak
             x-show="open"
             x-transition
-            class="lg:hidden absolute top-[3.5rem] right-0 border border-t-0 border-r-0 border-gray-500 flex flex-col items-end *:p-1"
+            class="lg:hidden absolute top-14 right-0 border border-t-0 border-r-0 border-gray-500 flex flex-col items-end *:p-1"
           >
               <HeaderLink href="/rooms-review">Rooms Review</HeaderLink>
               <HeaderLink href="/artists-review">Artists Review</HeaderLink>
@@ -72,7 +72,7 @@ title = title || frontmatter?.title || "Untitled";
       </div>
     </nav>
     <div class="grid justify-items-center">
-      <article class="p-2 pt-16 lg:p-4 lg:pt-[8rem] max-w-screen-2xl w-full" {...props}>
+      <article class="p-2 pt-16 lg:p-4 lg:pt-32 max-w-(--breakpoint-2xl) w-full" {...props}>
         <slot />
       </article>
     </div>

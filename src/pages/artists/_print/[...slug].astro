@@ -95,7 +95,7 @@ const films = all_films.filter((film) =>
                   <Thumbnail src={work.src} alt={work.title} title={work.title} data-category={work.category} loading={index >= 8 ? `lazy`:`eager`}>
                   <div class="h-full">
                     {work.title && <h5 class="text-balance">{work.title}</h5>}
-                    <p class="text-sm my-[-0.5rem] italic">{work.category}</p>
+                    <p class="text-sm -my-2 italic">{work.category}</p>
                   </div>
                   </Thumbnail>
                 </a>
@@ -107,7 +107,7 @@ const films = all_films.filter((film) =>
         <dialog
           id="dialog"
           x-ref="dialog"
-          class="w-screen h-screen inset-0 z-[600] opacity-0 pointer-events-none transition-opacity duration-500 open:opacity-100 open:pointer-events-auto bg-gray-100 backdrop:bg-gray-800 backdrop:opacity-60"
+          class="w-screen h-screen inset-0 z-600 opacity-0 pointer-events-none transition-opacity duration-500 open:opacity-100 open:pointer-events-auto bg-gray-100 backdrop:bg-gray-800 backdrop:opacity-60"
           role="dialog"
           aria-modal="true">
           <div
@@ -116,7 +116,7 @@ const films = all_films.filter((film) =>
             class="flex overflow-x-scroll items-start h-full snap-x snap-mandatory scroll-smooth select-text">
             <button
               @click="$refs.dialog.close(); open=!open;"
-              class="absolute leading-none right-2 top-2 focus-visible:outline-none z-10"
+              class="absolute leading-none right-2 top-2 focus-visible:outline-hidden z-10"
               ><Icon
                 name="material-symbols-light:close"
                 class="size-12 lg:size-12"
@@ -126,7 +126,7 @@ const films = all_films.filter((film) =>
               x-ref="button_prev"
               @click="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider;  $refs.slider.scrollBy({left: -clientWidth, behavior:'smooth'});"
               @keyup.left.window="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: -clientWidth, behavior:'smooth'});"
-              class="absolute left-0 top-1/2 leading-none focus-visible:outline-none z-10 opacity-10 invisible md:visible"
+              class="absolute left-0 top-1/2 leading-none focus-visible:outline-hidden z-10 opacity-10 invisible md:visible"
               ><Icon
                 name="material-symbols-light:chevron-left"
                 class="size-8 lg:size-20"
@@ -136,7 +136,7 @@ const films = all_films.filter((film) =>
               x-ref="button_next"
               @click="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: clientWidth, behavior:'smooth'});"
               @keyup.right.window="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: clientWidth, behavior:'smooth'});"
-              class="absolute right-0 top-1/2 leading-none focus-visible:outline-none z-10 invisible md:visible"
+              class="absolute right-0 top-1/2 leading-none focus-visible:outline-hidden z-10 invisible md:visible"
               ><Icon
                 name="material-symbols-light:chevron-right"
                 class="size-8 lg:size-20"
@@ -148,7 +148,7 @@ const films = all_films.filter((film) =>
                 <div
                 x-ref={`slide${_i}`}
                 id={`slide${_i}`}
-                class="relative flex-none w-full h-full p-2 grid grid-rows-[1fr,auto,auto] items-center justify-center snap-x snap-center text-sm font-thin">
+                class="relative flex-none w-full h-full p-2 grid grid-rows-[1fr_auto_auto] items-center justify-center snap-x snap-center text-sm font-thin">
                   <div class="w-full h-[80vh] items-center content-center justify-center bg-no-repeat bg-center bg-[url('/SvgSpinners180RingWithBg.svg')]">
                     <Image
                       src={work.src}
@@ -212,7 +212,7 @@ const films = all_films.filter((film) =>
                           {room.data.title && (
                             <h5 class="text-balance">{room.data.title}</h5>
                           )}
-                          <p class="text-sm my-[-0.5rem] italic">
+                          <p class="text-sm -my-2 italic">
                             <FormattedDate date={room.data.startdate} /> -{" "}
                             {(room.data.enddate && (
                               <FormattedDate date={room.data.enddate} />
@@ -258,7 +258,7 @@ const films = all_films.filter((film) =>
 </Main>
 <style>
   html {
-    @apply scroll-smooth focus:outline-none active:outline-none;
+    @apply scroll-smooth focus:outline-hidden active:outline-none;
   }
   h2[id] {
     @apply scroll-m-12 lg:scroll-m-20;

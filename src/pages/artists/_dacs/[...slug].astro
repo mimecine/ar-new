@@ -95,9 +95,9 @@ const films = all_films.filter((film) =>
                 @click="$refs.dialog.showModal();$refs[slide].scrollIntoView({behavior:'instant'}); open=!open;"
                 >
                 <a href={`#[${index}]${work.title}`} id={`[${index}]${work.title}`}>
-                  <div class="h-full grid grid-cols-[auto,1fr] gap-4">
+                  <div class="h-full grid grid-cols-[auto_1fr] gap-4">
                   <div class="h-24 w-24"><Thumbnail width={192} widths={[192]} src={work.src} alt={work.title} title={work.title} data-category={work.category} loading={index >= 8 ? `lazy`:`eager`} 
-                  class:list="!max-h-24 !m-0 !max-w-24 !bg-none"></Thumbnail></div>
+                  class:list="max-h-24! m-0! max-w-24! bg-none!"></Thumbnail></div>
 <div class="my-auto">{artist.data.title} 	&#9672; {work.title} 	&#9672; {work.category} 	&#9672; {work.year}  </div>                  
                   </div>
                   </Thumbnail>
@@ -114,7 +114,7 @@ const films = all_films.filter((film) =>
 </Main>
 <style>
   html {
-    @apply scroll-smooth focus:outline-none active:outline-none;
+    @apply scroll-smooth focus:outline-hidden active:outline-none;
   }
   h2[id] {
     @apply scroll-m-12 lg:scroll-m-20;
@@ -134,7 +134,7 @@ const films = all_films.filter((film) =>
       @apply !m-0;
     }
     body {
-      @apply !bg-[--main-background] !text-[--main-text] !h-full !w-full;
+      @apply bg-(--main-background)! text-(--main-text)! h-full! !w-full;
     }
   }
   @page {
