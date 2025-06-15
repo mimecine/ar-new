@@ -41,7 +41,7 @@ const { src, alt, title, loading, href, width, widths, sizes, class: className, 
                 src={src}
                 alt={alt || ""}
                 loading={loading || "lazy"}
-                class={`max-w-full h-full w-auto object-contain p-2 opacity-0 transition-opacity duration-500`}
+                class={`max-w-full !h-full w-auto object-contain p-2 opacity-0 transition-opacity duration-500`}
                 onload="this.classList.remove('opacity-0')"
                 
                 {...props}

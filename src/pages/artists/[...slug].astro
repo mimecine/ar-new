@@ -117,13 +117,13 @@ const films = all_films.filter((film) =>
           id="dialog"
           x-ref="dialog"
           @keydown.escape.window="$refs.dialog.close(); open=!open;"
-          class="w-screen h-screen inset-0 z-600 opacity-0 pointer-events-none transition-opacity duration-500 open:opacity-100 open:pointer-events-auto bg-gray-100 backdrop:bg-gray-800 backdrop:opacity-60"
+          class="w-screen h-screen m-auto inset-0 z-600 opacity-0 pointer-events-none transition-opacity duration-500 open:opacity-100 open:pointer-events-auto bg-gray-100 backdrop:bg-gray-800/60"
           role="dialog"
           aria-modal="true">
           <div
             x-ref="slider"
             @scrollend="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider;$refs.button_prev.classList.toggle('opacity-10',scrollLeft === 0); $refs.button_next.classList.toggle('opacity-10',scrollLeft+clientWidth === scrollWidth);"
-            class="flex overflow-x-scroll items-start h-full snap-x snap-mandatory scroll-smooth select-text focus-visible:outline-hidden
+            class="flex overflow-x-scroll items-start h-full snap-x snap-mandatory scroll-smooth select-text focus-visible:outline-hidden scrollbar-hide
             ">
             <button
               @click="$refs.dialog.close(); open=!open;"
@@ -137,7 +137,7 @@ const films = all_films.filter((film) =>
               x-ref="button_prev"
               @click="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider;  $refs.slider.scrollBy({left: -clientWidth, behavior:'smooth'});"
               @keyup.left.window="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: -clientWidth, behavior:'smooth'});"
-              class="absolute left-0 top-[30vh] bottom-[30vh] mt-auto p-28 pl-0 leading-none focus-visible:outline-hidden z-10 opacity-10 invisible md:visible"
+              class="absolute left-0 top-[30vh] bottom-[30vh] mt-auto p-28 pl-2 leading-none focus-visible:outline-hidden z-10 opacity-10 invisible md:visible"
               ><Icon
                 name="material-symbols-light:arrow-back-ios-rounded"
                 class="size-8 lg:size-8"
@@ -268,18 +268,4 @@ const films = all_films.filter((film) =>
     </section>
   </main>
 </Main>
-<style>
-  /* html {
-    @apply scroll-smooth focus:outline-hidden active:outline-none;
-  }
-  h2[id] {
-    @apply scroll-m-12 lg:scroll-m-20;
-  }
-  li[id], a[id] {
-    @apply scroll-m-32 lg:scroll-m-52
-  }
-  a:target {
-    @apply block animate-pulse ;
-    animation-iteration-count: 3;
-  } */
-</style>
+

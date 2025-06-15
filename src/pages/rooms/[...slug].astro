@@ -28,33 +28,37 @@ for (let i = 0; i < grid_tail_size.length; i++) {
   grid_tail_size[i] = i;
 }
 ---
+
 <style>
+  @reference "../../styles/global.css";
   xdialog {
-  transition: display .2s allow-discrete, overlay .2s allow-discrete;
+    transition:
+      display 0.2s allow-discrete,
+      overlay 0.2s allow-discrete;
 
-  animation: close 0.2s forwards;
-  &[open] {
-    animation: open 0.2s forwards;
+    animation: close 0.2s forwards;
+    &[open] {
+      animation: open 0.2s forwards;
+    }
   }
-}
 
-@keyframes open {
-  from {
-    opacity: 0;
+  @keyframes open {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
   }
-  to {
-    opacity: 1;
-  }
-}
 
-@keyframes xclose {
-  from {
-    opacity: 1;
+  @keyframes xclose {
+    from {
+      opacity: 1;
+    }
+    to {
+      opacity: 0;
+    }
   }
-  to {
-    opacity: 0;
-  }
-}
 </style>
 <Main
   title={room.data.title.replace(/,[^,]+$/, "")}
@@ -64,18 +68,19 @@ for (let i = 0; i < grid_tail_size.length; i++) {
   <main>
     <section class="w-full">
       <div>
-        <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between">
+        <ul
+          class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between">
           {
             room.data.images?.map((image, index) => (
-              <li class="cursor-pointer"
+              <li
+                class="cursor-pointer"
                 x-data={`{slide:'slide${index}'}`}
                 @click.prevent="$refs.dialog.showModal();$refs[slide].scrollIntoView({behavior:'instant'});   open=!open;">
                 <Thumbnail
                   src={image.src}
                   alt={room.data.title}
                   title={room.data.title}
-                  loading={index >= 8 ? `lazy`:`eager`}
-
+                  loading={index >= 8 ? `lazy` : `eager`}
                 />
               </li>
             ))
@@ -117,66 +122,65 @@ for (let i = 0; i < grid_tail_size.length; i++) {
   </main>
 
   <dialog
-  id="dialog"
-  x-ref="dialog"
-  class="w-screen h-screen inset-0 z-600 pointer-events-none open:pointer-events-auto bg-gray-100 backdrop:bg-transparent"
-  role="dialog"
-  aria-modal="true">
-  <div
-    x-ref="slider"
-    @scrollend="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider;$refs.button_prev.classList.toggle('opacity-10',scrollLeft === 0); $refs.button_next.classList.toggle('opacity-10',scrollLeft+clientWidth === scrollWidth);"
-    class="flex overflow-x-scroll items-start h-full snap-x snap-mandatory scroll-smooth select-text focus-visible:outline-hidden">
-    <button
-    @click="$refs.dialog.close(); open=!open;"
-    class="absolute leading-none right-2 lg:right-2 top-2 lg:top-2 p-28 pr-0 pt-0 focus-visible:outline-hidden z-10"
-    ><Icon
-      name="material-symbols-light:close-rounded"
-      class="size-12 lg:size-12"
-    /></button
-  >
-  <button
-    x-ref="button_prev"
-    @click="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider;  $refs.slider.scrollBy({left: -clientWidth, behavior:'smooth'});"
-    @keyup.left.window="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: -clientWidth, behavior:'smooth'});"
-    class="absolute left-0 top-[30vh] bottom-[30vh] mt-auto p-28 pl-0 leading-none focus-visible:outline-hidden z-10 opacity-10 invisible md:visible"
-    ><Icon
-      name="material-symbols-light:arrow-back-ios-rounded"
-      class="size-8 lg:size-8"
-    /></button
-  >
-  <button
-    x-ref="button_next"
-    @click="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: clientWidth, behavior:'smooth'});"
-    @keyup.right.window="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: clientWidth, behavior:'smooth'});"
-    class="absolute right-0 top-[30vh] bottom-[30vh] mt-auto p-28 pr-0 leading-none focus-visible:outline-hidden z-10 invisible md:visible"
-    ><Icon
-      name="material-symbols-light:arrow-forward-ios-rounded"
-      class="size-8 lg:size-8"
-    /></button
-  >
+    id="dialog"
+    x-ref="dialog"
+    class="w-screen h-screen m-auto inset-0 z-600 pointer-events-none open:pointer-events-auto bg-gray-100 backdrop:bg-gray-800/60"
+    role="dialog"
+    aria-modal="true">
+    <div
+      x-ref="slider"
+      @scrollend="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider;$refs.button_prev.classList.toggle('opacity-10',scrollLeft === 0); $refs.button_next.classList.toggle('opacity-10',scrollLeft+clientWidth === scrollWidth);"
+      class="flex overflow-x-scroll items-start h-full snap-x snap-mandatory scroll-smooth select-text focus-visible:outline-hidden scrollbar-hide">
+      <button
+        @click="$refs.dialog.close(); open=!open;"
+        class="absolute leading-none right-2 lg:right-2 top-2 lg:top-2 p-28 pr-0 pt-0 focus-visible:outline-hidden z-10"
+        ><Icon
+          name="material-symbols-light:close-rounded"
+          class="size-12 lg:size-12"
+        /></button
+      >
+      <button
+        x-ref="button_prev"
+        @click="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider;  $refs.slider.scrollBy({left: -clientWidth, behavior:'smooth'});"
+        @keyup.left.window="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: -clientWidth, behavior:'smooth'});"
+        class="absolute left-0 top-[30vh] bottom-[30vh] mt-auto p-28 pl-2 leading-none focus-visible:outline-hidden z-10 opacity-10 invisible md:visible"
+        ><Icon
+          name="material-symbols-light:arrow-back-ios-rounded"
+          class="size-8 lg:size-8"
+        /></button
+      >
+      <button
+        x-ref="button_next"
+        @click="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: clientWidth, behavior:'smooth'});"
+        @keyup.right.window="let {scrollLeft, clientWidth, scrollWidth} = $refs.slider; $refs.slider.scrollBy({left: clientWidth, behavior:'smooth'});"
+        class="absolute right-0 top-[30vh] bottom-[30vh] mt-auto p-28 pr-0 leading-none focus-visible:outline-hidden z-10 invisible md:visible"
+        ><Icon
+          name="material-symbols-light:arrow-forward-ios-rounded"
+          class="size-8 lg:size-8"
+        /></button
+      >
 
-    {
-      room.data.images?.map((image, i) => (
-        <div
-          x-ref={`slide${i}`}
-          id={`slide${i}`}
-          class="relative flex-none w-full h-full p-2 grid grid-rows-[1fr_auto_auto] items-center content-center justify-center snap-x snap-center text-sm font-thin">
-          <div class="w-full h-[80vh] items-center content-center justify-center">
-            <Image
-              src={image.src}
-              alt={room.data.title}
-              title={room.data.title}
-              widths={[360, 1600]}
-              sizes={`(max-width: 360px) 360px, ${image.width}px`}
-              x-widths={[360, 1600]}
-              x-sizes={`(max-width: 360px) 360px, ${image.width}px`}
-              class="object-contain max-w-full max-h-full "
-            />
+      {
+        room.data.images?.map((image, i) => (
+          <div
+            x-ref={`slide${i}`}
+            id={`slide${i}`}
+            class="relative flex-none w-full h-full p-2 grid grid-rows-[1fr_auto_auto] items-center content-center justify-center snap-x snap-center text-sm font-thin">
+            <div class="w-full h-[80vh] items-center content-center justify-center">
+              <Image
+                src={image.src}
+                alt={room.data.title}
+                title={room.data.title}
+                widths={[360, 1600]}
+                sizes={`(max-width: 360px) 360px, ${image.width}px`}
+                x-widths={[360, 1600]}
+                x-sizes={`(max-width: 360px) 360px, ${image.width}px`}
+                class="object-contain max-w-full max-h-full "
+              />
+            </div>
           </div>
-        </div>
-      ))
-    }
-  </div>
-</dialog>
-
+        ))
+      }
+    </div>
+  </dialog>
 </Main>

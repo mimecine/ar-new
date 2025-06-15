@@ -3,6 +3,7 @@ import { ViewTransitions } from "astro:transitions";
 import BaseHead from "@src/components/BaseHead.astro";
 import Footer from "@src/components/Footer.astro";
 import HeaderLink from "@src/components/HeaderLink.astro";
+import { Image } from "astro:assets";
 import { Icon } from "astro-icon/components";
 import { fade } from 'astro:transitions';
 
@@ -31,12 +32,12 @@ title = title || frontmatter?.title || "Untitled";
     >
       <div class="flex items-center">
         <a href="/" class="home border-b-0 pr-4 lg:pr-12">
-          <img
+          <Image
             src={"/logo.svg"}
             alt="Artist Rooms"
             width="72"
             height="56"
-            class="h-10 lg:h-14 w-auto"
+            class="!h-10 lg:!h-14 w-auto"
           />
         </a>
         <h1 class="text-sm md:text-lg lg:text-5xl text-balance">
@@ -44,16 +45,16 @@ title = title || frontmatter?.title || "Untitled";
         </h1>
       </div>
       <div class="flex flex-col justify-between lg:flex-row print:hidden lg:gap-0">
-        <HeaderLink href="/rooms" class="hidden! lg:inline-block!"
+        <HeaderLink href="/rooms" class="hidden lg:inline-block"
           >Rooms</HeaderLink
         >
-        <HeaderLink href="/artists" class="hidden! lg:inline-block!"
+        <HeaderLink href="/artists" class="hidden lg:inline-block"
           >Artists</HeaderLink
         >
-        <HeaderLink href="/films" class="hidden! lg:inline-block!"
+        <HeaderLink href="/films" class="hidden lg:inline-block"
           >Films</HeaderLink
         >
-        <HeaderLink href="/venues" class="hidden! lg:inline-block!"
+        <HeaderLink href="/venues" class="hidden lg:inline-block"
           >Venues</HeaderLink
         >
         <HeaderLink
@@ -61,10 +62,10 @@ title = title || frontmatter?.title || "Untitled";
           class="hidden! lg:inline-block!"
           data-astro-reload>Map</HeaderLink
         >
-        <HeaderLink href="/about" class="hidden! lg:inline-block!"
+        <HeaderLink href="/about" class="hidden lg:inline-block"
           >About</HeaderLink
         >
-        <HeaderLink href="/portfolio" class="hidden! lg:inline-block! text-red-500" :class="{'lg:hidden!':portfolio.length==0}"
+        <HeaderLink href="/portfolio" class="hidden lg:inline-block text-red-500" :class="{'lg:hidden!':portfolio.length==0}"
           >Portfolio</HeaderLink
         >
 
@@ -104,6 +105,8 @@ title = title || frontmatter?.title || "Untitled";
   </body>
 </html>
 <style is:global>
+    @reference "@styles/global.css";
+
   :root {
     cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="%23444444" stroke="%23FFFFFF" stroke-width="1"></circle></svg>') 12 12, auto;
   }

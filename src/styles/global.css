@@ -11,6 +11,28 @@
   If we ever want to remove these styles, we need to add an explicit border
   color utility to any element that depends on these defaults.
 */
+
+@utility scrollbar-hide {
+  /* Firefox */
+  scrollbar-width: none;
+  
+  /* Safari and Chrome */
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@utility scrollbar-default {
+  /* Firefox */
+  scrollbar-width: auto;
+  
+  /* Safari and Chrome */
+  &::-webkit-scrollbar {
+    display: block;
+  }
+} 
+
+
 @layer base {
   *,
   ::after,
