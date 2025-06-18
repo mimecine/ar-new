@@ -21,32 +21,42 @@ artists = artists
 
 <Main title="Works">
   <main data-pagefind-ignore>
-
     <section>
       <ul
         class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between">
         {
           artists.map((artist, artist_index) => (
-            <>{artist.data.works.map((work,_i)=>(
-              <li id={`slide${_i}`}>
+            <>
+              {artist.data.works.map((work, _i) => (
+                <li id={`slide${_i}`}>
                   <Thumbnail
                     src={work.src}
+                    widths={[360, 1600]}
+                    sizes={`(max-width: 360px) 360px, ${work.src.width}px`}
                     alt={work.title}
                     title={work.title}
                     data-category={work.category}
                     loading={artist_index >= 8 ? `lazy` : `eager`}>
                     <div class="h-full">
-                <a
-                  href={`/works/${work.inventorynumber}/${artist.id}/${slugify(work.title)}`}
-                  id={`[${artist_index}]${work.title}`}>
-                      {work.title && <h5 class="text-balance"><em>{artist.data.title}</em> - {work.title}</h5>}</a>
-                <p                         @click.prevent={`work = ${JSON.stringify(work)}; work.artist = '${artist.data.title}'; work.image = document.querySelector('#slide${_i} img').src; if(true || !portfolio.some(w => w.inventorynumber === work.inventorynumber)){portfolio.push(work)}`} 
-
-                  class="text-xs text-gray-500 cursor-pointer" >Add work</p>
+                      <a
+                        href={`/works/${work.inventorynumber}/${artist.id}/${slugify(work.title)}`}
+                        id={`[${artist_index}]${work.title}`}>
+                        {work.title && (
+                          <h5 class="text-balance">
+                            <em>{artist.data.title}</em> - {work.title}
+                          </h5>
+                        )}
+                      </a>
+                      <p
+                        @click.prevent={`work = ${JSON.stringify(work)}; work.artist = '${artist.data.title}'; work.image = document.querySelector('#slide${_i} img').src; if(true || !portfolio.some(w => w.inventorynumber === work.inventorynumber)){portfolio.push(work)}`}
+                        class="text-xs text-gray-500 cursor-pointer">
+                        Add work
+                      </p>
                     </div>
                   </Thumbnail>
-              </li>
-            ))}</>
+                </li>
+              ))}
+            </>
           ))
         }
       </ul>
