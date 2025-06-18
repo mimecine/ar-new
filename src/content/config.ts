@@ -25,6 +25,8 @@ const artists = defineCollection({
           z.object({
             title: z.string().optional(),
             inventorynumber: z.string().optional(),
+            node_id: z.coerce.number().optional(),
+            category_id: z.coerce.number().optional(),
             info: z.string().optional(),
             credit: z.string().optional(),
             category: z.string().optional(),

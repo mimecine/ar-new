@@ -1,7 +1,7 @@
 ---
 import { type CollectionEntry, getCollection, getEntry, render } from "astro:content";
 import { Image } from "astro:assets";
-import Main from "@src/layouts/Main.astro";
+import MainReview from "@src/layouts/Main.astro";
 import { Icon } from "astro-icon/components";
 import Thumbnail from "@src/components/Thumbnail.astro";
 import FormattedDate from "@src/components/FormattedDate.astro";
@@ -52,9 +52,8 @@ const films = all_films.filter((film) =>
 );
 ---
 
-<Main title={`${artist.data.title}`} x-data="{ open: false }" data-xpagefind-meta={`title:ARTIST - ${artist.data.title}`}>
+<MainReview title={`${artist.data.title}`} x-data="{ open: false }" data-pagefind-ignore data-pagefind-meta={`title:ARTIST - ${artist.data.title}`}>
   <main class="">
-    <span class="hidden" data-pagefind-meta="title" data-pagefind-weight="20">ARTIST: {artist.data.title}</span>
     <section>
       <div class="flex flex-wrap pb-12">
         <div class="md:w-1/2" >
@@ -100,12 +99,14 @@ const films = all_films.filter((film) =>
             sortedWorks.map((work, index) => (
               <li class="cursor-pointer" id={work.category}
                 x-data={`{slide:'slide${index}'}`}
-                @click="$refs.dialog.showModal();$refs[slide].scrollIntoView({behavior:'instant'}); open=!open;">
-                <a href={`#[${index}]${work.title}`} id={`[${index}]${work.title}`}>
+                >
+                <a href=`https://www.artistrooms.org/node/${work.node_id}/edit?destination=/admin/content%3Ftitle%3D${work.inventorynumber}` target="_williams">#{work.inventorynumber}</a>
+                <a href={`#[${index}]${work.title}`} id={`[${index}]${work.title}`} @click="$refs.dialog.showModal();$refs[slide].scrollIntoView({behavior:'instant'}); open=!open;">
                   <Thumbnail src={work.src} alt={work.title} title={work.title} data-category={work.category} loading={index >= 8 ? `lazy`:`eager`}>
                   <div class="h-full">
-                    {work.title && <h5 class="text-balance" data-pagefind-weight="1">{work.title}</h5>}
+                     {work.title && <h5 class="text-balance">{work.title}</h5>}
                     <p class="text-sm -my-2 italic">{work.category}</p>
+                    <p class="text-sm -my-2 italic">{work.credit}</p>
                   </div>
                   </Thumbnail>
                 </a>
@@ -180,7 +181,7 @@ const films = all_films.filter((film) =>
 
                   </div>
                   <div class="absolute bottom-0 p-2 items-center justify-evenly w-full grid md:grid-flow-col gap-x-8">
-                    <div class="font-normal" data-pagefind-weight="1">{work.title}</div>
+                    <div class="font-normal">{work.title}</div>
                     <div class="text-gray-400">{work.info}</div>
                     {/* <div class="italic text-gray-400">{work.credit.replace(new RegExp(work.inventorynumber,"i"),'')}</div> */}
                     <div class="italic text-gray-400">

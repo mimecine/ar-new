@@ -1,5 +1,4 @@
 ---
-import { ViewTransitions } from "astro:transitions";
 import BaseHead from "../components/BaseHead.astro";
 import Footer from "../components/Footer.astro";
 import HeaderLink from "../components/HeaderLink.astro";
@@ -17,12 +16,11 @@ let { title, description, image, frontmatter, ...props } = Astro.props;
 title = title || frontmatter?.title || "Untitled";
 ---
 
-<html lang="en-US" class="bg-(--main-background)">
+<html lang="en-US" class="bg-(--main-background)" data-pagefind-ignore>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <BaseHead title={title} />
-    <ViewTransitions />
   </head>
   <body class="h-lvh w-lvw grid grid-rows-[1fr_auto] bg-(--main-background)">
     <nav

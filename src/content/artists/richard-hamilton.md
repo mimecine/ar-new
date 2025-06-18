@@ -4,15 +4,16 @@ featuredImage: ../../media/richard-hamilton-featured.webp
 resources: []
 works:
   - inventorynumber: AR00141
+    node_id: 514
+    category_id: 50
     category: Painting
     title: Four Self Portraits - 05.3.81, 1990
     info: 1990,  Oil paint and enamel on cibachrome print on 4 canvases,  755 x 754
       x 32 mm
     year: "1990"
-    credit: |-
+    credit: |+
       © Richard Hamilton
 
-      AR00141
     src: ../../media/richard-hamilton-ar00141-four-self-portraits-05381-1990.webp
 
 ---

@@ -4,6 +4,8 @@ featuredImage: ../../media/damien-hirst-featured.webp
 resources: []
 works:
   - inventorynumber: AR00617
+    node_id: 76
+    category_id: 52
     category: Photography
     title: With Dead Head, 1991
     info: 1991,  Photographic print on aluminium,  22.5 x 30 in (571.5 x 762 mm),
@@ -11,99 +13,100 @@ works:
     year: "1991"
     credit: >-
       © Damien Hirst and Science Ltd. All rights reserved, DACS 2015.  Photo:
-      André Morin-Le-Jeune
+      André Morin-Le-Jeune.
 
 
-      ​AR00617
+      ​
     src: ../../media/damien-hirst-ar00617-with-dead-head-1991.webp
   - inventorynumber: AR00498
+    node_id: 78
+    category_id: 50
     category: Painting
     title: Controlled Substance Key Painting, 1994
     info: 1994,  Household gloss on canvas,  48 x 48 in (1219.2 x 1219.2 mm), 4 inch
       spots
     year: "1994"
-    credit: >-
+    credit: >+
       © Damien Hirst and Science Ltd. All rights reserved, DACS 2015.  Photo:
       Prudence Cuming Associates Ltd
 
-
-      AR00498
     src: ../../media/damien-hirst-ar00498-controlled-substance-key-painting-1994.webp
   - inventorynumber: AR00499
+    node_id: 77
+    category_id: 53
     category: Sculpture
     title: Away from the Flock, 1994
     info: "1994, Glass, painted steel, silicone, acrylic, plastic cable ties, lamb
       and formaldehyde solution,  Dimensions: 37.8 x 58.66 x 20.08 ins (960 x
       1490 x 510 mm)  Edition 3 of 3"
     year: "1994"
-    credit: >-
+    credit: >+
       © Damien Hirst and Science Ltd. All rights reserved, DACS 2015.  Photo:
       Prudence Cuming Associates Ltd
 
-
-      AR00499
     src: ../../media/damien-hirst-ar00499-away-from-the-flock-1994.webp
   - inventorynumber: AR00045
+    node_id: 132
+    category_id: 50
     category: Painting
     title: Monument to the Living and the Dead, 2006
     info: "2006,  Butterflies and household gloss on canvas,  each 84 x 84 in (2134
       x 2134 mm)  x 2: Diptych"
     year: "2006"
-    credit: >-
+    credit: >+
       © Damien Hirst and Science Ltd. All rights reserved, DACS 2015.  Photo:
       Prudence Cuming Associates Ltd
 
-
-      AR00045
     src: ../../media/damien-hirst-ar00045-monument-to-the-living-and-the-dead-2006.webp
   - inventorynumber: AL00220
+    node_id: 134
+    category_id: 53
     category: Sculpture
     title: Pain Killers, 2004
     info: "2004, four lightboxes, each lightbox: 113.70 x 156.30 x 15.20 cm"
     year: "2004"
-    credit: >-
+    credit: >+
       © Damien Hirst and Science Ltd. All rights reserved, DACS 2015.  Photo:
       Prudence Cuming Associates Ltd
 
-
-      AL00220
     src: ../../media/damien-hirst-al00220-pain-killers-2004.webp
   - inventorynumber: AL00221
+    node_id: 135
+    category_id: 53
     category: Sculpture
     title: The Pharmacist's Creed, 1997-8
     info: 1997-8, Lightbox with two sheets of laminated glass in painted metal
       frame, 2700 x 1613 x 100 mm
     year: "1997"
-    credit: >-
+    credit: >+
       © Damien Hirst and Science Ltd. All rights reserved, DACS 2015.  Photo:
       Prudence Cuming Associates Ltd
 
-
-      AL00221
     src: ../../media/damien-hirst-al00221-the-pharmacists-creed-1997-8.webp
   - inventorynumber: AL00222
+    node_id: 136
+    category_id: 50
     category: Painting
     title: Grey Periodic Table, 1997-2004
     info: 1997-2004, Acrylic paint on canvas, 2925 x 4185 x 50 mm
     year: "1997"
-    credit: |-
+    credit: |+
       © Damien Hirst and Science Ltd. All rights reserved, DACS 2015.
 
-      AL00222
     src: ../../media/damien-hirst-al00222-grey-periodic-table-1997-2004.webp
   - inventorynumber: AR00500
+    node_id: 133
+    category_id: 53
     category: Sculpture
     title: Trinity - Pharmacology, Physiology, Pathology, 2000
     info: 2000,  Glass, faced particleboard, wood, steel and anatomical
       models,  84.06 x 60.24 x 18.58 ins (2135 x 1530 x 472 mm) (Left and
       Right); Centre 2745 x 1835 x 472 mm
     year: "2000"
-    credit: >-
+    credit: >+
       © Damien Hirst and Science Ltd. All rights reserved, DACS 2015.  Photo:
       Prudence Cuming Associates Ltd
 
-
-      AR00500
     src: ../../media/damien-hirst-ar00500-trinity-pharmacology-physiology-pathology-2000.webp
 
 ---

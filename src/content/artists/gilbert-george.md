@@ -4,113 +4,123 @@ featuredImage: ../../media/gilbert-george-featured.webp
 resources: []
 works:
   - inventorynumber: AR00170
+    node_id: 499
+    category_id: 8
     category: Works on paper
     title: George the Cunt and Gilbert the Shit, 1969
     info: 1969,  2 photographs, colour on printed paper,  305 x 484mm
     year: "1969"
-    credit: |-
+    credit: |+
       © Gilbert & George
 
-      AR00170
     src: ../../media/gilbert-george-ar00170-george-the-cunt-and-gilbert-the-shit-1969.webp
   - inventorynumber: AR00172
+    node_id: 500
+    category_id: 8
     category: Works on paper
     title: Crusade, 1980
     info: 1980,  16 hand-coloured photographs, gelatin silver print on paper on
       board,  2424 x 2020 x 25 mm
     year: "1980"
-    credit: |-
+    credit: |+
       © Gilbert & George
 
-      AR00172
     src: ../../media/gilbert-george-ar00172-crusade-1980.webp
   - inventorynumber: AR00171
+    node_id: 501
+    category_id: 8
     category: Works on paper
     title: Fallen Leaves, 1980
     info: 1980, 16 hand-coloured photographs, gelatin silver print on paper on
       board,  2424 x 2020 x 25 mm
     year: "1980"
-    credit: |-
+    credit: |+
       © Gilbert & George
 
-      AR00171
     src: ../../media/gilbert-george-ar00171-fallen-leaves-1980.webp
   - inventorynumber: AR00173
+    node_id: 502
+    category_id: 8
     category: Works on paper
     title: Hunger, 1982
     info: 1982,  16 photographs, gelatin silver print on paper with dye on paper
       mounted onto board,  2424 x 2020 x 25 mm
     year: "1982"
-    credit: |-
+    credit: |+
       © Gilbert & George
 
-      AR00173
     src: ../../media/gilbert-george-ar00173-hunger-1982.webp
   - inventorynumber: AR00174
+    node_id: 503
+    category_id: 8
     category: Works on paper
     title: Thirst, 1982
     info: 1982,  16 photographs, gelatin silver print on paper with dye on paper
       mounted onto board,  2424 x 2020 x 25 mm
     year: "1982"
-    credit: |-
+    credit: |+
       © Gilbert & George
 
-      AR00174
     src: ../../media/gilbert-george-ar00174-thirst-1982.webp
   - inventorynumber: AR00505
+    node_id: 504
+    category_id: 8
     category: Works on paper
     title: Existers, 1984
     info: 1984,  28 photographs, gelatin silver print on paper with dye and silver
       leaf on board,  2410 x 3510 mm
     year: "1984"
-    credit: |-
+    credit: |+
       © Gilbert & George
 
-      AR00505
     src: ../../media/gilbert-george-ar00505-existers-1984.webp
   - inventorynumber: AL00195
+    node_id: 505
+    category_id: 8
     category: Works on paper
     title: Dead Heads, 1989
     info: "1989,  Photographs, colour, 20 parts  3380 x 3550 mm; each: 845 x 710 x
       23 mm"
     year: "1989"
-    credit: |-
+    credit: |+
       © Gilbert & George
 
-      AL00195
     src: ../../media/gilbert-george-al00195-dead-heads-1989.webp
   - inventorynumber: AR00504
+    node_id: 506
+    category_id: 8
     category: Works on paper
     title: Light Headed, 1991
     info: 1991,  15 hand-coloured photographs, gelatin silver print on paper on
       board,  2535 x 3550 x 23 mm
     year: "1991"
-    credit: |-
+    credit: |+
       © Gilbert & George
 
-      AR00504
     src: ../../media/gilbert-george-ar00504-light-headed-1991.webp
   - inventorynumber: AR00176
+    node_id: 507
+    category_id: 8
     category: Works on paper
     title: Faith Drop, 1991
     info: 1991,  15 photographs, gelatin silver print on paper with dye on paper
       mounted onto board,  2538 x 3540 x 25 mm
     year: "1991"
-    credit: |-
+    credit: |+
       © Gilbert & George
 
-      AR00176
     src: ../../media/gilbert-george-ar00176-faith-drop-1991.webp
   - inventorynumber: AR00175
+    node_id: 508
+    category_id: 8
     category: Works on paper
     title: Family Tree, 1991
     info: 1991,  18 photographs, gelatin silver print on paper with dye on paper
       onto board,  2538 x 3540 x 25 mm
     year: "1991"
-    credit: |-
+    credit: |+
       © Gilbert & George
 
-      AR00175
     src: ../../media/gilbert-george-ar00175-family-tree-1991.webp
 
 ---

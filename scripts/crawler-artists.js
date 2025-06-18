@@ -93,7 +93,7 @@ c.queue([
                         const year = [title,info].join().match(/\d{4}/)?.slice(0)[0]; 
                         const credit = $(".details p", el)
                           .map(function () {
-                            return $(this).text();
+                            return $(this).text().replace(new RegExp(`#?${inventorynumber}`,"ig"), "").trim();
                           })
                           .toArray()
                           .join("\n\n");
@@ -101,6 +101,8 @@ c.queue([
 
                         return {
                           inventorynumber,
+                          node_id,
+                          category_id,
                           category,
                           title,
                           info,

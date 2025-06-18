@@ -31,7 +31,7 @@ artists = artists
         {
           artists.map((artist) => (
             <li>
-              <a href={`${Astro.url.pathname}/${artist.slug}`}>
+              <a href={`${Astro.url.pathname}/${artist.id}`}>
                 <Thumbnail
                   src={artist.data.featuredImage}
                   alt={artist.data.title}

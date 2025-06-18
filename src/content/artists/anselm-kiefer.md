@@ -4,17 +4,20 @@ featuredImage: ../../media/anselm-kiefer-featured.webp
 resources: []
 works:
   - inventorynumber: AR00613
+    node_id: 552
+    category_id: 50
     category: Painting
     title: Palette, 1981
     info: 1981,  Oil paint, shellac, emulsion, paper and nails on canvas,  2905 x
       4000 x 35 mm
     year: "1981"
-    credit: |-
+    credit: |+
       © Anselm Kiefer
 
-      AR00613
     src: ../../media/anselm-kiefer-ar00613-palette-1981.webp
   - inventorynumber: AR00041-1
+    node_id: 1385
+    category_id: 89
     category: Installation
     title: Cette obscure clarté qui tombe des étoiles, 1999 - Part 1/2
     info: 1999,  Acrylic paint, oil paint, shellac, earth, sand, wood, paper and
@@ -27,6 +30,8 @@ works:
       AR00041
     src: ../../media/anselm-kiefer-ar00041-1-cette-obscure-clart-qui-tombe-des-toiles-1999-part-12.webp
   - inventorynumber: AR00041-2
+    node_id: 1386
+    category_id: 89
     category: Installation
     title: Cette obscure clarté qui tombe des étoiles, 1999 - Part 2/2
     info: 1999,  Acrylic paint, oil paint, shellac, earth, sand, wood, paper and
@@ -39,150 +44,166 @@ works:
       AR00041
     src: ../../media/anselm-kiefer-ar00041-2-cette-obscure-clart-qui-tombe-des-toiles-1999-part-22.webp
   - inventorynumber: AR00038
+    node_id: 554
+    category_id: 89
     category: Installation
     title: Palmsonntag, 2006
     info: 2006,  Palm tree plus 39 works on fibreboard with clay, paint, shellac,
       adhesive, metal, palm fronds, fabric and paper,  Overall display
       dimensions variable
     year: "2006"
-    credit: |-
+    credit: |+
       © Anselm Kiefer
 
-      AR00038
     src: ../../media/anselm-kiefer-ar00038-palmsonntag-2006.webp
   - inventorynumber: AR01171
+    node_id: 555
+    category_id: 8
     category: Works on paper
     title: Heroische Sinnbilder, 1969
     info: 1969,   Photograph, black and white, on paper, 634 x 832 mm
     year: "1969"
-    credit: |-
+    credit: |+
       © Anselm Kiefer
 
-      AR01171
     src: ../../media/anselm-kiefer-ar01171-heroische-sinnbilder-1969.webp
   - inventorynumber: AR01172
+    node_id: 556
+    category_id: 8
     category: Works on paper
     title: Heroische Sinnbilder, 1969
     info: 1969,   Photograph, black and white, on paper, 634 x 833 mm
     year: "1969"
-    credit: |-
+    credit: |+
       © Anselm Kiefer
 
-      AR01172
     src: ../../media/anselm-kiefer-ar01172-heroische-sinnbilder-1969.webp
   - inventorynumber: AR01173
+    node_id: 557
+    category_id: 8
     category: Works on paper
     title: Heroische Sinnbilder, 1969
     info: "1969,   Photograph, black and white, on paper, 535 x 758 mm "
     year: "1969"
-    credit: |-
+    credit: |+
       © Anselm Kiefer
 
-      AR01173
     src: ../../media/anselm-kiefer-ar01173-heroische-sinnbilder-1969.webp
   - inventorynumber: AR01174
+    node_id: 558
+    category_id: 8
     category: Works on paper
     title: Heroische Sinnbilder, 1969
     info: 1969,  Photograph, black and white, on paper  516 x 760 mm
     year: "1969"
-    credit: |-
+    credit: |+
       © Anselm Kiefer
 
-      AR01174
     src: ../../media/anselm-kiefer-ar01174-heroische-sinnbilder-1969.webp
   - inventorynumber: AR01162
+    node_id: 559
+    category_id: 8
     category: Works on paper
     title: Heroische Sinnbilder, 1969
     info: 1969,  Photograph, black and white, on paper,  760 x 540 mm
     year: "1969"
-    credit: |-
+    credit: |+
       © Anselm Kiefer
 
-      AR01162
     src: ../../media/anselm-kiefer-ar01162-heroische-sinnbilder-1969.webp
   - inventorynumber: AR01163
+    node_id: 560
+    category_id: 8
     category: Works on paper
     title: Heroische Sinnbilder, 1969
     info: 1969,  Photograph, black and white, on paper,  775 x 534 mm
     year: "1969"
-    credit: |-
+    credit: |+
       © Anselm Kiefer
 
-      AR01163
     src: ../../media/anselm-kiefer-ar01163-heroische-sinnbilder-1969.webp
   - inventorynumber: AR01164
+    node_id: 561
+    category_id: 8
     category: Works on paper
     title: Über uns der gestirnte Himmel, in uns das moralische Gesetz, 1969/2010
     info: 1969/2010,  Photograph, black and white, on paper with paint,  630 x 832 mm
     year: "1969"
-    credit: |-
+    credit: |+
       © Anselm Kiefer
 
-      AR01164
     src: ../../media/anselm-kiefer-ar01164-ber-uns-der-gestirnte-himmel-in-uns-das-moralische-gesetz-19692010.webp
   - inventorynumber: AR01165
+    node_id: 562
+    category_id: 8
     category: Works on paper
     title: Das moralische Gesetz in uns, der gestimte Himmel über uns, 1969/2010
     info: 1969/2010,  Photograph, black and white, on paper with paint,  765 x 585 mm
     year: "1969"
-    credit: |-
+    credit: |+
       © Anselm Kiefer
 
-      AR01165
     src: ../../media/anselm-kiefer-ar01165-das-moralische-gesetz-in-uns-der-gestimte-himmel-ber-uns-19692010.webp
   - inventorynumber: AR00036
+    node_id: 564
+    category_id: 50
     category: Painting
     title: Urd, Werdandi, Skuld (Die Nornen), 1983
     info: 1983,  Oil paint, shellac, emulsion and fibre on canvas,  4205 x 2805 x 60
       mm
     year: "1983"
-    credit: |-
+    credit: |+
       © Anselm Kiefer
 
-      AR00036
     src: ../../media/anselm-kiefer-ar00036-urd-werdandi-skuld-die-nornen-1983.webp
   - inventorynumber: AR00037
+    node_id: 565
+    category_id: 50
     category: Painting
     title: Man Under a Pyramid, 1996
     info: 1996,  Emulsion, acrylic paint, shellac and ash on 2 canvases,  354 x 500
       cm
     year: "1996"
-    credit: |-
+    credit: |+
       © Anselm Kiefer
 
-      AR00037
     src: ../../media/anselm-kiefer-ar00037-man-under-a-pyramid-1996.webp
   - inventorynumber: AR01166
+    node_id: 566
+    category_id: 8
     category: Works on paper
     title: Sternenfall, 2006
     info: 2006,  Photograph, black and white, on paper,  1155 x 1250 mm
     year: "2006"
-    credit: |-
+    credit: |+
       © Anselm Kiefer
 
-      AR01166
     src: ../../media/anselm-kiefer-ar01166-sternenfall-2006.webp
   - inventorynumber: AR01167
+    node_id: 567
+    category_id: 8
     category: Works on paper
     title: Ohne Titel, 2006
     info: 2006,  Photograph, black and whtie, on paper with paint,  635 x 1260 mm
     year: "2006"
-    credit: |-
+    credit: |+
       © Anselm Kiefer
 
-      AR01167
     src: ../../media/anselm-kiefer-ar01167-ohne-titel-2006.webp
   - inventorynumber: AR01168
+    node_id: 568
+    category_id: 8
     category: Works on paper
     title: Johannis Nacht gafallene Bilder, 2006
     info: 2006,  Photograph, black and white, on papers with paint, 1760 x 1390 mm
     year: "2006"
-    credit: |-
+    credit: |+
       © Anselm Kiefer
 
-      AR01168
     src: ../../media/anselm-kiefer-ar01168-johannis-nacht-gafallene-bilder-2006.webp
   - inventorynumber: AR01221
+    node_id: 570
+    category_id: 8
     category: Works on paper
     title: Ödipus auf Kollonos, 2006
     info: 2006,  Gouache and sand on photographic paper, 1475 x 1040 mm
@@ -193,37 +214,42 @@ works:
       AR1221
     src: ../../media/anselm-kiefer-ar01221-dipus-auf-kollonos-2006.webp
   - inventorynumber: AR01170
+    node_id: 571
+    category_id: 8
     category: Works on paper
     title: Johannislogen, 2007
     info: 2007,  Photograph, black and white, on paper with paint, 1230 x 1300 mm
     year: "2007"
-    credit: |-
+    credit: |+
       © Anselm Kiefer
 
-      AR01170
     src: ../../media/anselm-kiefer-ar01170-johannislogen-2007.webp
   - inventorynumber: AR01169
+    node_id: 569
+    category_id: 8
     category: Works on paper
     title: Ohne Titel, 2007
     info: 2007,  Photograph, black and white, on paper with paint,  1230 x 1300 mm
     year: "2007"
-    credit: |-
+    credit: |+
       © Anselm Kiefer
 
-      AR01169
     src: ../../media/anselm-kiefer-ar01169-ohne-titel-2007.webp
   - inventorynumber: AR01222
+    node_id: 563
+    category_id: 8
     category: Works on paper
     title: Winter ade, Scheiden tut weh doch dein Scheiden macht dass mein Herze
       lacht, 2010
     info: 2010, Sand on photographic paper, 1005 x 1050 mm
     year: "2010"
-    credit: |-
+    credit: |+
       © Anselm Kiefer
 
-      AR01222
     src: ../../media/anselm-kiefer-ar01222-winter-ade-scheiden-tut-weh-doch-dein-scheiden-macht-dass-mein-herze-lacht-2010.webp
   - inventorynumber: AR01223
+    node_id: 572
+    category_id: 8
     category: Works on paper
     title: Amfortas, 2010
     info: 2010,  1135 x 885 mm,  Sand on photographic paper
@@ -234,6 +260,8 @@ works:
       AR1223
     src: ../../media/anselm-kiefer-ar01223-amfortas-2010.webp
   - inventorynumber: AR01224
+    node_id: 574
+    category_id: 8
     category: Works on paper
     title: Abstand windschiefer geraden, 2010
     info: 2010,  546 x 1075 mm,  Gouache on photographic paper
@@ -244,25 +272,27 @@ works:
       AR1224
     src: ../../media/anselm-kiefer-ar01224-abstand-windschiefer-geraden-2010.webp
   - inventorynumber: AR01225
+    node_id: 575
+    category_id: 8
     category: Works on paper
     title: Schneeschmelze im Odenwald Winter ade, Scheiden tut..., 2010
     info: 2010,  Photograph,  650 x 960 mm
     year: "2010"
-    credit: |-
+    credit: |+
       © Anselm Kiefer
 
-      AR01225
     src: ../../media/anselm-kiefer-ar01225-schneeschmelze-im-odenwald-winter-ade-scheiden-tut-2010.webp
   - inventorynumber: AR01175
+    node_id: 573
+    category_id: 8
     category: Works on paper
     title: Hortus philosophorum, 2010
     info: 2010,  Photograph, black and white, on paper with paint and chalk,  1852 x
       2460 mm
     year: "2010"
-    credit: |-
+    credit: |+
       © Anselm Kiefer
 
-      AR01175
     src: ../../media/anselm-kiefer-ar01175-hortus-philosophorum-2010.webp
 
 ---

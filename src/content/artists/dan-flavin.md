@@ -4,11 +4,13 @@ featuredImage: ../../media/dan-flavin-featured.webp
 resources: []
 works:
   - inventorynumber: AL00350
+    node_id: 498
+    category_id: 53
     category: Sculpture
     title: untitled (to Don Judd, colorist) 1-5, 1987
     info: "1987,  Fluorescent tubes and metal, each: 1220 x 1220 mm"
     year: "1987"
-    credit: >-
+    credit: >+
       Collection: Artist Rooms Foundation
 
 
@@ -16,10 +18,8 @@ works:
       David Zwirner, New York/London
 
 
-      AL00350 (on long-term loan from Artist Rooms Foundation)
+      (on long-term loan from Artist Rooms Foundation)
 
-
-       
     src: ../../media/dan-flavin-al00350-untitled-to-don-judd-colorist-1-5-1987.webp
 
 ---

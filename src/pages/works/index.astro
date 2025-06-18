@@ -1,0 +1,82 @@
+---
+import { getCollection, render } from "astro:content";
+import { Image } from "astro:assets";
+import Main from "@src/layouts/Main.astro";
+import Thumbnail from "@src/components/Thumbnail.astro";
+import FormattedDate from "@src/components/FormattedDate.astro";
+import * as settings from "@src/_data/artists_settings.json" with { type: "json" };
+import { marked } from "marked";
+import { slugify } from "@src/utils.js";
+
+let artists = await getCollection("artists");
+artists = artists
+  .filter((artist) => !artist.data.hidden)
+  .sort((a, b) => {
+    let a_last = a.data.title.replace(/^[a-z]+\s+\&?/i, "").trim();
+
+    let b_last = b.data.title.replace(/^[a-z]+\s+\&?/i, "").trim();
+    return a_last.localeCompare(b_last);
+  });
+---
+
+<Main title="Artists">
+  <main data-pagefind-ignore>
+    <section>
+      <ul
+        class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between">
+        {
+          artists.map((artist, artist_index) => {
+            artist.data.works.map((work, work_index) => (
+              <li>
+                <a
+                  href={`/works/${work.inventorynumber}/${artist.id}/${work.title}`}
+                  id={`[${work_index}]${work.title}`}>
+                  <Thumbnail
+                    src={work.src}
+                    alt={work.title}
+                    title={work.title}
+                    data-category={work.category}
+                    loading={work_index >= 8 ? `lazy` : `eager`}>
+                    <div class="h-full">
+                      {work.title && <h5 class="text-balance">{work.title}</h5>}
+                      <p class="text-sm -my-2 italic">{work.category}</p>
+                    </div>
+                  </Thumbnail>
+                </a>
+              </li>
+            ));
+          })
+        }
+      </ul>
+    </section>
+    <section>
+      <ul
+        class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between">
+        {
+          artists.map((artist, artist_index) => (
+            <>{artist.data.works.map((work,_i)=>(
+              <li id={`slide${_i}`}>
+                  <Thumbnail
+                    src={work.src}
+                    alt={work.title}
+                    title={work.title}
+                    data-category={work.category}
+                    loading={artist_index >= 8 ? `lazy` : `eager`}>
+                    <div class="h-full">
+                <a
+                  href={`/works/${work.inventorynumber}/${artist.id}/${slugify(work.title)}`}
+                  id={`[${artist_index}]${work.title}`}>
+                      {work.title && <h5 class="text-balance"><em>{artist.data.title}</em> - {work.title}</h5>}</a>
+                <p                         @click.prevent={`work = ${JSON.stringify(work)}; work.artist = '${artist.data.title}'; work.image = document.querySelector('#slide${_i} img').src; if(true || !portfolio.some(w => w.inventorynumber === work.inventorynumber)){portfolio.push(work)}`} 
+
+                  class="text-xs text-gray-500 cursor-pointer" >Add work</p>
+                    </div>
+                  </Thumbnail>
+              </li>
+            ))}</>
+          ))
+        }
+      </ul>
+    </section>
+  </main>
+</Main>

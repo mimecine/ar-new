@@ -4,48 +4,54 @@ featuredImage: ../../media/gerhard-richter-featured.webp
 resources: []
 works:
   - inventorynumber: AR00345
+    node_id: 732
+    category_id: 50
     category: Painting
     title: Gilbert, George (381-1, 382-2),  1975
     info: "1975,  Oil paint on 2 canvases,  each: 684 x 631 x 45 mm"
     year: "1975"
-    credit: |-
+    credit: |+
       © Gerhard Richter
 
-      AR00345
     src: ../../media/gerhard-richter-ar00345-gilbert-george-381-1-382-2-1975.webp
   - inventorynumber: AR00344
+    node_id: 735
+    category_id: 50
     category: Painting
     title: Brigid Polk (305),  1971
     info: 1971,  Oil paint on canvas,  1750 x 1752 x 28 mm
     year: "1971"
-    credit: |-
+    credit: |+
       © Gerhard Richter
 
-      AR00344
     src: ../../media/gerhard-richter-ar00344-brigid-polk-305-1971.webp
   - inventorynumber: AR00183
+    node_id: 736
+    category_id: 53
     category: Sculpture
     title: Two Sculptures for a Room by Palermo,  1971
     info: "1971,  Painted plaster on painted wooden plinth,  each: 1758 x 200 x 257
       mm; overall display dimensions variable"
     year: "1971"
-    credit: |-
+    credit: |+
       © Gerhard Richter
 
-      AR00183
     src: ../../media/gerhard-richter-ar00183-two-sculptures-for-a-room-by-palermo-1971.webp
   - inventorynumber: AR00025
+    node_id: 737
+    category_id: 50
     category: Painting
     title: 48 Portraits,  1971-98
     info: "1971-98,  48 photographs, black and white, on paper between Perspex and
       aluminium board,  each: 688 x 540 x 28 mm"
     year: "1971"
-    credit: |-
+    credit: |+
       © Gerhard Richter
 
-      AR00025
     src: ../../media/gerhard-richter-ar00025-48-portraits-1971-98.webp
   - inventorynumber: AR00346
+    node_id: 738
+    category_id: 50
     category: Painting
     title: Untitled,  1985
     info: 1985  Oil paint on paper  592 x 853 mm
@@ -56,118 +62,129 @@ works:
       AR000346
     src: ../../media/gerhard-richter-ar00346-untitled-1985.webp
   - inventorynumber: AR00182
+    node_id: 739
+    category_id: 8
     category: Works on paper
     title: Self Portrait Standing, Three Times, 17.3.1991,  1991
     info: "1991,  6 photographs, gelatin silver print on paper with oil
       paint,  each: 504 x 564 mm"
     year: "1991"
-    credit: |-
+    credit: |+
       © Gerhard Richter
 
-      AR00182
     src: ../../media/gerhard-richter-ar00182-self-portrait-standing-three-times-1731991-1991.webp
   - inventorynumber: A040006
+    node_id: 1358
+    category_id: 8
     category: Works on paper
     title: Betty, 1991
     info: 1991, Offset print on card, framed, 96 x 66 cm, Edition of 25, Exhibition
       copy 2/3
     year: "1991"
-    credit: |-
+    credit: |+
       © Gerhard Richter
 
-      A040006
     src: ../../media/gerhard-richter-a040006-betty-1991.webp
   - inventorynumber: A038079
+    node_id: 1357
+    category_id: 8
     category: Works on paper
     title: September, 2009
     info: "2009, Digital inkjet print mounted between  two plates of glass, 52 x 72
       cm (sheet), 66 x 90 cm (glass), 40 copies plus proof, Exhibition copy, "
     year: "2009"
-    credit: |-
+    credit: |+
       © Gerhard Richter
 
-      A038079
     src: ../../media/gerhard-richter-a038079-september-2009.webp
   - inventorynumber: AR00022
+    node_id: 740
+    category_id: 50
     category: Painting
     title: Mirror Painting Grey (735-2), 1991
     info: 1991,  Pigment on glass,  2800 x 1648 x 45 mm
     year: "1991"
-    credit: |-
+    credit: |+
       © Gerhard Richter
 
-      AR00022
     src: ../../media/gerhard-richter-ar00022-mirror-painting-grey-735-2-1991.webp
   - inventorynumber: AR00023
+    node_id: 741
+    category_id: 50
     category: Painting
     title: Corner Mirror, brown-blue (737-1, 737-2), 1991
     info: "1991,  Pigment on glass,  each: 2250 x 1000 mm"
     year: "1991"
-    credit: |-
+    credit: |+
       © Gerhard Richter
 
-      AR00023
     src: ../../media/gerhard-richter-ar00023-corner-mirror-brown-blue-737-1-737-2-1991.webp
   - inventorynumber: AR00024
+    node_id: 742
+    category_id: 50
     category: Painting
     title: Corner Mirror, green-red (737-2A, 737-2B), 1991
     info: "1991,  Pigment on glass,  each: 2250 x 1000 mm"
     year: "1991"
-    credit: |-
+    credit: |+
       © Gerhard Richter
 
-      AR00024
     src: ../../media/gerhard-richter-ar00024-corner-mirror-green-red-737-2a-737-2b-1991.webp
   - inventorynumber: AR00026
+    node_id: 743
+    category_id: 53
     category: Sculpture
     title: 11 Panes (886-5), 2004
     info: "2004, Glass and wood,  each: 2780 x 2120 x 8 mm; overall: 2900 x 2120 x
       540 mm"
     year: "2004"
-    credit: |-
+    credit: |+
       © Gerhard Richter
 
-      AR00026
     src: ../../media/gerhard-richter-ar00026-11-panes-886-5-2004.webp
   - inventorynumber: AR00030
+    node_id: 744
+    category_id: 50
     category: Painting
     title: Abstract Painting (Grey) (880-3), 2002
     info: 2002,  Oil paint on aluminium,  2204 x 1544 x 55 mm
     year: "2002"
-    credit: |-
+    credit: |+
       © Gerhard Richter
 
-      AR00030
     src: ../../media/gerhard-richter-ar00030-abstract-painting-grey-880-3-2002.webp
   - inventorynumber: AR00029
+    node_id: 745
+    category_id: 50
     category: Painting
     title: Abstract Painting (Silicate), 2002
     info: 2002,  Oil paint on aluminium,  2204 x 1544 x 55 mm
     year: "2002"
-    credit: |-
+    credit: |+
       © Gerhard Richter
 
-      AR00029
     src: ../../media/gerhard-richter-ar00029-abstract-painting-silicate-2002.webp
   - inventorynumber: AR00028
+    node_id: 746
+    category_id: 50
     category: Painting
     title: Abstract Painting (Skin) (887-3), 2004
     info: 2004,  Oil paint on canvas,  2300 x 2049 x 68 mm
     year: "2004"
-    credit: |-
+    credit: |+
       © Gerhard Richter
 
-      AR00028
     src: ../../media/gerhard-richter-ar00028-abstract-painting-skin-887-3-2004.webp
   - inventorynumber: AR00027
+    node_id: 747
+    category_id: 50
     category: Painting
     title: Abstract Painting (809-3), 1994
     info: 1994,  Oil paint on canvas,  2300 x 2048 x 75 mm
     year: "1994"
-    credit: |-
+    credit: |+
       © Gerhard Richter
 
-      AR00027
     src: ../../media/gerhard-richter-ar00027-abstract-painting-809-3-1994.webp
 
 ---

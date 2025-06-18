@@ -1,5 +1,5 @@
 ---
-import { type CollectionEntry, getCollection, getEntry } from "astro:content";
+import { type CollectionEntry, getCollection, getEntry, render } from "astro:content";
 import { Image } from "astro:assets";
 import MainReview from "../../layouts/MainReview.astro";
 import { Icon } from "astro-icon/components";
@@ -12,7 +12,7 @@ export async function getStaticPaths() {
   return artists
     .filter((artist) => artist.data.hidden !== true)
     .map((artist) => ({
-      params: { slug: artist.slug },
+      params: { id: artist.id },
       props: artist,
     }));
 }
@@ -25,11 +25,11 @@ let sortedWorks = artist.data.works
   return b.category.toLowerCase() == 'sculpture' ? 1:0 || a.category.localeCompare(b.category) ||  a.year - b.year || a.title.split(",").pop().localeCompare(b.title.split(",").pop());
 }); // needs mod to sort by year
 
-const { Content } = await artist.render();
+const { Content } = await render(artist);
 
 const all_rooms = await getCollection("rooms");
 const rooms = all_rooms
-  .filter((room) => room.data.artists.includes(artist.slug))
+  .filter((room) => room.data.artists.includes(artist.id))
   .filter((room) => !room.data.hidden);
 for (let room of rooms) {
   room.data._venue = await getEntry("venues", room.data.venue);
@@ -37,12 +37,12 @@ for (let room of rooms) {
 
 const all_films = await getCollection("films");
 const films = all_films.filter((film) =>
-  film.data.artists.includes(artist.slug)
+  film.data.artists.includes(artist.id)
 );
 ---
 
 <MainReview title={`${artist.data.title} / James Review`} x-data="{ open: false }">
-  <main data-pagefind-ignore>
+  <main>
     <section>
       <div class="flex flex-wrap">
         <div class="md:w-1/2 xpx-4">
@@ -197,7 +197,7 @@ const films = all_films.filter((film) =>
                 .reverse()
                 .map((room) => (
                   <li>
-                    <a href={`/rooms-review/${room.slug}`}>
+                    <a href={`/rooms-review/${room.id}`}>
                       <Thumbnail
                         src={room.data.images[0].src}
                         alt={room.data.title}

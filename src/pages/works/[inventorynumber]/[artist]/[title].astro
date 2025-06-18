@@ -1,0 +1,55 @@
+---
+import { type CollectionEntry, getCollection, getEntry, render } from "astro:content";
+import { Image } from "astro:assets";
+import Main from "@src/layouts/Main.astro";
+import { Icon } from "astro-icon/components";
+import Thumbnail from "@src/components/Thumbnail.astro";
+import FormattedDate from "@src/components/FormattedDate.astro";
+import Video from "@src/components/Video.astro";
+import { slugify } from "@src/utils.js";
+
+export async function getStaticPaths() {
+  let artists = await getCollection("artists");
+  return artists
+    .filter((artist) => artist.data.hidden !== true)
+    .flatMap((artist) => (
+      artist.data.works.map((work) => ({
+        params: { 
+            inventorynumber: work.inventorynumber,
+            title: slugify(work.title),
+            artist: artist.id,
+        } ,
+        props: { artist: artist.id, 
+            title: work.title, 
+            inventorynumber: work.inventorynumber, 
+            artistName: artist.data.title,
+            src: work.src,
+            category: work.category,
+        },
+      })) // map works to paths
+    ));
+}
+// type Props = CollectionEntry<"artists">;
+
+const work = Astro.props;
+
+
+---
+
+<Main title={`${work.title}`} x-data="{ open: false }">
+  <main>
+    <span class="hidden" data-pagefind-meta="title">WORK: {work.title}, by {work.artistName}</span>
+    <section>
+      <Image
+        src={work.src}
+        alt={`${work.title} by ${work.artistName}`}
+        title={`${work.title} by ${work.artistName}`}
+        >
+    </Image>
+    </section>
+    <section class="intro pt-4">
+      <p class="">{work.artistName} / #{work.inventorynumber}</p>
+    </section>
+  </main>
+</Main>
+

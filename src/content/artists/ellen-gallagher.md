@@ -4,24 +4,26 @@ featuredImage: ../../media/ellen-gallagher-featured.webp
 resources: []
 works:
   - inventorynumber: AR00066
+    node_id: 496
+    category_id: 50
     category: Painting
     title: Paper Cup, 1996
     info: 1996,  Ink on paper on canvas,  2135 x 1830 x 41 mm
     year: "1996"
-    credit: |-
+    credit: |+
       © Ellen Gallagher
 
-      AR00066
     src: ../../media/ellen-gallagher-ar00066-paper-cup-1996.webp
   - inventorynumber: AR00067
+    node_id: 497
+    category_id: 50
     category: Painting
     title: Untitled, 1998
     info: 1998,  Oil paint and enamel on paper on canvas,  3053 x 2444 x 38 mm
     year: "1998"
-    credit: |-
+    credit: |+
       © Ellen Gallagher
 
-      AR00067
     src: ../../media/ellen-gallagher-ar00067-untitled-1998.webp
 
 ---

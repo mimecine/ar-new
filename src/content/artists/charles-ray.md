@@ -4,15 +4,16 @@ featuredImage: ../../media/charles-ray-featured.webp
 resources: []
 works:
   - inventorynumber: AR00342
+    node_id: 730
+    category_id: 52
     category: Photography
     title: Plank Piece I-II,  1973
     info: "1973,  2 photographs, black and white, on paper on board,  each: 1090 x
       761 x 50 mm"
     year: "1973"
-    credit: |-
+    credit: |+
       © Charles Ray
 
-      AR00342
     src: ../../media/charles-ray-ar00342-plank-piece-i-ii-1973.webp
 
 ---

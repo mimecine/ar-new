@@ -4,16 +4,17 @@ featuredImage: ../../media/carl-andre-featured.webp
 resources: []
 works:
   - inventorynumber: AR01265
+    node_id: 1196
+    category_id: 53
     category: Sculpture
     title: "144 Titanium Square, 2011 "
     info: 2011, fabricated 2017-18,  Titanium,  3.6m x 3.6m x .10mm
     year: "2011"
-    credit: |-
+    credit: |+
       © Carl Andre
 
-      AR01265
 
-       
+
     src: ../../media/carl-andre-ar01265-144-titanium-square-2011.webp
 
 ---

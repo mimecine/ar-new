@@ -4,104 +4,114 @@ featuredImage: ../../media/lawrence-weiner-featured.webp
 resources: []
 works:
   - inventorynumber: AR00131
+    node_id: 759
+    category_id: 89
     category: Installation
     title: STRAIGHT DOWN TO BELOW,  1988
     info: 1988,  Vinyl wall text,  overall display dimensions variable
     year: "1988"
-    credit: |-
+    credit: |+
       © Lawrence Weiner
 
-      AR00131
     src: ../../media/lawrence-weiner-ar00131-straight-down-to-below-1988.webp
   - inventorynumber: AR00132
+    node_id: 760
+    category_id: 89
     category: Installation
     title: FIRE AND BRIMSTONE SET IN A HOLLOW FORMED BY HAND,  1988
     info: 1988,  Vinyl wall text,  overall display dimensions variable
     year: "1988"
-    credit: |-
+    credit: |+
       © Lawrence Weiner
 
-      AR00132
     src: ../../media/lawrence-weiner-ar00132-fire-and-brimstone-set-in-a-hollow-formed-by-hand-1988.webp
   - inventorynumber: AR00133
+    node_id: 761
+    category_id: 89
     category: Installation
     title: SILVER THREADS ENTWINED IN THREADS OF GOLD,  1988
     info: 1988,  Vinyl wall text,  overall display dimensions variable
     year: "1988"
-    credit: |-
+    credit: |+
       © Lawrence Weiner
 
-      AR00133
     src: ../../media/lawrence-weiner-ar00133-silver-threads-entwined-in-threads-of-gold-1988.webp
   - inventorynumber: AR00134
+    node_id: 762
+    category_id: 89
     category: Installation
     title: TAKEN UP WITH,  1988
     info: 1988,  Vinyl wall text,  overall display dimensions variable
     year: "1988"
-    credit: |-
+    credit: |+
       © Lawrence Weiner
 
-      AR00134
     src: ../../media/lawrence-weiner-ar00134-taken-up-with-1988.webp
   - inventorynumber: AR00135
+    node_id: 763
+    category_id: 89
     category: Installation
     title: WIPED OFF THE FACE OF THE EARTH,  1988
     info: 1988,  Vinyl wall text,  overall display dimensions variable
     year: "1988"
-    credit: |-
+    credit: |+
       © Lawrence Weiner
 
-      AR00135
     src: ../../media/lawrence-weiner-ar00135-wiped-off-the-face-of-the-earth-1988.webp
   - inventorynumber: AR00136
+    node_id: 764
+    category_id: 89
     category: Installation
     title: TIED UP IN KNOTS,  1988
     info: 1988,  Vinyl wall text,  Overall display dimensions variable
     year: "1988"
-    credit: |-
+    credit: |+
       © Lawrence Weiner
 
-      AR00136
     src: ../../media/lawrence-weiner-ar00136-tied-up-in-knots-1988.webp
   - inventorynumber: AR00137
+    node_id: 765
+    category_id: 89
     category: Installation
     title: TUCKED IN AT THE CORNERS,  1988
     info: 1988,  Vinyl wall text, Overall display dimensions variable
     year: "1988"
-    credit: |-
+    credit: |+
       © Lawrence Weiner
 
-      AR00137
     src: ../../media/lawrence-weiner-ar00137-tucked-in-at-the-corners-1988.webp
   - inventorynumber: AR00138
+    node_id: 766
+    category_id: 89
     category: Installation
     title: ROUGHLY RIPPED APART,  1988
     info: 1988,  Vinyl wall text, Overall display dimensions variable
     year: "1988"
-    credit: |-
+    credit: |+
       © Lawrence Weiner
 
-      AR00138
     src: ../../media/lawrence-weiner-ar00138-roughly-ripped-apart-1988.webp
   - inventorynumber: AR00139
+    node_id: 767
+    category_id: 89
     category: Installation
     title: DAUBED WITH MUCK AND MIRE,  1988
     info: 1988,  Vinyl wall text,  overall display dimensions variable
     year: "1988"
-    credit: |-
+    credit: |+
       © Lawrence Weiner
 
-      AR00139
     src: ../../media/lawrence-weiner-ar00139-daubed-with-muck-and-mire-1988.webp
   - inventorynumber: AR00140
+    node_id: 768
+    category_id: 89
     category: Installation
     title: CRUSHED BETWEEN COBBLESTONES,  1988
     info: 1988,  Vinyl wall text,  Overall display dimensions variable
     year: "1988"
-    credit: |-
+    credit: |+
       © Lawrence Weiner
 
-      AR00140
     src: ../../media/lawrence-weiner-ar00140-crushed-between-cobblestones-1988.webp
 
 ---

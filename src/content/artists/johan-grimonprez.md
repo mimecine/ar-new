@@ -4,15 +4,16 @@ featuredImage: ../../media/johan-grimonprez-featured.webp
 resources: []
 works:
   - inventorynumber: AR00085
+    node_id: 513
+    category_id: 89
     category: Installation
     title: dial H-I-S-T-O-R-Y + Inflight, 1997-2001
     info: 1997-2001,  Video, projection, colour and sound (stereo) and printed
       papers,  overall display dimensions variable
     year: "1997"
-    credit: |-
+    credit: |+
       © Johan Grimonprez
 
-      AR00085
     src: ../../media/johan-grimonprez-ar00085-dial-h-i-s-t-o-r-y-inflight-1997-2001.webp
 
 ---

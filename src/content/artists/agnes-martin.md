@@ -4,74 +4,81 @@ featuredImage: ../../media/agnes-martin-featured.webp
 resources: []
 works:
   - inventorynumber: AR00177
+    node_id: 711
+    category_id: 50
     category: Painting
     title: "Untitled #5, 1994"
     info: 1994,  Acrylic paint and graphite on canvas,  1525 x 1528 x 35 mm
     year: "1994"
-    credit: |-
+    credit: |+
       © Estate of Agnes Martin
 
-      AR00177
     src: ../../media/agnes-martin-ar00177-untitled-5-1994.webp
   - inventorynumber: AL00194
+    node_id: 712
+    category_id: 50
     category: Painting
     title: "Untitled #10, 1995"
     info: 1995,  Acrylic paint and graphite on canvas,  1524 x 1524 mm
     year: "1995"
-    credit: |-
+    credit: |+
       © Estate of Agnes Martin
 
-      AL00194
     src: ../../media/agnes-martin-al00194-untitled-10-1995.webp
   - inventorynumber: AR00179
+    node_id: 713
+    category_id: 50
     category: Painting
     title: Happy Holiday, 1999
     info: 1999,  Acrylic paint and graphite on canvas,  1525 x 1525 x 40 mm
     year: "1999"
-    credit: |-
+    credit: |+
       © Estate of Agnes Martin
 
-      AR00179
     src: ../../media/agnes-martin-ar00179-happy-holiday-1999.webp
   - inventorynumber: AL00193
+    node_id: 714
+    category_id: 50
     category: Painting
     title: I Love the Whole World, 1999
     info: 1999,  Acrylic paint and graphite on canvas,  1524 x 1524 mm
     year: "1999"
-    credit: |-
+    credit: |+
       © Estate of Agnes Martin
 
-      AL00193
     src: ../../media/agnes-martin-al00193-i-love-the-whole-world-1999.webp
   - inventorynumber: AR00178
+    node_id: 715
+    category_id: 50
     category: Painting
     title: Faraway Love, 1999
     info: 1999,  Acrylic paint and graphite on canvas,  1525 x 1525 x 35 mm
     year: "1999"
-    credit: |-
+    credit: |+
       © Estate of Agnes Martin
 
-      AR00178
     src: ../../media/agnes-martin-ar00178-faraway-love-1999.webp
   - inventorynumber: T01866
+    node_id: 709
+    category_id: 50
     category: Painting
     title: Morning, 1965
     info: 1965,  Acrylic paint and graphite on canvas,  1826 x 1219 mm
     year: "1965"
-    credit: |-
+    credit: |+
       © Estate of Agnes Martin
 
-      T01866
     src: ../../media/agnes-martin-t01866-morning-1965.webp
   - inventorynumber: T13717
+    node_id: 710
+    category_id: 50
     category: Painting
     title: "Untitled #5, 1991"
     info: 1991,  Acrylic paint and graphite on canvas,  1829 x 1829 mm
     year: "1991"
-    credit: |-
+    credit: |+
       © Estate of Agnes Martin
 
-      T13717
     src: ../../media/agnes-martin-t13717-untitled-5-1991.webp
 
 ---

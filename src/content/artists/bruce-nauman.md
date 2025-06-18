@@ -4,127 +4,129 @@ featuredImage: ../../media/bruce-nauman-featured.webp
 resources: []
 works:
   - inventorynumber: A038280
+    node_id: 1328
+    category_id: 53
     category: Sculpture
     title: Run from Fear, Fun from Rear, 1972
     info: 1972, Neon tubing with clear glass tubing suspension frames,  20.3 x 116.8
       x 5.7 cm and  18.4 x 113 x 5.7 cm
     year: "1972"
-    credit: >-
+    credit: >+
       © Bruce Nauman
 
 
       Froehlich Collection, Stuttgart. Exhibition copy courtesy of Artist Rooms
       Foundation
 
-
-      A038280
     src: ../../media/bruce-nauman-a038280-run-from-fear-fun-from-rear-1972.webp
   - inventorynumber: AR00044
+    node_id: 721
+    category_id: 89
     category: Installation
     title: Changing Light Corridor with Rooms, 1971
     info: 1971,  Wooden structure, 2 light bulbs and timer,  Overall display
       dimensions variable
     year: "1971"
-    credit: >-
+    credit: >+
       © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
       London
 
-
-      AR00044
     src: ../../media/bruce-nauman-ar00044-changing-light-corridor-with-rooms-1971.webp
   - inventorynumber: AR00607
+    node_id: 722
+    category_id: 53
     category: Sculpture
     title: La Brea/Art Tips/Rat Spit/Tar Pits, 1972
     info: 1972,  Neon lights and glass,  619 x 584 x 51 mm
     year: "1972"
-    credit: >-
+    credit: >+
       © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
       London
 
-
-      AR00607
     src: ../../media/bruce-nauman-ar00607-la-breaart-tipsrat-spittar-pits-1972.webp
   - inventorynumber: AR00180
+    node_id: 723
+    category_id: 53
     category: Sculpture
     title: "Enforced Perspective: Allegory and Symbolism, 1975"
     info: "1975,  Steel, 36 parts, each: 102 x 356 x 356 mm"
     year: "1975"
-    credit: >-
+    credit: >+
       © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
       London
 
-
-      AR00180
     src: ../../media/bruce-nauman-ar00180-enforced-perspective-allegory-and-symbolism-1975.webp
   - inventorynumber: A038279
+    node_id: 1335
+    category_id: 53
     category: Sculpture
     title: Human Nature / Knows Doesn't Know, 1983 / 1986
     info: Neon tubing with clear glass tubing suspension frames 229 x 229 x 37 cm
     year: "1983"
-    credit: >-
+    credit: >+
       © Bruce Nauman
 
 
       Froehlich Collection, Stuttgart. Exhibition copy courtesy of Artist Rooms
       Foundation
 
-
-      A038279
     src: ../../media/bruce-nauman-a038279-human-nature-knows-doesnt-know-1983-1986.webp
   - inventorynumber: AL00399
+    node_id: 1327
+    category_id: 53
     category: Sculpture
     title: Double Poke In the Eye II 1985
     info: 1985, Neon tubing mounted on aluminium monolith
     year: "1985"
-    credit: >-
+    credit: >+
       © Bruce Nauman
 
 
       Froehlich Collection, Stuttgart. Exhibition copy courtesy of Artist Rooms
       Foundation
 
-
-      AL00399
     src: ../../media/bruce-nauman-al00399-double-poke-in-the-eye-ii-1985.webp
   - inventorynumber: AR00578
+    node_id: 724
+    category_id: 8
     category: Works on paper
     title: Untitled (Drawing for Enforced Perspective), 1975
     info: 1975,  Graphite on paper,  765 x 1016 mm
     year: "1975"
-    credit: >-
+    credit: >+
       © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
       London
 
-
-      AR00578
     src: ../../media/bruce-nauman-ar00578-untitled-drawing-for-enforced-perspective-1975.webp
   - inventorynumber: AR00577
+    node_id: 725
+    category_id: 87
     category: Video
     title: "Violent Incident: Man-Woman Segment, 1986"
     info: "1986,  Video, monitor, colour and sound (mono),  Overall display
       dimensions variable,  Duration: 30 min, 30 sec"
     year: "1986"
-    credit: >-
+    credit: >+
       © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
       London
 
-
-      AR00577
     src: ../../media/bruce-nauman-ar00577-violent-incident-man-woman-segment-1986.webp
   - inventorynumber: AR00580
+    node_id: 726
+    category_id: 53
     category: Sculpture
     title: Untitled (Hand Circle),  1996
     info: 1996,  Bronze, silver solder and copper,  1155 x 710 x 700 mm (variable
       height)
     year: "1996"
-    credit: >-
+    credit: >+
       © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
       London
 
-
-      AR00580
     src: ../../media/bruce-nauman-ar00580-untitled-hand-circle-1996.webp
   - inventorynumber: AR00579
+    node_id: 727
+    category_id: 87
     category: Video
     title: Raw Material Washing Hands, Normal (A of A/B); Raw Material Washing
       Hands, Normal (B of A/B),  1996
@@ -132,36 +134,34 @@ works:
       variable. Duration (channel 1): 55 min,46 sec; duration (channel 2): 55
       min, 56 sec"
     year: "1996"
-    credit: >-
+    credit: >+
       © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
       London
 
-
-      AR00579
     src: ../../media/bruce-nauman-ar00579-raw-material-washing-hands-normal-a-of-ab-raw-material-washing-hands-normal-b-of-ab-1996.webp
   - inventorynumber: AR00575
+    node_id: 728
+    category_id: 53
     category: Sculpture
     title: Partial Truth, 1997
     info: 1997,  Granite,  60 x 607 x 550 mm
     year: "1997"
-    credit: >-
+    credit: >+
       © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
       London
 
-
-      AR00575
     src: ../../media/bruce-nauman-ar00575-partial-truth-1997.webp
   - inventorynumber: AR00576
+    node_id: 729
+    category_id: 87
     category: Video
     title: Setting a Good Corner (Allegory and Metaphor), 1999
     info: "1999,  Video, monitor, colour and sound (stereo), Duration: 59min, 18sec"
     year: "1999"
-    credit: >-
+    credit: >+
       © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
       London
 
-
-      AR00576
     src: ../../media/bruce-nauman-ar00576-setting-a-good-corner-allegory-and-metaphor-1999.webp
 
 ---

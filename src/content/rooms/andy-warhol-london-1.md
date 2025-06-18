@@ -4,45 +4,45 @@ artists:
   - andy-warhol
 venue: tate-modern
 images:
-  - src: ../../media/andy-warhol-london-tate-modern-2009-04-03-0.webp
-    title: andy warhol london tate modern 2009 04 03 0
+  - src: ../../media/andy-warhol-london-tate-modern-2010-03-01-0.webp
+    title: andy warhol london tate modern 2010 03 01 0
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/andy-warhol-london-tate-modern-2009-04-03-1.webp
-    title: andy warhol london tate modern 2009 04 03 1
+  - src: ../../media/andy-warhol-london-tate-modern-2010-03-01-1.webp
+    title: andy warhol london tate modern 2010 03 01 1
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/andy-warhol-london-tate-modern-2009-04-03-2.webp
-    title: andy warhol london tate modern 2009 04 03 2
+  - src: ../../media/andy-warhol-london-tate-modern-2010-03-01-2.webp
+    title: andy warhol london tate modern 2010 03 01 2
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/andy-warhol-london-tate-modern-2009-04-03-3.webp
-    title: andy warhol london tate modern 2009 04 03 3
+  - src: ../../media/andy-warhol-london-tate-modern-2010-03-01-3.webp
+    title: andy warhol london tate modern 2010 03 01 3
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/andy-warhol-london-tate-modern-2009-04-03-4.webp
-    title: andy warhol london tate modern 2009 04 03 4
+  - src: ../../media/andy-warhol-london-tate-modern-2010-03-01-4.webp
+    title: andy warhol london tate modern 2010 03 01 4
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-startdate: 2009-04-03
-enddate: 2010-03-14
+startdate: 2010-03-01
+enddate: 2011-03-01
 town: London
-url: https://www.tate.org.uk/
+url: http://www.tate.org.uk/visit/tate-modern
 ongoing: false
 priority: 0
 
 ---
 
-Andy Warhol was the son of immigrants who became an American icon. A shy gay man who became the hub of New York’s social scene. An artist who embraced consumerism, celebrity and the counter culture – and changed modern art in the process.
+This exhibition presented a selection of Andy Warhol paintings recently acquired by ARTIST ROOMS, including self-portraits and the iconic multi-part work 'Skulls'. The works emphasise Warhol's increasing preoccupation with themes of death and mortality in the later part of his career, exacerbated by the near-fatal shooting he suffered in 1968.
 
-He was born in 1928 as Andrew Warhola to working-class parents from present day Slovakia. In 1949 he moved from Pittsburgh to New York. Initially working as a commercial illustrator, his skill at transforming the imagery of American culture soon found its realisation in his ground-breaking pop art.
+This presentation opened alongside an ARTIST ROOMS exhibition at the Tate Modern devoted to one of the most significant female American artists of the last fifty years, Agnes Martin.

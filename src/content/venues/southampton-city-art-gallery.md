@@ -1,7 +1,7 @@
 ---
 title: Southampton City Art Gallery
 town: Southampton
-map: http://maps.google.com/maps?q=Southampton%20City%20Art%20Gallery%2C%20Civic%20Centre%2C%20Southampton%2C%20Hampshire%2C%20GB%2C%20SO14%207LP
+map: https://www.google.com/maps/place/Southampton+City+Art+Gallery/@50.9083884,-1.4064408,17z/data=!3m1!4b1!4m2!3m1!1s0x487476b1caf1d5bb:0xc4c6838e674f4d54
 url: http://www.southampton.gov.uk/
 geo: '{"type":"Point","coordinates":[-1.4064372,50.9083894]}'
 address: Civic Centre, Commercial Rd, Southampton SO14 7LY, UK

@@ -6,60 +6,67 @@ resources:
     title: Robert Therrienlearningresource
 works:
   - inventorynumber: AR00168
+    node_id: 748
+    category_id: 8
     category: Works on paper
     title: No Title (Scrubbrush panel),  1997
     info: 1997,  Photograph, black and white, on paper with chalk, graphite and
       paint on hardboard,  1209 x 1611 x 65 mm
     year: "1997"
-    credit: |-
+    credit: |+
       © Robert Therrien
 
-      AR00168
     src: ../../media/robert-therrien-ar00168-no-title-scrubbrush-panel-1997.webp
   - inventorynumber: AR00702
+    node_id: 749
+    category_id: 89
     category: Installation
     title: RED ROOM, 2000-7
     info: "2000-7,  Organ, radio, telephone, wall clock, grill, kitchen utensils,
       clothes, shoes and other materials,  displayed (internal room dimensions):
       2438 x 1956 x 2667 mm"
     year: "2000"
-    credit: |-
+    credit: |+
       © Robert Therrien
 
-      AR00702
     src: ../../media/robert-therrien-ar00702-red-room-2000-7.webp
   - inventorynumber: AR00166
+    node_id: 750
+    category_id: 53
     category: Sculpture
     title: No Title (Table and Four Chairs), 2003
     info: "2003,  Aluminium, steel, wood and plastic,  8920 x 14850 mm each (chair):
       2860 x 1430 x 1730 mm table: 2690 x 4685 x 3620 mm"
     year: "2003"
-    credit: |-
+    credit: |+
       © Robert Therrien
 
-      AR00166
     src: ../../media/robert-therrien-ar00166-no-title-table-and-four-chairs-2003.webp
   - inventorynumber: AR00169
+    node_id: 751
+    category_id: 8
     category: Works on paper
     title: No Title (Large Red Brick Drawing), 2003
     info: 2003,  Print on paper,  606 x 700 mm
     year: "2003"
-    credit: |-
+    credit: |+
       © Robert Therrien
 
-      AR00169
     src: ../../media/robert-therrien-ar00169-no-title-large-red-brick-drawing-2003.webp
   - inventorynumber: AR00167
+    node_id: 752
+    category_id: 53
     category: Sculpture
     title: No Title (Oil Can),  2004
     info: 2004,  Stainless steel, 2460 x 530 mm
     year: "2004"
-    credit: |-
+    credit: |+
       © Robert Therrien
 
-      AR00167
     src: ../../media/robert-therrien-ar00167-no-title-oil-can-2004.webp
   - inventorynumber: AR01128
+    node_id: 753
+    category_id: 53
     category: Sculpture
     title: No Title (Beard Cart),  2004
     info: 2004,  Steel plate, stainless steel, plastic, wood, rubber, human hair and
@@ -73,34 +80,37 @@ works:
       AR00128
     src: ../../media/robert-therrien-ar01128-no-title-beard-cart-2004.webp
   - inventorynumber: A038281
+    node_id: 1360
+    category_id: 53
     category: Sculpture
     title: No title (hands and tambourines), 2009
     info: 2009, Graphite and ink on board,  101.6 x 81.3 cm
     year: "2009"
-    credit: |-
+    credit: |+
       © Robert Therrien
 
-      A038281
     src: ../../media/robert-therrien-a038281-no-title-hands-and-tambourines-2009.webp
   - inventorynumber: AR01127
+    node_id: 754
+    category_id: 53
     category: Sculpture
     title: No Title (Stacked Plates),  2010
     info: 2010, Plastic,  2390 x 1370 x 1370 mm
     year: "2010"
-    credit: |-
+    credit: |+
       © Robert Therrien
 
-      AR01127
     src: ../../media/robert-therrien-ar01127-no-title-stacked-plates-2010.webp
   - inventorynumber: A038307
+    node_id: 1362
+    category_id: 53
     category: Sculpture
     title: Soapy (yellow), 2017
     info: 2017, Plastic, 15.2 x 30.5 x 58.4 cm
     year: "2017"
-    credit: |-
+    credit: |+
       © Robert Therrien
 
-      A038307
     src: ../../media/robert-therrien-a038307-soapy-yellow-2017.webp
 
 ---

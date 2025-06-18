@@ -4,6 +4,8 @@ featuredImage: ../../media/douglas-gordon-featured.webp
 resources: []
 works:
   - inventorynumber: AL00339
+    node_id: 509
+    category_id: 89
     category: Installation
     title: Play Dead; Real Time, 2003
     info: "2003,  Video, 2 projections, 1 monitor, colour,  Duration: 19 mins 16
@@ -14,44 +16,47 @@ works:
 
       © Douglas Gordon
 
-      AL00339 (on long term loan from Artist Rooms Foundation, 2012)
+      (on long term loan from Artist Rooms Foundation, 2012)
     src: ../../media/douglas-gordon-al00339-play-dead-real-time-2003.webp
   - inventorynumber: AR01179
+    node_id: 510
+    category_id: 89
     category: Installation
     title: A Divided Self (I and II), 1996
     info: 1996,  Two channel video installation without sound,  Dimensions variable
     year: "1996"
-    credit: |-
+    credit: |+
       Courtesy Studio lost but found, Berlin
 
       © Studio lost but found / VG Bild-Kunst, Bonn 2014
 
-      AR01179
     src: ../../media/douglas-gordon-ar01179-a-divided-self-i-and-ii-1996.webp
   - inventorynumber: AR01180
+    node_id: 511
+    category_id: 89
     category: Installation
     title: Film Noir (Fly), 1996
     info: 1996,  Single channel video installation without sound,  Dimensions
       variable
     year: "1996"
-    credit: |-
+    credit: |+
       Courtesy Studio lost but found, Berlin
 
       © Studio lost but found / VG Bild-Kunst, Bonn 2014
 
-      AR01180
 
-       
+
     src: ../../media/douglas-gordon-ar01180-film-noir-fly-1996.webp
   - inventorynumber: AR01178
+    node_id: 512
+    category_id: 89
     category: Installation
     title: Looking Down With His Black, Black, Ee, 2008
     info: 2008,  Three channel video installation with sound,  Dimensions variable
     year: "2008"
-    credit: |-
+    credit: |+
       © Douglas Gordon
 
-      AR01178
     src: ../../media/douglas-gordon-ar01178-looking-down-with-his-black-black-ee-2008.webp
 
 ---
