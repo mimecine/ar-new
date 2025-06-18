@@ -7,8 +7,9 @@
     "dev": "bun astro dev --host",
     "build": "bun astro build",
     "preview": "astro preview --host",
+    "sync": "bun run scrape && bun run make",
     "scrape": "bun scripts/crawler-artists.js && bun scripts/crawler-rooms.js && bun scripts/crawler-films.js",
-    "make sveltia": "rm -rf src/content/{rooms,artists,venues,films} && bun scripts/make_md_sveltia.mjs"
+    "make": "rm -rf src/content/{rooms,artists,venues,films} && bun scripts/make_md_sveltia.mjs"
   },
   "dependencies": {
     "@alpinejs/persist": "^3.14.9",

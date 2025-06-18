@@ -1,8 +1,8 @@
 ---
 title: Scottish National Gallery of Modern Art
 town: Edinburgh
-map: https://www.google.com/maps/place/Scottish+National+Gallery+of+Modern+Art+(Modern+One)/@55.9508233,-3.2276456,15z/data=!4m2!3m1!1s0x0:0x46ec2c31332c0457?sa=X&ved=2ahUKEwiMprbT_9TiAhXJUxUIHfiUBqcQ_BIwFXoECAsQCA
-url: https://www.nationalgalleries.org/
+map: http://maps.google.com/maps?q=Scottish%20National%20Gallery%20of%20Modern%20Art%2C%2075%20Belford%20Road%2C%20Edinburgh%2C%20GB%2C%20EH4%203DR
+url: http://www.nationalgalleries.org/
 geo: '{"type":"Point","coordinates":[-3.2276361,55.9508229]}'
 address: 75 Belford Rd, Edinburgh EH4 3DR, UK
 plus_code: 9C7RXQ2C+8W
