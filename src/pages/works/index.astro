@@ -19,36 +19,9 @@ artists = artists
   });
 ---
 
-<Main title="Artists">
+<Main title="Works">
   <main data-pagefind-ignore>
-    <section>
-      <ul
-        class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between">
-        {
-          artists.map((artist, artist_index) => {
-            artist.data.works.map((work, work_index) => (
-              <li>
-                <a
-                  href={`/works/${work.inventorynumber}/${artist.id}/${work.title}`}
-                  id={`[${work_index}]${work.title}`}>
-                  <Thumbnail
-                    src={work.src}
-                    alt={work.title}
-                    title={work.title}
-                    data-category={work.category}
-                    loading={work_index >= 8 ? `lazy` : `eager`}>
-                    <div class="h-full">
-                      {work.title && <h5 class="text-balance">{work.title}</h5>}
-                      <p class="text-sm -my-2 italic">{work.category}</p>
-                    </div>
-                  </Thumbnail>
-                </a>
-              </li>
-            ));
-          })
-        }
-      </ul>
-    </section>
+
     <section>
       <ul
         class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-between">

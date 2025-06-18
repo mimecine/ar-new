@@ -11,7 +11,7 @@ works:
     info: 1953-62,  Wood, glass, felt, oil paint and paper,  1830 x 1545 x 640 mm
     year: "1953"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00087-langhaus-1953-62.webp
   - inventorynumber: AR00602
@@ -22,7 +22,7 @@ works:
     info: 1958-65,  Wood, iron and copper,  925 x 1280 x 2575 mm
     year: "1958"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00602-hirschdenkmal-1958-65.webp
   - inventorynumber: AR00603
@@ -33,7 +33,7 @@ works:
     info: 1958-85,  Wood, accumulator, clay and wire, 985 x 580 x 565 cm
     year: "1958"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00603-tisch-mit-aggregat-1958-65.webp
   - inventorynumber: AR00091
@@ -44,7 +44,7 @@ works:
     info: 1963,  2 boards, zinc and glass,  485 x 729 x 80 mm
     year: "1963"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00091-weie-trbung-1963.webp
   - inventorynumber: AR00088
@@ -56,7 +56,7 @@ works:
       1550 x 640 mm
     year: "1964"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00088-fettstuhl-1964-85.webp
   - inventorynumber: AR00619
@@ -67,7 +67,7 @@ works:
     info: 1964,  Wood, glass, felt, oil paint and lead,  1840 x 1680 x 840 mm
     year: "1964"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00619-entwurf-fr-ein-filzenvironment-1964.webp
   - inventorynumber: AR00604
@@ -78,7 +78,7 @@ works:
     info: 1964-75,  Graphite on paper, paint on glass and wire,  811 x 591 x 31 mm
     year: "1964"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00604-damp-value-1964-75.webp
   - inventorynumber: AR00618
@@ -89,7 +89,7 @@ works:
     info: 1968,  Wood, glass, 2 cardboard boxes and fat,  1835 x 1680 x 840 mm
     year: "1968"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00618-fettecke-prozess-1968.webp
   - inventorynumber: AR00092
@@ -100,7 +100,7 @@ works:
     info: 1970,  Felt and wood,  1660 x 660 x 260 mm
     year: "1970"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00092-filzanzug-1970.webp
   - inventorynumber: AR00623
@@ -111,7 +111,7 @@ works:
     info: 1971,  Felt, wood and glass,  1150 x 850 x 78 mm
     year: "1971"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00623-so-kann-die-parteiendiktatur-berwunden-werden-1971.webp
   - inventorynumber: AR00625
@@ -122,7 +122,7 @@ works:
     info: 1974-7,  Graphite, blood and stamp on aluminium plate,  795 x 1077 x 51 mm
     year: "1974"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00625-hases-blut-1974-7.webp
   - inventorynumber: AR00621
@@ -133,7 +133,7 @@ works:
     info: 1974,  Chalk on blackboard,  1000 x 1300 x 20 mm
     year: "1974"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00621-zu-dem-vortrag-der-soziale-organismus-ein-kunstwerk-bochum-2031974.webp
   - inventorynumber: AR00094
@@ -144,7 +144,7 @@ works:
     info: 1977-84,  Photographic negative,  327 x 450 mm
     year: "1977"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00094-zeige-deine-wunde-1977-84.webp
   - inventorynumber: AR00626
@@ -156,7 +156,7 @@ works:
       127 mm support (right) 187 x 127 mm"
     year: "1978"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00626-gegenuber-dem-fixsternhimmel-1978.webp
   - inventorynumber: AR00627
@@ -167,7 +167,7 @@ works:
     info: 1980,  Zinc, glass and fish skin on cardboard,  785 x 650 x 150 mm
     year: "1980"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00627-untitled-1980.webp
   - inventorynumber: AR00628
@@ -178,7 +178,7 @@ works:
     info: 1980,  Records sleeve, record, jaw bone and wood, 841 x 645 x 56 mm
     year: "1980"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00628-celtic-object-2-1980.webp
   - inventorynumber: AR00089
@@ -190,7 +190,7 @@ works:
       1450 x 990 mm
     year: "1981"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00089-domenica-delle-palme-1981.webp
   - inventorynumber: AR00622
@@ -201,7 +201,7 @@ works:
     info: 1982,  Copper and felt,  470 x 1080 x 630 mm
     year: "1982"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00622-dumme-kiste-1982.webp
   - inventorynumber: AR00086
@@ -212,7 +212,7 @@ works:
     info: 1985,  Wood, steel wire and lead,  11000 x 10000 x 6000 mm
     year: "1985"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
 
 
@@ -225,7 +225,7 @@ works:
     info: 1970,  Photograph, gelatine silver print on canvas,  2330 x 2275 mm
     year: "1970"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00600-ohne-titel-1970.webp
   - inventorynumber: AR00695
@@ -236,7 +236,7 @@ works:
     info: 1980  Photograph, black and white, on canvas with oil paint  452 x 702 mm
     year: "1980"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00695-coyote-i-1980.webp
   - inventorynumber: AR00694
@@ -247,7 +247,7 @@ works:
     info: 1980,  Photograph, black and white, on canvas with oil paint,  466 x 703 mm
     year: "1980"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00694-coyote-ii-1980.webp
   - inventorynumber: AR00630
@@ -258,7 +258,7 @@ works:
     info: 1945,  Leaf on paper,  474 x 317 mm
     year: "1945"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00630-acer-platanoides-1945.webp
   - inventorynumber: AR00629
@@ -269,7 +269,7 @@ works:
     info: 1946,  Graphite, watercolour and chloride on paper,  208 x 297 mm
     year: "1946"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00629-sun-and-pylon-1946.webp
   - inventorynumber: AR00095
@@ -280,7 +280,7 @@ works:
     info: 1949  Graphite and watercolour on card  207 x 297 mm
     year: "1949"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00095-dove-food-rainbow-1949.webp
   - inventorynumber: AR00096
@@ -291,7 +291,7 @@ works:
     info: 1951,  Graphite and oil paint on paper,  622 x 297 mm
     year: "1951"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00096-ice-age-1951.webp
   - inventorynumber: AR00097
@@ -302,7 +302,7 @@ works:
     info: 1952,  Graphite and watercolour on paper,  209 x 254 mm
     year: "1952"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00097-roses-1952.webp
   - inventorynumber: AR00098
@@ -313,7 +313,7 @@ works:
     info: 1952,  Graphite, watercolour and stamp on paper,  209 x 297 mm
     year: "1952"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00098-the-table-1952.webp
   - inventorynumber: AR00100
@@ -324,7 +324,7 @@ works:
     info: 1953-62,  Graphite and oil paint on acetate,  391 x 474 mm
     year: "1953"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00100-weird-sister-1953-62.webp
   - inventorynumber: AR00099
@@ -335,7 +335,7 @@ works:
     info: 1953,  Graphite on paper,  298 x 414 mm
     year: "1953"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00099-angel-whale-1953.webp
   - inventorynumber: AL00196
@@ -346,7 +346,7 @@ works:
     info: 1953  Graphite on paper, 3 parts  286 x 210 mm
     year: "1953"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-al00196-the-centrifugal-forces-of-the-mountains-1953.webp
   - inventorynumber: AR00631
@@ -358,7 +358,7 @@ works:
       219 mm"
     year: "1953"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00631-geysir-1953.webp
   - inventorynumber: AR00101
@@ -369,7 +369,7 @@ works:
     info: 1954,  Graphite and watercolour on card,  193 x 122 mm
     year: "1954"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00101-weie-frau-in-gras-fairy-1954.webp
   - inventorynumber: AR00102
@@ -381,7 +381,7 @@ works:
       support (lower): 241 x 346 mm"
     year: "1954"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00102-sculptures-1954.webp
   - inventorynumber: AR00632
@@ -392,7 +392,7 @@ works:
     info: 1954,  Watercolour on paper,  276 x 305 mm
     year: "1954"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00632-crystal-measurement-1954.webp
   - inventorynumber: AR00633
@@ -403,7 +403,7 @@ works:
     info: 1954  Watercolour on paper  399 x 466 mm
     year: "1954"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00633-2-rote-fische-1954.webp
   - inventorynumber: AR00635
@@ -414,7 +414,7 @@ works:
     info: 1954  Watercolour on paper  502 x 685 mm
     year: "1954"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00635-aus-dem-leben-der-bienen-1954.webp
   - inventorynumber: AR00636
@@ -425,7 +425,7 @@ works:
     info: 1954-8  Watercolour and gold paint on paper and board  213 x 304 mm
     year: "1954"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00636-badezimmer-der-circe-1954-8.webp
   - inventorynumber: AR00103
@@ -436,7 +436,7 @@ works:
     info: 1955,  Watercolour on card,  295 x 490 mm
     year: "1955"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00103-passage-der-zukunftplanetoiden-1955.webp
   - inventorynumber: AR00696
@@ -447,7 +447,7 @@ works:
     info: 1955  Leaf and lime on cardboard  302 x 244 mm
     year: "1955"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00696-untitled-1955.webp
   - inventorynumber: AR00637
@@ -458,7 +458,7 @@ works:
     info: 1956  Crayon and watercolour on paper  252 x 200 mm
     year: "1956"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00637-actress-1956.webp
   - inventorynumber: AR00104
@@ -469,7 +469,7 @@ works:
     info: 1956, Graphite on paper,  316 x 241 mm
     year: "1956"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00104-beobachtung-fr-katze-1956.webp
   - inventorynumber: AR00638
@@ -480,7 +480,7 @@ works:
     info: 1957,  Stone dust and clay on paper,  316 x 241 mm
     year: "1957"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00638-untitled-1957.webp
   - inventorynumber: AR00697
@@ -492,7 +492,7 @@ works:
       963 mm
     year: "1957"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00697-brightly-lit-stag-chair-1957-71.webp
   - inventorynumber: AR00105
@@ -503,7 +503,7 @@ works:
     info: 1958,  Graphite and watercolour on paper,  207 x 290 mm
     year: "1958"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00105-aktricen-1958.webp
   - inventorynumber: AR00107
@@ -514,7 +514,7 @@ works:
     info: 1958,  Oil paint and watercolour on paper,  207 x 285 mm
     year: "1958"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00107-clan-1958.webp
   - inventorynumber: AR00108
@@ -525,7 +525,7 @@ works:
     info: 1958,  Graphite on card,  210 x 297 mm
     year: "1958"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00108-schmied-ii-1958.webp
   - inventorynumber: AR00109
@@ -536,7 +536,7 @@ works:
     info: 1959,  Graphite and oil paint on paper,  207 x 297 mm
     year: "1959"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00109-hexen-feuer-speiend-1959.webp
   - inventorynumber: AR00111
@@ -547,7 +547,7 @@ works:
     info: 1959,  Graphite on paper,  429 x 395 mm
     year: "1959"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00111-hirschdenkmal-1959.webp
   - inventorynumber: AR00110
@@ -558,7 +558,7 @@ works:
     info: 1959,  Graphite on board on oil paint on paper,  240 x 252 mm
     year: "1959"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00110-battery-1959.webp
   - inventorynumber: AR00634
@@ -569,7 +569,7 @@ works:
     info: 1958,  Envelope, tempera, graphite and pin on paper,  238 x 532 mm
     year: "1958"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00634-sonde-im-blutkreislauf-des-eiches-1958.webp
   - inventorynumber: AR00640
@@ -580,7 +580,7 @@ works:
     info: 1958,  Graphite and gold paint on paper,  287 x 203 mm
     year: "1958"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00640-filter-1958.webp
   - inventorynumber: AR00641
@@ -591,7 +591,7 @@ works:
     info: 1958,  Watercolour and tempera on paper,  351 x 475 mm
     year: "1958"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00641-untitled-1958.webp
   - inventorynumber: AR00639
@@ -602,7 +602,7 @@ works:
     info: 1958  Oil paint on paper  180 x 237 mm
     year: "1958"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00639-jungfrau-holz-1958.webp
   - inventorynumber: AR00106
@@ -613,7 +613,7 @@ works:
     info: 1958,  Oil paint and gouache on paper,  428 x 301 mm
     year: "1958"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00106-untitled-frauendarstellung-1958.webp
   - inventorynumber: AR00642
@@ -624,7 +624,7 @@ works:
     info: 1958  Oil and collage on paper  210 x 297 mm
     year: "1958"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00642-untitled-1958.webp
   - inventorynumber: AR00112
@@ -636,7 +636,7 @@ works:
       x 336 mm support (centre): 238 x 338 mm support (lower): 238 x 337 mm"
     year: "1959"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00112-die-elektricitt-1959.webp
   - inventorynumber: AR00114
@@ -647,7 +647,7 @@ works:
     info: 1959,  Oil paint and watercolour on paper,  276 x 214 mm
     year: "1959"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00114-schwangere-und-schwan-1959.webp
   - inventorynumber: AR00646
@@ -659,7 +659,7 @@ works:
       frame,  200 x 292 mm
     year: "1959"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00646-untitled-1959-60.webp
   - inventorynumber: AR00643
@@ -670,7 +670,7 @@ works:
     info: 1959  Graphite, oil paint and typescript on paper  210 x 297 mm
     year: "1959"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00643-untitled-1959.webp
   - inventorynumber: AR00644
@@ -681,7 +681,7 @@ works:
     info: 1959, Oil paint and graphite on paper,  279 x 214 mm
     year: "1959"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00644-untitled-1959.webp
   - inventorynumber: AR00645
@@ -692,7 +692,7 @@ works:
     info: 1959,  Graphite on paper,  296 x 207 mm
     year: "1959"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00645-woman-with-falling-stone-1959.webp
   - inventorynumber: AR00113
@@ -703,7 +703,7 @@ works:
     info: 1961,  Printed paper and oil paint on paper,  238 x 339 mm
     year: "1961"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00113-mdchen-drucht-elastiche-plastik-ein-1961.webp
   - inventorynumber: AR00647
@@ -714,7 +714,7 @@ works:
     info: 1961-75,  2 works on paper, oil paint and fat,  755 x 774 mm
     year: "1961"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00647-2-schafskpfe-1961-75.webp
   - inventorynumber: AR00648
@@ -725,7 +725,7 @@ works:
     info: 1961,  Collage and oil on paper and cardboard,  220 x 220 mm
     year: "1961"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00648-demonstration-hand-1961.webp
   - inventorynumber: AR00651
@@ -736,7 +736,7 @@ works:
     info: 1961,  Graphite on paper,  297 x 209 mm
     year: "1961"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00651-untitled-1961.webp
   - inventorynumber: AR00649
@@ -747,7 +747,7 @@ works:
     info: 1961,  Collage and graphite on paper,  177 x 164 mm
     year: "1961"
     credit: |-
-      © DACS, 2014
+      © DACS 2025
 
       AR00650
     src: ../../media/joseph-beuys-ar00649-kreuz-1961.webp
@@ -772,7 +772,7 @@ works:
       support (lower centre): 177 x 178 mm support (lower right): 120 x 179 mm"
     year: "1962"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00652-braunkreuz-1962.webp
   - inventorynumber: AR00698
@@ -784,7 +784,7 @@ works:
       280 mm support (lower): 212 x 212 mm"
     year: "1962"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00698-physico-chem-zeit-konstellation-1100-2300-1962.webp
   - inventorynumber: AR00653
@@ -795,7 +795,7 @@ works:
     info: 1962,  Oil paint on paper,  388 x 279 mm
     year: "1962"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00653-untitled-1962.webp
   - inventorynumber: AR00656
@@ -806,7 +806,7 @@ works:
     info: 1962,  Oil, seeds and vegetable matter on vinyl record,  679 x 523 x 60 mm
     year: "1962"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00656-untitled-1962.webp
   - inventorynumber: AR00699
@@ -818,7 +818,7 @@ works:
       (right): 310 x 228 mm"
     year: "1962"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00699-1962.webp
   - inventorynumber: AR00654
@@ -829,7 +829,7 @@ works:
     info: 1962,  Oil paint, graphite and felt on paper,  397 x 1542 mm
     year: "1962"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00654-tails-1962.webp
   - inventorynumber: AR00655
@@ -840,7 +840,7 @@ works:
     info: 1962,  Oil paint and watercolour on paper,  636 x 633 mm
     year: "1962"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00655-for-siberian-symphony-1962.webp
   - inventorynumber: AR00657
@@ -852,7 +852,7 @@ works:
       161 mm support (centre): 197 x 174 mm support (lower): 197 x 197 m"
     year: "1962"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00657-runrig-1962-72.webp
   - inventorynumber: AR00115
@@ -863,7 +863,7 @@ works:
     info: 1963,  Oil paint on typescript on paper,  280 x 215 mm
     year: "1963"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00115-stck-17-1963.webp
   - inventorynumber: AR00658
@@ -874,7 +874,7 @@ works:
     info: 1963,  Collage, ink and graphite on paper,  620 x 218 mm
     year: "1963"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00658-fluxus-namensliste-1963.webp
   - inventorynumber: AR00659
@@ -885,7 +885,7 @@ works:
     info: 1963,  Paper on cardboard,  508 x 363 mm
     year: "1963"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00659-untitled-1963.webp
   - inventorynumber: AR00660
@@ -898,7 +898,7 @@ works:
       support (right): 575 x 402 mm"
     year: "1963"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00660-untitled-1963-4.webp
   - inventorynumber: AR00700
@@ -909,7 +909,7 @@ works:
     info: 1963,  Oil paint and felt on paper,  647 x 434 mm
     year: "1963"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00700-filz-aktion-1963.webp
   - inventorynumber: AR00661
@@ -920,7 +920,7 @@ works:
     info: 1964,  Graphite and oil paint on paper,  391 x 270 mm
     year: "1964"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00661-felt-sculptures-1964.webp
   - inventorynumber: AR00117
@@ -931,7 +931,7 @@ works:
     info: 1964,  Graphite, oil paint and fat on paper,  294 x 209 mm
     year: "1964"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00117-therapeuticum-1964.webp
   - inventorynumber: AR00116
@@ -1394,7 +1394,7 @@ works:
       support (lower right): 237 x 329 mm"
     year: "1977"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00093-show-your-wound-1977.webp
   - inventorynumber: AR00129

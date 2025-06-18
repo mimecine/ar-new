@@ -4,46 +4,46 @@ artists:
   - agnes-martin
 venue: tate-modern
 images:
-  - src: ../../media/agnes-martin-london-tate-modern-2021-12-06-0.webp
-    title: agnes martin london tate modern 2021 12 06 0
+  - src: ../../media/agnes-martin-london-tate-modern-2020-01-27-0.webp
+    title: agnes martin london tate modern 2020 01 27 0
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/agnes-martin-london-tate-modern-2021-12-06-1.webp
-    title: agnes martin london tate modern 2021 12 06 1
+  - src: ../../media/agnes-martin-london-tate-modern-2020-01-27-1.webp
+    title: agnes martin london tate modern 2020 01 27 1
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/agnes-martin-london-tate-modern-2021-12-06-2.webp
-    title: agnes martin london tate modern 2021 12 06 2
+  - src: ../../media/agnes-martin-london-tate-modern-2020-01-27-2.webp
+    title: agnes martin london tate modern 2020 01 27 2
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/agnes-martin-london-tate-modern-2021-12-06-3.webp
-    title: agnes martin london tate modern 2021 12 06 3
+  - src: ../../media/agnes-martin-london-tate-modern-2020-01-27-3.webp
+    title: agnes martin london tate modern 2020 01 27 3
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/agnes-martin-london-tate-modern-2021-12-06-4.webp
-    title: agnes martin london tate modern 2021 12 06 4
+  - src: ../../media/agnes-martin-london-tate-modern-2020-01-27-4.webp
+    title: agnes martin london tate modern 2020 01 27 4
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/agnes-martin-london-tate-modern-2021-12-06-5.webp
-    title: agnes martin london tate modern 2021 12 06 5
+  - src: ../../media/agnes-martin-london-tate-modern-2020-01-27-5.webp
+    title: agnes martin london tate modern 2020 01 27 5
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-startdate: 2021-12-06
-enddate: 2024-09-22
+startdate: 2020-01-27
+enddate: 2023-11-05
 town: London
-url: https://www.tate.org.uk/
+url: https://www.tate.org.uk/visit/tate-modern
 ongoing: false
 priority: 0
 

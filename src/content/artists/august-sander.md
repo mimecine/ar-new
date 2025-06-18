@@ -39,7 +39,7 @@ works:
     year: "1925"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00004-der-strmer-oder-revoluntionr-1925.webp
   - inventorynumber: AL00005
@@ -78,7 +78,7 @@ works:
     year: "1913"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00007-die-philosophin-1913.webp
   - inventorynumber: AL00008
@@ -104,7 +104,7 @@ works:
     year: "1913"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00009-die-weise-1913.webp
   - inventorynumber: AL00010
@@ -117,7 +117,7 @@ works:
     year: "1914"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00010-die-frau-im-fortgeshrittenen-intellekt-1914.webp
   - inventorynumber: AL00011
@@ -195,7 +195,7 @@ works:
     year: "1927"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00015-westerwlder-bauernmdchen-1927.webp
   - inventorynumber: AL00140
@@ -208,7 +208,7 @@ works:
     year: "1913"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00140-farm-children-1913.webp
   - inventorynumber: AL00166
@@ -234,7 +234,7 @@ works:
     year: "1919"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00017-bauernkind-1919.webp
   - inventorynumber: AL00018
@@ -247,7 +247,7 @@ works:
     year: "1921"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00018-witwe-mit-ihren-shnen-c1921.webp
   - inventorynumber: AL00141
@@ -273,7 +273,7 @@ works:
     year: "1913"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00019-bauernfamilie-1913.webp
   - inventorynumber: AL00020
@@ -286,7 +286,7 @@ works:
     year: "1912"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00020-bauernfamilie-1912.webp
   - inventorynumber: AL00021
@@ -299,7 +299,7 @@ works:
     year: "1930"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00021-bauer-bei-der-feldarbeit-c1930.webp
   - inventorynumber: AL00022
@@ -312,7 +312,7 @@ works:
     year: "1952"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00022-bauer-beim-sen-1952.webp
   - inventorynumber: AL00023
@@ -325,7 +325,7 @@ works:
     year: "1925"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00023-bauernpaar-am-spinnrad-1925-30.webp
   - inventorynumber: AL00024
@@ -338,7 +338,7 @@ works:
     year: "1932"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00024-bauernpaar-c1932.webp
   - inventorynumber: AL00025
@@ -351,7 +351,7 @@ works:
     year: "1924"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00025-herrenbauer-1924.webp
   - inventorynumber: AL00026
@@ -364,7 +364,7 @@ works:
     year: "1930"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00026-reisender-kaufmann-1930.webp
   - inventorynumber: AL00027
@@ -377,7 +377,7 @@ works:
     year: "1927"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00027-kleinstdterin-1927.webp
   - inventorynumber: AL00028
@@ -390,7 +390,7 @@ works:
     year: "1929"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00028-boxer-1929.webp
   - inventorynumber: AL00029
@@ -403,7 +403,7 @@ works:
     year: "1930"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
 
       AL00028 (on long-term loan from Anthony d'Offay, 2010)
@@ -418,7 +418,7 @@ works:
     year: "1920"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00030-sportflieger-1920.webp
   - inventorynumber: AL00032
@@ -431,7 +431,7 @@ works:
     year: "1926"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00032-maurermeister-1926.webp
   - inventorynumber: AL00031
@@ -444,7 +444,7 @@ works:
     year: "1930"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00031-schmied-c1930.webp
   - inventorynumber: AL00033
@@ -457,7 +457,7 @@ works:
     year: "1928"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00033-konditor-1928.webp
   - inventorynumber: AL00034
@@ -470,7 +470,7 @@ works:
     year: "1924"
     credit: >-
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
 
       (on long-term loan from Anthony d'Offay, 2010)
@@ -485,7 +485,7 @@ works:
     year: "1936"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00035-industrieller-c1936.webp
   - inventorynumber: AL00038
@@ -498,7 +498,7 @@ works:
     year: "1928"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00038-handlanger-1928.webp
   - inventorynumber: AL00039
@@ -511,7 +511,7 @@ works:
     year: "1928"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00039-grobschmiede-1928.webp
   - inventorynumber: AL00037
@@ -524,7 +524,7 @@ works:
     year: "1929"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00037-bauernknechte-1929.webp
   - inventorynumber: AL00036
@@ -536,7 +536,7 @@ works:
     year: "1927"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00036-proletariermutter-1927.webp
   - inventorynumber: AL00124
@@ -549,7 +549,7 @@ works:
     year: "1929"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00124-herbalist-1929.webp
   - inventorynumber: AL00040
@@ -562,7 +562,7 @@ works:
     year: "1925"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00040-geistearbeiter-des-proletariats-c1925.webp
   - inventorynumber: AL00042
@@ -575,7 +575,7 @@ works:
     year: "1929"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00042-erfinder-und-dadaist-1929.webp
   - inventorynumber: AL00043
@@ -588,7 +588,7 @@ works:
     year: "1925"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00043-ingenieur-und-werbeleiter-c1925.webp
   - inventorynumber: AL00041
@@ -601,7 +601,7 @@ works:
     year: "1930"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00041-lackarbeiter-c1930.webp
   - inventorynumber: AL00142
@@ -614,7 +614,7 @@ works:
     year: "1926"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00142-the-architect-hans-heinz-luttgen-and-his-wife-dora-1926.webp
   - inventorynumber: AL00143
@@ -627,7 +627,7 @@ works:
     year: "1925"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00143-the-painter-otto-dix-and-his-wife-martha-19256.webp
   - inventorynumber: AL00045
@@ -640,7 +640,7 @@ works:
     year: "1925"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00045-malerehepaar-marta-hegemann-und-anton-rderscheidt-c1925.webp
   - inventorynumber: AL00046
@@ -653,7 +653,7 @@ works:
     year: "1925"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00046-mutter-und-sohn-1925-30.webp
   - inventorynumber: AL00048
@@ -679,7 +679,7 @@ works:
     year: "1920"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00050-dorfpfarrer-mit-familie-1920-5.webp
   - inventorynumber: AL00049
@@ -692,7 +692,7 @@ works:
     year: "1924"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00049-geschwister-1924.webp
   - inventorynumber: AL00051
@@ -705,7 +705,7 @@ works:
     year: "1929"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00051-junge-frau-1929.webp
   - inventorynumber: AL00052
@@ -718,7 +718,7 @@ works:
     year: "1926"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00052-frau-eines-malers-helene-abelen-1926.webp
   - inventorynumber: AL00053
@@ -731,7 +731,7 @@ works:
     year: "1926"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00053-frau-eines-architekten-dora-lttgen-1926.webp
   - inventorynumber: AL00056
@@ -744,7 +744,7 @@ works:
     year: "1924"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00056-rotkreuzschwester-1924.webp
   - inventorynumber: AL00054
@@ -757,7 +757,7 @@ works:
     year: "1931"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00054-sekretrin-beim-westdeutschen-rundfunk-in-kln-1931.webp
   - inventorynumber: AL00057
@@ -769,7 +769,7 @@ works:
     year: "1921"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00057-corpsstudenten-1921.webp
   - inventorynumber: AL00058
@@ -782,7 +782,7 @@ works:
     year: "1926"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00058-werkstudenten-1926.webp
   - inventorynumber: AL00059
@@ -795,7 +795,7 @@ works:
     year: "1932"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00059-kunstgelehrter-karl-with-1932.webp
   - inventorynumber: AL00060
@@ -808,7 +808,7 @@ works:
     year: "1925"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00060-philosoph-max-scheler-c1925.webp
   - inventorynumber: AL00062
@@ -821,7 +821,7 @@ works:
     year: "1931"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00062-staatsanwalt-c1931.webp
   - inventorynumber: AL00061
@@ -834,7 +834,7 @@ works:
     year: "1925"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00061-polizeibeamter-der-herr-wachtmeister-1925.webp
   - inventorynumber: AL00063
@@ -847,7 +847,7 @@ works:
     year: "1929"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00063-der-arzt-carl-robert-schlayer-1929.webp
   - inventorynumber: AL00064
@@ -860,7 +860,7 @@ works:
     year: "1924"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00064-magnetopath-1924.webp
   - inventorynumber: AL00147
@@ -873,7 +873,7 @@ works:
     year: "1924"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00147-the-notary-1924.webp
   - inventorynumber: AL00066
@@ -886,7 +886,7 @@ works:
     year: "1919"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00066-der-schiedsrichter-1919.webp
   - inventorynumber: AL00065
@@ -899,7 +899,7 @@ works:
     year: "1931"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00065-rechtsanwalt-und-kunstsammler-josef-haubrich-1931.webp
   - inventorynumber: AL00067
@@ -912,7 +912,7 @@ works:
     year: "1940"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00067-soldat-1940.webp
   - inventorynumber: AL00068
@@ -925,7 +925,7 @@ works:
     year: "1944"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00068-unteroffizier-1944.webp
   - inventorynumber: AL00069
@@ -938,7 +938,7 @@ works:
     year: "1937"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
 
 
@@ -953,7 +953,7 @@ works:
     year: "1935"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00070-nationalsozialist-c1935.webp
   - inventorynumber: AL00148
@@ -966,7 +966,7 @@ works:
     year: "1941"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
 
 
@@ -981,7 +981,7 @@ works:
     year: "1937"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00150-ss-captain-1937.webp
   - inventorynumber: AL00149
@@ -994,7 +994,7 @@ works:
     year: "1941"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00149-young-national-socialist-1941.webp
   - inventorynumber: AL00151
@@ -1007,7 +1007,7 @@ works:
     year: "1937"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00151-national-socialist-head-of-department-of-culture-c1937.webp
   - inventorynumber: AL00077
@@ -1020,7 +1020,7 @@ works:
     year: "1929"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00077-kolonial-und-farbwarenhndler-c1929.webp
   - inventorynumber: AL00071
@@ -1033,7 +1033,7 @@ works:
     year: "1930"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00071-groherzog-ernst-ludwig-von-hessen-und-bei-rhein-c1930.webp
   - inventorynumber: AL00072
@@ -1046,7 +1046,7 @@ works:
     year: "1927"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00072-katholischer-geistlicher-1927.webp
   - inventorynumber: AL00073
@@ -1059,7 +1059,7 @@ works:
     year: "1920"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00073-frau-pastor-c1920.webp
   - inventorynumber: AL00074
@@ -1072,7 +1072,7 @@ works:
     year: "1921"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00074-dorfschullehrer-1921.webp
   - inventorynumber: A045022
@@ -1082,8 +1082,9 @@ works:
     title: Bäueliche Braut , 1922
     info: 1922, Gelatin silver print, 48 x 38 cm, Printed 1990
     year: "1922"
-    credit: |+
-      © August Sander
+    credit: >+
+      © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-a045022-bueliche-braut-1922.webp
   - inventorynumber: AL00075
@@ -1096,7 +1097,7 @@ works:
     year: "1928"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00075-jungelehrer-c1928.webp
   - inventorynumber: AL00076
@@ -1109,7 +1110,7 @@ works:
     year: "1929"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00076-bankier-1929.webp
   - inventorynumber: AL00078
@@ -1122,7 +1123,7 @@ works:
     year: "1927"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00078-kunsthndler-sam-salz-1927.webp
   - inventorynumber: AL00080
@@ -1135,7 +1136,7 @@ works:
     year: "1927"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00080-abgeordneter-demokrat-1927.webp
   - inventorynumber: AL00081
@@ -1148,7 +1149,7 @@ works:
     year: "1928"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00081-schriftsteller-und-theaterkritiker-theodor-haerten-1928.webp
   - inventorynumber: AL00079
@@ -1162,7 +1163,7 @@ works:
     year: "1931"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00079-vorsitzender-einter-splitterpareti-dr-braun-bund-der-geistigen-erneurer-deutschlands-1931.webp
   - inventorynumber: AL00082
@@ -1175,7 +1176,7 @@ works:
     year: "1926"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00082-schrifsteller-und-theaterkritiker-franz-paul-brckner-c1926.webp
   - inventorynumber: AL00083
@@ -1188,7 +1189,7 @@ works:
     year: "1928"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00083-fahrender-komdiant-1928-30.webp
   - inventorynumber: AL00084
@@ -1201,7 +1202,7 @@ works:
     year: "1934"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00084-filmschauspieler-zweiter-von-links-willy-virgel-1934.webp
   - inventorynumber: AL00086
@@ -1214,7 +1215,7 @@ works:
     year: "1929"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00086-der-architekt-hans-poelzig-1929.webp
   - inventorynumber: AL00087
@@ -1227,7 +1228,7 @@ works:
     year: "1925"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00087-maler-und-bildhauer-otto-freundlich-c1925.webp
   - inventorynumber: AL00091
@@ -1240,7 +1241,7 @@ works:
     year: "1928"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00091-maler-heinrich-hoerle-1928.webp
   - inventorynumber: AL00090
@@ -1253,7 +1254,7 @@ works:
     year: "1924"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00090-maler-jankel-adler-1924.webp
   - inventorynumber: AL00089
@@ -1266,7 +1267,7 @@ works:
     year: "1928"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00089-maler-robert-seuffert-1928.webp
   - inventorynumber: AL00125
@@ -1279,7 +1280,7 @@ works:
     year: "1926"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00125-painter-anton-raderscheidt-1926.webp
   - inventorynumber: AL00088
@@ -1292,7 +1293,7 @@ works:
     year: "1924"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00088-maler-gottfried-brockmann-1924.webp
   - inventorynumber: AL00126
@@ -1305,7 +1306,7 @@ works:
     year: "1925"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00126-composer-paul-hindemith-c1925.webp
   - inventorynumber: AL00092
@@ -1318,7 +1319,7 @@ works:
     year: "1925"
     credit: >+
       © Die Photographische Sammlung/SK Stiftung Kultur - August Sander Archiv,
-      Cologne; DACS, London, 2014
+      Cologne / DACS 2025
 
     src: ../../media/august-sander-al00092-komponist-richard-strauss-1925.webp
 

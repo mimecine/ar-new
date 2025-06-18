@@ -4,23 +4,37 @@ artists:
   - robert-therrien
 venue: tate-modern
 images:
-  - src: ../../media/robert-therrien-london-tate-modern-2009-04-29-0.webp
-    title: robert therrien london tate modern 2009 04 29 0
+  - src: ../../media/robert-therrien-london-tate-modern-2018-08-20-0.webp
+    title: robert therrien london tate modern 2018 08 20 0
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-startdate: 2009-04-29
-enddate: 2010-01-01
+  - src: ../../media/robert-therrien-london-tate-modern-2018-08-20-1.webp
+    title: robert therrien london tate modern 2018 08 20 1
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+  - src: ../../media/robert-therrien-london-tate-modern-2018-08-20-2.webp
+    title: robert therrien london tate modern 2018 08 20 2
+    alt: ""
+    credits: ""
+    caption: ""
+    copyright: "© "
+startdate: 2018-08-20
+enddate: 2018-10-07
 town: London
-url: http://www.tate.org.uk/visit/tate-modern
+url: https://www.tate.org.uk/
 ongoing: false
 priority: 0
 
 ---
 
-Robert Therrien’s gigantic sculpture No Title (Table and Four Chairs) 2003 filled the central gallery of a display exploring scale.
+Robert Therrien transforms our relationship with familiar objects by changing their scale
 
-Robert Therrien (b. 1947) presents a world of the unexpected filled with objects which are both familiar and strange. It can seem a fairytale place of deceptively childish charm and logic where ideas can literally be translated into reality. Inanimate things can become strikingly animated, soft and light become hard and heavy and size seems out of control.
+These sculptures are household objects enlarged to three-and-a-half times the usual size. The normal functions of furniture and crockery become impossible. We can’t use them, but we can explore them. They provide an opportunity for a childlike perspective on the adult world.
 
-During the 1980s the artist began to make objects with simple, recognisable shapes such as jugs, coffins and doors, transforming them through a variety of media including copper, wood and bronze. This developed his engagement with the notion of the found object, addressed most explicitly in his found brick paper drawings. His work with changing scale began in the early 1990s. Some objects he uses are found, some are made by and for the artist. His use of domestic images might suggest an interest in the spatial world of still-life but his interest in the human body’s interaction with space is more connected to architecture. Therrien’s images and the objects he selects expose the hidden drama of the unnoticed, invisible, physical and mental relationships which exist in the world of human beings, between human beings and between the objects they create to help them live their lives.
+Robert Therrien was born in 1947 in Chicago. The table and chairs he chose to scale-up, made by the Gunlocke Company, are typical of a mid-twentieth-century American interior. This was a time of economic growth in the United States. Domestic items such as tables, chairs and plates were produced in their thousands every day. Therrien’s sculptures show us details we might overlook in such common objects.
+
+The works have various artistic and literary forerunners. Surrealist artists in the first half of the twentieth century made familiar things appear strange. Many tried to produce ‘uncanny’ experiences, defined by psychoanalyst Sigmund Freud as ‘that class of frightening which leads back to what is … long familiar.’ Shifts in scale are central to Jonathan Swift’s Gulliver’s Travels (1726) and Lewis Carroll’s Alice’s Adventures in Wonderland (1865). In these books a change of size is a playful way of exploring political and philosophical questions.

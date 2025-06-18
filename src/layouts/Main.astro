@@ -5,8 +5,7 @@ import Footer from "@src/components/Footer.astro";
 import HeaderLink from "@src/components/HeaderLink.astro";
 import { Image } from "astro:assets";
 import { Icon } from "astro-icon/components";
-import { fade } from 'astro:transitions';
-
+import { fade } from "astro:transitions";
 
 interface Props {
   title: string;
@@ -26,10 +25,11 @@ title = title || frontmatter?.title || "Untitled";
     <BaseHead title={title} />
     <ViewTransitions />
   </head>
-  <body class="h-lvh w-lvw grid grid-rows-[1fr_auto] bg-(--main-background)" x-data="{portfolio:$persist([]),hello:14}">
+  <body
+    class="h-lvh w-lvw grid grid-rows-[1fr_auto] bg-(--main-background)"
+    x-data="{portfolio:$persist([]),hello:14}">
     <nav
-      class="flex items-center justify-between fixed print:relative px-2 h-14 lg:h-28 lg:px-4 py-2 lg:pt-4 lg:pb-2 border-b border-gray-500 bg-(--main-background) w-full z-500"
-    >
+      class="flex items-center justify-between fixed print:relative px-2 h-14 lg:h-28 lg:px-4 py-2 lg:pt-4 lg:pb-2 border-b border-gray-500 bg-(--main-background) w-full z-500">
       <div class="flex items-center">
         <a href="/" class="home border-b-0 pr-4 lg:pr-12">
           <Image
@@ -44,7 +44,8 @@ title = title || frontmatter?.title || "Untitled";
           <a href="#top">{title?.replace(/Artist Rooms|-/gi, "")}</a>
         </h1>
       </div>
-      <div class="flex flex-col justify-between lg:flex-row print:hidden lg:gap-0">
+      <div
+        class="flex flex-col justify-between lg:flex-row print:hidden lg:gap-0">
         <HeaderLink href="/rooms" class="hidden lg:inline-block"
           >Rooms</HeaderLink
         >
@@ -65,14 +66,15 @@ title = title || frontmatter?.title || "Untitled";
         <HeaderLink href="/about" class="hidden lg:inline-block"
           >About</HeaderLink
         >
-        <HeaderLink href="/portfolio" class="hidden lg:inline-block text-red-500" :class="{'lg:hidden!':portfolio.length==0}"
-          >Portfolio</HeaderLink
+        <HeaderLink
+          href="/portfolio"
+          class="hidden lg:inline-block text-red-500"
+          :class="{'lg:hidden!':portfolio.length==0}">Portfolio</HeaderLink
         >
 
         <div
           x-data="{ open: false}"
-          class="*:bg-(--main-background) *:z-500000 z-500000"
-        >
+          class="*:bg-(--main-background) *:z-500000 z-500000">
           <h1 @click="open = ! open" class="block lg:hidden text-[1.5rem]">
             <Icon
               name="material-symbols-light:menu"
@@ -83,36 +85,78 @@ title = title || frontmatter?.title || "Untitled";
             x-cloak
             x-show="open"
             x-transition
-            class="lg:hidden absolute top-14 right-0 border border-t-0 border-r-0 border-gray-500 flex flex-col items-end *:p-1"
-          >
+            class="lg:hidden absolute top-14 right-0 border border-t-0 border-r-0 border-gray-500 flex flex-col items-end *:p-1">
             <HeaderLink href="/rooms">Rooms</HeaderLink>
             <HeaderLink href="/artists">Artists</HeaderLink>
             <HeaderLink href="/films">Films</HeaderLink>
             <HeaderLink href="/venues">Venues</HeaderLink>
             <HeaderLink href="/map" data-astro-reload>Map</HeaderLink>
             <HeaderLink href="/about">About</HeaderLink>
-            <HeaderLink href="/portfolio" class="text-red-500" :class="{'hidden!':portfolio.length==0}">Portfolio</HeaderLink>
+            <HeaderLink
+              href="/portfolio"
+              class="text-red-500"
+              :class="{'hidden!':portfolio.length==0}">Portfolio</HeaderLink
+            >
           </div>
         </div>
       </div>
     </nav>
     <div class="grid justify-items-center print:py-12">
-      <article class="p-2 pt-16 lg:p-4 lg:pt-32 max-w-(--breakpoint-2xl) w-full" {...props}>
+      <article
+        class="p-2 pt-16 lg:p-4 lg:pt-32 max-w-(--breakpoint-2xl) w-full"
+        {...props}>
         <slot />
       </article>
     </div>
     <Footer />
+    <div x-data="cookieConsent" x-cloak>
+      <div
+        x-bind="dialogue"
+        class="fixed bottom-0 p-6 w-full flex justify-center z-2000">
+        <div
+          class="bg-gray-300/90 text-xs fade w-[450px] show">
+          <div
+            class="p-4 flex items-center justify-between px-6 border border-black">
+            <p>
+              Apologies, but we have to ask if you accept our
+              <a class="underline font-bold" href="#" target="_blank"
+                >Cookie Policy.</a
+              >
+            </p>
+
+            <button
+              x-bind="decline"
+              type="button"
+              class="px-5 py-3 text-white bg-gray-700 hover:bg-gray-800 ml-1.5 min-w-max"
+              >Decline</button
+            >
+            <button
+              x-bind="accept"
+              type="button"
+              class="px-5 py-3 text-white bg-gray-700 hover:bg-gray-800 ml-1.5 min-w-max"
+              >Accept</button
+            >
+          </div>
+        </div>
+      </div>
+    </div>
   </body>
 </html>
 <style is:global>
-    @reference "@styles/global.css";
+  @reference "@styles/global.css";
 
   :root {
-    cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="%23444444" stroke="%23FFFFFF" stroke-width="1"></circle></svg>') 12 12, auto;
+    cursor:
+      url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="%23444444" stroke="%23FFFFFF" stroke-width="1"></circle></svg>')
+        12 12,
+      auto;
   }
-  a, button, .cursor-pointer {
-    cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="%23FF0000" stroke="%23FFFFFF" stroke-width="2"></circle></svg>') 12 12, auto !important;
+  a,
+  button,
+  .cursor-pointer {
+    cursor:
+      url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="%23FF0000" stroke="%23FFFFFF" stroke-width="2"></circle></svg>')
+        12 12,
+      auto !important;
   }
-
 </style>
-
