@@ -1,5 +1,6 @@
 import type { Alpine } from "alpinejs";
 import persist from "@alpinejs/persist";
+import { isFromEU } from "detect-europe-js";
 
 export default (Alpine: Alpine) => {
   Alpine.plugin(persist);
@@ -17,7 +18,7 @@ export default (Alpine: Alpine) => {
 
     dialogue: {
       ["x-show"]() {
-        return this.state == "unknown";
+        return isFromEU() && this.state == "unknown";
       },
     },
 
