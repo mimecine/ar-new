@@ -52,7 +52,7 @@ if (src?.includes("vimeo")) {
     x-data="{open:false}"
     @keyup.escape.window="$el.close()"
     class="w-lvh h-lvh m-auto bg-black/90 backdrop:bg-gray-800/80"
-    onclose="console.log('closing dialog');this.querySelector('iframe').src = ''; this.querySelector('iframe').src = this.querySelector('iframe').dataset.src; console.log(this.querySelector('iframe').src)"
+    onclose="console.log('closing dialog');this.querySelector('iframe').src = ''; setTimeout(()=>{this.querySelector('iframe').src = this.querySelector('iframe').dataset.src; console.log(this.querySelector('iframe').src)},500);"
   >
     <form method="dialog">
       <button
