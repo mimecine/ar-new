@@ -186,10 +186,10 @@ const films = all_films.filter((film) =>
                     <div class="italic text-gray-400">
                       {work.credit.split("\n")[0]}
                     </div>
-                    <div class="uppercase italic font-normal">
+                    <div class="uppercase italic font-normal" x-data="added: false" x-init={`added = portfolio.some(w => w.inventorynumber === '${work.inventorynumber}')`}>
                       #{work.inventorynumber} <span 
                         @click.prevent={`work = ${JSON.stringify(work)}; work.artist = '${artist.data.title}'; work.image = document.querySelector('#slide${_i} img').src; if(true || !portfolio.some(w => w.inventorynumber === work.inventorynumber)){portfolio.push(work)}`} 
-                        class="text-gray-400 text-2xl cursor-pointer active:text-green-500 active:text-4xl"> + </span>
+                        class="text-gray-400 text-2xl cursor-pointer active:text-4xl transition-colors duration-350 ease-in" :class="{'text-green-600':added}"> + </span>
                     </div>
                   </div>
                 </div>

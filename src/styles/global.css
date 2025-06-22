@@ -32,8 +32,12 @@
   }
 } 
 
-
 @layer base {
+
+}
+
+
+/*@layer base {*/
   *,
   ::after,
   ::before,
@@ -41,13 +45,8 @@
   ::file-selector-button {
     border-color: var(--color-gray-200, currentcolor);
   }
-}
 
-/*
-  The CSS in this style tag is based off of Bear Blog's default CSS.
-  https://github.com/HermanMartinus/bearblog/blob/297026a877bc2ab2b3bdfbd6b9f7961c350917dd/templates/styles/blog/default.css
-  License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
- */
+
 
 /* fredoka-latin-wght-normal */
 @font-face {
@@ -208,11 +207,7 @@ hr {
 	border: none;
 	border-top: 1px solid rgb(var(--gray-dark));
 }
-@media (max-width: 720px) {
-	/* body {
-		font-size: 18px;
-	} */
-}
+
 
 .sr-only {
 	border: 0;
@@ -250,10 +245,12 @@ html {
     @apply scroll-m-32 lg:scroll-m-52
   }
   a:target {
-    @apply block animate-pulse ;
+    @apply block animate-pulse;
     animation-iteration-count: 3;
   }
 
   @media print {
 	
   }
+/*}*/
+

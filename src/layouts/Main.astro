@@ -67,7 +67,7 @@ title = title || (typeof frontmatter?.title === "string" ? frontmatter.title : u
           >About</HeaderLink
         >
         <HeaderLink
-          x-cloak={cloak ? "true" : "false"}
+          cloak={true}
           href="/portfolio"
           class="hidden lg:inline-block text-red-500"
           :class="{'lg:hidden!':portfolio.length==0}">Portfolio</HeaderLink
@@ -94,8 +94,9 @@ title = title || (typeof frontmatter?.title === "string" ? frontmatter.title : u
             <HeaderLink href="/map" xdata-astro-reload cloak={true}>Map</HeaderLink>
             <HeaderLink href="/about">About</HeaderLink>
             <HeaderLink
+              cloak={true}
               href="/portfolio"
-              class="text-red-500"
+              class="!text-red-500"
               :class="{'hidden!':portfolio.length==0}">Portfolio</HeaderLink
             >
           </div>
