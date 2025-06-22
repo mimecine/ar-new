@@ -30,11 +30,11 @@ venues.sort((a, b) => {
   ></script>
   <script>
     var loadedHandler = async () => {
-      if (window._mapInit != null) {
-        return;
-      } else {
-        window._mapInit = true;
-      }
+      // if (window._mapInititialized != null) {
+      //   return;
+      // } else {
+      //   window._mapInititialized = true;
+      // }
 
       const venues = await (await fetch("/venues.json")).json();
 
@@ -121,7 +121,7 @@ venues.sort((a, b) => {
       map.fitBounds(bounds);
     };
 
-    window.addEventListener("DOMContentLoaded", loadedHandler);
+    // window.addEventListener("DOMContentLoaded", loadedHandler);
     document.addEventListener("astro:page-load", loadedHandler);
   </script>
   <style is:inline>
