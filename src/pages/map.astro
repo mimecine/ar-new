@@ -30,11 +30,11 @@ venues.sort((a, b) => {
   ></script>
   <script>
     var loadedHandler = async () => {
-      // if (window._mapInititialized != null) {
-      //   return;
-      // } else {
-      //   window._mapInititialized = true;
-      // }
+      if (window._mapInititialized != null ) {
+        return;
+      } else {
+        window._mapInititialized = true;
+      }
 
       const venues = await (await fetch("/venues.json")).json();
 
