@@ -1,5 +1,5 @@
 ---
-import { ViewTransitions } from "astro:transitions";
+import { ViewTransitions, ClientRouter } from "astro:transitions";
 import BaseHead from "@src/components/BaseHead.astro";
 import Footer from "@src/components/Footer.astro";
 import HeaderLink from "@src/components/HeaderLink.astro";
@@ -14,16 +14,16 @@ interface Props {
   frontmatter?: Record<string, unknown>;
 }
 
-let { title, description, image, frontmatter, ...props } = Astro.props;
-title = title || frontmatter?.title || "Untitled";
+let { title, description, image, cloak, frontmatter, ...props } = Astro.props;
+title = title || (typeof frontmatter?.title === "string" ? frontmatter.title : undefined) || "Untitled";
 ---
 
 <html lang="en-US" class="bg-(--main-background)">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <BaseHead title={title} />
-    <ViewTransitions />
+    <BaseHead title={title} description={description} image={image}/>
+    <ClientRouter />
   </head>
   <body
     class="h-lvh w-lvw grid grid-rows-[1fr_auto] bg-(--main-background)"
@@ -67,6 +67,7 @@ title = title || frontmatter?.title || "Untitled";
           >About</HeaderLink
         >
         <HeaderLink
+          x-cloak={cloak ? "true" : "false"}
           href="/portfolio"
           class="hidden lg:inline-block text-red-500"
           :class="{'lg:hidden!':portfolio.length==0}">Portfolio</HeaderLink
@@ -90,7 +91,7 @@ title = title || frontmatter?.title || "Untitled";
             <HeaderLink href="/artists">Artists</HeaderLink>
             <HeaderLink href="/films">Films</HeaderLink>
             <HeaderLink href="/venues">Venues</HeaderLink>
-            <HeaderLink href="/map" data-astro-reload>Map</HeaderLink>
+            <HeaderLink href="/map" data-astro-reload cloak={true}>Map</HeaderLink>
             <HeaderLink href="/about">About</HeaderLink>
             <HeaderLink
               href="/portfolio"

@@ -2,6 +2,7 @@ import type { Alpine } from "alpinejs";
 import persist from "@alpinejs/persist";
 import { isFromEU } from "detect-europe-js";
 
+
 export default (Alpine: Alpine) => {
   Alpine.plugin(persist);
   Alpine.magic(
@@ -48,7 +49,11 @@ export default (Alpine: Alpine) => {
   }));
 };
 
+
+
 async function fetchPoster(url: string): Promise<string | null> {
+
+
   const vimeoRegex = /https?:\/\/(www\.)?vimeo\.com\/(\d+)/;
   const youtubeRegex =
     /https?:\/\/(www\.)?youtube\.com\/watch\?v=([a-zA-Z0-9_-]+)/;

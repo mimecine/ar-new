@@ -4,30 +4,30 @@ import type { HTMLAttributes } from 'astro/types';
 
 // type Props = HTMLAttributes<'img'>;
 
-interface Props extends HTMLAttributes<'img'>{
-    src: string;
-    alt?: string;
-    title?: string;
-    loading?: "lazy" | "eager";
-    href?: string;
-    width?: number;
-    widths?: number[];
-    sizes?: string;
-};
+// interface Props extends HTMLAttributes<'img'>{
+//     src: string;
+//     alt?: string;
+//     title?: string;
+//     loading?: "lazy" | "eager";
+//     href?: string;
+//     width?: number;
+//     widths?: number[];
+//     sizes?: string;
+// };
 
-interface Image  {
-    src: string;
-    alt?: string;
-    title?: string;
-    loading?: "lazy" | "eager";
-    href?: string;
-    width?: number;
-    widths?: number[];
-    sizes?: string;
-    class?: string;
-    onload?: string;
-    [key: string]: any;
-};
+// interface Image  {
+//     src: string;
+//     alt?: string;
+//     title?: string;
+//     loading?: "lazy" | "eager";
+//     href?: string;
+//     width?: number;
+//     widths?: number[];
+//     sizes?: string;
+//     class?: string;
+//     onload?: string;
+//     [key: string]: any;
+// };
 
 const { src, alt, title, loading, href, width, widths, sizes, class: className, ...props } = Astro.props;
 
