@@ -1,0 +1,162 @@
+---
+import Main from "../layouts/Main.astro";
+// edit map: https://umap.openstreetmap.fr/en/map/anonymous-edit/1030519:C1Kw6cUMqXnU6KZloIwgBKMk87isAZ9LdWPvlmxYaoA
+// https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png
+
+import { getCollection } from "astro:content";
+const venues = await getCollection("venues");
+venues.sort((a, b) => {
+  return a.data.title.localeCompare(b.data.title);
+});
+---
+
+<Main title="Map">
+  <div class="flex justify-center w-full h-full">
+    <div id="map" class="w-full max-w-(--breakpoint-2xl) h-full border border-gray-500">
+    </div>
+  </div>
+  <script>
+    import "leaflet/dist/leaflet.js";
+    // import "leaflet/dist/leaflet.css";
+    import "leaflet.markercluster/dist/leaflet.markercluster.js";
+    // import "leaflet.markercluster/dist/MarkerCluster.css";
+
+    var loadedHandler = async () => {
+      if (window._mapInititialized != null ) {
+        return;
+      } else {
+        window._mapInititialized = true;
+      }
+
+      const venues = await (await fetch("/venues.json")).json();
+
+      var map = L.map("map").setView([51.505, -0.09], 13);
+      var bounds = L.latLngBounds(); // Instantiate LatLngBounds object
+      var markers = L.markerClusterGroup({
+        maxClusterRadius: 25,
+        iconCreateFunction: function (cluster) {
+          var markers = cluster.getAllChildMarkers();
+          var n = 0;
+          for (var i = 0; i < markers.length; i++) {
+            n += markers[i].number;
+          }
+          return L.divIcon({
+            html: markers.length,
+            className: "mycluster",
+            iconSize: L.point(20, 20),
+          });
+        },
+        //Disable all of the defaults:
+        spiderfyOnMaxZoom: false,
+        showCoverageOnHover: false,
+        zoomToBoundsOnClick: true,
+      });
+      // Instantiate MarkerClusterGroup to hold marker clusters
+
+      var lgIcon = L.icon({
+        iconUrl: "/map-point.svg",
+        iconSize: [20, 20],
+        iconAnchor: [10, 10],
+        popupAnchor: [0, 0],
+      });
+      var mdIcon = L.icon({
+        iconUrl: "/map-point.svg",
+        iconSize: [10, 10],
+        iconAnchor: [5, 5],
+        popupAnchor: [0, 0],
+      });
+      var smIcon = L.icon({
+        iconUrl: "/map-point.svg",
+        iconSize: [5, 5],
+        iconAnchor: [3, 2.5],
+        popupAnchor: [0, 0],
+      });
+
+      L.tileLayer(
+        "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
+        {
+          maxZoom: 19,
+          attribution:
+            '&copy; <a href="http://www.openstreetmap.org/copyright">OSM</a>',
+        }
+      ).addTo(map);
+
+      venues.map((venue) => {
+        if (venue.data.geo) {
+          let geo = JSON.parse(venue.data.geo);
+          let lon_lat = geo.coordinates.reverse();
+          var marker = L.marker(lon_lat, { icon: lgIcon }).addTo(markers);
+          let new_year = "";
+          var room_string = venue.data.rooms
+            .sort((a, b) => new Date(a.date) - new Date(b.date))
+            .map((room) => {
+              let year = room.date.slice(0, 4);
+              if (new_year != year) {
+                new_year = year;
+                return `<span class="italic">${year}:</span> <a href="/rooms/${room.id}" class="text-black! font-(--font-family)!">${room.title.replace(/,[^,]+$/, "")}</a>`;
+              } else {
+                return `<a href="/rooms/${room.id}" class="text-black! font-(--font-family)!">${room.title.replace(/,[^,]+$/, "")}</a>`;
+              }
+            })
+            .join("; ");
+          marker.bindPopup(`
+                    <h3 class="text-black font-(--font-family)!">${venue.data.title}</h3>
+                    <p class="text-lg!">${room_string}</p>
+                    <p><a class="text-xs! !font-italic text-black! underline!" href="https://google.com/maps/search/?api=1&query=${venue.data.title}, ${venue.data.town}, UK" target="_map">${venue.data.address}</a></p>
+                    `);
+          marker.bindTooltip(venue.data.title); // too ugly!
+          bounds.extend(lon_lat);
+        }
+      });
+
+      map.addLayer(markers);
+      map.fitBounds(bounds);
+    };
+
+    window.addEventListener("DOMContentLoaded", loadedHandler);
+    document.addEventListener("astro:page-load", loadedHandler);
+  </script>
+  <style is:inline>
+
+    @reference "@src/styles/global.css";
+
+    .leaflet-container {
+      font-family: "Fredoka Variable", sans-serif;
+    
+    .leaflet-popup-content-wrapper {
+      box-shadow: none !important;
+      border: 1px solid #6b7280 !important;
+      border-radius: 0 !important;
+      background-color: var(--main-background);
+    }
+    .leaflet-popup-tip {
+      border-bottom: 1px solid #6b7280;
+      border-right: 1px solid #6b7280;
+    }
+
+    .leaflet-bottom {
+      -x-z-index: 1;
+    }
+    .leaflet-popup-content {
+    }
+
+    .leaflet-control-attribution {
+      /* font-size: 0.8rem; */
+      background: none;
+      color:#6b7280;
+      filter: grayscale(100%);
+    }
+
+    .mycluster {
+      width: 20px;
+      height: 15px;
+      border: 2px solid #6b7280;
+      border-radius: 100%;
+      background-color: var(--main-background);
+      color: white;
+      text-align: center;
+      font-size: 0.6rem;
+    }
+  }
+  </style>
+</Main>
