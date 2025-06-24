@@ -15,14 +15,17 @@ interface Props {
 }
 
 let { title, description, image, cloak, frontmatter, ...props } = Astro.props;
-title = title || (typeof frontmatter?.title === "string" ? frontmatter.title : undefined) || "Untitled";
+title =
+  title ||
+  (typeof frontmatter?.title === "string" ? frontmatter.title : undefined) ||
+  "Untitled";
 ---
 
 <html lang="en-US" class="bg-(--main-background)">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <BaseHead title={title} description={description} image={image}/>
+    <BaseHead title={title} description={description} image={image} />
     <ClientRouter />
   </head>
   <body
@@ -33,7 +36,7 @@ title = title || (typeof frontmatter?.title === "string" ? frontmatter.title : u
       <div class="flex items-center">
         <a href="/" class="home border-b-0 pr-4 lg:pr-12">
           <Image
-            src={"/logo.svg"}
+            src={"/logo-lg.png"}
             alt="Artist Rooms"
             width="72"
             height="56"
@@ -58,10 +61,8 @@ title = title || (typeof frontmatter?.title === "string" ? frontmatter.title : u
         <HeaderLink href="/venues" class="hidden lg:inline-block"
           >Venues</HeaderLink
         >
-        <HeaderLink
-          href="/map"
-          class="hidden! lg:inline-block!"
-          data-astro-reload>Map</HeaderLink
+        <HeaderLink href="/map" class="hidden! lg:inline-block!" dataAstroReload
+          >Map</HeaderLink
         >
         <HeaderLink href="/about" class="hidden lg:inline-block"
           >About</HeaderLink
@@ -91,7 +92,9 @@ title = title || (typeof frontmatter?.title === "string" ? frontmatter.title : u
             <HeaderLink href="/artists">Artists</HeaderLink>
             <HeaderLink href="/films">Films</HeaderLink>
             <HeaderLink href="/venues">Venues</HeaderLink>
-            <HeaderLink href="/map" xata-astro-reload cloak={true}>Map</HeaderLink>
+            <HeaderLink href="/map" xata-astro-reload cloak={true}
+              >Map</HeaderLink
+            >
             <HeaderLink href="/about">About</HeaderLink>
             <HeaderLink
               cloak={true}
@@ -115,8 +118,7 @@ title = title || (typeof frontmatter?.title === "string" ? frontmatter.title : u
       <div
         x-bind="dialogue"
         class="fixed bottom-0 p-6 w-full flex justify-center z-2000">
-        <div
-          class="bg-gray-300/90 text-xs fade w-[450px] show">
+        <div class="bg-gray-300/90 text-xs fade w-[450px] show">
           <div
             class="p-4 flex items-center justify-between px-6 border border-black">
             <p>
