@@ -16,7 +16,11 @@ films = await Promise.all(
     })
 );
 
-const artists = await getCollection("artists");
+const artists = (await getCollection("artists"))
+  .filter((artist) => artist.data.hidden !== true)
+  .sort((a, b) => {
+    return a.data.title.localeCompare(b.data.title);
+  });
 
 const featured_films = [];
 
