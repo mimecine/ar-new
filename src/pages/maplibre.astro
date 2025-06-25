@@ -17,6 +17,7 @@ venues.sort((a, b) => {
       class="w-full max-w-(--breakpoint-2xl) h-full border border-gray-500">
     </div>
   </div>
+
   <script>
     import maplibregl from "maplibre-gl";
     import "maplibre-gl/dist/maplibre-gl.css";
@@ -47,12 +48,12 @@ venues.sort((a, b) => {
         sources: {
           openmaptiles: {
             type: "vector",
-            url: "https://api.maptiler.com/tiles/v3-openmaptiles/tiles.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL",
+            url: "https://api.maptiler.com/tiles/v3-openmaptiles/tiles.json?key=oFGnI6jHylEYQDfAvXQE",
           },
         },
         sprite: "https://openmaptiles.github.io/positron-gl-style/sprite",
         glyphs:
-          "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=get_your_own_OpIi9ZULNHzrESv6T2vL",
+          "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=oFGnI6jHylEYQDfAvXQE",
         layers: [
           {
             id: "background",
