@@ -4,7 +4,7 @@ import Main from "@src/layouts/Main.astro";
 <Main title="Portfolio" x-data="{ open: false}">
   <main data-pagefind-ignore class=" h-full">
     <section class="h-full">
-      <template x-for="(work, index) in portfolio" :key="index">
+      <template x-for="(work, index) in portfolio?.distinct('inventorynumber')" :key="index">
         <div class="flex flex-wrap pb-12 w-full print:break-inside-avoid-page">
           <img :src="work.image" alt="" class="work max-h-[8in] object-contain mx-auto">
           <div class="w-full py-4">
@@ -23,7 +23,7 @@ import Main from "@src/layouts/Main.astro";
     </section>
   </main>
 </Main>
-<script>
+<script is:inline>
 Array.prototype.distinct = function (key) {
     let map = new Map();
     let result = [];
