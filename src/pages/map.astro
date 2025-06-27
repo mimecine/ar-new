@@ -3,11 +3,6 @@ import Main from "../layouts/Main.astro";
 // edit map: https://umap.openstreetmap.fr/en/map/anonymous-edit/1030519:C1Kw6cUMqXnU6KZloIwgBKMk87isAZ9LdWPvlmxYaoA
 // https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png
 
-import { getCollection } from "astro:content";
-const venues = await getCollection("venues");
-venues.sort((a, b) => {
-  return a.data.title.localeCompare(b.data.title);
-});
 ---
 
 <Main title="Map">
