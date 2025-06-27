@@ -11,6 +11,7 @@ interface Props {
   title: string;
   description?: string;
   image?: string;
+  cloak?: boolean;
   frontmatter?: Record<string, unknown>;
 }
 
@@ -70,7 +71,7 @@ title =
         <HeaderLink
           cloak={true}
           href="/portfolio"
-          class="hidden lg:inline-block text-red-500"
+          class="hidden lg:inline-block !text-red-500"
           :class="{'lg:hidden!':portfolio.length==0}">Portfolio</HeaderLink
         >
 
