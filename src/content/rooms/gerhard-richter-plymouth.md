@@ -2,34 +2,34 @@
 title: Gerhard Richter, Plymouth
 artists:
   - gerhard-richter
-venue: plymouth-city-museum-and-art-gallery
+venue: the-box
 images:
-  - src: ../../media/gerhard-richter-plymouth-plymouth-city-museum-art-gallery-2015-09-26-0.webp
-    title: gerhard richter plymouth plymouth city museum art gallery 2015 09 26 0
+  - src: ../../media/gerhard-richter-plymouth-the-box-2015-09-26-0.webp
+    title: gerhard richter plymouth the box 2015 09 26 0
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/gerhard-richter-plymouth-plymouth-city-museum-art-gallery-2015-09-26-1.webp
-    title: gerhard richter plymouth plymouth city museum art gallery 2015 09 26 1
+  - src: ../../media/gerhard-richter-plymouth-the-box-2015-09-26-1.webp
+    title: gerhard richter plymouth the box 2015 09 26 1
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/gerhard-richter-plymouth-plymouth-city-museum-art-gallery-2015-09-26-2.webp
-    title: gerhard richter plymouth plymouth city museum art gallery 2015 09 26 2
+  - src: ../../media/gerhard-richter-plymouth-the-box-2015-09-26-2.webp
+    title: gerhard richter plymouth the box 2015 09 26 2
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/gerhard-richter-plymouth-plymouth-city-museum-art-gallery-2015-09-26-3.webp
-    title: gerhard richter plymouth plymouth city museum art gallery 2015 09 26 3
+  - src: ../../media/gerhard-richter-plymouth-the-box-2015-09-26-3.webp
+    title: gerhard richter plymouth the box 2015 09 26 3
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/gerhard-richter-plymouth-plymouth-city-museum-art-gallery-2015-09-26-4.webp
-    title: gerhard richter plymouth plymouth city museum art gallery 2015 09 26 4
+  - src: ../../media/gerhard-richter-plymouth-the-box-2015-09-26-4.webp
+    title: gerhard richter plymouth the box 2015 09 26 4
     alt: ""
     credits: ""
     caption: ""

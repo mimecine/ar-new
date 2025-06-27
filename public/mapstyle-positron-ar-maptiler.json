@@ -2,6 +2,7 @@
   "version": 8,
   "name": "Positron",
   "metadata": {
+    "style:editor": "https://maplibre.org/maputnik",
     "mapbox:autocomposite": false,
     "mapbox:groups": {
       "101da9f13b64a08fa4b6ac1168e89e5f": {

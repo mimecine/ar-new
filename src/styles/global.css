@@ -17,6 +17,12 @@
   --font-sans: var(--font-family), var(--font-sans);
   --font-serif: var(--font-serif);
   --font-mono: var(--font-mono);
+  --cursor-ar-default: url('/cursor-default.svg')
+        12 12,
+      auto;
+  --cursor-ar-pointer: url('/cursor-pointer.svg')
+        12 12,
+      pointer;
 
   --animate-blink: blink 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
 

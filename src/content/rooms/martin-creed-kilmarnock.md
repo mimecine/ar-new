@@ -2,34 +2,34 @@
 title: Martin Creed, Kilmarnock
 artists:
   - martin-creed
-venue: the-dick-institute
+venue: dick-institute
 images:
-  - src: ../../media/martin-creed-kilmarnock-the-dick-institute-2023-09-22-0.webp
-    title: martin creed kilmarnock the dick institute 2023 09 22 0
+  - src: ../../media/martin-creed-kilmarnock-dick-institute-2023-09-22-0.webp
+    title: martin creed kilmarnock dick institute 2023 09 22 0
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/martin-creed-kilmarnock-the-dick-institute-2023-09-22-1.webp
-    title: martin creed kilmarnock the dick institute 2023 09 22 1
+  - src: ../../media/martin-creed-kilmarnock-dick-institute-2023-09-22-1.webp
+    title: martin creed kilmarnock dick institute 2023 09 22 1
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/martin-creed-kilmarnock-the-dick-institute-2023-09-22-2.webp
-    title: martin creed kilmarnock the dick institute 2023 09 22 2
+  - src: ../../media/martin-creed-kilmarnock-dick-institute-2023-09-22-2.webp
+    title: martin creed kilmarnock dick institute 2023 09 22 2
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/martin-creed-kilmarnock-the-dick-institute-2023-09-22-3.webp
-    title: martin creed kilmarnock the dick institute 2023 09 22 3
+  - src: ../../media/martin-creed-kilmarnock-dick-institute-2023-09-22-3.webp
+    title: martin creed kilmarnock dick institute 2023 09 22 3
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/martin-creed-kilmarnock-the-dick-institute-2023-09-22-4.webp
-    title: martin creed kilmarnock the dick institute 2023 09 22 4
+  - src: ../../media/martin-creed-kilmarnock-dick-institute-2023-09-22-4.webp
+    title: martin creed kilmarnock dick institute 2023 09 22 4
     alt: ""
     credits: ""
     caption: ""

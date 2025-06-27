@@ -11,8 +11,8 @@ works:
     info: 1972, Acrylic paint and silkscreen on 2 canvases, 1017 x 1017 x 29 mm
     year: "1972"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00230-alexandre-iolas-1972.webp
   - inventorynumber: AR00039
@@ -23,8 +23,8 @@ works:
     info: "1974, Acrylic paint and silkscreen on 2 canvases, ea: 356 x 280 x 20 mm"
     year: "1974"
     credit: >-
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
 
       AR0039
@@ -37,8 +37,8 @@ works:
     info: 1975, Acrylic paint and silkscreen on 2 canvases, 1022 x 1019 x 21 mm
     year: "1975"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00040-gilbert-and-george-1975.webp
   - inventorynumber: AR00609
@@ -49,8 +49,8 @@ works:
     info: "1976, Acrylic paint and silkscreen on 6 canvases, ea: 383 x 483 x 18 mm"
     year: "1976"
     credit: >+
-      © 2015 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00609-skulls-1976.webp
   - inventorynumber: AR00610
@@ -61,8 +61,8 @@ works:
     info: 1978, Acrylic paint and silkscreen on canvas, 408 x 332 x 20 mm
     year: "1978"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00610-self-portrait-with-skull-1978.webp
   - inventorynumber: AR00503
@@ -73,8 +73,8 @@ works:
     info: 1978, Acrylic paint and silkscreen on canvas, 408 x 331 x 18 mm
     year: "1978"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00503-self-portrait-strangulation-1978.webp
   - inventorynumber: AR00501
@@ -85,8 +85,8 @@ works:
     info: 1978, Acrylic paint and silkscreen on canvas, 408 x 333 x 20 mm
     year: "1978"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00501-self-portrait-1978.webp
   - inventorynumber: AR00587
@@ -97,8 +97,8 @@ works:
     info: "1980, Acrylic paint and silkscreen on canvas, Support: 508 x 410 x 23 mm"
     year: "1980"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00587-joseph-beuys-1980.webp
   - inventorynumber: AR00231
@@ -109,8 +109,8 @@ works:
     info: "1981, Acrylic paint and silkscreen on 2 canvases, ea: 1782 x 2286 x 40 mm"
     year: "1981"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00231-gun-1981.webp
   - inventorynumber: AR00502
@@ -121,8 +121,8 @@ works:
     info: 1981, Acrylic paint and silkscreen on canvas, 2287 x 1780 x 33 mm
     year: "1981"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00502-dollar-sign-1981.webp
   - inventorynumber: AR00232
@@ -133,8 +133,8 @@ works:
     info: 1983, Acrylic paint and silkscreen on canvas, 1017 x 1017 x 35 mm
     year: "1983"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00232-robert-mapplethorpe-1983.webp
   - inventorynumber: AR00611
@@ -145,8 +145,8 @@ works:
     info: "1986, acrylic paint and silkscreen on 4 canvases, ea: 1830 x 1830 x 33 mm"
     year: "1986"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00611-camouflage-1986.webp
   - inventorynumber: AR00233
@@ -158,8 +158,8 @@ works:
       mm"
     year: "1985"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00233-hamburger-1985-6.webp
   - inventorynumber: AR00239
@@ -170,8 +170,8 @@ works:
     info: 1985-6, Acrylic paint and silkscreen on 2 canvases, 510 x 410 x 20 mm
     year: "1985"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00239-christ-998-negative-and-positive-1985-6.webp
   - inventorynumber: AR00588
@@ -183,8 +183,8 @@ works:
       mm"
     year: "1985"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00588-paratrooper-boots-1985-6.webp
   - inventorynumber: AR00236
@@ -196,8 +196,8 @@ works:
       mm"
     year: "1985"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00236-are-you-different-c1985-6.webp
   - inventorynumber: AR00237
@@ -209,8 +209,8 @@ works:
       mm"
     year: "1985"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00237-energy-power-c1985-6.webp
   - inventorynumber: AR00235
@@ -221,8 +221,8 @@ works:
     info: c.1985-6, Acrylic paint and silkscreen on canvas, 1830 x 2032 x 32 mm
     year: "1985"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00235-map-of-eastern-ussr-missile-bases-c1985-6.webp
   - inventorynumber: AR00234
@@ -233,8 +233,8 @@ works:
     info: 1985-6, Acrylic paint and silkscreen on 2 canvases, 2034 x 1781 x 33 mm
     year: "1985"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00234-repent-and-sin-no-more-1985-6.webp
   - inventorynumber: AR00238
@@ -246,8 +246,8 @@ works:
       mm"
     year: "1985"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00238-the-mark-of-the-beast-c1985-6.webp
   - inventorynumber: AR00299
@@ -258,8 +258,8 @@ works:
     info: 1987, 4 photographs, gelatin silver print on paper and thread, 711 x 599 mm
     year: "1987"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00299-male-nude-1987.webp
   - inventorynumber: AR00300
@@ -270,8 +270,8 @@ works:
     info: 1987, 4 photographs, gelatin silver print on paper and thread, 695 x 540 mm
     year: "1987"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00300-male-nude-1987.webp
   - inventorynumber: AR00301
@@ -282,8 +282,8 @@ works:
     info: 1987, 4 photographs, gelatin silver print on paper and thread, 696 x 540 mm
     year: "1987"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00301-male-nude-1987.webp
   - inventorynumber: AR00298
@@ -294,8 +294,8 @@ works:
     info: 1987, 4 photographs, gelatin silver print on paper and thread, 711 x 559 mm
     year: "1987"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00298-male-nude-1987.webp
   - inventorynumber: AR00293
@@ -306,8 +306,8 @@ works:
     info: 1986, 6 photographs, gelatin silver print on paper and thread, 803 x 694 mm
     year: "1986"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00293-cadaver-1986.webp
   - inventorynumber: AR00297
@@ -318,8 +318,8 @@ works:
     info: 1986, 4 photographs, gelatin silver print on paper and thread, 698 x 543 mm
     year: "1986"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00297-trash-cans-1986.webp
   - inventorynumber: AR00290
@@ -330,8 +330,8 @@ works:
     info: 1986, 9 photographs, gelatin silver print on paper, 1067 x 838 mm
     year: "1986"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00290-grace-jones.webp
   - inventorynumber: AR00295
@@ -343,8 +343,8 @@ works:
       mm
     year: "1986"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00295-sunday-brunch-1986.webp
   - inventorynumber: AR00296
@@ -356,8 +356,8 @@ works:
       mm
     year: "1986"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00296-no-parking-1986.webp
   - inventorynumber: AR00294
@@ -369,8 +369,8 @@ works:
       mm
     year: "1986"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00294-venus-in-shell-1986.webp
   - inventorynumber: AR00291
@@ -382,8 +382,8 @@ works:
       mm
     year: "1986"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00291-grace-being-painted-by-keith-1986.webp
   - inventorynumber: AR00288
@@ -395,8 +395,8 @@ works:
       mm
     year: "1986"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00288-dissection-class-1986.webp
   - inventorynumber: AR00292
@@ -408,8 +408,8 @@ works:
       mm
     year: "1986"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00292-cough-1986.webp
   - inventorynumber: AR00289
@@ -420,8 +420,8 @@ works:
     info: 1986,  9 photographs, gelatin silver print on paper,  1067 x 838 mm
     year: "1986"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00289-i-am-blind-1986.webp
   - inventorynumber: AR00286
@@ -433,8 +433,8 @@ works:
       804 mm
     year: "1976"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00286-self-portrait-1976-86.webp
   - inventorynumber: AR00287
@@ -446,8 +446,8 @@ works:
       mm
     year: "1986"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00287-statue-of-liberty-1986.webp
   - inventorynumber: AR00316
@@ -458,8 +458,8 @@ works:
     info: "1976,  2 photographs, colour, Polaroid, on paper,  each: 95 x 72 mm"
     year: "1976"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00316-gilbert-and-george-1976.webp
   - inventorynumber: AR00317
@@ -470,8 +470,8 @@ works:
     info: "1976,  2 photographs, colour, Polaroid on paper,  each: 95 x 72 mm"
     year: "1976"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00317-gilbert-and-george-1976.webp
   - inventorynumber: AR00305
@@ -482,8 +482,8 @@ works:
     info: 1977-8,  Photograph, colour, Polaroid on paper,  96 x 72 mm
     year: "1977"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00305-self-portrait-with-hand-to-cheek-1977-8.webp
   - inventorynumber: AR00304
@@ -494,8 +494,8 @@ works:
     info: 1977-8,  Photograph, colour, Polaroid on paper,  93 x 73 mm
     year: "1977"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00304-self-portrait-in-blue-shirt-1977-8.webp
   - inventorynumber: AR00303
@@ -506,8 +506,8 @@ works:
     info: 1977-8,  Photograph, colour, Polaroid, on paper,  95 x 72 mm
     year: "1977"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00303-self-portrait-in-interview-t-shirt-1977-8.webp
   - inventorynumber: AR00302
@@ -518,8 +518,8 @@ works:
     info: 1977-8,  Photograph, colour, Polaroid on paper,  94 x 72 mm
     year: "1977"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00302-self-portrait-in-dark-suit-1977-8.webp
   - inventorynumber: AR00307
@@ -530,8 +530,8 @@ works:
     info: 1981,  Photograph, colour, Polaroid on paper,  95 x 72 mm
     year: "1981"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00307-self-portrait-in-a-dark-suit-and-plaid-shirt-1981.webp
   - inventorynumber: AR00306
@@ -542,8 +542,8 @@ works:
     info: 1981,  Photograph, colour, Polaroid, on paper,  95 x 72 mm
     year: "1981"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00306-self-portrait-in-dark-suit-and-plaid-shirt-1981.webp
   - inventorynumber: AR00311
@@ -554,8 +554,8 @@ works:
     info: 1981,  Photograph, colour, Polaroid on paper, 72 x 95 mm
     year: "1981"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00311-self-portrait-in-profile-with-shadow-1981.webp
   - inventorynumber: AR00308
@@ -566,8 +566,8 @@ works:
     info: 1981,  Photograph, colour, Polaroid, on paper,  95 x 72 mm
     year: "1981"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00308-self-portrait-with-platinum-bouffant-wig-1981.webp
   - inventorynumber: AR00309
@@ -578,8 +578,8 @@ works:
     info: 1981,  Photograph, colour, Polaroid on paper,  95 x 73 mm
     year: "1981"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00309-self-portrait-with-reddish-blonde-wig-1981.webp
   - inventorynumber: AR00310
@@ -590,8 +590,8 @@ works:
     info: 1981,  Photograph, colour, Polaroid on paper,  95 x 72 mm
     year: "1981"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00310-self-portrait-with-platinum-pageboy-wig-1981.webp
   - inventorynumber: AR00312
@@ -602,8 +602,8 @@ works:
     info: 1986,  Photograph, colour, Polaroid on paper,  94 x 72 mm
     year: "1986"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00312-self-portrait-with-fright-wig-1986.webp
   - inventorynumber: AR00313
@@ -614,8 +614,8 @@ works:
     info: 1986,  Photograph, colour, Polaroid on paper,  95 x 72 mm
     year: "1986"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00313-self-portrait-with-fright-wig-1986.webp
   - inventorynumber: AR00314
@@ -626,8 +626,8 @@ works:
     info: 1986,  Photograph, colour, Polaroid on paper,  95 x 72 mm
     year: "1986"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00314-self-portrait-with-fright-wig-1986.webp
   - inventorynumber: AR00315
@@ -638,8 +638,8 @@ works:
     info: 1986,  Photograph, colour, Polaroid on paper,  95 x 72 mm
     year: "1986"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00315-self-portrait-with-fright-wig-1986.webp
   - inventorynumber: AR00265
@@ -650,8 +650,8 @@ works:
     info: 1948,  Ink and gouache on paper,  230 x 154 mm
     year: "1948"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00265-cano-1948.webp
   - inventorynumber: AR00589
@@ -662,8 +662,8 @@ works:
     info: 1951-2,  Ink and dye on paper,  625 x 480 mm
     year: "1951"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00589-a-field-of-blue-children-1951-2.webp
   - inventorynumber: AR00240
@@ -674,8 +674,8 @@ works:
     info: 1951,  Ink, graphite and acetate on paper,  371 x 345 mm
     year: "1951"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00240-the-nations-nightmare-1951.webp
   - inventorynumber: AR00261
@@ -686,8 +686,8 @@ works:
     info: 1951,  Ink, graphite and tempera on paper,  223 x 263 mm
     year: "1951"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00261-pistols-for-two-1951.webp
   - inventorynumber: AR00241
@@ -698,8 +698,8 @@ works:
     info: 1952,  Ink and watercolour on paper,  300 x 356 mm
     year: "1952"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00241-embracing-couple-with-marbleised-background-1952.webp
   - inventorynumber: AR00242
@@ -710,8 +710,8 @@ works:
     info: 1952,  Ink and watercolour on paper,  688 x 560 mm
     year: "1952"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00242-female-bust-two-children-with-marbleised-background-1952.webp
   - inventorynumber: AR00244
@@ -722,8 +722,8 @@ works:
     info: 1953,  Ink, watercolour and graphite on paper,  272 x 237 mm
     year: "1953"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00244-the-runaway-pigeon-1953.webp
   - inventorynumber: AR00246
@@ -734,8 +734,8 @@ works:
     info: 1953,  Ink and dye on paper,  454 x 365 mm
     year: "1953"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00246-musical-notes-and-sprite-faces-1953.webp
   - inventorynumber: AR00266
@@ -746,8 +746,8 @@ works:
     info: 1953,  Ink on paper on ink on paper,  280 x 205 mm
     year: "1953"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00266-the-runaway-pigeon-1953.webp
   - inventorynumber: AR00245
@@ -758,8 +758,8 @@ works:
     info: 1953,  Ink, graphite and dye on paper,  320 x 238 mm
     year: "1953"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00245-a-hand-of-bridge-1953.webp
   - inventorynumber: AR00243
@@ -770,8 +770,8 @@ works:
     info: 1953,  Ink, watercolour and graphite on paper,  269 x 295 mm
     year: "1953"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00243-the-runaway-pigeon-1953.webp
   - inventorynumber: AR00248
@@ -782,8 +782,8 @@ works:
     info: 1954,  Ink and dye on paper,  534 x 433 mm
     year: "1954"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00248-chess-player-1954.webp
   - inventorynumber: AR00247
@@ -794,8 +794,8 @@ works:
     info: 1954,  Ink, graphite, gouache, paper and dye on paper,  328 x 247 mm
     year: "1954"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00247-town-and-country-1954.webp
   - inventorynumber: AR00260
@@ -806,8 +806,8 @@ works:
     info: 1954, Ink, gold paint and dye on paper,  495 x 355 mm
     year: "1954"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00260-young-man-with-heart-1954.webp
   - inventorynumber: AR00249
@@ -818,8 +818,8 @@ works:
     info: 1955,  Ink, graphite, and dye on paper,  327 x 455 mm
     year: "1955"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00249-happy-butterfly-day-1955.webp
   - inventorynumber: AR00250
@@ -830,8 +830,8 @@ works:
     info: 1955,  Ink, graphite and dye on paper,  660 x 530 mm
     year: "1955"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00250-tondo-butterflies-1955.webp
   - inventorynumber: AR00251
@@ -842,8 +842,8 @@ works:
     info: 1955,  Ink and dye on paper,  327 x 970 mm
     year: "1955"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00251-blue-shoe-1955.webp
   - inventorynumber: AR00259
@@ -854,8 +854,8 @@ works:
     info: 1955-57,  Ink on paper,  424 x 350 mm
     year: "1955"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00259-foot-with-cat-1955-57.webp
   - inventorynumber: AR00271
@@ -866,8 +866,8 @@ works:
     info: 1955-57,  Ink on paper,  425 x 351 mm
     year: "1955"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00271-boy-with-flowers-1955-57.webp
   - inventorynumber: AR00272
@@ -878,8 +878,8 @@ works:
     info: 1955-57,  Ink on paper,  418 x 345 mm
     year: "1955"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00272-resting-boy-1955-57.webp
   - inventorynumber: AR00262
@@ -890,8 +890,8 @@ works:
     info: 1955,  Ink and dye on paper,  226 x 319 mm
     year: "1955"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00262-the-summer-dancers-1955.webp
   - inventorynumber: AR00263
@@ -902,8 +902,8 @@ works:
     info: 1955,  Ink and dye on paper,  215 x 145 mm
     year: "1955"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00263-the-summer-dancers-1955.webp
   - inventorynumber: AR00591
@@ -914,8 +914,8 @@ works:
     info: 1956, Ink on paper,  435 x 357 mm
     year: "1956"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00591-boy-with-thumb-in-mouth-1956.webp
   - inventorynumber: AR00590
@@ -926,8 +926,8 @@ works:
     info: 1956,  Ink on paper,  420 x 353 mm
     year: "1956"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00590-boy-licking-his-lips-1956.webp
   - inventorynumber: AR00268
@@ -938,8 +938,8 @@ works:
     info: 1956,  Paper on ink, dye and graphite on paper,  456 x 326 mm
     year: "1956"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00268-shoes-and-roses-1956.webp
   - inventorynumber: AR00269
@@ -950,8 +950,8 @@ works:
     info: 1956,  Ink on paper,  425 x 345 mm
     year: "1956"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00269-male-torso-1956.webp
   - inventorynumber: AR00281
@@ -962,8 +962,8 @@ works:
     info: 1957,  Gold leaf and ink on paper,  585 x 508 mm
     year: "1957"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00281-woman-with-hat-1957.webp
   - inventorynumber: AR00252
@@ -974,8 +974,8 @@ works:
     info: 1957,  Ink, gold leaf, graphite and gouache on paper,  450 x 711 mm
     year: "1957"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00252-baboon-1957.webp
   - inventorynumber: AR00253
@@ -986,8 +986,8 @@ works:
     info: 1957,  Ink, gold leaf and graphite on paper,  460 x 599 mm
     year: "1957"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00253-hand-holding-glass-with-daffodil-1957.webp
   - inventorynumber: AR00612
@@ -998,8 +998,8 @@ works:
     info: 1957,  Ink and dye on paper on board,  320 x 382 mm
     year: "1957"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00612-instruments-with-hands-1957.webp
   - inventorynumber: AR00264
@@ -1010,8 +1010,8 @@ works:
     info: 1957,  Ink and graphite on paper,  307 x 215 mm
     year: "1957"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00264-here-lies-the-heart-1957.webp
   - inventorynumber: AR00267
@@ -1022,8 +1022,8 @@ works:
     info: 1957  Ink and dye on paper  390 x 230 mm
     year: "1957"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00267-christmas-sewing-theme-1957.webp
   - inventorynumber: AR00282
@@ -1034,8 +1034,8 @@ works:
     info: 1958-61,  Graphite and gouache on paper,  735 x 580 mm
     year: "1958"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00282-head-of-a-girl-and-children-1958-61.webp
   - inventorynumber: AR00258
@@ -1046,8 +1046,8 @@ works:
     info: 1958,  Ink on paper,  430 x 351 mm
     year: "1958"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00258-foot-with-flowers-1958.webp
   - inventorynumber: AR00254
@@ -1058,8 +1058,8 @@ works:
     info: 1958,  Ink and dye on paper,  467 x 362 mm
     year: "1958"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00254-hot-air-balloon-1958.webp
   - inventorynumber: AR00273
@@ -1070,8 +1070,8 @@ works:
     info: 1958,  Sprayed paint and gouache on paper,  595 x 470 mm
     year: "1958"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00273-abstract-stencilled-images-1958.webp
   - inventorynumber: AR00274
@@ -1082,8 +1082,8 @@ works:
     info: 1958,  Ink and dye on paper,  382 x 336 mm
     year: "1958"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00274-head-with-flowers-1958.webp
   - inventorynumber: AR00270
@@ -1094,8 +1094,8 @@ works:
     info: 1958,  Ink and Tempera on paper,  340 x 303 mm
     year: "1958"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00270-six-handbags-1958.webp
   - inventorynumber: AR00277
@@ -1106,8 +1106,8 @@ works:
     info: 1957,  Ink, gold leaf, graphite and gouache on paper,  450 x 711 mm
     year: "1959"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00277-boy-with-stars-and-stripes-1959.webp
   - inventorynumber: AR00278
@@ -1118,8 +1118,8 @@ works:
     info: 1959,  Ink on paper,  545 x 450 mm
     year: "1959"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00278-fashion-accessories-1959.webp
   - inventorynumber: AR00255
@@ -1130,8 +1130,8 @@ works:
     info: 1959,  Ink and dye on paper,  695 x 428 mm
     year: "1959"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00255-ice-cream-dessert-1959.webp
   - inventorynumber: AR00275
@@ -1142,8 +1142,8 @@ works:
     info: 1959,  Ink and dye on paper,  403 x 315 mm
     year: "1959"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00275-head-with-red-gloves-and-butterfly-1959.webp
   - inventorynumber: AR00280
@@ -1154,8 +1154,8 @@ works:
     info: 1959,  Ink and dye on paper,  472 x 400 mm
     year: "1959"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00280-hats-1959.webp
   - inventorynumber: AR00283
@@ -1166,8 +1166,8 @@ works:
     info: 1960-62,  Graphite, dye and gouache on paper,  585 x 735 mm
     year: "1960"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00283-people-1960-62.webp
   - inventorynumber: AR00284
@@ -1178,8 +1178,8 @@ works:
     info: 1960-62,  Graphite and gouache on paper,  583 x 735 mm
     year: "1960"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00284-man-and-woman-and-two-chairs-1960-62.webp
   - inventorynumber: AR00257
@@ -1190,8 +1190,8 @@ works:
     info: 1960,  Ink and dye on paper,  210 x 207 mm
     year: "1960"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00257-stars-and-half-moons-1960.webp
   - inventorynumber: AR00256
@@ -1202,8 +1202,8 @@ works:
     info: 1960  Ink and snakeskin on paper, 480 x 340 mm
     year: "1960"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00256-the-wonderful-world-of-fleming-joffe-1960.webp
   - inventorynumber: AR00285
@@ -1214,8 +1214,8 @@ works:
     info: 1960,  Ink, printed paper and dye on paper on board,  430 x 628 mm
     year: "1960"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00285-female-figures-and-fashion-accessories-1960.webp
   - inventorynumber: AR00279
@@ -1226,8 +1226,8 @@ works:
     info: 1960,  Graphite and gouache on paper,  280 x 358 mm
     year: "1960"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00279-shoe-and-handbag-1960.webp
   - inventorynumber: AR00276
@@ -1238,8 +1238,8 @@ works:
     info: 1960,  Ink on paper,  418 x 348 mm
     year: "1960"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00276-rooster-with-coca-cola-bottle-1960.webp
   - inventorynumber: AR00592
@@ -1250,8 +1250,8 @@ works:
     info: 1974,  Graphite on paper,  1040 x 710 mm
     year: "1974"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00592-david-hockney-1974.webp
   - inventorynumber: AR00593
@@ -1262,8 +1262,8 @@ works:
     info: 1975,  Graphite on paper,  1030 x 700 mm
     year: "1975"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00593-mick-jagger-1975.webp
   - inventorynumber: AR00594
@@ -1274,8 +1274,8 @@ works:
     info: 1981,  Graphite on paper,  800 x 610 mm
     year: "1981"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00594-the-shadow-1981.webp
   - inventorynumber: AR00595
@@ -1286,8 +1286,8 @@ works:
     info: 1980,  Graphite on paper,  800 x 600 mm
     year: "1980"
     credit: >+
-      © 2014 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists
-      Rights Society (ARS), New York and DACS, London
+      © 2025 The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by
+      DACS, London
 
     src: ../../media/andy-warhol-ar00595-tongue-in-ear-1980.webp
 

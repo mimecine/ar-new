@@ -1,30 +1,30 @@
 ---
-title: Damien Hirst, Orkney
+title: Damien Hirst, Stromness
 artists:
   - damien-hirst
-venue: piers-art-centre
+venue: pier-arts-centre
 images:
-  - src: ../../media/damien-hirst-orkney-piers-art-centre-2015-06-20-0.webp
-    title: damien hirst orkney piers art centre 2015 06 20 0
+  - src: ../../media/damien-hirst-stromness-pier-arts-centre-2015-06-20-0.webp
+    title: damien hirst stromness pier arts centre 2015 06 20 0
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/damien-hirst-orkney-piers-art-centre-2015-06-20-1.webp
-    title: damien hirst orkney piers art centre 2015 06 20 1
+  - src: ../../media/damien-hirst-stromness-pier-arts-centre-2015-06-20-1.webp
+    title: damien hirst stromness pier arts centre 2015 06 20 1
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/damien-hirst-orkney-piers-art-centre-2015-06-20-2.webp
-    title: damien hirst orkney piers art centre 2015 06 20 2
+  - src: ../../media/damien-hirst-stromness-pier-arts-centre-2015-06-20-2.webp
+    title: damien hirst stromness pier arts centre 2015 06 20 2
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
 startdate: 2015-06-20
 enddate: 2015-09-12
-town: Orkney
+town: Stromness
 url: http://www.pierartscentre.com/
 ongoing: false
 priority: 0

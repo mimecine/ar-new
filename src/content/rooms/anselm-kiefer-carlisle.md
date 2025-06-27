@@ -2,34 +2,34 @@
 title: Anselm Kiefer, Carlisle
 artists:
   - anselm-kiefer
-venue: tullie-house-museum-and-gallery
+venue: tullie-house
 images:
-  - src: ../../media/anselm-kiefer-carlisle-tullie-house-museum-and-gallery-2015-02-07-0.webp
-    title: anselm kiefer carlisle tullie house museum and gallery 2015 02 07 0
+  - src: ../../media/anselm-kiefer-carlisle-tullie-house-2015-02-07-0.webp
+    title: anselm kiefer carlisle tullie house 2015 02 07 0
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/anselm-kiefer-carlisle-tullie-house-museum-and-gallery-2015-02-07-1.webp
-    title: anselm kiefer carlisle tullie house museum and gallery 2015 02 07 1
+  - src: ../../media/anselm-kiefer-carlisle-tullie-house-2015-02-07-1.webp
+    title: anselm kiefer carlisle tullie house 2015 02 07 1
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/anselm-kiefer-carlisle-tullie-house-museum-and-gallery-2015-02-07-2.webp
-    title: anselm kiefer carlisle tullie house museum and gallery 2015 02 07 2
+  - src: ../../media/anselm-kiefer-carlisle-tullie-house-2015-02-07-2.webp
+    title: anselm kiefer carlisle tullie house 2015 02 07 2
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/anselm-kiefer-carlisle-tullie-house-museum-and-gallery-2015-02-07-3.webp
-    title: anselm kiefer carlisle tullie house museum and gallery 2015 02 07 3
+  - src: ../../media/anselm-kiefer-carlisle-tullie-house-2015-02-07-3.webp
+    title: anselm kiefer carlisle tullie house 2015 02 07 3
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/anselm-kiefer-carlisle-tullie-house-museum-and-gallery-2015-02-07-4.webp
-    title: anselm kiefer carlisle tullie house museum and gallery 2015 02 07 4
+  - src: ../../media/anselm-kiefer-carlisle-tullie-house-2015-02-07-4.webp
+    title: anselm kiefer carlisle tullie house 2015 02 07 4
     alt: ""
     credits: ""
     caption: ""

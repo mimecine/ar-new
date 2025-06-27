@@ -9,10 +9,10 @@ const seen = {};
 const c = new Crawler({
   callback: (error, res, done) => {
     if (error) {
-      console.log(error);
+      console.error(error);
     } else {
       const $ = res.$;
-      console.log($("title").text());
+      // console.log($("title").text());
     }
     done();
   },
@@ -24,14 +24,14 @@ c.queue([
     skipDuplicates: true,
     callback: (error, res, done) => {
       if (error) {
-        console.log(error);
+        console.error(error);
       } else {
         const $ = res.$;
         const baseUrl = new URL(res.options.uri);
         res.attrs = $("a[href]")
           .toArray()
           .map((el) => $(el).prop("href"));
-        console.log($("title").text());
+        // console.log($("title").text());
         $("a[href]")
           .toArray()
           .forEach(function (element) {
@@ -45,7 +45,7 @@ c.queue([
                 uri: nextUrl.href,
                 callback: (error, res, done) => {
                   if (error) {
-                    console.log(error);
+                    console.error(error);
                   } else {
                     const $ = res.$;
 
@@ -87,12 +87,11 @@ c.queue([
 ]);
 
 c.on("drain", () => {
-  if (pages.length) console.log("x", pages.length);
+  if (pages.length) console.info("Films:", pages.length);
   const artists = [];
   const uniqueArtists = [
     ...new Set(pages.map((page) => page.artists).flat()),
   ].sort((a, b) => a.split(" ").pop().localeCompare(b.split(" ").pop()));
-  // console.log(uniqueArtists);
   uniqueArtists.forEach((artist) => {
     const films = pages.filter((page) => page.artists.includes(artist));
     artists.push({

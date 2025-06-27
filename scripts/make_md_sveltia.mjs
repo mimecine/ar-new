@@ -22,8 +22,6 @@ async function getCoordinates(place) {
     });
 
     if (response.data.status === "OK") {
-      // console.log(response.data.results[0]);
-      // const location = response.data.results[0].geometry.location;
       return response.data.results[0];
     } else {
       console.error("Geocoding failed:", response.data.status);
@@ -99,7 +97,7 @@ async function makeArtistMD() {
       try {
         fs.writeFileSync(path, `---\n${fm}\n---\n\n${body}`);
       } catch (e) {
-        console.log(e);
+        console.error(e);
       }
     })(_a);
   }
@@ -170,7 +168,7 @@ async function makeRoomsMD() {
             let { protocol, host } = new URL(a.url);
             _v.url = `${protocol}//${host}/`;
           } catch (e) {
-            console.log("Room has invalid URL", slug, a.url);
+            console.error("Room has invalid URL", slug, a.url);
             delete a.url;
           }
         }
@@ -190,32 +188,30 @@ async function makeRoomsMD() {
           });
           _v.address = R.formatted_address;
           _v.plus_code = R.plus_code?.global_code;
-
-          //console.log([a.title,_v.title, _v.town, _v.address].join(';'))
         } catch (e) {
-          console.log("Geocoding didn't succeed: ", a.venue, e);
+          console.error("Geocoding didn't succeed: ", a.venue, e);
         }
 
         let venue_path = `./src/content/venues/${a.venue}.md`;
         try {
           fs.writeFileSync(venue_path, `---\n${yaml.stringify(_v)}\n---\n\n`);
         } catch (e) {
-          console.log("Venue can't be written", slug, e);
+          console.error("Venue can't be written", slug, e);
         }
       } else {
-        console.log("Room has no venue", slug);
+        console.warn("Room has no venue", slug);
       }
 
       if (a.artists != null) {
         try {
           a.artists = a.artists.map((artist) => slugify(artist));
         } catch (e) {
-          console.log("Room has invalid artist", slug, a.artists);
+          console.error("Room has invalid artist", slug, a.artists);
           a.artists = [];
         }
       } else {
         a.artists = [];
-        console.log("Room has no artists", slug, a.artists);
+        console.warn("Room has no artists", slug, a.artists);
       }
 
       let fm = yaml.stringify(a);
@@ -229,7 +225,7 @@ async function makeRoomsMD() {
 
         fs.writeFileSync(room_path, `---\n${fm}\n---\n\n${body}`);
       } catch (e) {
-        console.log("Room can't be written", slug, e);
+        console.error("Room can't be written", slug, e);
       }
     })(_a);
   }

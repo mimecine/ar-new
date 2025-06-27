@@ -2,28 +2,28 @@
 title: Damien Hirst, Walsall
 artists:
   - damien-hirst
-venue: the-new-art-gallery
+venue: new-art-gallery
 images:
-  - src: ../../media/damien-hirst-walsall-the-new-art-gallery-2012-10-06-0.webp
-    title: damien hirst walsall the new art gallery 2012 10 06 0
+  - src: ../../media/damien-hirst-walsall-new-art-gallery-2012-10-06-0.webp
+    title: damien hirst walsall new art gallery 2012 10 06 0
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/damien-hirst-walsall-the-new-art-gallery-2012-10-06-1.webp
-    title: damien hirst walsall the new art gallery 2012 10 06 1
+  - src: ../../media/damien-hirst-walsall-new-art-gallery-2012-10-06-1.webp
+    title: damien hirst walsall new art gallery 2012 10 06 1
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/damien-hirst-walsall-the-new-art-gallery-2012-10-06-2.webp
-    title: damien hirst walsall the new art gallery 2012 10 06 2
+  - src: ../../media/damien-hirst-walsall-new-art-gallery-2012-10-06-2.webp
+    title: damien hirst walsall new art gallery 2012 10 06 2
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/damien-hirst-walsall-the-new-art-gallery-2012-10-06-3.webp
-    title: damien hirst walsall the new art gallery 2012 10 06 3
+  - src: ../../media/damien-hirst-walsall-new-art-gallery-2012-10-06-3.webp
+    title: damien hirst walsall new art gallery 2012 10 06 3
     alt: ""
     credits: ""
     caption: ""

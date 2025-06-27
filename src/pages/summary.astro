@@ -36,16 +36,13 @@ rooms
 ---
 
 <Main title="Summary" data-pagefind-ignore>
-  <div class="w-full h-[70vh] p-4 ">
-    <div id="map" class="w-full max-w-(--breakpoint-2xl) h-[70vh] border border-gray-500">
-    </div>
-  </div>
-  <!-- <div class="xflex xjustify-center w-full h-[200mm] p-4">
+
+  <section class="flex justify-center w-full max-h-screen h-[70vh] print:h-[70vh]">
     <div
       id="map"
-      class="w-full max-w-(--breakpoint-2xl) h-[200mm] border border-gray-500">
+      class="w-full max-w-(--breakpoint-2xl) h-full print:h-[70vh] border border-gray-500">
     </div>
-  </div> -->
+  </section>
 
   <section class="py-4 pb-24 break-before-page">
     <h3 class="pl-4 py-8">Artist Rooms by Year</h3>
@@ -119,7 +116,6 @@ rooms
     </ul>
   </section>
 
-
   <link
     rel="stylesheet"
     href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"
@@ -135,11 +131,12 @@ rooms
   ></script>
 
   <script>
+
     var loadedHandler = async () => {
-      if (window._mapInit != null) {
+      if (window._mapInititialized != null) {
         return;
       } else {
-        window._mapInit = true;
+        window._mapInititialized = true;
       }
 
       const venues = await (await fetch("/venues.json")).json();
@@ -147,18 +144,17 @@ rooms
       var map = L.map("map").setView([51.505, -0.09], 13);
       var bounds = L.latLngBounds(); // Instantiate LatLngBounds object
       var markers = L.markerClusterGroup({
-        maxClusterRadius: 25,
+        maxClusterRadius: 0,
         iconCreateFunction: function (cluster) {
           var markers = cluster.getAllChildMarkers();
           var n = 0;
           for (var i = 0; i < markers.length; i++) {
             n += markers[i].number;
           }
-
           return L.divIcon({
-            html: "+", //markers.length,
+            html: markers.length,
             className: "mycluster",
-            iconSize: L.point(20, 20),
+            iconSize: L.point(25, 25),
           });
         },
         //Disable all of the defaults:
@@ -170,7 +166,7 @@ rooms
 
       var lgIcon = L.icon({
         iconUrl: "/map-point.svg",
-        iconSize: [20, 20],
+        iconSize: [15, 15],
         iconAnchor: [10, 10],
         popupAnchor: [0, 0],
       });
@@ -197,14 +193,15 @@ rooms
       ).addTo(map);
 
       venues.map((venue) => {
-        // console.log(`Adding ${venue.data.title}`, venue.data.geo);
         if (venue.data.geo) {
           let geo = JSON.parse(venue.data.geo);
           let lon_lat = geo.coordinates.reverse();
-          var marker = L.marker(lon_lat, { icon: mdIcon }).addTo(map);
+          var marker = L.marker(lon_lat, { icon: lgIcon }).addTo(markers);
           let new_year = "";
           var room_string = venue.data.rooms
-            .sort((a, b) => new Date(a.date) - new Date(b.date))
+            .sort(
+              (a, b) => new Date(a.date).getTime() - new Date(b.date).getTime()
+            )
             .map((room) => {
               let year = room.date.slice(0, 4);
               if (new_year != year) {
@@ -216,92 +213,139 @@ rooms
             })
             .join("; ");
           marker.bindPopup(`
-                    <h3 class="text-black font-(--font-family)!">${venue.data.title}</h3>
-                    <p class="text-lg!">${room_string}</p>
+                    <h3 class="xtext-black xfont-default pb-2">${venue.data.title}</h3>
+                    <p class="text-lg/6 ">${room_string}</p>
                     <p><a class="text-xs! !font-italic text-black! underline!" href="https://google.com/maps/search/?api=1&query=${venue.data.title}, ${venue.data.town}, UK" target="_map">${venue.data.address}</a></p>
                     `);
           marker.bindTooltip(venue.data.title); // too ugly!
           bounds.extend(lon_lat);
-          console.log(`Bounds now: ${bounds.toBBoxString()}`);
         }
       });
 
       map.addLayer(markers);
+      console.log(`Bounds now: ${bounds.toBBoxString()}`);
       map.fitBounds(bounds);
     };
-
     document.addEventListener("astro:page-load", loadedHandler);
     window.addEventListener("DOMContentLoaded", loadedHandler);
-    // window.addEventListener("resize", loadedHandler);
-
-    //need to open a popup on print, so we can resize the window
-    // https://stackoverflow.com/questions/15020224/how-to-resize-window-when-printing-in-chrome
-    // https://stackoverflow.com/questions/15020224/how-to-resize-window-when-printing-in-chrome#comment-26464628
-
-    // window.addEventListener("beforeprint", e => {
-    //   // console.log("beforeprint", e);
-    //   window.oldDimensions = {
-    //     width: window.innerWidth,
-    //     height: window.innerHeight,
-    //   };
-    //   window.resizeTo(590,830);
-    //   loadedHandler();
-    // });
-    // window.addEventListener("afterprint", e => {
-    //   // console.log("beforeprint", e);
-    //   window.resizeTo(window.oldDimensions.width, window.oldDimensions.height);
-    //   loadedHandler();
-    // });
-
+  
   </script>
-  <style is:inline>
-    @reference "@styles/global.css";
-    @media print {
-      nav {
-        -x-display: none !important;
-        position: relative !important;
-      }
-      .leaflet-container {
-        -x-width: 200mm;
-        -x-height: 200mm;
-      }
-      h1 {
-        -x-display: none;
-        font-size: 2rem !important;
-      }
-    }
+ <style is:inline>
+    /* @reference "../../styles/global.css"; */
     .leaflet-container {
       font-family: "Fredoka Variable", sans-serif;
+      cursor: var(--cursor-ar-default);
+    }
+    .leaflet-control-zoom {
+      display: none;
+    }
+    .leaflet-interactive {
+      cursor: var(--cursor-ar-pointer);
     }
     .leaflet-popup-content-wrapper {
       box-shadow: none !important;
       border: 1px solid #6b7280 !important;
       border-radius: 0 !important;
-      background-color: #d4dadc;
+      background-color: var(--color-main-background);
+      cursor: var(--cursor-ar-default);
     }
     .leaflet-popup-tip {
       border-bottom: 1px solid #6b7280;
       border-right: 1px solid #6b7280;
+      background-color: var(--color-main-background);
     }
 
+    /* Tooltip */
+    /* Base styles for the element that has a tooltip */
+    .leaflet-tooltip {
+      position: absolute;
+      padding: 6px;
+      background-color: var(--color-main-background);
+      border: 1px solid #6b7280;
+      border-radius: 0px;
+      color: #222;
+      white-space: nowrap;
+      user-select: none;
+      pointer-events: none;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+    }
+    .leaflet-tooltip.leaflet-interactive {
+      cursor: pointer;
+      pointer-events: auto;
+    }
+    .leaflet-tooltip-top:before,
+    .leaflet-tooltip-bottom:before,
+    .leaflet-tooltip-left:before,
+    .leaflet-tooltip-right:before {
+      position: absolute;
+      pointer-events: none;
+      border: 6px solid transparent;
+      background: transparent;
+      content: "";
+    }
+
+    /* Directions */
+
+    .leaflet-tooltip-bottom {
+      margin-top: 6px;
+    }
+    .leaflet-tooltip-top {
+      margin-top: -6px;
+    }
+    .leaflet-tooltip-bottom:before,
+    .leaflet-tooltip-top:before {
+      left: 50%;
+      margin-left: -6px;
+    }
+    .leaflet-tooltip-top:before {
+      bottom: 0;
+      margin-bottom: -12px;
+      border-top-color: #6b7280;
+    }
+    .leaflet-tooltip-bottom:before {
+      top: 0;
+      margin-top: -12px;
+      margin-left: -6px;
+      border-bottom-color: #6b7280;
+    }
+    .leaflet-tooltip-left {
+      margin-left: -6px;
+    }
+    .leaflet-tooltip-right {
+      margin-left: 6px;
+    }
+    .leaflet-tooltip-left:before,
+    .leaflet-tooltip-right:before {
+      top: 50%;
+      margin-top: -6px;
+    }
+    .leaflet-tooltip-left:before {
+      right: 0;
+      margin-right: -12px;
+      border-left-color: #6b7280;
+    }
+    .leaflet-tooltip-right:before {
+      left: 0;
+      margin-left: -12px;
+      border-right-color: #6b7280;
+    }
     .leaflet-bottom {
       z-index: 1;
     }
-    .leaflet-popup-content {
-    }
-    .leaflet-control-zoom {
-      display: none;
-    }
 
     .mycluster {
-      width: 20px;
-      height: 15px;
-      border: 2px solid #6b7280;
+      background-image: url("/map-point.svg");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      /* border: 2px solid #6b7280;
       border-radius: 100%;
-      background-color: var(--main-background);
+      background-color: var(--main-background); */
       color: white;
       text-align: center;
       font-size: 0.6rem;
+      display: grid;
+      place-items: center center;
     }
   </style>
 </Main>

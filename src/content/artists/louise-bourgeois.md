@@ -12,10 +12,13 @@ works:
     title: Tits, 1967
     info: 1967,  Bronze, black and polished patina,  121 x 267 x 152 mm
     year: "1967"
-    credit: |-
+    credit: >-
       Collection: Artist Rooms Foundation
 
-      © The Easton Foundation/Licensed by DACS, Photo: Christopher Burke
+
+      © The Easton Foundation/VAGA at ARS, NY and DACS, London 2025, Photo:
+      Christopher Burke
+
 
       (on long-term loan from Artist Rooms Foundation, 2011)
     src: ../../media/louise-bourgeois-al00227-tits-1967.webp
@@ -27,7 +30,7 @@ works:
     info: 1981, Bronze, black patina Ed. 4/6 + AP, 34 x 9 x 9 cm
     year: "1981"
     credit: |+
-      © Louise Bourgeois
+      © The Easton Foundation/VAGA at ARS, NY and DACS, London 2025
 
     src: ../../media/louise-bourgeois-al00356-fallen-woman-1981.webp
   - inventorynumber: AL00228
@@ -37,10 +40,13 @@ works:
     title: Nature Study, 1986
     info: 1986,  Bronze, silver nitrate patina, 152 x 254 x 178 mm
     year: "1986"
-    credit: |-
+    credit: >-
       Collection: Artist Rooms Foundation
 
-      © The Easton Foundation/Licensed by DACS, Photo: Christopher Burke
+
+      © The Easton Foundation/VAGA at ARS, NY and DACS, London 2025, Photo:
+      Christopher Burke
+
 
       (on long-term loan from Artist Rooms Foundation, 2011)
     src: ../../media/louise-bourgeois-al00228-nature-study-1986.webp
@@ -52,7 +58,7 @@ works:
     info: 1996, Cloth, rubber, steel and mixed media, 283 x 297 x 25 cm
     year: "1996"
     credit: |+
-      © Louise Bourgeois
+      © The Easton Foundation/VAGA at ARS, NY and DACS, London 2025
 
     src: ../../media/louise-bourgeois-al00398-untitled-1996.webp
   - inventorynumber: A039019
@@ -63,7 +69,7 @@ works:
     info: ""
     year: "1986"
     credit: |+
-      © The Easton Foundation/Licensed by DACS
+      © The Easton Foundation/VAGA at ARS, NY and DACS, London 2025
 
     src: ../../media/louise-bourgeois-a039019-la-mre-couper-le-cordon-1986.webp
   - inventorynumber: AL00349
@@ -73,11 +79,14 @@ works:
     title: Triptych for the Red Room, 1994
     info: 1994, Aquatint, drypoint and engraving on paper, 705 x 2838 mm
     year: "1994"
-    credit: |-
-      Collection ARTIST ROOMS Tate and National Galleries of Scotland
-      Gift of The Easton Foundation
+    credit: >-
+      Collection ARTIST ROOMS Tate and National Galleries of ScotlandGift of The
+      Easton Foundation
 
-      Photo: Christopher Burke, © The Easton Foundation/Licensed by DACS
+
+      © The Easton Foundation/VAGA at ARS, NY and DACS, London 2025, Photo:
+      Christopher Burke
+
 
       (on long-term loan)
     src: ../../media/louise-bourgeois-al00349-triptych-for-the-red-room-1994.webp
@@ -88,8 +97,9 @@ works:
     title: Home for Runaway Girls, 1994
     info: 1994,  gouache on sandpaper,  222 x 159 mm
     year: "1994"
-    credit: |+
-      Photo: Marcus Leith; © The Easton Foundation/Licensed by DACS
+    credit: >+
+      Photo: Marcus Leith; © The Easton Foundation/VAGA at ARS, NY and DACS,
+      London 2025
 
     src: ../../media/louise-bourgeois-al00340-home-for-runaway-girls-1994.webp
   - inventorynumber: A039020
@@ -100,7 +110,7 @@ works:
     info: Ink on paper, 25.4 x 25.4 cm
     year: "2002"
     credit: |+
-      © The Easton Foundation/Licensed by DACS
+      © The Easton Foundation/VAGA at ARS, NY and DACS, London 2025
 
     src: ../../media/louise-bourgeois-a039020-the-five-magic-words-2002.webp
   - inventorynumber: A039021
@@ -111,7 +121,7 @@ works:
     info: Fabric, thread and pencil on paper, 52.4 x 34 cm
     year: "2003"
     credit: |+
-      © The Easton Foundation/Licensed by DACS
+      © The Easton Foundation/VAGA at ARS, NY and DACS, London 2025
 
     src: ../../media/louise-bourgeois-a039021-self-portrait-2003.webp
   - inventorynumber: A039022
@@ -122,7 +132,7 @@ works:
     info: ""
     year: "2005"
     credit: |+
-      © The Easton Foundation/Licensed by DACS
+      © The Easton Foundation/VAGA at ARS, NY and DACS, London 2025
 
     src: ../../media/louise-bourgeois-a039022-key-hole-2005.webp
   - inventorynumber: AL00344
@@ -132,10 +142,13 @@ works:
     title: Couple I, 1996
     info: 1996,  Fabric, hanging piece,  2032 x 686 x 711 cm
     year: "1996"
-    credit: |-
+    credit: >-
       Collection: Artist Rooms Foundation
 
-      © The Easton Foundation/Licensed by DACS, Photo: Christopher Burke
+
+      © The Easton Foundation/VAGA at ARS, NY and DACS, London 2025, Photo:
+      Christopher Burke
+
 
       (on long-term loan from Artist Rooms Foundation)
     src: ../../media/louise-bourgeois-al00344-couple-i-1996.webp
@@ -149,7 +162,7 @@ works:
     credit: |-
       Collection: Artist Rooms Foundation
 
-      © The Easton Foundation/Licensed by DACS
+      © The Easton Foundation/VAGA at ARS, NY and DACS, London 2025
 
       (on long-term loan from Artist Rooms Foundation, 2011)
     src: ../../media/louise-bourgeois-al00229-single-ii-1996.webp
@@ -160,8 +173,10 @@ works:
     title: Spirals, 2005
     info: "2005,  Suite of 12 oil based woodcuts, each: 356 x 422 mm"
     year: "2005"
-    credit: |-
-      Photo: Marcus Leith; © The Easton Foundation/Licensed by DACS
+    credit: >-
+      Photo: Marcus Leith; © The Easton Foundation/VAGA at ARS, NY and DACS,
+      London 2025
+
 
       (on long-term loan from Artist Rooms Foundation)
     src: ../../media/louise-bourgeois-al00346-spirals-2005.webp
@@ -172,10 +187,13 @@ works:
     title: Cell XIV (Portrait), 2000
     info: 2000,  Steel, glass, wood, metal and red fabric,  1880 x 1219 x 1219 mm
     year: "2000"
-    credit: |-
+    credit: >-
       Collection: Artist Rooms Foundation
 
-      © The Easton Foundation/Licensed by DACS, Photo: Christopher Burke
+
+      © The Easton Foundation/VAGA at ARS, NY and DACS, London 2025, Photo:
+      Christopher Burke
+
 
       (on long-term loan from Artist Rooms Foundation, 2011)
     src: ../../media/louise-bourgeois-al00230-cell-xiv-portrait-2000.webp
@@ -187,7 +205,7 @@ works:
     info: 2001, Red fabric, hanging piece, 193 x 86 x 57 cm
     year: "2001"
     credit: |+
-      @ Louise Bourgeois
+      © The Easton Foundation/VAGA at ARS, NY and DACS, London 2025
 
     src: ../../media/louise-bourgeois-a036089-legs-2001.webp
   - inventorynumber: AL00342
@@ -198,7 +216,7 @@ works:
     info: 2001-2005,  Pink marble, 229 x 508 x 279 mm
     year: "2001"
     credit: |+
-      © The Easton Foundation/Licensed by DACS
+      © The Easton Foundation/VAGA at ARS, NY and DACS, London 2025
 
     src: ../../media/louise-bourgeois-al00342-eyes-2001-5.webp
   - inventorynumber: AL00343
@@ -208,10 +226,13 @@ works:
     title: Give or Take, 2002
     info: 2002,  bronze, silver nitrate patina,   89 x 584 x 127 mm
     year: "2002"
-    credit: |-
+    credit: >-
       Collection: Artist Rooms Foundation
 
-      © The Easton Foundation/Licensed by DACS, Photo: Christopher Burke
+
+      © The Easton Foundation/VAGA at ARS, NY and DACS, London 2025, Photo:
+      Christopher Burke
+
 
       (on long-term loan from Artist Rooms Foundation)
     src: ../../media/louise-bourgeois-al00343-give-or-take-2002.webp
@@ -223,7 +244,7 @@ works:
     info: "2006,  etching, gouache on paper, 20 pages, each: 380 x 910 mm"
     year: "2006"
     credit: |-
-      © The Easton Foundation/Licensed by DACS
+      © The Easton Foundation/VAGA at ARS, NY and DACS, London 2025
 
       (on long-term loan from Artist Rooms Foundation)
     src: ../../media/louise-bourgeois-al00345-10-am-is-when-you-come-to-me-2006.webp
@@ -234,10 +255,13 @@ works:
     title: Femme, 2007
     info: 2007, Gouache on paper, 597 x 457 mm
     year: "2007"
-    credit: |+
+    credit: >+
       Gift of The Easton Foundation
 
-      Photo: Christopher Burke, © The Easton Foundation/Licensed by DACS
+
+      Photo: Christopher Burke, © The Easton Foundation/VAGA at ARS, NY and
+      DACS, London 2025
+
 
       ​
 
@@ -251,7 +275,7 @@ works:
       part: 1016 x 1524 mm"
     year: "2008"
     credit: |+
-      © The Easton Foundation/Licensed by DACS
+      © The Easton Foundation/VAGA at ARS, NY and DACS, London 2025
 
     src: ../../media/louise-bourgeois-al00357-linfini-2008-2009.webp
   - inventorynumber: AL00341
@@ -264,7 +288,7 @@ works:
     credit: |-
       Collection: Artist Rooms Foundation
 
-      © The Easton Foundation/Licensed by DACS
+      © The Easton Foundation/VAGA at ARS, NY and DACS, London 2025
 
       (on long-term loan from Artist Rooms Foundation)
     src: ../../media/louise-bourgeois-al00341-i-am-afraid-2009.webp
@@ -277,7 +301,7 @@ works:
       2210 x 1105 mm
     year: "2010"
     credit: |+
-      © The Easton Foundation/Licensed by DACS
+      © The Easton Foundation/VAGA at ARS, NY and DACS, London 2025
 
     src: ../../media/louise-bourgeois-al00358-untitled-2010.webp
   - inventorynumber: AL00397
@@ -288,7 +312,7 @@ works:
     info: 1946-1947, Oil on canvas,  66 x 112 cm
     year: "1946"
     credit: |+
-      © Louise Bourgeois
+      © The Easton Foundation/VAGA at ARS, NY and DACS, London 2025
 
     src: ../../media/louise-bourgeois-al00397-untitled-1946-1947.webp
 

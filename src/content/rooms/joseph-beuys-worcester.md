@@ -2,28 +2,28 @@
 title: Joseph Beuys, Worcester
 artists:
   - joseph-beuys
-venue: worcester-city-art-gallery
+venue: city-art-gallery-and-museum
 images:
-  - src: ../../media/joseph-beuys-worcester-worcester-city-art-gallery-2013-10-26-0.webp
-    title: joseph beuys worcester worcester city art gallery 2013 10 26 0
+  - src: ../../media/joseph-beuys-worcester-city-art-gallery-and-museum-2013-10-26-0.webp
+    title: joseph beuys worcester city art gallery and museum 2013 10 26 0
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/joseph-beuys-worcester-worcester-city-art-gallery-2013-10-26-1.webp
-    title: joseph beuys worcester worcester city art gallery 2013 10 26 1
+  - src: ../../media/joseph-beuys-worcester-city-art-gallery-and-museum-2013-10-26-1.webp
+    title: joseph beuys worcester city art gallery and museum 2013 10 26 1
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/joseph-beuys-worcester-worcester-city-art-gallery-2013-10-26-2.webp
-    title: joseph beuys worcester worcester city art gallery 2013 10 26 2
+  - src: ../../media/joseph-beuys-worcester-city-art-gallery-and-museum-2013-10-26-2.webp
+    title: joseph beuys worcester city art gallery and museum 2013 10 26 2
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/joseph-beuys-worcester-worcester-city-art-gallery-2013-10-26-3.webp
-    title: joseph beuys worcester worcester city art gallery 2013 10 26 3
+  - src: ../../media/joseph-beuys-worcester-city-art-gallery-and-museum-2013-10-26-3.webp
+    title: joseph beuys worcester city art gallery and museum 2013 10 26 3
     alt: ""
     credits: ""
     caption: ""

@@ -1,5 +1,5 @@
 ---
-title: "Land, Sea, Sky: Ingrid Pollard, JMW Turner & Vija Celmins; Plymouth"
+title: "Land, Sea, Sky: Ingrid Pollard, JMW Turner & Vija Celmins, Plymouth"
 artists:
   - vija-celmins
 venue: the-box
@@ -41,7 +41,7 @@ images:
     copyright: "© "
 startdate: 2024-10-19
 enddate: 2025-01-12
-town: JMW Turner & Vija Celmins; Plymouth
+town: Plymouth
 url: https://www.theboxplymouth.com/
 ongoing: false
 priority: 0

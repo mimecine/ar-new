@@ -2,34 +2,34 @@
 title: Andy Warhol, Dunoon
 artists:
   - andy-warhol
-venue: dunoon-burgh-hall
+venue: burgh-hall
 images:
-  - src: ../../media/andy-warhol-dunoon-dunoon-burgh-hall-2017-06-10-0.webp
-    title: andy warhol dunoon dunoon burgh hall 2017 06 10 0
+  - src: ../../media/andy-warhol-dunoon-burgh-hall-2017-06-10-0.webp
+    title: andy warhol dunoon burgh hall 2017 06 10 0
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/andy-warhol-dunoon-dunoon-burgh-hall-2017-06-10-1.webp
-    title: andy warhol dunoon dunoon burgh hall 2017 06 10 1
+  - src: ../../media/andy-warhol-dunoon-burgh-hall-2017-06-10-1.webp
+    title: andy warhol dunoon burgh hall 2017 06 10 1
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/andy-warhol-dunoon-dunoon-burgh-hall-2017-06-10-2.webp
-    title: andy warhol dunoon dunoon burgh hall 2017 06 10 2
+  - src: ../../media/andy-warhol-dunoon-burgh-hall-2017-06-10-2.webp
+    title: andy warhol dunoon burgh hall 2017 06 10 2
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/andy-warhol-dunoon-dunoon-burgh-hall-2017-06-10-3.webp
-    title: andy warhol dunoon dunoon burgh hall 2017 06 10 3
+  - src: ../../media/andy-warhol-dunoon-burgh-hall-2017-06-10-3.webp
+    title: andy warhol dunoon burgh hall 2017 06 10 3
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/andy-warhol-dunoon-dunoon-burgh-hall-2017-06-10-4.webp
-    title: andy warhol dunoon dunoon burgh hall 2017 06 10 4
+  - src: ../../media/andy-warhol-dunoon-burgh-hall-2017-06-10-4.webp
+    title: andy warhol dunoon burgh hall 2017 06 10 4
     alt: ""
     credits: ""
     caption: ""

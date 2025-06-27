@@ -944,7 +944,7 @@ works:
       right): 250 x 378 mm support (upper): 398 x 279 mm"
     year: "1964"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00116-fr-filzplastik-1964.webp
   - inventorynumber: AR00120
@@ -978,7 +978,7 @@ works:
       (right); 363 x 233 mm"
     year: "1964"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00119-fr-braun-raum-1964.webp
   - inventorynumber: AR00118
@@ -989,7 +989,7 @@ works:
     info: 1964,  Graphite, ink and oil paint on paper,  236 x 195 mm
     year: "1964"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00118-tunnel-cathode-rays-felt-room-action-1964.webp
   - inventorynumber: AR00662
@@ -1000,7 +1000,7 @@ works:
     info: 1964,  Oil paint, gold paint, ink and graphite on paper,  295 x 208 mm
     year: "1964"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00662-untitled-1964.webp
   - inventorynumber: AR00663
@@ -1011,7 +1011,7 @@ works:
     info: 1964,  Graphite on cardboard,  568 x 208 mm
     year: "1964"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00663-aktrice-1964.webp
   - inventorynumber: AR00665
@@ -1022,7 +1022,7 @@ works:
     info: 1964-80,  Mixed media,  344 x 184 mm
     year: "1964"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00665-motor-4-1964-80.webp
   - inventorynumber: AR00664
@@ -1033,7 +1033,7 @@ works:
     info: 1964,  Oil paint, gouache and graphite on paper,  296 x 209 mm
     year: "1964"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00664-unter-spannung-1964.webp
   - inventorynumber: AR00666
@@ -1044,7 +1044,7 @@ works:
     info: 1964-82,  Household paint, shellac and sand on board,  333 x 366 mm
     year: "1964"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00666-naturgeschichte-1964-82.webp
   - inventorynumber: AR00121
@@ -1056,7 +1056,7 @@ works:
       259 mm support (right): 353 x 255 mm"
     year: "1965"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00121-houses-of-the-shaman-1965.webp
   - inventorynumber: AR00667
@@ -1067,7 +1067,7 @@ works:
     info: 1965,  Oil paint on paper,  608 x 527 mm
     year: "1965"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00667-sostanza-plastica-1965.webp
   - inventorynumber: AR00122
@@ -1078,7 +1078,7 @@ works:
     info: 1965,  Graphite on paper,  296 x 209 mm
     year: "1965"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00122-dwarf-self-portrait-1965.webp
   - inventorynumber: AR00668
@@ -1089,7 +1089,7 @@ works:
     info: 1965,  Graphite on paper,  254 x 256 mm
     year: "1965"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00668-intelligentia-1965.webp
   - inventorynumber: AR00669
@@ -1100,7 +1100,7 @@ works:
     info: 1965,  Paper on paper,  417 x 296 mm
     year: "1965"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00669-untitled-1965.webp
   - inventorynumber: AR00123
@@ -1111,7 +1111,7 @@ works:
     info: 1965,  Graphite and watercolour on paper,  297 x 208 mm
     year: "1965"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00123-granite-in-arid-chalk-1965.webp
   - inventorynumber: AR00670
@@ -1122,7 +1122,7 @@ works:
     info: 1965,  Oil paint and graphite on paper,  210 x 298 mm
     year: "1965"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00670-filz-aktion-fr-eine-aktrice-1965.webp
   - inventorynumber: AR00671
@@ -1133,7 +1133,7 @@ works:
     info: 1965,  Graphite and fat on paper,  209 x 297 mm
     year: "1965"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00671-untitled-1965.webp
   - inventorynumber: AR00124
@@ -1144,7 +1144,7 @@ works:
     info: 1966 , Paper and graphite on paper,  209 x 296 mm
     year: "1966"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00124-partitur-fr-manresa-1966.webp
   - inventorynumber: AR00672
@@ -1155,7 +1155,7 @@ works:
     info: 1966,  Graphite and oil paint on cardboard,  240 x 372 mm
     year: "1966"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00672-whale-trap-1966.webp
   - inventorynumber: AR00676
@@ -1166,7 +1166,7 @@ works:
     info: 1966,  Oil paint on paper,  1966  400 x 564 mm
     year: "1966"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00676-schmela-1966.webp
   - inventorynumber: AR00674
@@ -1178,7 +1178,7 @@ works:
       support (right): 297 x 212 mm"
     year: "1966"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00674-partitur-fr-sibirische-symphonie-1966.webp
   - inventorynumber: AR00675
@@ -1189,7 +1189,7 @@ works:
     info: 1966,  Fat, copper oxide and graphite on paper,  514 x 411 mm
     year: "1966"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00675-der-atem-1966.webp
   - inventorynumber: AR00673
@@ -1200,7 +1200,7 @@ works:
     info: 1966  Cardboard and string  447 x 311 mm
     year: "1966"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00673-object-for-manresa-1966.webp
   - inventorynumber: AR00678
@@ -1212,7 +1212,7 @@ works:
       plywood,  692 x 694 mm
     year: "1967"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00678-partitur-1967.webp
   - inventorynumber: AR00677
@@ -1223,7 +1223,7 @@ works:
     info: "1967,  Ink on paper,  support, each: 208 x 295 mm"
     year: "1967"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00677-deutsche-studentenpartei-1967.webp
   - inventorynumber: AR00679
@@ -1234,7 +1234,7 @@ works:
     info: 1968,  Oil paint and ink on paper,  264 x 200 mm
     year: "1968"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00679-for-fond-ii-1968.webp
   - inventorynumber: AL00202
@@ -1246,7 +1246,7 @@ works:
       207 mm
     year: "1969"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-al00202-walk-only-when-you-feel-your-walk-starts-revolution-1969.webp
   - inventorynumber: AR00680
@@ -1257,7 +1257,7 @@ works:
     info: 1969,  Ink, oil paint and stamp on lithograph on paper,  526 x 188 mm
     year: "1969"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00680-a-party-for-animals-1969.webp
   - inventorynumber: AR00681
@@ -1268,7 +1268,7 @@ works:
     info: 1971,  Graphite on paper,  214 x 268 mm
     year: "1971"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00681-young-blacksmith-with-his-work-1971.webp
   - inventorynumber: AR00682
@@ -1279,7 +1279,7 @@ works:
     info: 1972,  Leaves, ink and graphite on paper,  590 x 420 mm
     year: "1972"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00682-untitled-1972.webp
   - inventorynumber: AR00624
@@ -1290,7 +1290,7 @@ works:
     info: 1972,  Silkscreen, ink and stamp on paper,  1896 x 987 mm
     year: "1972"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00624-la-rivoluzione-siamo-noi-1972.webp
   - inventorynumber: AR00683
@@ -1301,7 +1301,7 @@ works:
     info: 1973,  Graphite on paper,  241 x 172 mm
     year: "1973"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00683-score-for-action-with-transmitter-felt-receiver-in-the-mountains-1973.webp
   - inventorynumber: AR00125
@@ -1312,7 +1312,7 @@ works:
     info: 1974,  Graphite on paper,  253 x 260 mm
     year: "1974"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00125-astral-chemical-goddess-1974.webp
   - inventorynumber: AR00126
@@ -1323,21 +1323,20 @@ works:
     info: 1974,  Oil paint on paper,  758 x 557 mm
     year: "1974"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00126-night-in-the-rafters-1974.webp
-  - inventorynumber: AR00684-0
+  - inventorynumber: AR00684
     node_id: 439
     category_id: 73
     category: Works on paper 1977 - 1985
     title: Untitled, 1984
     info: 1984,  Graphite and oil paint on paper,  208 x 148 mm
     year: "1984"
-    credit: |-
-      © DACS, 2014
+    credit: |+
+      © DACS 2025
 
-      AR00684
-    src: ../../media/joseph-beuys-ar00684-0-untitled-1984.webp
+    src: ../../media/joseph-beuys-ar00684-untitled-1984.webp
   - inventorynumber: AR00127
     node_id: 440
     category_id: 69
@@ -1347,7 +1346,7 @@ works:
       254 x 264 mm support (lower, each): 254 x 60 mm"
     year: "1975"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00127-the-woman-with-the-dog-1975.webp
   - inventorynumber: AR00128
@@ -1358,7 +1357,7 @@ works:
     info: 1976,  Ink, graphite and stamp on paper,  210 x 290 mm
     year: "1976"
     credit: |+
-      © Robert Therrien / DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00128-honey-is-flowing-in-all-directions-1976.webp
   - inventorynumber: AR00601
@@ -1369,7 +1368,7 @@ works:
     info: 1976,  Envelope and ink on papers,  408 x 248 mm
     year: "1976"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00601-sekretarstasche-1976.webp
   - inventorynumber: AR00685
@@ -1380,7 +1379,7 @@ works:
     info: 1977,  Graphite on paper,  214 x 134 mm
     year: "1977"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00685-electric-sphinx-1977.webp
   - inventorynumber: AR00093
@@ -1406,7 +1405,7 @@ works:
       support (right): 745 x 599 mm"
     year: "1977"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00129-the-shamans-two-bags-1977.webp
   - inventorynumber: AR00686
@@ -1417,7 +1416,7 @@ works:
     info: 1978-83,  Oil paint and ink on printed paper,  479 x 199 mm
     year: "1978"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00686-ausruf-1978-83.webp
   - inventorynumber: AR00687
@@ -1429,7 +1428,7 @@ works:
       mm support (lower): 322 x 547 mm"
     year: "1979"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00687-pyramidales-bild-1979.webp
   - inventorynumber: AR00688
@@ -1440,7 +1439,7 @@ works:
     info: 1980,  Collage, oil and graphite on paper,  535 x 500 mm
     year: "1980"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00688-kampf-1980.webp
   - inventorynumber: AR00090
@@ -1451,7 +1450,7 @@ works:
     info: 1981-5,  Graphite on paper,  210 x 296 mm
     year: "1981"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00090-drawing-for-domenica-delle-palme-vitrine-1981-5.webp
   - inventorynumber: AR00689
@@ -1462,7 +1461,7 @@ works:
     info: 1981,  Collage, crayon and ink on paper,  577 x 367 mm
     year: "1981"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00689-mit-filzplastik-1981.webp
   - inventorynumber: AL00197
@@ -1473,7 +1472,7 @@ works:
     info: 1982,  Graphite on paper, 16 parts,  124 x 80 mm
     year: "1982"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-al00197-to-mikis-theodorakis-1982.webp
   - inventorynumber: AR00690
@@ -1485,7 +1484,7 @@ works:
       102 mm"
     year: "1983"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00690-untitled-1983.webp
   - inventorynumber: AR00691
@@ -1496,7 +1495,7 @@ works:
     info: 1984,  Painted metal on card,  316 x 217 mm
     year: "1984"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00691-red-on-centre-1984.webp
   - inventorynumber: AR00692
@@ -1507,7 +1506,7 @@ works:
     info: 1984,  Painted metal on card,  370 x 274 mm
     year: "1984"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00692-yellow-on-centre-1984.webp
   - inventorynumber: AR00693
@@ -1518,7 +1517,7 @@ works:
     info: 1984,  Painted metal on card,  316 x 240 mm
     year: "1984"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00693-blue-on-centre-1984.webp
   - inventorynumber: AR00701
@@ -1529,7 +1528,7 @@ works:
     info: 1984,  4 works on paper, graphite and paper,  417 x 296 mm
     year: "1984"
     credit: |+
-      © DACS, 2014
+      © DACS 2025
 
     src: ../../media/joseph-beuys-ar00701-la-piantagione-1984.webp
 

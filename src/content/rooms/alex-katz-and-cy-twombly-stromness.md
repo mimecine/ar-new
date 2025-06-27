@@ -3,40 +3,40 @@ title: Alex Katz and Cy Twombly, Stromness
 artists:
   - alex-katz
   - cy-twombly
-venue: the-piers-art-centre
+venue: pier-arts-centre
 images:
-  - src: ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-0.webp
-    title: alex katz and cy twombly stromness the piers art centre 2011 03 26 0
+  - src: ../../media/alex-katz-and-cy-twombly-stromness-pier-arts-centre-2011-03-26-0.webp
+    title: alex katz and cy twombly stromness pier arts centre 2011 03 26 0
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-1.webp
-    title: alex katz and cy twombly stromness the piers art centre 2011 03 26 1
+  - src: ../../media/alex-katz-and-cy-twombly-stromness-pier-arts-centre-2011-03-26-1.webp
+    title: alex katz and cy twombly stromness pier arts centre 2011 03 26 1
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-2.webp
-    title: alex katz and cy twombly stromness the piers art centre 2011 03 26 2
+  - src: ../../media/alex-katz-and-cy-twombly-stromness-pier-arts-centre-2011-03-26-2.webp
+    title: alex katz and cy twombly stromness pier arts centre 2011 03 26 2
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-3.webp
-    title: alex katz and cy twombly stromness the piers art centre 2011 03 26 3
+  - src: ../../media/alex-katz-and-cy-twombly-stromness-pier-arts-centre-2011-03-26-3.webp
+    title: alex katz and cy twombly stromness pier arts centre 2011 03 26 3
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-4.webp
-    title: alex katz and cy twombly stromness the piers art centre 2011 03 26 4
+  - src: ../../media/alex-katz-and-cy-twombly-stromness-pier-arts-centre-2011-03-26-4.webp
+    title: alex katz and cy twombly stromness pier arts centre 2011 03 26 4
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/alex-katz-and-cy-twombly-stromness-the-piers-art-centre-2011-03-26-5.webp
-    title: alex katz and cy twombly stromness the piers art centre 2011 03 26 5
+  - src: ../../media/alex-katz-and-cy-twombly-stromness-pier-arts-centre-2011-03-26-5.webp
+    title: alex katz and cy twombly stromness pier arts centre 2011 03 26 5
     alt: ""
     credits: ""
     caption: ""

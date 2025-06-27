@@ -12,7 +12,8 @@ works:
       x 5.7 cm and  18.4 x 113 x 5.7 cm
     year: "1972"
     credit: >+
-      © Bruce Nauman
+      © Bruce Nauman / Artists Rights Society (ARS), New York and DACS, London
+      2025
 
 
       Froehlich Collection, Stuttgart. Exhibition copy courtesy of Artist Rooms
@@ -28,8 +29,8 @@ works:
       dimensions variable
     year: "1971"
     credit: >+
-      © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
-      London
+      © Bruce Nauman / Artists Rights Society (ARS), New York and DACS, London
+      2025
 
     src: ../../media/bruce-nauman-ar00044-changing-light-corridor-with-rooms-1971.webp
   - inventorynumber: AR00607
@@ -40,8 +41,8 @@ works:
     info: 1972,  Neon lights and glass,  619 x 584 x 51 mm
     year: "1972"
     credit: >+
-      © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
-      London
+      © Bruce Nauman / Artists Rights Society (ARS), New York and DACS, London
+      2025
 
     src: ../../media/bruce-nauman-ar00607-la-breaart-tipsrat-spittar-pits-1972.webp
   - inventorynumber: AR00180
@@ -52,8 +53,8 @@ works:
     info: "1975,  Steel, 36 parts, each: 102 x 356 x 356 mm"
     year: "1975"
     credit: >+
-      © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
-      London
+      © Bruce Nauman / Artists Rights Society (ARS), New York and DACS, London
+      2025
 
     src: ../../media/bruce-nauman-ar00180-enforced-perspective-allegory-and-symbolism-1975.webp
   - inventorynumber: A038279
@@ -64,7 +65,8 @@ works:
     info: Neon tubing with clear glass tubing suspension frames 229 x 229 x 37 cm
     year: "1983"
     credit: >+
-      © Bruce Nauman
+      © Bruce Nauman / Artists Rights Society (ARS), New York and DACS, London
+      2025
 
 
       Froehlich Collection, Stuttgart. Exhibition copy courtesy of Artist Rooms
@@ -79,7 +81,8 @@ works:
     info: 1985, Neon tubing mounted on aluminium monolith
     year: "1985"
     credit: >+
-      © Bruce Nauman
+      © Bruce Nauman / Artists Rights Society (ARS), New York and DACS, London
+      2025
 
 
       Froehlich Collection, Stuttgart. Exhibition copy courtesy of Artist Rooms
@@ -94,8 +97,8 @@ works:
     info: 1975,  Graphite on paper,  765 x 1016 mm
     year: "1975"
     credit: >+
-      © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
-      London
+      © Bruce Nauman / Artists Rights Society (ARS), New York and DACS, London
+      2025
 
     src: ../../media/bruce-nauman-ar00578-untitled-drawing-for-enforced-perspective-1975.webp
   - inventorynumber: AR00577
@@ -107,8 +110,8 @@ works:
       dimensions variable,  Duration: 30 min, 30 sec"
     year: "1986"
     credit: >+
-      © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
-      London
+      © Bruce Nauman / Artists Rights Society (ARS), New York and DACS, London
+      2025
 
     src: ../../media/bruce-nauman-ar00577-violent-incident-man-woman-segment-1986.webp
   - inventorynumber: AR00580
@@ -120,8 +123,8 @@ works:
       height)
     year: "1996"
     credit: >+
-      © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
-      London
+      © Bruce Nauman / Artists Rights Society (ARS), New York and DACS, London
+      2025
 
     src: ../../media/bruce-nauman-ar00580-untitled-hand-circle-1996.webp
   - inventorynumber: AR00579
@@ -135,8 +138,8 @@ works:
       min, 56 sec"
     year: "1996"
     credit: >+
-      © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
-      London
+      © Bruce Nauman / Artists Rights Society (ARS), New York and DACS, London
+      2025
 
     src: ../../media/bruce-nauman-ar00579-raw-material-washing-hands-normal-a-of-ab-raw-material-washing-hands-normal-b-of-ab-1996.webp
   - inventorynumber: AR00575
@@ -147,8 +150,8 @@ works:
     info: 1997,  Granite,  60 x 607 x 550 mm
     year: "1997"
     credit: >+
-      © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
-      London
+      © Bruce Nauman / Artists Rights Society (ARS), New York and DACS, London
+      2025
 
     src: ../../media/bruce-nauman-ar00575-partial-truth-1997.webp
   - inventorynumber: AR00576
@@ -159,8 +162,8 @@ works:
     info: "1999,  Video, monitor, colour and sound (stereo), Duration: 59min, 18sec"
     year: "1999"
     credit: >+
-      © 2014 Bruce Nauman / Artists Rights Society (ARS), New York and DACS,
-      London
+      © Bruce Nauman / Artists Rights Society (ARS), New York and DACS, London
+      2025
 
     src: ../../media/bruce-nauman-ar00576-setting-a-good-corner-allegory-and-metaphor-1999.webp
 

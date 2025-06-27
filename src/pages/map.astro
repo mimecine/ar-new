@@ -12,7 +12,9 @@ venues.sort((a, b) => {
 
 <Main title="Map">
   <div class="flex justify-center w-full h-full">
-    <div id="map" class="w-full max-w-(--breakpoint-2xl) h-full border border-gray-500">
+    <div
+      id="map"
+      class="w-full max-w-(--breakpoint-2xl) h-full  border border-gray-500">
     </div>
   </div>
   <link
@@ -28,9 +30,10 @@ venues.sort((a, b) => {
     is:inline
     src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"
   ></script>
+
   <script>
     var loadedHandler = async () => {
-      if (window._mapInititialized != null ) {
+      if (window._mapInititialized != null) {
         return;
       } else {
         window._mapInititialized = true;
@@ -51,7 +54,7 @@ venues.sort((a, b) => {
           return L.divIcon({
             html: markers.length,
             className: "mycluster",
-            iconSize: L.point(20, 20),
+            iconSize: L.point(25, 25),
           });
         },
         //Disable all of the defaults:
@@ -96,7 +99,9 @@ venues.sort((a, b) => {
           var marker = L.marker(lon_lat, { icon: lgIcon }).addTo(markers);
           let new_year = "";
           var room_string = venue.data.rooms
-            .sort((a, b) => new Date(a.date) - new Date(b.date))
+            .sort(
+              (a, b) => new Date(a.date).getTime() - new Date(b.date).getTime()
+            )
             .map((room) => {
               let year = room.date.slice(0, 4);
               if (new_year != year) {
@@ -108,8 +113,8 @@ venues.sort((a, b) => {
             })
             .join("; ");
           marker.bindPopup(`
-                    <h3 class="text-black font-(--font-family)!">${venue.data.title}</h3>
-                    <p class="text-lg!">${room_string}</p>
+                    <h3 class="xtext-black xfont-default pb-2">${venue.data.title}</h3>
+                    <p class="text-lg/6 ">${room_string}</p>
                     <p><a class="text-xs! !font-italic text-black! underline!" href="https://google.com/maps/search/?api=1&query=${venue.data.title}, ${venue.data.town}, UK" target="_map">${venue.data.address}</a></p>
                     `);
           marker.bindTooltip(venue.data.title); // too ugly!
@@ -118,6 +123,7 @@ venues.sort((a, b) => {
       });
 
       map.addLayer(markers);
+      console.log(`Bounds now: ${bounds.toBBoxString()}`);
       map.fitBounds(bounds);
     };
 
@@ -125,36 +131,119 @@ venues.sort((a, b) => {
     document.addEventListener("astro:page-load", loadedHandler);
   </script>
   <style is:inline>
-  /* @reference "../../styles/global.css"; */
+    /* @reference "../../styles/global.css"; */
     .leaflet-container {
       font-family: "Fredoka Variable", sans-serif;
+      cursor: var(--cursor-ar-default);
+    }
+
+    .leaflet-interactive {
+      cursor: var(--cursor-ar-pointer);
     }
     .leaflet-popup-content-wrapper {
       box-shadow: none !important;
       border: 1px solid #6b7280 !important;
       border-radius: 0 !important;
-      background-color: var(--main-background);
+      background-color: var(--color-main-background);
+      cursor: var(--cursor-ar-default);
     }
     .leaflet-popup-tip {
       border-bottom: 1px solid #6b7280;
       border-right: 1px solid #6b7280;
+      background-color: var(--color-main-background);
     }
 
+    /* Tooltip */
+    /* Base styles for the element that has a tooltip */
+    .leaflet-tooltip {
+      position: absolute;
+      padding: 6px;
+      background-color: var(--color-main-background);
+      border: 1px solid #6b7280;
+      border-radius: 0px;
+      color: #222;
+      white-space: nowrap;
+      user-select: none;
+      pointer-events: none;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+    }
+    .leaflet-tooltip.leaflet-interactive {
+      cursor: pointer;
+      pointer-events: auto;
+    }
+    .leaflet-tooltip-top:before,
+    .leaflet-tooltip-bottom:before,
+    .leaflet-tooltip-left:before,
+    .leaflet-tooltip-right:before {
+      position: absolute;
+      pointer-events: none;
+      border: 6px solid transparent;
+      background: transparent;
+      content: "";
+    }
+
+    /* Directions */
+
+    .leaflet-tooltip-bottom {
+      margin-top: 6px;
+    }
+    .leaflet-tooltip-top {
+      margin-top: -6px;
+    }
+    .leaflet-tooltip-bottom:before,
+    .leaflet-tooltip-top:before {
+      left: 50%;
+      margin-left: -6px;
+    }
+    .leaflet-tooltip-top:before {
+      bottom: 0;
+      margin-bottom: -12px;
+      border-top-color: #6b7280;
+    }
+    .leaflet-tooltip-bottom:before {
+      top: 0;
+      margin-top: -12px;
+      margin-left: -6px;
+      border-bottom-color: #6b7280;
+    }
+    .leaflet-tooltip-left {
+      margin-left: -6px;
+    }
+    .leaflet-tooltip-right {
+      margin-left: 6px;
+    }
+    .leaflet-tooltip-left:before,
+    .leaflet-tooltip-right:before {
+      top: 50%;
+      margin-top: -6px;
+    }
+    .leaflet-tooltip-left:before {
+      right: 0;
+      margin-right: -12px;
+      border-left-color: #6b7280;
+    }
+    .leaflet-tooltip-right:before {
+      left: 0;
+      margin-left: -12px;
+      border-right-color: #6b7280;
+    }
     .leaflet-bottom {
       z-index: 1;
     }
-    .leaflet-popup-content {
-    }
 
     .mycluster {
-      width: 20px;
-      height: 15px;
-      border: 2px solid #6b7280;
+      background-image: url("/map-point.svg");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      /* border: 2px solid #6b7280;
       border-radius: 100%;
-      background-color: var(--main-background);
+      background-color: var(--main-background); */
       color: white;
       text-align: center;
       font-size: 0.6rem;
+      display: grid;
+      place-items: center center;
     }
   </style>
 </Main>

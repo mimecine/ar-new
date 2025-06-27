@@ -11,12 +11,12 @@ const c = new Crawler({
   // This will be called for each crawled page
   callback: (error, res, done) => {
     if (error) {
-      console.log(error);
+      console.error(error);
     } else {
       const $ = res.$;
       // $ is Cheerio by default
       //a lean implementation of core jQuery designed specifically for the server
-      console.log($("title").text());
+      // console.log($("title").text());
     }
     done();
   },
@@ -28,14 +28,14 @@ c.queue([
     skipDuplicates: true,
     callback: (error, res, done) => {
       if (error) {
-        console.log(error);
+        console.error(error);
       } else {
         const $ = res.$;
         const baseUrl = new URL(res.options.uri);
         res.attrs = $("a[href]")
           .toArray()
           .map((el) => $(el).prop("href"));
-        console.log($("title").text());
+        // console.log($("title").text());
         $("a[href]")
           .toArray()
           .forEach(function (element) {
@@ -49,7 +49,7 @@ c.queue([
                 uri: nextUrl.href,
                 callback: (error, res, done) => {
                   if (error) {
-                    console.log(error);
+                    console.error(error);
                   } else {
                     const $ = res.$;
 
@@ -132,7 +132,7 @@ c.queue([
 ]);
 
 c.on("drain", () => {
-  if (pages.length) console.log("x", pages.length);
+  if (pages.length) console.info("Artists:", pages.length);
   if (pages.length)
     fs.writeFileSync(
       "./scripts/pages-artists.json",

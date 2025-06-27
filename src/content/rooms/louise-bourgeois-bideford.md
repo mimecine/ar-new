@@ -2,53 +2,46 @@
 title: Louise Bourgeois, Bideford
 artists:
   - louise-bourgeois
-venue: the-burton-at-bideford-art-gallery-and-museum
+venue: the-burton
 images:
-  - src: ../../media/louise-bourgeois-bideford-the-burton-at-bideford-art-gallery-and-museum-2023-11-23-0.webp
-    title: louise bourgeois bideford the burton at bideford art gallery and museum
-      2023 11 23 0
+  - src: ../../media/louise-bourgeois-bideford-the-burton-2023-11-23-0.webp
+    title: louise bourgeois bideford the burton 2023 11 23 0
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/louise-bourgeois-bideford-the-burton-at-bideford-art-gallery-and-museum-2023-11-23-1.webp
-    title: louise bourgeois bideford the burton at bideford art gallery and museum
-      2023 11 23 1
+  - src: ../../media/louise-bourgeois-bideford-the-burton-2023-11-23-1.webp
+    title: louise bourgeois bideford the burton 2023 11 23 1
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/louise-bourgeois-bideford-the-burton-at-bideford-art-gallery-and-museum-2023-11-23-2.webp
-    title: louise bourgeois bideford the burton at bideford art gallery and museum
-      2023 11 23 2
+  - src: ../../media/louise-bourgeois-bideford-the-burton-2023-11-23-2.webp
+    title: louise bourgeois bideford the burton 2023 11 23 2
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/louise-bourgeois-bideford-the-burton-at-bideford-art-gallery-and-museum-2023-11-23-3.webp
-    title: louise bourgeois bideford the burton at bideford art gallery and museum
-      2023 11 23 3
+  - src: ../../media/louise-bourgeois-bideford-the-burton-2023-11-23-3.webp
+    title: louise bourgeois bideford the burton 2023 11 23 3
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/louise-bourgeois-bideford-the-burton-at-bideford-art-gallery-and-museum-2023-11-23-4.webp
-    title: louise bourgeois bideford the burton at bideford art gallery and museum
-      2023 11 23 4
+  - src: ../../media/louise-bourgeois-bideford-the-burton-2023-11-23-4.webp
+    title: louise bourgeois bideford the burton 2023 11 23 4
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/louise-bourgeois-bideford-the-burton-at-bideford-art-gallery-and-museum-2023-11-23-5.webp
-    title: louise bourgeois bideford the burton at bideford art gallery and museum
-      2023 11 23 5
+  - src: ../../media/louise-bourgeois-bideford-the-burton-2023-11-23-5.webp
+    title: louise bourgeois bideford the burton 2023 11 23 5
     alt: ""
     credits: ""
     caption: ""
     copyright: "© "
-  - src: ../../media/louise-bourgeois-bideford-the-burton-at-bideford-art-gallery-and-museum-2023-11-23-6.webp
-    title: louise bourgeois bideford the burton at bideford art gallery and museum
-      2023 11 23 6
+  - src: ../../media/louise-bourgeois-bideford-the-burton-2023-11-23-6.webp
+    title: louise bourgeois bideford the burton 2023 11 23 6
     alt: ""
     credits: ""
     caption: ""

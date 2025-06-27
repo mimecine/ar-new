@@ -11,14 +11,13 @@ const c = new Crawler({
   // This will be called for each crawled page
   callback: (error, res, done) => {
     if (error) {
-      console.log(error);
+      console.error(error);
     } else {
       const $ = res.$;
       const baseUrl = new URL(res.options.uri);
       res.attrs = $("a[href]")
         .toArray()
         .map((el) => $(el).prop("href"));
-      console.log($("title").text());
       $("a[href]")
         .toArray()
         .forEach(function (element) {
@@ -33,7 +32,7 @@ const c = new Crawler({
               callback: parsePage,
             });
           } else {
-            console.log("x", nextUrl.href);
+            // console.log("x", nextUrl.href);
           }
         });
     }
@@ -50,7 +49,7 @@ c.queue([
 
 
 c.on("drain", () => {
-  if (pages.length) console.log("x", pages.length);
+  if (pages.length) console.info("Rooms:", pages.length);
   if (pages.length)
     fs.writeFileSync(
       "./scripts/pages-rooms.json",
@@ -64,7 +63,7 @@ c.on("drain", () => {
 
 const parsePage = (error, res, done) => {
   if (error) {
-    console.log(error);
+    console.error(error);
   } else {
     const $ = res.$;
 
@@ -78,8 +77,6 @@ const parsePage = (error, res, done) => {
     const map = $('.o-room__details__cta__map a').first().attr('href')
     const town = $('h1').first().text()?.split(/\s?,\s+/).pop();
     const artists = $('.o-room__links p a').map((i, el) => $(el).text()).toArray()
-
-    console.log(title)
 
     pages.push({
       title,
