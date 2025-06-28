@@ -1,68 +1,100 @@
 ---
 import Main from "@src/layouts/Main.astro";
 ---
+
 <Main title="Portfolio" x-data="{ open: false}">
-  <main data-pagefind-ignore class=" h-full">
+  <main data-pagefind-ignore class="h-full">
     <section class="h-full">
-      <template x-for="(work, index) in portfolio?.distinct('inventorynumber')" :key="index">
-        <div class="flex flex-wrap pb-12 w-full print:break-inside-avoid-page">
-          <img :src="work.image" alt="" class="work max-h-[8in] object-contain mx-auto">
-          <div class="w-full py-4">
+      <template
+        x-for="(work, index) in portfolio?.distinct('inventorynumber')"
+        :key="index">
+        <div
+          class="flex flex-wrap pb-12 print:pb-0 w-full print:break-inside-avoid-page">
+          <img
+            :src="work.image"
+            alt=""
+            class="work print:max-h-[8in] object-contain mx-auto"
+          />
+          <div
+            class="w-full py-4 **:selection:text-black"
+            x-data="{ notes: $persist('').as(work.inventorynumber) }">
             <p x-text="work.title" class="text-2xl font-bold"></p>
             <span class="font-bold" x-text="work.artist"></span>,
-            <span x-text="work.info"></span>, 
-            <span x-text="work.category"></span>, 
-            <span x-text="work.credit.replace(new RegExp(work.inventorynumber,'i'),'').trim()"></span>, 
+            <span x-text="work.info"></span>,
+            <span x-text="work.category"></span>,
+            <span
+              x-text="work.credit.replace(new RegExp(work.inventorynumber,'i'),'').trim()"
+            ></span>,
             <span x-text="work.inventorynumber" class="font-bold italic"></span>
-            <p class="print:hidden text-red-500 focus:font-bold"><button @click="delete portfolio.splice(index,1)">[ remove ]</button></p>
-            <div class="print:h-[1in] bg-gray-100 print:bg-inherit border print:border-none border-black p-2 focus-visible:outline-transparent! print:ring-0 ring-red-400" contenteditable>
+            <p class="print:hidden text-red-500 focus:font-bold">
+              <button @click="delete portfolio.splice(index,1)"
+                >[ remove ]</button
+              >
+            </p>
+            <textarea
+              rows="5"
+              x-model="notes"
+              placeholder="Add notes about this work"
+              class="text-sm italic bg-gray-100 print:bg-inherit border border-black print:border-none print:placeholder:opacity-0 resize-none p-2 focus-visible:outline-transparent! print:ring-0 ring-red-400">
+            </textarea>
           </div>
         </div>
       </template>
-      <div x-show="!portfolio.length" class="grid place-items-center w-full h-full italic">You have no works in your portfolio.</div>
+      <div
+        x-data="{ show: false }"
+        x-init="show = portfolio.length <= 0"
+        x-show="show"
+        class="grid place-items-center w-full h-full italic">
+        <p>
+          You have no works in your portfolio. Collect from an <a
+            href="/artists" class="text-red-500! underline">artist page</a
+          > to display here.
+        </p>
+      </div>
     </section>
   </main>
-</Main>
-<script is:inline>
-Array.prototype.distinct = function (key) {
-    let map = new Map();
-    let result = [];
-    for (let i = 0; i < this.length; i++) {
+  <script is:inline>
+    Array.prototype.distinct = function (key) {
+      let map = new Map();
+      let result = [];
+      for (let i = 0; i < this.length; i++) {
         if (!map.has(this[i][key])) {
-            map.set(this[i][key], true);    // set any value to Map
-            result.push(this[i]);
+          map.set(this[i][key], true); // set any value to Map
+          result.push(this[i]);
         }
-    }
-    return result;
-}
-</script>
-<style is:global>
-  @reference "@styles/global.css";
-  @media print {
-    @page {
-      size: A4;
-      margin-top: 2cm !important;
-      body { margin:20mm; xheight: 100%;}
-      @bottom-right {
-        content: "©" + new Date().getFullYear() + " ARTIST ROOMS FOUNDATION";
+      }
+      return result;
+    };
+  </script>
+  <style is:global>
+    @reference "@styles/global.css";
+    @media print {
+      @page {
+        /* size: A4; */
+        margin: 0.5in !important;
+        main {
+          margin: 0 20mm 20mm 20mm 20mm;
+          @apply border;
+        }
+        @bottom-right {
+          content: "©" + new Date() .getFullYear() + " ARTIST ROOMS FOUNDATION";
+        }
+      }
+      .print-only {
+        display: block;
+      }
+      .no-print {
+        display: none;
+      }
+      nav {
+        @apply bg-transparent border-b-1 !fixed top-5 max-h-20;
+      }
+      footer {
+        @apply bg-transparent border-t-1 !fixed bottom-5 max-h-10  w-full;
+      }
+      img.work {
+        padding-top: 10em !important;
       }
     }
-    .print-only {
-      display: block;
-    }
-    .no-print {
-      display: none;
-    }
-    nav {
-      @apply hidden bg-transparent border-b-0 !absolute top-5 max-h-20  ;
-    }
-    footer {
-      @apply hidden bg-transparent border-t-0 !relative bottom-5 max-h-20  w-full;
-    }
-    img.work {
-      padding-top: 10em !important;
-    }
-  }
-
-</style>
-    
+  </style>
+</Main>

@@ -244,7 +244,7 @@ hr {
 }
 
 ::selection {
-  @apply text-white;
+  @apply text-red-500 font-bold;
 }
 
 html {
